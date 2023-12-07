@@ -1,0 +1,13 @@
+MsgSender:
+  ros__parameters:
+    ~broker_ip_address: 192.168.10.165
+    # ~broker_ip_address: 192.168.10.237
+    ~broker_ip_route: 55008
+    ~mqtt_sub_topic_1: irbt/pos/to/230999/1
+    ~mqtt_sub_topic_2: irbt/pos/to/230999/1
+    ~mqtt_sub_topic_3: irbt/pos/to/230999/1
+    # ~mqtt_pub_topic: irbt/pos/cur/230999/1
+    ~mqtt_username: cornersdev
+    ~mqtt_password: '1234'
+    # ~mqtt_username: vision
+    # ~mqtt_password: vision!@123
