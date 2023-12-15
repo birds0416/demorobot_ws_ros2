@@ -1,0 +1,5 @@
+int32 device_num
+---
+int32[] device_list
+---
+int32[] device_list_feedback
