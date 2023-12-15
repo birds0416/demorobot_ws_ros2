@@ -24,7 +24,6 @@ class MsgSender(Node):
 
         self.broker_address = self.get_parameter("~broker_ip_address").get_parameter_value().string_value
         # self.broker_route = self.get_parameter("~broker_ip_route").get_parameter_value().integer_value
-        # self.MQTT_PUB_TOPIC = self.get_parameter("~mqtt_pub_topic").get_parameter_value().string_value
         self.MQTT_SUB_TOPIC_1 = self.get_parameter("~mqtt_sub_topic_1").get_parameter_value().string_value
         self.MQTT_SUB_TOPIC_2 = self.get_parameter("~mqtt_sub_topic_2").get_parameter_value().string_value
         # self.MQTT_SUB_TOPIC_3 = self.get_parameter("~mqtt_sub_topic_3").get_parameter_value().string_value
@@ -34,7 +33,7 @@ class MsgSender(Node):
         try:
 
             # mqtt settings
-            self.mqttclient = mqtt.Client("robot_server_msg_receiver")
+            self.mqttclient = mqtt.Client("robot_server_msg_sender")
             self.mqttclient.on_message = self.on_message
             self.mqttclient.username_pw_set(self.MQTT_USERNAME, self.MQTT_PASSWORD)
 
@@ -53,7 +52,6 @@ class MsgSender(Node):
             self.get_logger().info('ROS2 MQTT Broker:: START...')
             self.get_logger().info('ROS2 MQTT Broker:: broker_address = {}'.format(self.broker_address))
             # self.get_logger().info('ROS2 MQTT Broker:: broker_address = {}:{}'.format(self.broker_address, self.broker_route))
-            # self.get_logger().info('ROS2 MQTT Broker:: MQTT_PUB_TOPIC = {}'.format(self.MQTT_PUB_TOPIC))
             self.get_logger().info('ROS2 MQTT Broker:: MQTT_SUB_TOPIC_1 = {}'.format(self.MQTT_SUB_TOPIC_1))
             self.get_logger().info('ROS2 MQTT Broker:: MQTT_SUB_TOPIC_2 = {}'.format(self.MQTT_SUB_TOPIC_2))
             # self.get_logger().info('ROS2 MQTT Broker:: MQTT_SUB_TOPIC_3 = {}'.format(self.MQTT_SUB_TOPIC_3))
