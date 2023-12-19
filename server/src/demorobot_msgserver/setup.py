@@ -26,7 +26,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'msg_sender = demorobot_msgserver.msg_sender:main'
+            'msg_sender = demorobot_msgserver.msg_sender:main',
+            'action_server = demorobot_msgserver.ns_action_server:main'
         ],
     },
 )

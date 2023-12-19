@@ -25,6 +25,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BatteryStat.msg"
   "msg/MapInfo.msg"
+  "msg/Detect.msg"
   DEPENDENCIES std_msgs
 )
 

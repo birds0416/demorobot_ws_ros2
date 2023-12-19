@@ -5,7 +5,7 @@ import rclpy
 from rclpy.node import Node
 from rclpy.action import ActionServer
 
-from std_msgs.msg import Int8, Int8MultiArray
+from std_msgs.msg import Int32, Int32MultiArray
 from demorobot_action_interfaces.action import RobotNamespace
 
 class NamespaceActionServer(Node):
@@ -14,13 +14,13 @@ class NamespaceActionServer(Node):
         self._action_server = ActionServer(
             self,
             RobotNamespace,
-            'robotnamespace',
+            'robot_namespace',
             self.execute_callback
         )
 
         self.device_list = []
-        self.pub_device_list = self.create_publisher(Int8MultiArray, '/current_device_nums', 10)
-        self.device_list_msg = Int8MultiArray()
+        self.pub_device_list = self.create_publisher(Int32MultiArray, '/current_device_nums', 10)
+        self.device_list_msg = Int32MultiArray()
 
     def execute_callback(self, goal_handle):
         self.get_logger().info('Executing goal...')
@@ -34,18 +34,13 @@ class NamespaceActionServer(Node):
 
         for device_num in self.device_list:
             temp_device_list.append(device_num)
-
-            # for publishing as topic
-            # temp = Int8()
-            # temp.data = device_num
-            # self.device_list_msg.data.insert(temp, Int8)
         
         goal_handle.succeed()
 
         result = RobotNamespace.Result()
         result.device_list = temp_device_list
-        # self.device_list_msg.data = result.device_list
-        # self.pub_device_list.publish(self.device_list_msg)
+        self.device_list_msg.data = result.device_list
+        self.pub_device_list.publish(self.device_list_msg)
         return result
 
 def main(args=None):
