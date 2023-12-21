@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'media_receiver = demorobot_mediaserver.media_receiver.main'
         ],
     },
 )
