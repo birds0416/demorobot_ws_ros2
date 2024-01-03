@@ -22,6 +22,14 @@ class NamespaceActionServer(Node):
         self.pub_device_list = self.create_publisher(Int32MultiArray, '/current_device_nums', 10)
         self.device_list_msg = Int32MultiArray()
 
+        timer_period = 1
+        self.timer = self.create_timer(timer_period, self._callback)
+
+    def _callback(self):
+        # self.get_logger().info('Publishing current device nums....')
+        # self.get_logger().info('Current Device list: {}'.format(self.device_list))
+        self.pub_device_list.publish(self.device_list_msg)
+
     def execute_callback(self, goal_handle):
         self.get_logger().info('Executing goal...')
 
@@ -40,7 +48,6 @@ class NamespaceActionServer(Node):
         result = RobotNamespace.Result()
         result.device_list = temp_device_list
         self.device_list_msg.data = result.device_list
-        self.pub_device_list.publish(self.device_list_msg)
         return result
 
 def main(args=None):
