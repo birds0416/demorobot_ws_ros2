@@ -1,3 +1,3 @@
-float64[] data
-float64[] box
+float32[] data
+int32[] box
 bool fall

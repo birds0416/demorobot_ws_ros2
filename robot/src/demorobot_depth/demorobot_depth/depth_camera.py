@@ -2,7 +2,10 @@ import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import PointCloud2, Image
 from std_msgs.msg import Float32
+from demorobot_msg.msg import Detect
+
 from cv_bridge import CvBridge
+import math
 
 class DepthCamera(Node):
     def __init__(self):
@@ -12,10 +15,12 @@ class DepthCamera(Node):
         self.get_logger().info("Namespace: {}".format(self.NAMESPACE))
 
         self.sub_depth_img = self.create_subscription(Image, self.NAMESPACE + '/camera/depth/image_raw', self.depth_image_callback, 10)
+        self.sub_detect_box = self.create_subscription(Detect, self.NAMESPACE + '/pose_detect/detect_points', self.detect_points_callback, 10)
         # self.sub_depth_points = self.create_subscription(PointCloud2, self.NAMESPACE + '/camera/depth/points', self.depth_points_callback, 10)
 
-        self.pub_center_d = self.create_publisher(Float32, self.NAMESPACE + '/camera/depth/center_distance', 10)
-        self.center_d = Float32()
+        self.pub_center_d = self.create_publisher(Float32, self.NAMESPACE + '/pose_detect/depth/center_distance', 10)
+        self.pub_box_d = self.create_publisher(Float32, self.NAMESPACE + '/pose_detect/depth/box_distance', 10)
+        self.img_values = []
 
         self.bridge = CvBridge()
     
@@ -26,19 +31,36 @@ class DepthCamera(Node):
         ''' Version 3'''
         cv_img = self.bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
         h, w = cv_img.shape
-        img = []
         for j in range(h):
             temp = []
             for i in range(w):
                 temp.append(str(cv_img[j, i]))
-            img.append(temp)
-        center = float(img[240][320]) / 1000
-        self.center_d.data = center
-        self.pub_center_d.publish(self.center_d)
+            self.img_values.append(temp)
+        center = float(self.img_values[240][320]) / 1000
+        center_d = Float32()
+        center_d.data = center
+        self.pub_center_d.publish(center_d)
         # self.get_logger().info("Center value : {} m".format(self.center_d.data))
 
-    def depth_points_callback(self, msg):
-        pass
+    def detect_points_callback(self, msg):
+        detect_box = msg.box
+        distance = self.cal_distance(detect_box)
+        # self.get_logger().info("Distance to Box: {}".format(distance))
+        
+        box_d = Float32()
+        box_d.data = distance
+        self.pub_box_d.publish(box_d)
+
+    def cal_distance(self, box):
+        box_mid_x = int((box[0] + box[2]) / 2)
+        box_mid_y = int((box[1] + box[3]) / 2)
+
+        # unit = meter
+        d_raw = float(self.img_values[box_mid_y][box_mid_x]) / 1000
+        d_hor = float(self.img_values[240][box_mid_x]) / 1000
+
+        # unit = meter
+        return d_hor
 
 def main(args=None):
     rclpy.init(args=args)

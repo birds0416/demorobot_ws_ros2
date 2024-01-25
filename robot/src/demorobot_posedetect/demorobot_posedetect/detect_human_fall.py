@@ -15,7 +15,7 @@ from rclpy.node import Node
 from rclpy.parameter import Parameter
 from rclpy.qos import QoSProfile
 from sensor_msgs.msg import Image
-from std_msgs.msg import String, Float64MultiArray
+from std_msgs.msg import String, Float32
 from demorobot_msg.msg import Detect
 
 bridge = CvBridge()
@@ -54,21 +54,59 @@ class ImageSubscriber(Node):
         self.img_h = data.height
         # cv2.imshow('img', self.image)
         # cv2.waitKey(5)
+
+class TempDepthSubscriber(Node):
+    def __init__(self):
+        super().__init__("temp_depth_subscriber")
+        self.NAMESPACE = self.get_namespace()
+        self.get_logger().info("Namespace: {}".format(self.NAMESPACE))
+
+        self.sub_depth_img = self.create_subscription(Image, self.NAMESPACE + '/camera/depth/image_raw', self.depth_image_callback, 10)
+        self.img_values = []
+
+    def depth_image_callback(self, msg):
+        # Version 1 -> get center pixel value
+        depths = msg.data
+
+        ''' Version 3'''
+        cv_img = bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
+        h, w = cv_img.shape
+        for j in range(h):
+            temp = []
+            for i in range(w):
+                temp.append(str(cv_img[j, i]))
+            self.img_values.append(temp)
+
+class DetectDistSubscriber(Node):
+    def __init__(self):
+        super().__init__('detect_dist')
+        self.NAMESPACE = self.get_namespace()
+        self.box_d = 0
+        self.sub_detect_dist = self.create_subscription(Float32, self.NAMESPACE + '/pose_detect/depth/box_distance', self._callback, 10)
+
+    def _callback(self, msg):
+        self.box_d = msg.data
         
 class EmptyNode(Node):
     def __init__(self):
         super().__init__('empty_node')
 
-
 def main(args=None):
     rclpy.init(args=args)
     event_node = EventPublisher()
-    evt_msg = String()  
+    evt_msg = String()
+
+    namespace = event_node.NAMESPACE
 
     detect_node = DetectPublisher()
     detect_msg = Detect()
 
     img_node = ImageSubscriber()
+
+    detect_dist_node = DetectDistSubscriber()
+
+    temp_depth_node = TempDepthSubscriber()
+    img_val = temp_depth_node.img_values
     
     empty_node = EmptyNode()
 
@@ -76,6 +114,8 @@ def main(args=None):
     img_saver_node = rclpy.create_node('img_saver_node')
     pub_img_saver = img_saver_node.create_publisher(Image, 'save_img', 10)
     pub_img_empty_saver = img_saver_node.create_publisher(Image, 'save_img_empty', 10)
+
+    # Detect Box Distance subscriber
 
     #log file 설정
     logging.basicConfig(filename="./log_file_n.txt", level=logging.DEBUG, 
@@ -180,8 +220,6 @@ def main(args=None):
                 continue    
 
         return False  
-
-    	  
     
     while True: # 프레임 단위로 반복.
         if cam_mode == 0:
@@ -194,7 +232,6 @@ def main(args=None):
 
         w = img_node.img_w
         h = img_node.img_h
-        empty_node.get_logger().info("cap dimension - width: {}, height: {}".format(w, h))
 
         # for publish image as jpg
         frame_copy = frame.copy()
@@ -232,7 +269,15 @@ def main(args=None):
                     box_x = int(pred_box_xyxy[0][0])
                     box_y = int(pred_box_xyxy[0][1])
                     box_xx = int(pred_box_xyxy[0][2])
-                    box_yy = int(pred_box_xyxy[0][3])   
+                    box_yy = int(pred_box_xyxy[0][3])
+
+                    detect_msg.box = [box_x, box_y, box_xx, box_yy]
+
+                    keypoint_datas = result.keypoints.xy.numpy()[0]
+                    detect_msg.data = []
+                    for data in keypoint_datas:
+                        detect_msg.data.append(data[0])
+                        detect_msg.data.append(data[1])
 
                     # 디텍션 박스의 가로세로 비율과 머리, 발 위치를 같이 사용해 넘어짐 감지
                     # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
@@ -249,6 +294,21 @@ def main(args=None):
                         cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),green_color,2) 
                     
                     detect_node.detect_pub.publish(detect_msg)
+                    empty_node.get_logger().info("Here1")
+
+                    box_mid_x = int((detect_msg.box[0] + detect_msg.box[2]) / 2)
+                    box_mid_y = int((detect_msg.box[1] + detect_msg.box[3]) / 2)
+
+                    distance = float(img_val[240][box_mid_x]) / 1000
+                    empty_node.get_logger().info("Here2")
+                    
+                    box_dist = round(distance, 2)
+                    empty_node.get_logger().info("Here3")
+
+                    dist_text = str(box_dist) + 'm'
+
+                    cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 153, 255), 2)
+                    cv2.circle(annotated_frame, (box_mid_x, box_mid_y), radius=0, color=(0, 0, 255), thickness=1)
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   
@@ -324,6 +384,7 @@ def main(args=None):
                 if not event_timer == 0 and (time.time() - event_timer) >= event_time: #event_timer 가 event_time 만큼 되었을 경우 fall_timer 초기화
                     fall_timer = 0
                     event_timer = 0 
+                
                 
                 if mode == 0:
                     continue
