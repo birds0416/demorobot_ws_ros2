@@ -14,20 +14,20 @@ def generate_launch_description():
 
     _ns = LaunchConfiguration('_ns', default='device00')
 
-    # _ns_launch_arg = DeclareLaunchArgument(
-    #     '_ns',
-    #     default_value='device00'
-    # )
-
     return LaunchDescription({
 
         GroupAction(
             actions=[
                 PushRosNamespace(_ns),
-                IncludeLaunchDescription(
-                    XMLLaunchDescriptionSource(
-                        os.path.join(get_package_share_directory('astra_camera'), 'launch/astro_pro_plus.launch.xml')
-                    )
+                Node(
+                    package=package_name,
+                    executable='depth_camera',
+                    emulate_tty=True,
+                    parameters=[
+                        {"use_sim_time": True},
+                        {"is_stamped": True},
+                        {"namespace": _ns}
+                    ]
                 )
             ]
         )

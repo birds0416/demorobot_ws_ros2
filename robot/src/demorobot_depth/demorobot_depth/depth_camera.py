@@ -18,8 +18,8 @@ class DepthCamera(Node):
         self.sub_detect_box = self.create_subscription(Detect, self.NAMESPACE + '/pose_detect/detect_points', self.detect_points_callback, 10)
         # self.sub_depth_points = self.create_subscription(PointCloud2, self.NAMESPACE + '/camera/depth/points', self.depth_points_callback, 10)
 
-        self.pub_center_d = self.create_publisher(Float32, self.NAMESPACE + '/pose_detect/depth/center_distance', 10)
-        self.pub_box_d = self.create_publisher(Float32, self.NAMESPACE + '/pose_detect/depth/box_distance', 10)
+        self.pub_center_d = self.create_publisher(Float32, self.NAMESPACE + '/depth/center_distance', 10)
+        self.pub_box_d = self.create_publisher(Float32, self.NAMESPACE + '/depth/box_distance', 10)
         self.img_values = []
 
         self.bridge = CvBridge()
@@ -40,12 +40,11 @@ class DepthCamera(Node):
         center_d = Float32()
         center_d.data = center
         self.pub_center_d.publish(center_d)
-        # self.get_logger().info("Center value : {} m".format(self.center_d.data))
+        self.get_logger().info("Center value : {} m".format(self.center_d.data))
 
     def detect_points_callback(self, msg):
         detect_box = msg.box
         distance = self.cal_distance(detect_box)
-        # self.get_logger().info("Distance to Box: {}".format(distance))
         
         box_d = Float32()
         box_d.data = distance
