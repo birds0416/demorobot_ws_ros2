@@ -5,6 +5,8 @@ from std_msgs.msg import Float32
 from demorobot_msg.msg import Detect
 
 from cv_bridge import CvBridge
+import datetime
+import numpy as np
 import math
 
 class DepthCamera(Node):
@@ -31,16 +33,14 @@ class DepthCamera(Node):
         ''' Version 3'''
         cv_img = self.bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
         h, w = cv_img.shape
-        for j in range(h):
-            temp = []
-            for i in range(w):
-                temp.append(str(cv_img[j, i]))
-            self.img_values.append(temp)
-        center = float(self.img_values[240][320]) / 1000
-        center_d = Float32()
-        center_d.data = center
-        self.pub_center_d.publish(center_d)
-        self.get_logger().info("Center value : {} m".format(self.center_d.data))
+        self.img_values = np.zeros((h, w), dtype=np.uint16)
+        self.img_values = cv_img.astype(np.uint16)
+
+        # depth_pix = self.img_values
+
+        # now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        # distances = open("./src/demorobot_depth/distances/{}_distances.txt".format(now), 'w')
+        # distances.write(now + ":\n")
 
     def detect_points_callback(self, msg):
         detect_box = msg.box

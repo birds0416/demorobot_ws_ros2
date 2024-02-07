@@ -7,6 +7,7 @@ import logging
 from cv_bridge import CvBridge
 import numpy as np
 import torch
+import datetime
 
 #ros message setting
 import rclpy
@@ -44,6 +45,7 @@ class ImageSubscriber(Node):
             qos
         )
         self.image = np.empty(shape=[1])
+        self.depth_img = np.empty(shape=[1])
         self.img_w = 0
         self.img_h = 0
         
@@ -52,30 +54,37 @@ class ImageSubscriber(Node):
             Image,
             self.NAMESPACE + '/camera/depth/image_raw', 
             self.depth_image_callback, 
-            10
+            qos
         )
 
     def image_callback(self, data):
         self.image = bridge.imgmsg_to_cv2(data, 'bgr8')
         self.img_w = data.width
         self.img_h = data.height
-        # cv2.imshow('img', self.image)
-        # cv2.waitKey(5)
     
     def depth_image_callback(self, msg):
         ''' Version 3'''
         cv_img = bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
         h, w = cv_img.shape
-        for j in range(h):
-            temp = []
-            for i in range(w):
-                temp.append(str(cv_img[j, i]))
-            self.img_values.append(temp)
+        self.depth_img = cv_img
+        self.img_values = np.zeros((h, w), dtype=np.uint16)
+        self.img_values = cv_img.astype(np.uint16)
+        # for j in range(h):
+        #     temp = []
+        #     for i in range(w):
+        #         temp.append(str(cv_img[j, i]))
+        #     self.img_values.append(temp)
 
 class EmptyNode(Node):
     def __init__(self):
         super().__init__('empty_node')
 
+def non_zero_cnt(nums_x, nums_y):
+    res = sum(1 for num in nums_x if num != 0)
+    for i in range(len(nums_x)):
+        if nums_x[i] == 0 and nums_y[i] == 0:
+            res += 1
+    return res
 
 def main(args=None):
     rclpy.init(args=args)
@@ -198,7 +207,10 @@ def main(args=None):
 
         return False  
 
-    	  
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
+    distance_f = open("./src/demorobot_posedetect/logs/{}_keypoint_distance.txt".format(now), 'w+')
+    # distance_f = open("./src/demorobot_posedetect/distances/{}_distance.txt".format(now), 'w+')
+
     while True: # 프레임 단위로 반복.
 
         if cam_mode == 0:
@@ -209,11 +221,12 @@ def main(args=None):
             frame = img_node.image
             tf = True
 
-        w = img_node.img_w
-        h = img_node.img_h
+        # w = img_node.img_w
+        # h = img_node.img_h
 
         # Depth 이미지 처리
         depth_pix = img_node.img_values
+        depth_frame = img_node.depth_img
 
         # for publish image as jpg
         frame_copy = frame.copy()
@@ -238,9 +251,9 @@ def main(args=None):
                 #감지 된 각 객체들을 분석
                 for result in results:
                     #감지 정확도 낮을 시 건너뛰는 로직 필요
-                    # score = float(result.boxes.conf[0])
-                    # if score < 0.5:
-                    #     continue  
+                    score = float(result.boxes.conf[0])
+                    if score < 0.75:
+                        continue  
 
                     #감지된 box 값 저장
                     pred_box_xywh = result.boxes.xywh.numpy()
@@ -260,7 +273,7 @@ def main(args=None):
                     detect_msg.data = []
                     for data in keypoint_datas:
                         detect_msg.data.append(data[0])
-                        detect_msg.data.append(data[1])   
+                        detect_msg.data.append(data[1]) 
 
                     # 디텍션 박스의 가로세로 비율과 머리, 발 위치를 같이 사용해 넘어짐 감지
                     # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
@@ -276,26 +289,192 @@ def main(args=None):
                         cv2.putText(annotated_frame, "Person", (box_x-5,box_y-5),0,1,green_color,2)
                         cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),green_color,2) 
                     
-                    box_x_mod = int(box_x * (480 / 384))
-                    box_xx_mod = int(box_xx * (480 / 384))
-                    box_y_mod = int(box_y * (480 / 384))
-                    box_yy_mod = int(box_yy * (480 / 384))
+                    #region 계산 1
+                    # 좌표 비율 계산 (yolo: 640x384)
+                    # box_x_mod = int(box_x * (480 / 384))
+                    # box_xx_mod = int(box_xx * (480 / 384))
+                    # box_y_mod = int(box_y * (480 / 384))
+                    # box_yy_mod = int(box_yy * (480 / 384))
                     
+                    # box_mid_x = int((box_x_mod + box_xx_mod) / 2)
+                    # box_mid_y = int((box_y_mod + box_yy_mod) / 2)
+                    #endregion 계산 1
+
+                    #region 계산 2
                     box_mid_x = int((box_x + box_xx) / 2)
                     box_mid_y = int((box_y + box_yy) / 2)
 
-                    # box_mid_x = int((box_x_mod + box_xx_mod) / 2)
-                    # box_mid_y = int((box_y_mod + box_yy_mod) / 2)
-
-                    distance = float(depth_pix[240][box_mid_x]) / 1000
+                    # distance = float(depth_pix[240][box_mid_x]) / 1000
+                    # empty_node.get_logger().info("This is Distance: {}m".format(distance))
                     
-                    box_dist = round(distance, 2)
+                    # box_dist = round(distance, 2)
 
-                    dist_text = str(box_dist) + 'm'
+                    # dist_text = str(box_dist) + 'm'
 
-                    cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 2)
-                    cv2.circle(annotated_frame, (box_mid_x, box_mid_y), radius=0, color=(0, 0, 255), thickness=1)
+                    # cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    # cv2.circle(annotated_frame, (box_mid_x, box_mid_y), radius=0, color=(0, 0, 255), thickness=1)
+                    #endregion 계산 2
                     
+                    #region 계산 3
+                    # # 어깨 2 pnts
+                    # # idx 5, 6 average
+                    # idx_5_x = keypoint_datas[5][0]
+                    # idx_5_y = keypoint_datas[5][1]
+                    # idx_6_x = keypoint_datas[6][0]
+                    # idx_6_y = keypoint_datas[6][1]
+                    # # x_avg_sho = int((idx_5_x + idx_6_x) / 2)
+
+                    # # 골반 2 pnts
+                    # # idx 11, 12 average
+                    # idx_11_x = keypoint_datas[11][0]
+                    # idx_11_y = keypoint_datas[11][1]
+                    # idx_12_x = keypoint_datas[12][0]
+                    # idx_12_y = keypoint_datas[12][1]
+                    # # x_avg_hip = int((idx_11_x + idx_12_x) / 2)
+
+                    # # 무릎 2 pnts
+                    # # idx 13, 14 average
+                    # idx_13_x = keypoint_datas[13][0]
+                    # idx_13_y = keypoint_datas[13][1]
+                    # idx_14_x = keypoint_datas[14][0]
+                    # idx_14_y = keypoint_datas[14][1]
+                    # # x_avg_kne = int((idx_13_x + idx_14_x) / 2)
+
+                    # # 발 2 pnts
+                    # # idx 13, 14 average
+                    # idx_15_x = keypoint_datas[15][0]
+                    # idx_15_y = keypoint_datas[15][1]
+                    # idx_16_x = keypoint_datas[16][0]
+                    # idx_16_y = keypoint_datas[16][1]
+                    # # x_avg_ank = int((idx_15_x + idx_16_x) / 2)
+
+                    # x_list = [idx_5_x, idx_6_x, idx_11_x, idx_12_x, idx_13_x, idx_14_x, idx_15_x, idx_16_x]
+                    # y_list = [idx_5_y, idx_6_y, idx_11_y, idx_12_y, idx_13_y, idx_14_y, idx_15_y, idx_16_y]
+
+                    # non_zero = non_zero_cnt(x_list, y_list)
+
+                    # x_avg = 0
+                    # if non_zero > 0:
+                    #     x_avg = int(sum(x_list) / non_zero)
+                    # else:
+                    #     x_avg = 0
+                    #endregion 계산 3
+
+                    #region 계산 4
+                    # x_sum = 0
+                    # x_avg = 0
+                    # cnt = 0
+                    # distance_f.write(now + " - idx " + str(box_idx) + ":\n")
+                    # distance_f.write("[\n")
+                    # for data in keypoint_datas:
+                    #     if data[0] != 0 or data[1] != 0:
+                    #         x_sum += data[0]
+                    #         distance_f.write("\t"+ str(data[0]) + ", ")
+                    #         # x_sum += data[0] * (480 / 384)
+                    #         cnt += 1
+                    # distance_f.write("\n]\n")
+                    # if cnt != 0:
+                    #     x_avg = int(x_sum / cnt)
+                    #     distance_f.write("cnt: " + str(cnt) + " / x_avg = " + str(x_avg) + "\n")
+
+                    #     distance = float(depth_pix[240][x_avg]) / 1000
+                    #     if distance != 0.0:
+                    #         distance_f.write("distance " + str(distance) + "m\n\n")
+                    #         distance_f.flush()
+
+                    #         box_dist = round(distance, 2)
+                    #         dist_text = str(box_dist) + 'm'
+                    #         cv2.putText(annotated_frame, "idx: " + str(box_idx), (box_mid_x + 10, box_mid_y - 30), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 255), 1)
+                    #         cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    #endregion 계산 4
+
+                    #region 계산 5
+                    temp_depths = []
+                    now2 = datetime.datetime.now().strftime("%H-%M-%S")
+                    distance_f.write(now2 + ":\n")
+                    empty_node.get_logger().info("Time: {}".format(now2))
+                    for idx, data in enumerate(keypoint_datas):
+                        depth_val = depth_pix[int(data[1])][int(data[0])]
+                        distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
+                        distance_f.write("\t" + str(depth_val / 1000) + "m\n")
+                        if depth_val != 0:
+                            dist = depth_val / 1000
+                            temp_depths.append(dist)
+                            
+                            #region print each joint
+                            # if idx == 0 :
+                            #     distance_f.write("0  - nose: " + str(dist) + "m\n")
+                            # if idx == 1:
+                            #     distance_f.write("1  - Left-eye: " + str(dist) + "m\n")
+                            # if idx == 2:
+                            #     distance_f.write("2  - Right-eye: " + str(dist) + "m\n")
+                            # if idx == 3:
+                            #     distance_f.write("3  - Left-ear: " + str(dist) + "m\n")
+                            # if idx == 4:
+                            #     distance_f.write("4  - Right-ear: " + str(dist) + "m\n")
+                            # if idx == 5:
+                            #     distance_f.write("5  - Left-Shoulder: " + str(dist) + "m\n")
+                            # if idx == 6:
+                            #     distance_f.write("6  - Right-Shoulder: " + str(dist) + "m\n")
+                            # if idx == 7:
+                            #     distance_f.write("7  - Left-elbow: " + str(dist) + "m\n")
+                            # if idx == 8:
+                            #     distance_f.write("8  - Right-elbow: " + str(dist) + "m\n")
+                            # if idx == 9:
+                            #     distance_f.write("9  - Left-wrist: " + str(dist) + "m\n")
+                            # if idx == 10:
+                            #     distance_f.write("10 - Right-wrist: " + str(dist) + "m\n")
+                            # if idx == 11:
+                            #     distance_f.write("11 - Left-hip: " + str(dist) + "m\n")
+                            # if idx == 12:
+                            #     distance_f.write("12 - Right-hip: " + str(dist) + "m\n")
+                            # if idx == 13:
+                            #     distance_f.write("13 - Left-knee: " + str(dist) + "m\n")
+                            # if idx == 14:
+                            #     distance_f.write("14 - Right-knee: " + str(dist) + "m\n")
+                            # if idx == 15:
+                            #     distance_f.write("15 - Left-ankle: " + str(dist) + "m\n")
+                            # if idx == 16:
+                            #     distance_f.write("16 - Right-ankle: " + str(dist) + "m\n\n")
+                            # distance_f.write("\n\n")
+                            #endregion print each joint
+                    
+                    temp_depths.sort()
+                    # empty_node.get_logger().info("Sorted depths: {}".format(temp_depths))
+                    dist_data_size = len(temp_depths)
+                    for d in temp_depths:
+                        distance_f.write(str(d) + " ")
+                    distance_f.write("\n")
+
+                    #region depth avg
+                    sum = 0
+                    if dist_data_size < 4:
+                        distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
+                    elif dist_data_size >= 4 and dist_data_size < 8:
+                        for i in range(1, dist_data_size - 1):
+                            sum += temp_depths[i]
+                        dist_avg = round(sum / (dist_data_size - 2), 3)
+                        distance_f.write(": " + str(dist_avg) + "m\n")
+                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    elif dist_data_size >= 8 and dist_data_size < 12:
+                        for i in range(1, dist_data_size - 2):
+                            sum += temp_depths[i]
+                        dist_avg = round(sum / (dist_data_size - 3), 3)
+                        distance_f.write(": " + str(dist_avg) + "m\n")
+                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    else:
+                        for i in range(1, dist_data_size - 5):
+                            sum += temp_depths[i]
+                        dist_avg = round(sum / (dist_data_size - 6), 3)
+                        distance_f.write(": " + str(dist_avg) + "m\n")
+                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    #endregion depth avg
+                    
+                    distance_f.write("\n")
+                    #endregion 계산 5
                     detect_node.detect_pub.publish(detect_msg)
 
                 if len(fall_queue) >= fall_queue_num:
@@ -373,12 +552,33 @@ def main(args=None):
                     fall_timer = 0
                     event_timer = 0 
                 
+                #region test
+                # now2 = datetime.datetime.now().strftime("%H-%M-%S")
+                # idx1 = [200, 120]
+                # idx2 = [320, 120]
+                # idx3 = [440, 120]
+                # idx4 = [200, 240]
+                # idx5 = [320, 240]
+                # idx6 = [440, 240]
+                # idx7 = [200, 360]
+                # idx8 = [320, 360]
+                # idx9 = [440, 360]
+                # idx_list = [idx1, idx2, idx3, idx4, idx5, idx6, idx7, idx8, idx9]
+
+                # for i in range(9):
+                #     dist = str(depth_pix[idx_list[i][1]][idx_list[i][0]] / 1000)
+                #     distance_f.write(now2 + " - idx " + str(i) + ": " + dist + "m\n")
+                #     cv2.putText(frame, str(i), (idx_list[i][0], idx_list[i][1]), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                # distance_f.write("\n")
+                # distance_f.flush()
+                #endregion test
+
                 if mode == 0:
                     continue
                 elif mode == 1:
                     cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    cv2.imshow("Depth Frame", depth_frame)
                     # out.write(annotated_frame)
-                
 
             except IndexError:
                 print('array error')
@@ -408,6 +608,8 @@ def main(args=None):
         img_node.destroy_node()
     detect_node.destroy_node()
     event_node.destroy_node()
+    empty_node.destroy_node()
+    img_node.destroy_node()
     rclpy.shutdown()    
 
 if  __name__ == '__main__':
