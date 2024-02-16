@@ -8,6 +8,7 @@ from cv_bridge import CvBridge
 import numpy as np
 import torch
 import datetime
+import math
 
 #ros message setting
 import rclpy
@@ -32,6 +33,7 @@ class DetectPublisher(Node):
         super().__init__('detect_pub')
         self.NAMESPACE = self.get_namespace()
         self.detect_pub = self.create_publisher(Detect, self.NAMESPACE + '/pose_detect/detect_points', 10)
+        self._infer_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/detect_img', 10)
 
 class ImageSubscriber(Node):
     def __init__(self):
@@ -57,8 +59,11 @@ class ImageSubscriber(Node):
             qos
         )
 
+        self.encoding = None
+
     def image_callback(self, data):
         self.image = bridge.imgmsg_to_cv2(data, 'bgr8')
+        self.encoding = data.encoding
         self.img_w = data.width
         self.img_h = data.height
     
@@ -221,8 +226,11 @@ def main(args=None):
             frame = img_node.image
             tf = True
 
-        # w = img_node.img_w
-        # h = img_node.img_h
+        w = img_node.img_w
+        h = img_node.img_h
+
+        empty_node.get_logger().info("camera img width: {}".format(w))
+        empty_node.get_logger().info("camera img height: {}".format(h))
 
         # Depth 이미지 처리
         depth_pix = img_node.img_values
@@ -245,6 +253,7 @@ def main(args=None):
             results = model.predict(frame)[0].cpu()
             #감지결과 프레임 저장
             annotated_frame = frame
+            # empty_node.get_logger().info("annotated frame: {}".format(annotated_frame.shape))
 
             try:
                 people_fall_count = 0 # 해당 프레임에 넘어져 있는 사람이 있는지 카운트
@@ -252,7 +261,7 @@ def main(args=None):
                 for result in results:
                     #감지 정확도 낮을 시 건너뛰는 로직 필요
                     score = float(result.boxes.conf[0])
-                    if score < 0.75:
+                    if score < 0.6:
                         continue  
 
                     #감지된 box 값 저장
@@ -392,6 +401,8 @@ def main(args=None):
                     temp_depths = []
                     now2 = datetime.datetime.now().strftime("%H-%M-%S")
                     distance_f.write(now2 + ":\n")
+                    horizontal_depth = []
+                    horizontal_sum = 0
                     empty_node.get_logger().info("Time: {}".format(now2))
                     for idx, data in enumerate(keypoint_datas):
                         depth_val = depth_pix[int(data[1])][int(data[0])]
@@ -400,6 +411,20 @@ def main(args=None):
                         if depth_val != 0:
                             dist = depth_val / 1000
                             temp_depths.append(dist)
+                            
+                            # 1 pixel = 0.2645833333
+                            # pix_to_mm = 0.2645833333
+                            # # pix_horizontal_dist = abs(data[0] - 320)
+                            # pix_vertical_dist = abs(data[1] - 240)
+
+                            # # mm_horizontal_dist = pix_horizontal_dist * pix_to_mm
+                            # mm_vertical_dist = pix_vertical_dist * pix_to_mm
+                            # mm_diagonal_dist = depth_val
+
+                            # # meter
+                            # horizontal_dist = math.sqrt(mm_diagonal_dist ** 2 - mm_vertical_dist ** 2) / 1000
+                            # horizontal_sum += horizontal_dist
+                            # horizontal_depth.append(horizontal_dist)
                             
                             #region print each joint
                             # if idx == 0 :
@@ -446,6 +471,10 @@ def main(args=None):
                         distance_f.write(str(d) + " ")
                     distance_f.write("\n")
 
+                    # if len(horizontal_depth) != 0:
+                    #     horizontal_avg = round(horizontal_sum / len(horizontal_depth), 3)
+                    #     distance_f.write("horizontal average: " + str(horizontal_avg) + "m\n")
+
                     #region depth avg
                     sum = 0
                     if dist_data_size < 4:
@@ -476,6 +505,7 @@ def main(args=None):
                     distance_f.write("\n")
                     #endregion 계산 5
                     detect_node.detect_pub.publish(detect_msg)
+                    detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(annotated_frame, encoding=img_node.encoding))
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   
@@ -573,20 +603,20 @@ def main(args=None):
                 # distance_f.flush()
                 #endregion test
 
-                if mode == 0:
-                    continue
-                elif mode == 1:
-                    cv2.imshow("YOLOv8 Inference", annotated_frame)
-                    cv2.imshow("Depth Frame", depth_frame)
-                    # out.write(annotated_frame)
+                # if mode == 0:
+                #     continue
+                # elif mode == 1:
+                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
+                #     cv2.imshow("Depth Frame", depth_frame)
+                #     out.write(annotated_frame)
 
             except IndexError:
                 print('array error')
 
-                if mode == 0:
-                    continue
-                elif mode == 1:
-                    cv2.imshow("YOLOv8 Inference", annotated_frame)
+                # if mode == 0:
+                #     continue
+                # elif mode == 1:
+                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
                     # out.write(annotated_frame)   
 
             if cv2.waitKey(1) & 0xFF == ord("q"):

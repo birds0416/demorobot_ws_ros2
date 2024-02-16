@@ -1,0 +1,5713 @@
+09-47-27:
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [364.5339, 32.31253]	4.232m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.1217, 172.87273]	1.041m
+6	- Keypoint: [513.07446, 130.29199]	1.044m
+7	- Keypoint: [250.2244, 382.26227]	0.96m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 1.041 1.044 4.232 
+: 1.042m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.97754, 44.49965]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.24646, 161.48642]	1.05m
+6	- Keypoint: [538.48047, 143.59154]	0.0m
+7	- Keypoint: [236.96179, 397.81982]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 4.393 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.91498, 37.483826]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.86105, 173.23688]	1.041m
+6	- Keypoint: [528.87305, 138.55266]	0.0m
+7	- Keypoint: [242.10298, 380.20425]	0.977m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.977 1.041 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.257, 44.803513]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [315.1362, 162.42372]	1.044m
+6	- Keypoint: [541.8863, 142.2931]	0.0m
+7	- Keypoint: [234.34882, 390.7425]	0.99m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.99 1.044 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.52658, 43.87509]	4.393m
+4	- Keypoint: [451.96695, 40.124573]	4.232m
+5	- Keypoint: [310.5381, 170.51427]	1.041m
+6	- Keypoint: [524.35535, 126.65277]	1.07m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.07 4.232 4.393 
+: 2.651m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [383.18808, 43.90306]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [316.36792, 158.96509]	1.044m
+6	- Keypoint: [535.9597, 142.81963]	1.083m
+7	- Keypoint: [234.71149, 393.52936]	0.993m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.993 1.044 1.083 4.393 
+: 1.064m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.3291, 26.189987]	4.132m
+4	- Keypoint: [443.64963, 31.539047]	4.132m
+5	- Keypoint: [289.49637, 162.80272]	1.066m
+6	- Keypoint: [520.8126, 145.14087]	1.041m
+7	- Keypoint: [229.8439, 384.88104]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [358.8195, 453.00098]	0.996m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.996 1.041 1.066 1.097 4.132 4.132 
+: 1.834m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.69592, 46.686295]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.46365, 161.57904]	1.063m
+6	- Keypoint: [539.4922, 140.1386]	0.0m
+7	- Keypoint: [220.53299, 382.0819]	1.107m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [347.1304, 444.9595]	0.952m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.063 1.107 4.449 
+: 1.085m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [364.6218, 46.782684]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [298.35565, 169.69983]	1.063m
+6	- Keypoint: [546.599, 138.81143]	0.0m
+7	- Keypoint: [221.26024, 400.70767]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 4.449 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [369.52808, 54.893417]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.42633, 158.98834]	1.053m
+6	- Keypoint: [529.41113, 143.7861]	1.044m
+7	- Keypoint: [234.518, 398.19513]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.053 4.566 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [370.18402, 43.896194]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [312.29352, 173.69063]	1.038m
+6	- Keypoint: [529.02924, 136.41263]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 4.393 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.59705, 43.221085]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.9445, 163.00815]	1.05m
+6	- Keypoint: [540.6822, 141.46532]	0.0m
+7	- Keypoint: [230.86276, 392.92102]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 4.338 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.82, 36.554565]	4.338m
+4	- Keypoint: [446.78772, 35.90103]	4.181m
+5	- Keypoint: [299.04565, 173.2948]	1.053m
+6	- Keypoint: [515.349, 130.21564]	1.044m
+7	- Keypoint: [245.02493, 381.31952]	0.968m
+8	- Keypoint: [536.97473, 258.6423]	0.963m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [364.9995, 448.97473]	1.014m
+12	- Keypoint: [503.8327, 436.53058]	0.937m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 0.963 0.968 1.014 1.044 1.053 4.181 4.338 
+: 1.008m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.8323, 44.98593]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [307.80273, 162.05771]	1.053m
+6	- Keypoint: [538.63446, 142.06259]	0.0m
+7	- Keypoint: [225.6229, 389.94183]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.125 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.40402, 47.41191]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.42624, 172.75172]	1.041m
+6	- Keypoint: [526.9613, 139.09416]	1.05m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.05 4.449 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [383.50516, 46.26268]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [311.3578, 162.24738]	1.047m
+6	- Keypoint: [541.91736, 144.40329]	0.0m
+7	- Keypoint: [228.3228, 391.63126]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 4.449 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.95956, 50.031677]	4.506m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [317.35992, 173.49442]	1.038m
+6	- Keypoint: [540.83185, 141.78757]	0.0m
+7	- Keypoint: [248.5006, 397.1596]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 1.038 4.506 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.04495, 36.959137]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.786, 160.9453]	1.063m
+6	- Keypoint: [535.12524, 139.31729]	1.083m
+7	- Keypoint: [224.78615, 376.30408]	1.107m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [356.25757, 453.44513]	0.993m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.993 1.063 1.083 1.107 4.284 
+: 1.084m
+
+09-47-27:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.18704, 42.199524]	4.338m
+4	- Keypoint: [452.55264, 38.916748]	4.181m
+5	- Keypoint: [313.97958, 168.47156]	1.041m
+6	- Keypoint: [515.5331, 123.12453]	1.05m
+7	- Keypoint: [247.68213, 386.9965]	0.963m
+8	- Keypoint: [537.07196, 249.0415]	0.966m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [369.76038, 439.81934]	1.008m
+12	- Keypoint: [496.6037, 426.3069]	0.947m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.963 0.966 1.008 1.041 1.05 4.181 4.338 
+: 1.006m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [382.46997, 42.72014]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.47525, 161.96631]	1.05m
+6	- Keypoint: [539.0669, 143.82278]	0.0m
+7	- Keypoint: [222.23944, 382.4439]	1.111m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.111 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.22034, 44.176956]	4.393m
+4	- Keypoint: [454.73407, 42.370712]	4.232m
+5	- Keypoint: [315.32254, 170.48192]	1.041m
+6	- Keypoint: [523.8246, 126.760925]	1.066m
+7	- Keypoint: [232.66217, 388.61224]	1.09m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.066 1.09 4.232 4.393 
+: 2.129m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.14035, 43.477783]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [312.43774, 163.34567]	1.047m
+6	- Keypoint: [534.72687, 137.08667]	1.083m
+7	- Keypoint: [232.35596, 392.87756]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.083 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.85242, 35.295]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.39355, 171.14743]	1.041m
+6	- Keypoint: [522.4414, 129.65823]	1.053m
+7	- Keypoint: [244.00801, 380.70483]	0.971m
+8	- Keypoint: [533.4102, 266.1007]	0.963m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [361.86835, 449.21802]	1.005m
+12	- Keypoint: [496.35953, 437.5414]	0.945m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 0.963 0.971 1.005 1.041 1.053 4.284 
+: 1.007m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [382.3439, 42.931015]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.21698, 163.06174]	1.05m
+6	- Keypoint: [535.8422, 151.29826]	1.07m
+7	- Keypoint: [230.31311, 394.84708]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.07 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.58136, 42.656097]	4.338m
+4	- Keypoint: [459.10574, 45.173676]	4.284m
+5	- Keypoint: [312.327, 170.84946]	1.041m
+6	- Keypoint: [526.46967, 145.74367]	1.041m
+7	- Keypoint: [244.40369, 398.97095]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.041 1.041 4.284 4.338 
+: 2.122m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.1727, 38.590973]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [307.1189, 164.05563]	1.05m
+6	- Keypoint: [541.6504, 146.94997]	1.09m
+7	- Keypoint: [226.79726, 386.44177]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [352.26343, 457.69955]	0.982m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.982 1.05 1.09 4.284 
+: 1.07m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.4777, 34.645004]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.44458, 169.69322]	1.063m
+6	- Keypoint: [534.85547, 144.20717]	1.076m
+7	- Keypoint: [234.22557, 402.5272]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 1.076 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.8889, 47.70575]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.49023, 163.60583]	1.05m
+6	- Keypoint: [539.69104, 142.94025]	0.0m
+7	- Keypoint: [230.52158, 390.38385]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 4.449 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [357.73328, 67.52373]	4.886m
+4	- Keypoint: [467.6421, 58.02118]	4.506m
+5	- Keypoint: [314.98398, 175.03061]	1.038m
+6	- Keypoint: [518.1907, 132.86658]	1.044m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.044 4.506 4.886 
+: 2.775m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.12973, 37.159454]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [305.99878, 161.42203]	1.057m
+6	- Keypoint: [529.51843, 141.54716]	1.053m
+7	- Keypoint: [239.60272, 375.23898]	0.982m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [358.33197, 453.17432]	0.996m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.982 0.996 1.053 1.057 4.284 
+: 1.035m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.22287, 26.437881]	4.083m
+4	- Keypoint: [444.75064, 31.700027]	4.132m
+5	- Keypoint: [308.87775, 167.04813]	1.044m
+6	- Keypoint: [515.9797, 134.64407]	1.041m
+7	- Keypoint: [238.85625, 365.84192]	0.979m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.979 1.041 1.044 4.083 4.132 
+: 2.056m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.25858, 38.298584]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [307.66934, 164.17863]	1.05m
+6	- Keypoint: [539.89307, 142.01035]	0.0m
+7	- Keypoint: [226.7392, 385.518]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [354.88092, 456.59277]	0.985m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.985 1.05 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [364.1675, 24.307892]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.62622, 174.66756]	1.06m
+6	- Keypoint: [525.24054, 145.7315]	1.041m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.06 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.6218, 33.030106]	4.232m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [293.4615, 160.43858]	1.07m
+6	- Keypoint: [529.755, 145.92392]	1.044m
+7	- Keypoint: [215.13287, 371.3664]	1.1m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [350.9379, 454.47443]	0.979m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.979 1.044 1.07 1.1 4.232 
+: 1.071m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [369.4751, 16.51233]	0.0m
+4	- Keypoint: [429.35205, 22.831238]	3.99m
+5	- Keypoint: [287.80548, 165.82707]	1.066m
+6	- Keypoint: [508.71292, 139.98903]	1.029m
+7	- Keypoint: [213.18318, 381.1566]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.029 1.066 1.097 3.99 
+: 1.082m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [366.01013, 57.11255]	4.689m
+4	- Keypoint: [468.95416, 54.164948]	4.449m
+5	- Keypoint: [305.14563, 162.49707]	1.053m
+6	- Keypoint: [531.2418, 141.68622]	1.07m
+7	- Keypoint: [232.50833, 397.52304]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.07 4.449 4.689 
+: 2.76m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [362.20056, 43.682816]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.10657, 171.30237]	1.041m
+6	- Keypoint: [526.03174, 130.45587]	1.073m
+7	- Keypoint: [245.6125, 349.57565]	0.982m
+8	- Keypoint: [527.3907, 249.91435]	0.971m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [354.3918, 436.78595]	0.968m
+12	- Keypoint: [495.04254, 424.8637]	0.95m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.968 0.971 0.982 1.041 1.073 4.393 
+: 1.007m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [362.74756, 53.9579]	4.566m
+4	- Keypoint: [463.0024, 52.39261]	4.393m
+5	- Keypoint: [304.5678, 159.00064]	1.06m
+6	- Keypoint: [527.56274, 145.40575]	1.041m
+7	- Keypoint: [234.68976, 386.9757]	0.985m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.985 1.041 1.06 4.393 4.566 
+: 2.165m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [353.0437, 25.494934]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [284.74506, 166.0447]	1.063m
+6	- Keypoint: [530.79425, 147.57146]	1.041m
+7	- Keypoint: [229.07729, 389.65356]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.03854, 45.25743]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.14117, 163.90225]	1.047m
+6	- Keypoint: [537.9793, 141.88025]	1.09m
+7	- Keypoint: [231.34973, 393.71362]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.09 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.1282, 56.668625]	4.626m
+4	- Keypoint: [457.73032, 48.881165]	4.338m
+5	- Keypoint: [315.46906, 170.84937]	1.041m
+6	- Keypoint: [513.2356, 127.252014]	1.044m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [536.7365, 250.3772]	0.968m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [368.57446, 425.39566]	1.014m
+12	- Keypoint: [493.90863, 410.53214]	0.952m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.968 1.014 1.041 1.044 4.338 4.626 
+: 1.681m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.56433, 35.8011]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [305.06662, 162.75351]	1.057m
+6	- Keypoint: [529.0497, 148.19374]	1.041m
+7	- Keypoint: [238.89362, 391.6444]	0.982m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.982 1.041 1.057 4.284 
+: 1.049m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [385.23303, 26.80925]	4.083m
+4	- Keypoint: [444.62833, 31.792496]	4.083m
+5	- Keypoint: [313.84668, 168.23389]	1.041m
+6	- Keypoint: [513.8025, 137.02692]	1.041m
+7	- Keypoint: [248.69237, 381.60693]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.041 1.041 4.083 4.083 
+: 2.055m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.9344, 45.834732]	4.393m
+4	- Keypoint: [467.22485, 45.45146]	4.284m
+5	- Keypoint: [296.5044, 163.0296]	1.066m
+6	- Keypoint: [531.6981, 141.47055]	1.07m
+7	- Keypoint: [220.17554, 372.8536]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [338.789, 442.31528]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.066 1.07 1.097 4.284 4.393 
+: 1.879m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [350.81735, 23.649994]	0.0m
+4	- Keypoint: [433.55463, 29.255753]	4.083m
+5	- Keypoint: [271.88275, 175.24055]	1.07m
+6	- Keypoint: [521.72845, 145.09717]	1.041m
+7	- Keypoint: [208.9882, 384.654]	1.104m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.07 1.104 4.083 
+: 1.087m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.69928, 44.103516]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [312.91122, 163.15121]	1.047m
+6	- Keypoint: [534.7341, 142.8693]	1.08m
+7	- Keypoint: [235.36507, 397.8149]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.08 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [361.50922, 54.121597]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [316.1712, 170.85168]	1.038m
+6	- Keypoint: [517.69507, 124.35748]	1.047m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.047 4.626 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.11044, 34.935135]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [296.8104, 164.32214]	1.066m
+6	- Keypoint: [537.9507, 147.95438]	1.08m
+7	- Keypoint: [221.68124, 372.65656]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [350.74503, 457.95532]	0.977m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.977 1.066 1.08 1.097 4.284 
+: 1.081m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.32513, 16.399582]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [287.33386, 171.71251]	1.063m
+6	- Keypoint: [507.85596, 144.87575]	1.016m
+7	- Keypoint: [209.5122, 393.35446]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.016 1.063 1.097 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.09863, 46.196823]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [306.08264, 165.81396]	1.05m
+6	- Keypoint: [533.64624, 140.35681]	1.083m
+7	- Keypoint: [234.45973, 392.2765]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [359.5087, 447.6183]	0.996m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.996 1.05 1.083 4.393 
+: 1.066m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.13455, 29.63237]	4.132m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.19067, 171.64091]	1.053m
+6	- Keypoint: [523.98926, 139.78912]	1.044m
+7	- Keypoint: [249.14478, 382.44174]	0.96m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 1.044 1.053 4.132 
+: 1.048m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.95584, 44.829193]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [307.4947, 160.4352]	1.053m
+6	- Keypoint: [540.23865, 142.56723]	1.086m
+7	- Keypoint: [222.39009, 381.10056]	1.111m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.086 1.111 4.393 
+: 1.098m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.11496, 41.193146]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.2538, 168.66714]	1.057m
+6	- Keypoint: [531.36536, 135.4065]	0.0m
+7	- Keypoint: [231.83266, 396.37585]	0.0m
+8	- Keypoint: [545.5217, 285.8342]	0.96m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 1.057 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.66943, 44.612]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [298.5974, 162.08987]	1.066m
+6	- Keypoint: [532.35736, 140.61206]	1.076m
+7	- Keypoint: [217.73032, 379.0354]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [341.38275, 444.36533]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.066 1.076 1.097 4.338 
+: 1.08m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [356.5475, 23.358902]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [280.68427, 175.17319]	1.06m
+6	- Keypoint: [524.31616, 144.33464]	1.041m
+7	- Keypoint: [211.72096, 392.83514]	1.09m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.06 1.09 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.46832, 42.99713]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.31766, 161.93808]	1.053m
+6	- Keypoint: [535.7871, 141.24982]	1.083m
+7	- Keypoint: [224.45854, 386.04993]	1.118m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [350.13028, 446.94217]	0.958m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.053 1.083 1.118 4.338 
+: 1.085m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [366.00555, 19.966461]	0.0m
+4	- Keypoint: [439.6533, 26.782333]	4.036m
+5	- Keypoint: [280.995, 167.3859]	1.063m
+6	- Keypoint: [518.05646, 146.31496]	1.041m
+7	- Keypoint: [219.24388, 391.72974]	1.107m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 1.107 4.036 
+: 1.085m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.57944, 40.89923]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [293.81888, 161.71214]	1.066m
+6	- Keypoint: [530.96497, 144.8672]	1.053m
+7	- Keypoint: [227.60204, 371.36646]	1.086m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [351.2252, 463.04663]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.066 1.086 4.284 
+: 1.076m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.7582, 31.71553]	4.181m
+4	- Keypoint: [446.34912, 34.501007]	4.132m
+5	- Keypoint: [306.59076, 169.95778]	1.044m
+6	- Keypoint: [514.147, 131.83405]	1.044m
+7	- Keypoint: [234.85063, 367.5451]	1.08m
+8	- Keypoint: [537.53894, 255.36409]	0.966m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [366.57715, 452.583]	0.0m
+12	- Keypoint: [496.26794, 443.4575]	0.942m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 0.966 1.044 1.044 1.08 4.132 4.181 
+: 1.653m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.9778, 44.227036]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.98718, 164.53644]	1.044m
+6	- Keypoint: [533.5903, 139.1283]	1.083m
+7	- Keypoint: [228.30386, 389.51474]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.083 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [362.41553, 45.70517]	4.449m
+4	- Keypoint: [448.90588, 41.830826]	4.232m
+5	- Keypoint: [307.14462, 175.17226]	1.041m
+6	- Keypoint: [516.8005, 128.12967]	1.044m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [493.3582, 423.33243]	0.952m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.041 1.044 4.232 4.449 
+: 2.106m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [367.5536, 56.179733]	4.689m
+4	- Keypoint: [467.09045, 55.130325]	4.449m
+5	- Keypoint: [305.0463, 165.36867]	1.05m
+6	- Keypoint: [529.7709, 148.27194]	1.044m
+7	- Keypoint: [233.45287, 394.58084]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.05 4.449 4.689 
+: 2.75m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.75613, 37.526657]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [298.13757, 174.37381]	1.057m
+6	- Keypoint: [536.41675, 145.67673]	1.076m
+7	- Keypoint: [226.2304, 389.59357]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.076 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.1236, 55.441803]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.07657, 160.6351]	1.053m
+6	- Keypoint: [537.41754, 150.43393]	1.07m
+7	- Keypoint: [231.10516, 390.64667]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.07 4.566 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.95163, 40.77922]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [307.79047, 172.09686]	1.041m
+6	- Keypoint: [540.7292, 153.36005]	0.0m
+7	- Keypoint: [223.66212, 403.76147]	1.136m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.136 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.8338, 46.70543]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [313.16046, 162.47491]	1.047m
+6	- Keypoint: [536.7657, 134.05833]	0.0m
+7	- Keypoint: [233.10175, 387.65448]	1.083m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [360.04977, 449.2801]	0.999m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.999 1.047 1.083 4.449 
+: 1.065m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.9261, 35.015717]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [306.73505, 170.67758]	1.044m
+6	- Keypoint: [526.2989, 133.1948]	0.0m
+7	- Keypoint: [243.1937, 369.46747]	0.974m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [359.90536, 453.31805]	0.999m
+12	- Keypoint: [499.61978, 443.63904]	0.94m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 0.974 0.999 1.044 4.284 
+: 1.006m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.96872, 45.19287]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [303.3635, 165.43625]	1.053m
+6	- Keypoint: [538.61444, 144.84155]	1.083m
+7	- Keypoint: [226.79372, 400.93118]	1.136m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.083 1.136 4.393 
+: 1.11m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.8649, 29.168869]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [291.9942, 169.49306]	1.066m
+6	- Keypoint: [534.6913, 142.35535]	1.076m
+7	- Keypoint: [237.71829, 391.54086]	0.985m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.985 1.066 1.076 4.181 
+: 1.071m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.43802, 47.84326]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.92017, 168.18994]	1.044m
+6	- Keypoint: [537.45764, 142.12422]	1.083m
+7	- Keypoint: [237.28574, 398.96246]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.083 4.449 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.44913, 35.179443]	4.284m
+4	- Keypoint: [444.24957, 37.336105]	4.232m
+5	- Keypoint: [302.7375, 172.27762]	1.05m
+6	- Keypoint: [514.02344, 134.52493]	1.041m
+7	- Keypoint: [256.28018, 364.44464]	0.96m
+8	- Keypoint: [538.52264, 258.00278]	0.963m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [365.18573, 452.80255]	1.008m
+12	- Keypoint: [497.73337, 443.66443]	0.942m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 0.96 0.963 1.008 1.041 1.05 4.232 4.284 
+: 1.004m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.7631, 46.293488]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.07074, 164.13986]	1.047m
+6	- Keypoint: [539.0552, 142.01224]	0.0m
+7	- Keypoint: [227.5227, 390.5216]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 4.393 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.98752, 33.224457]	4.232m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [294.7011, 174.43695]	1.063m
+6	- Keypoint: [533.03406, 145.99265]	1.066m
+7	- Keypoint: [237.76447, 398.4071]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 1.066 4.232 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.42026, 44.362106]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [306.8242, 164.24182]	1.05m
+6	- Keypoint: [538.2734, 139.67726]	0.0m
+7	- Keypoint: [224.28203, 390.3324]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.125 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.98743, 30.04509]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [295.90515, 170.76453]	1.063m
+6	- Keypoint: [537.81616, 145.90825]	1.08m
+7	- Keypoint: [229.16052, 399.87335]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 1.08 4.181 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [369.28723, 55.650757]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.765, 164.04022]	1.047m
+6	- Keypoint: [536.26013, 151.91191]	1.07m
+7	- Keypoint: [236.94034, 410.00693]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.07 4.566 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.8241, 47.095337]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [311.81494, 173.31952]	1.038m
+6	- Keypoint: [541.38727, 154.38254]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 4.449 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.48425, 43.590256]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.77853, 161.74454]	1.06m
+6	- Keypoint: [539.7951, 151.298]	1.07m
+7	- Keypoint: [217.97035, 393.5141]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.06 1.07 1.093 4.393 
+: 1.082m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [355.1117, 23.745316]	0.0m
+4	- Keypoint: [441.14127, 27.944016]	4.083m
+5	- Keypoint: [274.57465, 170.70119]	1.07m
+6	- Keypoint: [522.68976, 140.50888]	1.044m
+7	- Keypoint: [210.42526, 391.93054]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.07 1.093 4.083 
+: 1.082m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.91968, 43.01837]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [303.94727, 162.06963]	1.057m
+6	- Keypoint: [535.33636, 142.35957]	1.083m
+7	- Keypoint: [229.73087, 395.8432]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.083 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [359.90628, 23.50235]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [289.6827, 171.38533]	1.063m
+6	- Keypoint: [529.0149, 147.2265]	1.041m
+7	- Keypoint: [231.17368, 412.51904]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.1782, 43.11026]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [304.54144, 164.14224]	1.053m
+6	- Keypoint: [538.41144, 144.24655]	0.0m
+7	- Keypoint: [221.4539, 390.22037]	1.118m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [346.4292, 447.52762]	0.947m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 1.053 1.118 4.338 
+: 1.086m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.19507, 35.27829]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [304.38144, 164.10785]	1.053m
+6	- Keypoint: [537.98804, 139.17766]	0.0m
+7	- Keypoint: [215.24713, 404.58887]	1.08m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.08 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.25577, 45.64711]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.73096, 164.4814]	1.047m
+6	- Keypoint: [535.01514, 139.70602]	1.083m
+7	- Keypoint: [222.9463, 394.0445]	1.129m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.083 1.129 4.393 
+: 1.106m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [363.62186, 26.004272]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [295.85526, 168.1849]	1.063m
+6	- Keypoint: [537.88806, 139.70728]	1.09m
+7	- Keypoint: [208.96188, 397.3966]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 1.09 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [377.70288, 45.36519]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.01395, 164.2572]	1.05m
+6	- Keypoint: [532.4385, 138.77219]	1.076m
+7	- Keypoint: [225.74826, 396.6351]	1.129m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.076 1.129 4.393 
+: 1.102m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.43057, 28.59288]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.81036, 165.37932]	1.057m
+6	- Keypoint: [534.40784, 136.31992]	1.083m
+7	- Keypoint: [215.06813, 390.83453]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.083 1.093 4.181 
+: 1.088m
+
+09-47-28:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.7298, 35.45494]	4.232m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.86325, 163.11996]	1.066m
+6	- Keypoint: [531.6915, 145.64404]	1.053m
+7	- Keypoint: [218.06992, 379.40182]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [343.76605, 459.40912]	0.963m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.053 1.066 1.097 4.232 
+: 1.072m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.54102, 19.90863]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [293.47906, 171.5101]	1.063m
+6	- Keypoint: [512.77985, 148.864]	1.035m
+7	- Keypoint: [212.25468, 399.79144]	1.083m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.035 1.063 1.083 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.72284, 42.12976]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [296.40753, 161.86902]	1.066m
+6	- Keypoint: [534.3202, 144.66783]	1.07m
+7	- Keypoint: [217.88739, 381.79266]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [338.06937, 445.58752]	0.935m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.935 1.066 1.07 1.097 4.338 
+: 1.078m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [361.95407, 17.173813]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [276.45096, 165.04837]	1.07m
+6	- Keypoint: [519.4498, 147.49596]	1.041m
+7	- Keypoint: [202.28865, 390.94104]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.07 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [382.11398, 42.140076]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.59247, 159.97523]	1.057m
+6	- Keypoint: [540.3902, 147.0388]	0.0m
+7	- Keypoint: [221.7209, 392.98004]	1.121m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.121 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [384.0571, 30.008759]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [309.01633, 163.2209]	1.047m
+6	- Keypoint: [537.1165, 155.51825]	1.066m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.066 4.181 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.16864, 41.103638]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.0117, 160.24135]	1.053m
+6	- Keypoint: [540.6133, 148.67754]	0.0m
+7	- Keypoint: [228.94702, 389.13504]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 4.284 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.01364, 21.551529]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.17105, 169.16588]	1.053m
+6	- Keypoint: [512.7401, 160.9408]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 
+Number of Depth points: 1 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.4733, 44.03244]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.61224, 161.21346]	1.063m
+6	- Keypoint: [535.0786, 148.13]	1.07m
+7	- Keypoint: [217.5697, 381.70374]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [344.6059, 451.76392]	0.952m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.063 1.07 1.093 4.393 
+: 1.075m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.22717, 36.277298]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [299.0863, 163.01823]	1.063m
+6	- Keypoint: [543.20123, 151.68561]	0.0m
+7	- Keypoint: [213.21866, 396.93378]	1.086m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.063 1.086 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.86386, 48.133514]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [304.2257, 164.9228]	1.053m
+6	- Keypoint: [532.3263, 137.78503]	1.09m
+7	- Keypoint: [230.34355, 395.1653]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.09 4.449 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [363.66278, 37.55522]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.78174, 174.41599]	1.05m
+6	- Keypoint: [518.1895, 131.37614]	1.044m
+7	- Keypoint: [240.79813, 377.00568]	0.979m
+8	- Keypoint: [531.66003, 258.70038]	0.963m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [363.3098, 441.4948]	0.99m
+12	- Keypoint: [498.13788, 429.52612]	0.945m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 0.963 0.979 0.99 1.044 1.05 4.338 
+: 1.005m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [370.98846, 47.317017]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [295.71146, 162.7655]	1.066m
+6	- Keypoint: [532.7733, 142.66263]	1.08m
+7	- Keypoint: [213.7816, 375.2756]	1.1m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [341.28107, 442.23846]	0.942m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.066 1.08 1.1 4.449 
+: 1.082m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.7611, 44.628082]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [291.192, 165.56061]	1.066m
+6	- Keypoint: [543.4494, 148.53459]	0.0m
+7	- Keypoint: [213.74242, 390.25467]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.066 1.093 4.449 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.60562, 42.228973]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.84726, 165.08221]	1.06m
+6	- Keypoint: [535.9486, 144.72226]	1.076m
+7	- Keypoint: [221.43372, 389.8069]	1.121m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.06 1.076 1.121 4.338 
+: 1.098m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.4185, 17.370285]	0.0m
+4	- Keypoint: [428.60052, 24.512955]	3.99m
+5	- Keypoint: [285.4491, 171.05562]	1.06m
+6	- Keypoint: [515.9703, 144.65225]	1.041m
+7	- Keypoint: [215.25412, 410.1247]	1.08m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.06 1.08 3.99 
+: 1.07m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [368.72253, 43.05011]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.42612, 163.73726]	1.066m
+6	- Keypoint: [539.6137, 150.47043]	1.073m
+7	- Keypoint: [215.02594, 376.2521]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [335.8953, 446.16504]	0.93m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.93 1.066 1.073 1.097 4.393 
+: 1.079m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.02875, 18.654892]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [275.2138, 171.39122]	1.066m
+6	- Keypoint: [524.54474, 151.12611]	1.041m
+7	- Keypoint: [206.78653, 393.46667]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.3991, 44.45279]	4.393m
+4	- Keypoint: [466.97705, 41.5932]	4.232m
+5	- Keypoint: [302.23767, 163.99637]	1.06m
+6	- Keypoint: [533.19073, 135.83878]	1.086m
+7	- Keypoint: [219.87515, 381.88705]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [348.7501, 440.89682]	0.958m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.06 1.086 1.093 4.232 4.393 
+: 1.868m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [359.95795, 35.721558]	4.284m
+4	- Keypoint: [443.36694, 36.77687]	4.181m
+5	- Keypoint: [294.15173, 168.1565]	1.066m
+6	- Keypoint: [514.3623, 124.99432]	1.047m
+7	- Keypoint: [231.07272, 358.45468]	1.076m
+8	- Keypoint: [530.111, 238.47995]	0.971m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [351.07867, 435.70312]	0.963m
+12	- Keypoint: [491.54932, 423.88394]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.963 0.971 1.047 1.066 1.076 4.181 4.284 
+: 1.025m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.95248, 42.70407]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [304.85837, 163.60999]	1.057m
+6	- Keypoint: [540.4004, 147.33484]	1.083m
+7	- Keypoint: [223.27798, 391.4327]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.083 1.125 4.338 
+: 1.104m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.23483, 25.358551]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [288.17224, 166.24834]	1.066m
+6	- Keypoint: [531.0407, 142.06552]	1.053m
+7	- Keypoint: [226.32767, 393.0263]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.86554, 41.61125]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [303.25592, 164.04468]	1.057m
+6	- Keypoint: [536.55786, 147.02936]	1.08m
+7	- Keypoint: [224.01118, 384.92813]	1.111m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.08 1.111 4.284 
+: 1.096m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.0261, 22.475052]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [290.55893, 167.85956]	1.066m
+6	- Keypoint: [518.2532, 145.46349]	1.044m
+7	- Keypoint: [219.41049, 394.22797]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [382.82324, 42.699677]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [311.89697, 163.51978]	1.047m
+6	- Keypoint: [535.8827, 143.41779]	1.083m
+7	- Keypoint: [228.1581, 389.25858]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.083 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.05023, 27.6689]	4.132m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [299.28772, 168.49867]	1.06m
+6	- Keypoint: [527.5209, 150.25531]	1.038m
+7	- Keypoint: [230.33366, 397.31726]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.06 4.132 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.9317, 44.09819]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.38947, 162.31992]	1.06m
+6	- Keypoint: [537.93256, 140.8135]	1.09m
+7	- Keypoint: [223.03954, 383.0472]	1.111m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [350.49152, 445.52475]	0.958m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.06 1.09 1.111 4.393 
+: 1.087m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.86578, 44.817352]	4.449m
+4	- Keypoint: [453.56805, 40.66365]	4.181m
+5	- Keypoint: [302.17487, 169.83398]	1.053m
+6	- Keypoint: [522.65027, 122.52855]	0.0m
+7	- Keypoint: [229.92557, 387.50668]	1.093m
+8	- Keypoint: [534.2044, 249.90622]	0.968m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [353.88727, 438.76434]	0.963m
+12	- Keypoint: [496.8477, 423.85794]	0.95m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.963 0.968 1.053 1.093 4.181 4.449 
+: 1.652m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.46344, 43.532013]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [300.89133, 166.66138]	1.06m
+6	- Keypoint: [533.7218, 148.73294]	1.063m
+7	- Keypoint: [222.62315, 389.20288]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [349.03635, 450.6676]	0.966m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.966 1.06 1.063 1.125 4.338 
+: 1.083m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.69785, 24.074448]	0.0m
+4	- Keypoint: [441.16968, 31.50911]	4.132m
+5	- Keypoint: [283.76474, 173.88934]	1.06m
+6	- Keypoint: [525.01514, 148.72107]	1.038m
+7	- Keypoint: [213.24632, 398.61334]	1.086m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.06 1.086 4.132 
+: 1.073m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.1671, 43.044907]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.23834, 163.20276]	1.063m
+6	- Keypoint: [536.85675, 143.8628]	1.083m
+7	- Keypoint: [216.09004, 381.75507]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [342.2058, 443.34622]	0.942m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.063 1.083 1.097 4.393 
+: 1.081m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [364.95038, 19.52243]	0.0m
+4	- Keypoint: [436.69812, 25.20642]	4.036m
+5	- Keypoint: [277.1477, 166.57668]	1.07m
+6	- Keypoint: [523.98236, 146.57256]	1.041m
+7	- Keypoint: [207.90826, 387.6151]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.07 4.036 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.19366, 44.298294]	4.393m
+4	- Keypoint: [468.55978, 43.245224]	4.284m
+5	- Keypoint: [297.1958, 167.10056]	1.066m
+6	- Keypoint: [536.3107, 143.17587]	1.083m
+7	- Keypoint: [220.61333, 390.7531]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.066 1.083 4.284 4.393 
+: 2.684m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.2135, 44.691116]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [295.76205, 163.3605]	1.066m
+6	- Keypoint: [539.15717, 144.68314]	1.086m
+7	- Keypoint: [213.86604, 372.60413]	1.107m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [340.45578, 447.34903]	0.937m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 1.066 1.086 1.107 4.393 
+: 1.086m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [361.2943, 24.48558]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [280.82056, 168.77144]	1.063m
+6	- Keypoint: [530.212, 142.41858]	1.053m
+7	- Keypoint: [200.3505, 368.7318]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [338.30896, 455.29187]	0.95m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.053 1.063 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [366.993, 32.547028]	4.232m
+4	- Keypoint: [444.02594, 36.467407]	4.181m
+5	- Keypoint: [292.72144, 172.76454]	1.063m
+6	- Keypoint: [520.706, 134.12984]	1.047m
+7	- Keypoint: [211.03065, 362.76495]	1.111m
+8	- Keypoint: [537.495, 249.25685]	0.968m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [346.08304, 449.31927]	0.952m
+12	- Keypoint: [491.03668, 439.9817]	0.95m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.952 0.968 1.047 1.063 1.111 4.181 4.232 
+: 1.028m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.94427, 41.44435]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [301.78525, 162.70557]	1.063m
+6	- Keypoint: [533.05084, 150.44131]	1.057m
+7	- Keypoint: [223.74605, 394.9945]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.063 1.125 4.338 
+: 1.094m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [354.01147, 24.51294]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [274.4613, 169.94577]	1.07m
+6	- Keypoint: [529.761, 148.89305]	1.044m
+7	- Keypoint: [221.85475, 399.0062]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.07 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [367.90295, 51.485535]	4.506m
+4	- Keypoint: [468.91028, 50.55667]	4.393m
+5	- Keypoint: [300.52234, 164.84938]	1.063m
+6	- Keypoint: [527.4894, 147.29716]	1.041m
+7	- Keypoint: [219.97427, 396.6984]	1.09m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 1.09 4.393 4.506 
+: 2.182m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [363.3462, 28.763153]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.30856, 167.05275]	1.063m
+6	- Keypoint: [508.03485, 139.66147]	1.025m
+7	- Keypoint: [237.14995, 346.37204]	1.066m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.025 1.063 1.066 4.181 
+: 1.064m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [373.32712, 42.93219]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.75797, 165.94496]	1.066m
+6	- Keypoint: [538.182, 148.46239]	0.0m
+7	- Keypoint: [217.99553, 389.99075]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.066 1.093 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.3354, 29.617996]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [312.50244, 179.42105]	1.035m
+6	- Keypoint: [514.6217, 141.45021]	1.041m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.035 1.041 4.181 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [378.17593, 43.168365]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [303.38483, 162.23083]	1.057m
+6	- Keypoint: [538.2191, 146.83232]	1.083m
+7	- Keypoint: [225.52332, 388.9288]	1.121m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.083 1.121 4.338 
+: 1.102m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [367.43243, 21.861115]	0.0m
+4	- Keypoint: [435.03445, 28.706589]	4.083m
+5	- Keypoint: [285.94327, 168.86443]	1.06m
+6	- Keypoint: [515.5584, 150.22101]	1.041m
+7	- Keypoint: [230.7884, 400.26874]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.06 4.083 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [376.81885, 42.681107]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [305.51953, 162.65619]	1.057m
+6	- Keypoint: [533.0925, 140.61038]	1.083m
+7	- Keypoint: [222.58054, 388.42587]	1.118m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.083 1.118 4.338 
+: 1.1m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.24637, 20.385239]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [296.99368, 166.79373]	1.063m
+6	- Keypoint: [515.61676, 152.27806]	1.041m
+7	- Keypoint: [215.1094, 396.33026]	1.086m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 1.086 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [362.90457, 50.891098]	4.506m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [303.28827, 166.18777]	1.053m
+6	- Keypoint: [528.3363, 152.86319]	1.038m
+7	- Keypoint: [238.0877, 410.8972]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.053 4.506 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [360.0601, 33.3994]	4.232m
+4	- Keypoint: [444.2655, 34.023483]	4.132m
+5	- Keypoint: [295.62842, 178.35883]	1.057m
+6	- Keypoint: [514.33234, 135.2011]	1.041m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.057 4.132 4.232 
+: 2.594m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.08328, 45.09633]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [300.49164, 166.25293]	1.06m
+6	- Keypoint: [533.9348, 148.34245]	1.066m
+7	- Keypoint: [218.98434, 386.84695]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.06 1.066 1.093 4.393 
+: 1.08m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [363.325, 24.164307]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [285.8263, 168.89629]	1.063m
+6	- Keypoint: [528.63544, 151.35815]	1.041m
+7	- Keypoint: [203.06563, 388.58093]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.83575, 42.987488]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [304.37234, 163.87753]	1.057m
+6	- Keypoint: [537.3806, 146.9501]	0.0m
+7	- Keypoint: [217.64558, 379.00278]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [353.5433, 444.66028]	0.963m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.057 1.093 4.338 
+: 1.075m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [365.97446, 20.377197]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [283.26273, 165.1047]	1.066m
+6	- Keypoint: [517.29095, 139.49146]	1.041m
+7	- Keypoint: [202.72038, 380.07294]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.0599, 43.95378]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.6161, 163.68944]	1.05m
+6	- Keypoint: [533.91254, 140.40253]	1.086m
+7	- Keypoint: [222.83922, 391.80255]	1.125m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [353.6299, 449.89276]	0.977m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.977 1.05 1.086 1.125 4.393 
+: 1.087m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.04425, 24.45845]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [289.08026, 168.38629]	1.063m
+6	- Keypoint: [526.7556, 151.44469]	1.038m
+7	- Keypoint: [221.1706, 399.30017]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [387.82928, 43.636917]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [317.4793, 163.07271]	1.041m
+6	- Keypoint: [542.27136, 145.6283]	0.0m
+7	- Keypoint: [234.73036, 396.56674]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 4.338 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.16003, 51.247223]	4.506m
+4	- Keypoint: [461.8931, 43.751175]	4.284m
+5	- Keypoint: [325.25696, 172.79642]	1.038m
+6	- Keypoint: [518.5054, 128.10791]	1.047m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [532.613, 243.39822]	0.968m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [492.71658, 413.1329]	0.958m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 0.968 1.038 1.047 4.284 4.506 
+: 1.834m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [374.6116, 45.578506]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [297.39133, 163.33447]	1.066m
+6	- Keypoint: [537.72925, 145.48584]	1.083m
+7	- Keypoint: [211.20378, 373.87234]	1.104m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [341.19315, 444.06354]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.066 1.083 1.104 4.393 
+: 1.084m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [370.19208, 24.585953]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [289.83603, 166.62495]	1.063m
+6	- Keypoint: [529.01416, 141.85516]	1.05m
+7	- Keypoint: [197.64493, 369.02185]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [386.65817, 42.018677]	4.393m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [319.9262, 161.51991]	1.041m
+6	- Keypoint: [535.98883, 149.13919]	1.07m
+7	- Keypoint: [239.20488, 400.68835]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 1.07 4.393 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [383.76236, 24.729767]	4.083m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [318.1577, 166.63693]	1.038m
+6	- Keypoint: [496.99902, 156.15208]	1.011m
+7	- Keypoint: [245.76152, 391.77234]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.011 1.038 4.083 
+: 1.024m
+
+09-47-29:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.76355, 42.67717]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [300.75977, 164.04797]	1.063m
+6	- Keypoint: [532.94025, 154.91507]	1.038m
+7	- Keypoint: [219.5057, 384.53738]	1.097m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.063 1.097 4.338 
+: 1.08m
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [369.4713, 25.455551]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [291.38696, 166.52979]	1.066m
+6	- Keypoint: [530.1654, 148.14586]	1.044m
+7	- Keypoint: [203.49786, 377.4792]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [372.57053, 49.373352]	4.506m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [308.91272, 163.83818]	1.05m
+6	- Keypoint: [533.16077, 158.84521]	1.038m
+7	- Keypoint: [228.97104, 399.05676]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.05 4.506 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [380.83987, 32.795135]	4.232m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [313.88126, 173.57907]	1.038m
+6	- Keypoint: [526.4622, 149.48303]	1.041m
+7	- Keypoint: [241.95433, 386.22888]	0.977m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.977 1.038 1.041 4.232 
+: 1.039m
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [379.8693, 42.22174]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [310.82657, 161.96039]	1.05m
+6	- Keypoint: [535.6391, 151.13228]	1.066m
+7	- Keypoint: [234.88313, 397.33444]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.066 4.338 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [394.8687, 30.558487]	4.132m
+4	- Keypoint: [429.05896, 36.678528]	4.232m
+5	- Keypoint: [331.30478, 169.86232]	1.041m
+6	- Keypoint: [493.5912, 148.26566]	1.016m
+7	- Keypoint: [258.02426, 379.0614]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.016 1.041 4.132 4.232 
+: 2.063m
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [375.1945, 45.377304]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [302.58774, 163.48372]	1.06m
+6	- Keypoint: [536.7055, 150.83469]	1.066m
+7	- Keypoint: [220.93188, 384.66794]	1.1m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.06 1.066 1.1 4.449 
+: 1.083m
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [366.28366, 29.263641]	4.181m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [288.61035, 170.34671]	1.06m
+6	- Keypoint: [532.05347, 147.14613]	1.057m
+7	- Keypoint: [217.6055, 390.18326]	1.093m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.06 1.093 4.181 
+: 1.076m
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [371.3074, 50.507507]	4.506m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [312.8238, 164.70297]	1.044m
+6	- Keypoint: [533.6008, 160.75249]	1.038m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.038 1.044 4.506 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-30:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [367.39517, 34.510727]	4.284m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [311.09985, 175.72272]	1.032m
+6	- Keypoint: [536.913, 161.40848]	1.041m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.032 1.041 4.284 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [297.4574, 52.438766]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [261.4308, 138.26767]	1.05m
+6	- Keypoint: [460.51184, 130.27396]	1.073m
+7	- Keypoint: [196.35114, 372.57452]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [323.15698, 438.4445]	1.019m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.019 1.05 1.073 4.689 
+: 1.047m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [291.8037, 53.62892]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [253.12204, 142.1096]	1.057m
+6	- Keypoint: [461.9156, 127.57564]	1.076m
+7	- Keypoint: [188.70311, 375.67938]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [306.2845, 443.26974]	0.982m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.982 1.057 1.076 4.626 
+: 1.038m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [301.70523, 52.40236]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.14108, 146.88457]	1.053m
+6	- Keypoint: [465.13596, 136.04]	1.073m
+7	- Keypoint: [184.0071, 372.30505]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [312.2985, 451.1007]	1.011m
+12	- Keypoint: [446.49222, 448.08783]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.955 1.011 1.053 1.073 4.626 
+: 1.023m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.4659, 56.71144]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [251.27362, 141.26195]	1.06m
+6	- Keypoint: [464.89328, 141.5105]	1.073m
+7	- Keypoint: [182.98488, 378.9225]	0.958m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [299.46436, 446.3058]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.06 1.073 4.689 
+: 1.066m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.87524, 56.20923]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.1895, 141.03015]	1.053m
+6	- Keypoint: [464.0033, 137.8425]	1.073m
+7	- Keypoint: [194.63126, 376.3194]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [315.37018, 444.20044]	1.019m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.019 1.053 1.073 4.689 
+: 1.048m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [304.65942, 49.25145]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [245.81723, 143.37952]	1.057m
+6	- Keypoint: [470.6529, 135.04858]	0.0m
+7	- Keypoint: [173.45029, 346.73807]	1.044m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [303.42264, 445.58997]	0.977m
+12	- Keypoint: [446.2287, 443.46082]	0.958m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 0.977 1.044 1.057 4.566 
+: 1.026m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [219.72687, 147.68018]	1.07m
+6	- Keypoint: [466.7079, 118.79076]	0.0m
+7	- Keypoint: [159.38664, 368.91864]	1.07m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [285.7459, 455.93457]	0.0m
+12	- Keypoint: [446.6303, 447.1664]	0.958m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.07 1.07 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [303.14343, 56.095917]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [249.60233, 143.74643]	1.057m
+6	- Keypoint: [469.4762, 131.42566]	0.0m
+7	- Keypoint: [181.16278, 360.347]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [299.218, 431.77075]	0.963m
+12	- Keypoint: [443.77332, 427.13266]	0.963m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 0.963 1.057 4.689 
+: 1.01m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [302.46558, 50.06549]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [250.98416, 145.28699]	1.057m
+6	- Keypoint: [466.53708, 133.59146]	1.076m
+7	- Keypoint: [180.54185, 359.7394]	1.044m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [308.20114, 445.25806]	0.996m
+12	- Keypoint: [445.74326, 441.96735]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.996 1.044 1.057 1.076 4.566 
+: 1.043m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [227.93262, 142.80928]	1.07m
+6	- Keypoint: [461.54633, 104.587746]	5.419m
+7	- Keypoint: [165.48677, 376.00916]	1.07m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [292.35727, 456.85785]	0.966m
+12	- Keypoint: [446.96756, 444.4082]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.966 1.07 1.07 5.419 
+: 1.035m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [304.87952, 48.404297]	4.506m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [252.46579, 147.58618]	1.053m
+6	- Keypoint: [470.52374, 134.27464]	0.0m
+7	- Keypoint: [184.11458, 370.46472]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [305.0504, 447.0127]	0.99m
+12	- Keypoint: [445.39404, 443.486]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.96 0.99 1.053 4.506 
+: 1.001m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [221.28647, 145.73633]	1.073m
+6	- Keypoint: [459.4349, 107.90074]	5.593m
+7	- Keypoint: [165.38043, 379.72382]	1.073m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [291.80365, 460.5208]	0.96m
+12	- Keypoint: [446.2078, 447.83514]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.96 1.073 1.073 5.593 
+: 1.035m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.7576, 58.78746]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [253.48569, 143.01617]	1.057m
+6	- Keypoint: [471.7072, 136.81532]	0.0m
+7	- Keypoint: [188.46365, 371.33023]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [306.4918, 436.76398]	0.977m
+12	- Keypoint: [453.75568, 433.75888]	0.958m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.958 0.977 1.057 4.753 
+: 0.997m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [262.70856, 25.72934]	4.132m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [215.16934, 162.7151]	1.057m
+6	- Keypoint: [465.06445, 124.462975]	0.0m
+7	- Keypoint: [156.2434, 388.39005]	1.06m
+8	- Keypoint: [486.26562, 294.87775]	0.982m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [282.6564, 457.82404]	0.945m
+12	- Keypoint: [449.88672, 444.53085]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 0.955 0.982 1.057 1.06 4.132 
+: 1.014m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.61087, 55.600815]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.35315, 148.06195]	1.05m
+6	- Keypoint: [471.3053, 142.8718]	1.08m
+7	- Keypoint: [180.72311, 366.28583]	0.966m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [305.78668, 446.8186]	0.99m
+12	- Keypoint: [441.92026, 446.57834]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.966 0.99 1.05 1.08 4.689 
+: 1.022m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [239.87296, 147.0745]	1.057m
+6	- Keypoint: [463.2431, 140.56233]	1.073m
+7	- Keypoint: [175.33311, 404.32336]	0.982m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.982 1.057 1.073 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [305.62387, 54.630554]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [245.53392, 145.10199]	1.057m
+6	- Keypoint: [470.35577, 141.6604]	1.08m
+7	- Keypoint: [170.43925, 360.60446]	1.053m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [297.98694, 449.83844]	0.0m
+12	- Keypoint: [441.58777, 450.63025]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.057 1.08 4.626 
+: 1.068m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [273.3642, 22.687653]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [227.33736, 145.40085]	1.066m
+6	- Keypoint: [465.573, 119.09939]	0.0m
+7	- Keypoint: [172.249, 375.10895]	1.057m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [288.5049, 455.225]	0.952m
+12	- Keypoint: [447.6538, 446.64294]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.955 1.057 1.066 
+: 1.006m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [306.5669, 59.578247]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [254.18436, 139.7981]	1.057m
+6	- Keypoint: [474.6516, 147.0422]	0.0m
+7	- Keypoint: [180.54964, 365.1333]	1.047m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [304.38208, 444.70624]	0.979m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.979 1.047 1.057 4.753 
+: 1.052m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [309.74313, 55.628662]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [249.35287, 146.61168]	1.057m
+6	- Keypoint: [473.4383, 138.6835]	0.0m
+7	- Keypoint: [172.9449, 359.23355]	1.05m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [303.99222, 446.84683]	0.982m
+12	- Keypoint: [445.40155, 446.74734]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.982 1.05 1.057 4.689 
+: 1.03m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [284.29822, 53.83705]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [240.34958, 142.59464]	1.06m
+6	- Keypoint: [466.67154, 125.79863]	0.0m
+7	- Keypoint: [181.70398, 392.96637]	0.958m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.06 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [305.83966, 60.0011]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [252.945, 143.45682]	1.057m
+6	- Keypoint: [473.89, 143.25735]	0.0m
+7	- Keypoint: [186.72438, 372.6101]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [299.44427, 439.05212]	0.96m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.96 1.057 4.753 
+: 1.008m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [218.9396, 162.61844]	1.057m
+6	- Keypoint: [465.73746, 125.61854]	0.0m
+7	- Keypoint: [161.67581, 387.30188]	1.063m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [327.19928, 160.36404]	1.057m
+6	- Keypoint: [349.8932, 134.46954]	1.066m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [307.98898, 56.40396]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [249.70494, 149.66524]	1.053m
+6	- Keypoint: [475.73883, 140.47742]	0.0m
+7	- Keypoint: [172.89735, 362.7901]	1.053m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [298.9858, 445.08557]	0.955m
+12	- Keypoint: [444.00845, 443.07]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.96 1.053 1.053 4.689 
+: 1.022m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.3706, 56.182556]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.04434, 146.94476]	1.053m
+6	- Keypoint: [473.34668, 143.75359]	0.0m
+7	- Keypoint: [179.75056, 369.5427]	1.047m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [292.67236, 440.35153]	0.945m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 1.047 1.053 4.689 
+: 1.05m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [318.33063, 55.27191]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [257.8465, 146.44861]	1.053m
+6	- Keypoint: [473.4029, 142.09505]	0.0m
+7	- Keypoint: [179.52303, 364.81647]	1.047m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [300.49045, 445.30865]	0.96m
+12	- Keypoint: [436.39853, 446.21906]	0.963m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.963 1.047 1.053 4.689 
+: 1.021m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [232.83089, 146.9758]	1.057m
+6	- Keypoint: [471.31866, 124.02169]	0.0m
+7	- Keypoint: [175.27039, 381.66315]	1.057m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [286.73273, 447.8142]	0.93m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.93 1.057 1.057 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [317.57224, 60.57695]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.05884, 144.02585]	1.047m
+6	- Keypoint: [478.07834, 144.02246]	1.114m
+7	- Keypoint: [187.98705, 373.09076]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [304.85477, 440.3225]	0.971m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.971 1.047 1.114 4.753 
+: 1.044m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [277.66196, 17.488129]	4.036m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [228.10483, 148.94196]	1.06m
+6	- Keypoint: [465.65942, 122.57818]	0.0m
+7	- Keypoint: [171.46396, 373.39093]	1.057m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [289.8919, 447.8907]	0.935m
+12	- Keypoint: [447.56525, 440.71686]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.935 0.96 1.057 1.06 4.036 
+: 1.026m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [313.93542, 52.60437]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [255.11713, 151.55023]	1.047m
+6	- Keypoint: [472.41736, 143.15712]	0.0m
+7	- Keypoint: [180.59175, 379.98328]	0.96m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [307.61966, 454.35004]	0.999m
+12	- Keypoint: [445.8367, 454.1617]	1.035m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.999 1.035 1.047 4.626 
+: 1.027m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.33914, 57.312195]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [260.8399, 150.96094]	1.044m
+6	- Keypoint: [468.2412, 135.99977]	0.0m
+7	- Keypoint: [200.01105, 423.7863]	0.912m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.912 1.044 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [314.7823, 53.402557]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.68564, 150.886]	1.041m
+6	- Keypoint: [469.9454, 135.77713]	0.0m
+7	- Keypoint: [189.41498, 376.1549]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [312.34183, 446.39874]	1.008m
+12	- Keypoint: [443.2054, 442.1909]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.96 1.008 1.041 4.626 
+: 1.003m
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [236.16245, 150.882]	1.053m
+6	- Keypoint: [464.34628, 109.66059]	0.0m
+7	- Keypoint: [179.46481, 398.958]	0.96m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 1.053 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-31:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [313.39285, 59.347412]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.09396, 144.21906]	1.05m
+6	- Keypoint: [475.33273, 146.87802]	0.0m
+7	- Keypoint: [184.1354, 373.2001]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 1.05 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [291.64578, 64.62535]	4.886m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [248.30405, 154.4235]	1.053m
+6	- Keypoint: [459.46716, 139.01971]	1.07m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.07 4.886 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [326.42633, 56.973312]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [277.226, 147.11151]	1.044m
+6	- Keypoint: [478.31226, 147.3505]	1.111m
+7	- Keypoint: [199.32497, 401.966]	0.922m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.922 1.044 1.111 4.689 
+: 1.078m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [297.47348, 57.63536]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [258.29642, 150.17859]	1.044m
+6	- Keypoint: [469.21423, 136.15988]	1.083m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 1.083 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [315.25537, 53.030914]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [261.1262, 149.9713]	1.044m
+6	- Keypoint: [471.0289, 143.5418]	1.086m
+7	- Keypoint: [187.48149, 377.83844]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [306.8088, 450.60663]	0.996m
+12	- Keypoint: [441.45505, 449.92688]	0.963m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.963 0.996 1.044 1.086 4.689 
+: 1.022m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [292.33765, 53.47296]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [257.35355, 147.92093]	1.05m
+6	- Keypoint: [463.70392, 141.36395]	1.073m
+7	- Keypoint: [193.61392, 421.60928]	0.922m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.922 1.05 1.073 4.689 
+: 1.062m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [323.51807, 59.85727]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [272.2664, 147.13553]	1.041m
+6	- Keypoint: [478.9146, 147.3399]	0.0m
+7	- Keypoint: [195.7459, 396.5525]	0.93m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.93 1.041 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [297.60077, 56.051987]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.76532, 147.3739]	1.044m
+6	- Keypoint: [470.9596, 139.99295]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.044 4.753 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [311.01053, 58.72995]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.33624, 144.22113]	1.05m
+6	- Keypoint: [471.9127, 150.50961]	1.073m
+7	- Keypoint: [187.61824, 375.46713]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [305.5189, 445.8675]	0.982m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.982 1.05 1.073 4.689 
+: 1.035m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.56766, 61.008347]	4.818m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.74603, 145.77344]	1.053m
+6	- Keypoint: [478.73254, 147.5677]	0.0m
+7	- Keypoint: [189.27316, 377.4217]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [304.2647, 441.70935]	0.971m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.971 1.053 4.818 
+: 1.012m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [278.7073, 12.435913]	3.99m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [223.31638, 164.77682]	1.05m
+6	- Keypoint: [477.1488, 135.59023]	0.0m
+7	- Keypoint: [163.48811, 397.91034]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 3.99 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [315.72778, 60.217743]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [267.96283, 143.56615]	1.044m
+6	- Keypoint: [477.97366, 144.9708]	0.0m
+7	- Keypoint: [191.10063, 375.90186]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.044 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [230.46912, 154.43794]	1.053m
+6	- Keypoint: [460.29315, 133.6987]	1.073m
+7	- Keypoint: [171.76608, 394.40756]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 1.073 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [309.2194, 53.060425]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [248.2228, 148.85599]	1.057m
+6	- Keypoint: [474.09525, 142.61821]	0.0m
+7	- Keypoint: [175.9229, 365.13342]	1.05m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [296.96896, 452.4068]	0.968m
+12	- Keypoint: [443.25183, 451.2281]	1.035m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.968 1.035 1.05 1.057 4.626 
+: 1.047m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [231.59659, 147.59926]	1.057m
+6	- Keypoint: [473.00647, 121.831]	0.0m
+7	- Keypoint: [169.45132, 374.8258]	1.066m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [290.57544, 454.22302]	0.96m
+12	- Keypoint: [449.58823, 447.70886]	0.955m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 0.96 1.057 1.066 
+: 1.008m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.8333, 57.723373]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [253.64084, 145.12634]	1.057m
+6	- Keypoint: [469.04193, 141.18832]	1.08m
+7	- Keypoint: [186.35439, 385.8089]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [313.33334, 447.69257]	1.016m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.016 1.057 1.08 4.689 
+: 1.051m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.7148, 57.272125]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.73425, 142.91585]	1.053m
+6	- Keypoint: [471.40247, 145.20276]	1.08m
+7	- Keypoint: [187.66887, 375.80478]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [300.84238, 445.06393]	0.96m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.96 1.053 1.08 4.753 
+: 1.031m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [271.23926, 22.666336]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [221.14317, 149.53586]	1.066m
+6	- Keypoint: [466.44318, 117.9575]	0.0m
+7	- Keypoint: [158.44766, 381.00452]	1.066m
+8	- Keypoint: [487.98297, 302.6364]	0.982m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [289.0351, 457.56247]	0.955m
+12	- Keypoint: [451.18082, 448.01965]	0.952m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.955 0.982 1.066 1.066 
+: 1.001m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.24048, 60.18898]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.141, 146.784]	1.044m
+6	- Keypoint: [472.9285, 148.98712]	1.076m
+7	- Keypoint: [193.92964, 389.16797]	0.937m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 1.044 1.076 4.753 
+: 1.06m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.6817, 56.937912]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [264.18506, 146.73897]	1.044m
+6	- Keypoint: [476.30045, 149.78345]	0.0m
+7	- Keypoint: [191.51677, 392.33972]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.044 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [247.28442, 158.99692]	1.047m
+6	- Keypoint: [460.08167, 150.53384]	1.066m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.066 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [318.606, 58.16577]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.26175, 142.94638]	1.05m
+6	- Keypoint: [478.6906, 146.27025]	0.0m
+7	- Keypoint: [185.06895, 384.1906]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [298.20688, 442.72403]	0.952m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.952 1.05 4.689 
+: 1.001m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.86966, 57.700638]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.46484, 142.92856]	1.053m
+6	- Keypoint: [474.2177, 143.40787]	0.0m
+7	- Keypoint: [192.07631, 379.9696]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [305.45743, 447.73926]	0.988m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 0.988 1.053 4.753 
+: 1.02m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [273.37476, 30.646408]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [231.53625, 142.3126]	1.063m
+6	- Keypoint: [465.3813, 127.36554]	0.0m
+7	- Keypoint: [174.5085, 387.55267]	1.06m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.06 1.063 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [312.29303, 58.61995]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [260.73984, 141.83647]	1.05m
+6	- Keypoint: [472.1615, 147.16208]	1.076m
+7	- Keypoint: [191.10005, 372.17517]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [300.48782, 443.11227]	0.958m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.958 1.05 1.076 4.689 
+: 1.028m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [317.42328, 51.435394]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [261.1548, 144.20724]	1.047m
+6	- Keypoint: [475.1046, 144.75435]	0.0m
+7	- Keypoint: [188.78757, 371.98016]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [303.9803, 441.47537]	0.966m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 0.966 1.047 4.566 
+: 1.006m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [303.63205, 58.523224]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [252.43158, 143.57507]	1.057m
+6	- Keypoint: [468.951, 149.27951]	1.07m
+7	- Keypoint: [187.20181, 376.31482]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [302.29947, 447.18863]	0.977m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.977 1.057 1.07 4.753 
+: 1.035m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [263.64114, 23.311264]	4.083m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [211.83708, 159.56577]	1.06m
+6	- Keypoint: [463.72784, 127.97093]	1.08m
+7	- Keypoint: [159.16254, 383.35037]	1.063m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [283.77805, 459.53247]	0.947m
+12	- Keypoint: [450.97128, 450.36786]	0.952m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.952 1.06 1.063 1.08 4.083 
+: 1.039m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [309.41638, 62.872406]	4.818m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [255.97723, 147.01642]	1.053m
+6	- Keypoint: [474.42178, 139.92516]	0.0m
+7	- Keypoint: [188.16998, 383.9069]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [302.28937, 442.55106]	0.963m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.963 1.053 4.818 
+: 1.008m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.79077, 59.712784]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [268.0057, 147.51935]	1.041m
+6	- Keypoint: [475.30786, 146.29187]	0.0m
+7	- Keypoint: [193.79703, 395.47302]	0.935m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.935 1.041 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [284.29578, 52.587875]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [248.59624, 146.01175]	1.057m
+6	- Keypoint: [465.9991, 142.78561]	1.07m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.07 4.626 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [306.01633, 57.903503]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [249.97427, 141.30933]	1.06m
+6	- Keypoint: [470.56174, 149.74777]	1.07m
+7	- Keypoint: [180.06372, 371.0081]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [291.86752, 447.57086]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.06 1.07 4.689 
+: 1.065m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [320.07257, 56.676514]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [268.8545, 147.22183]	1.041m
+6	- Keypoint: [475.8581, 151.36331]	1.125m
+7	- Keypoint: [191.71062, 393.11255]	0.937m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 1.041 1.125 4.689 
+: 1.083m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [297.43182, 27.932571]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [241.55322, 153.05962]	1.053m
+6	- Keypoint: [477.39984, 137.97661]	0.0m
+7	- Keypoint: [178.89754, 381.63242]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.053 
+Number of Depth points: 1 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.07013, 51.359802]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [254.30954, 149.11429]	1.053m
+6	- Keypoint: [476.78064, 144.91312]	0.0m
+7	- Keypoint: [181.95389, 379.3533]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [293.8771, 441.07324]	0.942m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.053 4.566 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [308.47177, 59.290314]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [252.22058, 145.98566]	1.057m
+6	- Keypoint: [474.4266, 149.99155]	1.125m
+7	- Keypoint: [180.44865, 374.79865]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.963 1.057 1.125 4.753 
+: 1.091m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [283.2366, 28.172134]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [226.82419, 152.9233]	1.06m
+6	- Keypoint: [471.37067, 130.98407]	0.0m
+7	- Keypoint: [167.3158, 381.649]	1.07m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [290.27475, 454.094]	0.952m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.06 1.07 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [284.87112, 31.95169]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [222.85811, 161.72581]	1.057m
+6	- Keypoint: [479.15112, 136.0903]	0.0m
+7	- Keypoint: [162.58212, 387.37592]	1.07m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.057 1.07 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [302.643, 58.244125]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [252.85281, 144.37476]	1.057m
+6	- Keypoint: [467.065, 151.17734]	1.066m
+7	- Keypoint: [190.58656, 383.58826]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [299.89072, 452.98184]	0.979m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 0.979 1.057 1.066 4.753 
+: 1.034m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [302.58792, 57.03624]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [250.0373, 147.53366]	1.053m
+6	- Keypoint: [471.48386, 152.05487]	1.066m
+7	- Keypoint: [182.93987, 388.9182]	0.958m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.958 1.053 1.066 4.753 
+: 1.06m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [304.65558, 58.195206]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [251.47366, 146.41008]	1.057m
+6	- Keypoint: [470.9245, 151.21915]	1.066m
+7	- Keypoint: [183.01717, 384.98376]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.057 1.066 4.753 
+: 1.062m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [308.64874, 57.407272]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [260.84302, 147.1654]	1.044m
+6	- Keypoint: [470.57986, 145.40588]	1.073m
+7	- Keypoint: [190.91978, 389.99493]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.044 1.073 4.689 
+: 1.058m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [315.38013, 60.05681]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.99, 148.01695]	1.041m
+6	- Keypoint: [472.38843, 151.0843]	1.066m
+7	- Keypoint: [188.66747, 398.5395]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.041 1.066 4.753 
+: 1.054m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [289.6112, 52.997055]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [244.0368, 152.87651]	1.057m
+6	- Keypoint: [470.01294, 140.12955]	1.08m
+7	- Keypoint: [184.66144, 399.04248]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.057 1.08 4.689 
+: 1.068m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [302.98145, 56.722656]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [248.09192, 149.11818]	1.057m
+6	- Keypoint: [471.88458, 146.3734]	1.07m
+7	- Keypoint: [182.57019, 387.6883]	0.958m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [294.3185, 447.00067]	0.945m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 0.958 1.057 1.07 4.689 
+: 1.028m
+
+09-47-32:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.2746, 59.494705]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [258.35928, 148.0839]	1.047m
+6	- Keypoint: [470.466, 153.38449]	1.066m
+7	- Keypoint: [188.1252, 386.56464]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.047 1.066 4.753 
+: 1.056m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.2956, 59.646194]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [265.6815, 148.52814]	1.041m
+6	- Keypoint: [477.14905, 153.23196]	0.0m
+7	- Keypoint: [189.90161, 391.00787]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.041 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [312.62546, 54.413452]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.11063, 146.5745]	1.053m
+6	- Keypoint: [477.06458, 146.63223]	0.0m
+7	- Keypoint: [186.90396, 381.44662]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.053 4.626 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [292.49796, 47.400482]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [246.90878, 148.6741]	1.057m
+6	- Keypoint: [466.57462, 141.38507]	1.073m
+7	- Keypoint: [184.90546, 392.83124]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.057 1.073 4.566 
+: 1.065m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [294.30023, 39.967407]	4.449m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [238.51576, 155.67181]	1.053m
+6	- Keypoint: [474.4223, 135.94093]	0.0m
+7	- Keypoint: [178.05615, 386.34027]	0.968m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.968 1.053 4.449 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [313.7185, 56.835327]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [263.43048, 145.59758]	1.044m
+6	- Keypoint: [474.95877, 143.58707]	0.0m
+7	- Keypoint: [192.59108, 390.12012]	0.937m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 1.044 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [320.2833, 60.04048]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [270.12375, 149.53241]	1.038m
+6	- Keypoint: [477.00516, 147.24503]	0.0m
+7	- Keypoint: [195.44463, 393.21057]	0.932m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.932 1.038 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [304.86108, 59.702454]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [251.3632, 149.45395]	1.053m
+6	- Keypoint: [469.04037, 151.62976]	1.066m
+7	- Keypoint: [185.70844, 388.59827]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.053 1.066 4.753 
+: 1.06m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [309.29855, 59.94751]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [255.83624, 150.82971]	1.05m
+6	- Keypoint: [474.76794, 152.16425]	0.0m
+7	- Keypoint: [187.91656, 392.88254]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.05 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [289.2251, 68.1927]	4.956m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [246.35226, 172.71967]	1.041m
+6	- Keypoint: [459.5927, 165.57584]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.041 4.956 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [312.20224, 60.92534]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.0219, 149.46204]	1.047m
+6	- Keypoint: [478.50922, 154.0069]	0.0m
+7	- Keypoint: [184.64731, 382.09467]	0.955m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.955 1.047 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [299.24884, 51.80536]	4.626m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [256.53275, 170.2909]	1.029m
+6	- Keypoint: [473.70764, 164.25763]	1.063m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.029 1.063 4.626 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [302.70798, 59.35591]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [247.43643, 147.15088]	1.057m
+6	- Keypoint: [470.5642, 148.35043]	1.07m
+7	- Keypoint: [183.85545, 376.71683]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [292.64902, 447.77155]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 0.963 1.057 1.07 4.753 
+: 1.03m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [318.16003, 60.68422]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.2105, 146.56772]	1.044m
+6	- Keypoint: [477.18243, 148.34744]	0.0m
+7	- Keypoint: [185.50177, 378.63602]	0.958m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [297.5035, 445.46634]	0.95m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 0.958 1.044 4.753 
+: 1.001m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.44244, 56.276733]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [254.33746, 150.372]	1.05m
+6	- Keypoint: [474.0526, 135.13005]	0.0m
+7	- Keypoint: [179.3652, 385.23834]	1.053m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.05 1.053 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [310.0373, 58.426407]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [254.93263, 143.05255]	1.057m
+6	- Keypoint: [471.29947, 149.38995]	1.07m
+7	- Keypoint: [184.73396, 372.93323]	0.963m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [292.2608, 445.43628]	0.94m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 0.963 1.057 1.07 4.753 
+: 1.03m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [318.20352, 60.019226]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [266.00708, 146.48808]	1.041m
+6	- Keypoint: [476.5852, 147.07841]	0.0m
+7	- Keypoint: [189.93123, 385.88165]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 1.041 4.753 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [299.26767, 53.747177]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [257.6132, 152.14458]	1.044m
+6	- Keypoint: [465.88177, 150.16031]	1.066m
+7	- Keypoint: [189.15317, 396.06128]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.044 1.066 4.689 
+: 1.055m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [278.6699, 16.832825]	4.036m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [227.64603, 162.33945]	1.047m
+6	- Keypoint: [471.56598, 125.24011]	0.0m
+7	- Keypoint: [165.23415, 378.45258]	1.066m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.066 4.036 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [305.19482, 58.962906]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [255.0502, 146.52773]	1.053m
+6	- Keypoint: [469.00378, 149.76367]	1.07m
+7	- Keypoint: [187.45576, 377.5754]	0.952m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.952 1.053 1.07 4.753 
+: 1.062m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [320.62152, 59.630783]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [267.3703, 146.34631]	1.041m
+6	- Keypoint: [479.03403, 149.95819]	0.0m
+7	- Keypoint: [192.73238, 385.12543]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.041 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [241.57013, 154.2922]	1.053m
+6	- Keypoint: [465.9749, 140.57751]	1.073m
+7	- Keypoint: [185.1992, 395.8536]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.053 1.073 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [313.76935, 58.081467]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [263.79865, 145.6141]	1.044m
+6	- Keypoint: [475.2743, 145.63103]	0.0m
+7	- Keypoint: [192.74529, 383.47806]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [311.24933, 445.89896]	1.002m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.002 1.044 4.753 
+: 1.023m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [0.0, 0.0]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [231.38158, 162.18362]	1.047m
+6	- Keypoint: [474.37048, 136.38348]	0.0m
+7	- Keypoint: [180.17238, 408.57452]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 1.047 
+Number of Depth points: 2 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [314.4193, 57.84523]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [261.68805, 148.70572]	1.044m
+6	- Keypoint: [475.09702, 149.63235]	0.0m
+7	- Keypoint: [190.82925, 390.3049]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 1.044 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [300.32993, 35.453094]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [251.2851, 154.94455]	1.05m
+6	- Keypoint: [470.1313, 149.68127]	1.07m
+7	- Keypoint: [188.20685, 401.5774]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.05 1.07 4.338 
+: 1.06m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.1116, 58.664978]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [266.70264, 141.95181]	1.044m
+6	- Keypoint: [474.98303, 150.22379]	0.0m
+7	- Keypoint: [192.369, 373.17944]	0.945m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.945 1.044 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [294.19055, 54.764267]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [254.79538, 166.27696]	1.032m
+6	- Keypoint: [464.58838, 150.72392]	1.066m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.032 1.066 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.60217, 59.688614]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [263.9168, 148.62286]	1.044m
+6	- Keypoint: [475.2049, 147.95639]	0.0m
+7	- Keypoint: [191.80998, 384.20752]	0.942m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [311.33453, 442.9454]	0.996m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.942 0.996 1.044 4.753 
+: 1.02m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [305.327, 54.130173]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [259.00195, 157.23161]	1.035m
+6	- Keypoint: [474.85498, 148.99115]	0.0m
+7	- Keypoint: [190.77917, 397.58264]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.035 4.689 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [315.03363, 62.663162]	4.818m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [262.45703, 146.51645]	1.044m
+6	- Keypoint: [476.70624, 151.16287]	0.0m
+7	- Keypoint: [189.26811, 382.7743]	0.95m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.95 1.044 4.818 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [285.41547, 49.323105]	4.566m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [245.3707, 161.68314]	1.047m
+6	- Keypoint: [460.63168, 155.77396]	1.066m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+1.047 1.066 4.566 
+Number of Depth points: 3 - Not enough keypoints!
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [323.6837, 57.872803]	4.689m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [270.0874, 148.06285]	1.038m
+6	- Keypoint: [483.90198, 154.34369]	1.111m
+7	- Keypoint: [188.8002, 392.8503]	0.947m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.947 1.038 1.111 4.689 
+: 1.074m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [303.97565, 36.451004]	4.338m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [245.78517, 164.48979]	1.047m
+6	- Keypoint: [472.437, 134.40573]	0.0m
+7	- Keypoint: [180.88933, 381.49957]	0.963m
+8	- Keypoint: [484.06128, 300.4748]	0.982m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [303.3891, 443.278]	0.963m
+12	- Keypoint: [451.17963, 435.40308]	0.96m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.96 0.963 0.963 0.982 1.047 4.338 
+: 0.989m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [316.5015, 61.088867]	4.753m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [264.31918, 149.68425]	1.041m
+6	- Keypoint: [473.41183, 147.60349]	1.08m
+7	- Keypoint: [193.62659, 388.2878]	0.937m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.937 1.041 1.08 4.753 
+: 1.06m
+
+09-47-33:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [322.41016, 64.17459]	4.818m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [267.60165, 149.5767]	1.038m
+6	- Keypoint: [479.05646, 150.2493]	0.0m
+7	- Keypoint: [192.81989, 387.31888]	0.94m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+0.94 1.038 4.818 
+Number of Depth points: 3 - Not enough keypoints!
+

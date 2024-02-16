@@ -1,0 +1,20 @@
+11-19-25:
+11-19-25:
+0	- Keypoint: [0.0, 0.0]	0.0m
+1	- Keypoint: [0.0, 0.0]	0.0m
+2	- Keypoint: [0.0, 0.0]	0.0m
+3	- Keypoint: [15.742189, 155.88765]	0.0m
+4	- Keypoint: [0.0, 0.0]	0.0m
+5	- Keypoint: [0.0, 0.0]	0.0m
+6	- Keypoint: [0.0, 0.0]	0.0m
+7	- Keypoint: [0.0, 0.0]	0.0m
+8	- Keypoint: [0.0, 0.0]	0.0m
+9	- Keypoint: [0.0, 0.0]	0.0m
+10	- Keypoint: [0.0, 0.0]	0.0m
+11	- Keypoint: [0.0, 0.0]	0.0m
+12	- Keypoint: [0.0, 0.0]	0.0m
+13	- Keypoint: [0.0, 0.0]	0.0m
+14	- Keypoint: [0.0, 0.0]	0.0m
+15	- Keypoint: [0.0, 0.0]	0.0m
+16	- Keypoint: [0.0, 0.0]	0.0m
+
