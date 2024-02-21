@@ -7,6 +7,7 @@ from rclpy.action import ActionServer
 
 from std_msgs.msg import Int32, Int32MultiArray
 from demorobot_action_interfaces.action import RobotNamespace
+from demorobot_action_interfaces.action import RobotMode
 
 class NamespaceActionServer(Node):
     def __init__(self):
@@ -31,7 +32,7 @@ class NamespaceActionServer(Node):
         self.pub_device_list.publish(self.device_list_msg)
 
     def execute_callback(self, goal_handle):
-        self.get_logger().info('Executing goal...')
+        self.get_logger().info('Executing Namespace goal...')
 
         # Execute action here
         # feedback_msg = RobotNamespace.Feedback()

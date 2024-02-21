@@ -49,7 +49,7 @@ def generate_launch_description():
         #     ]
         # )
         ExecuteProcess(
-            cmd=["ros2", "run", "demorobot_msgserver", "action_server"], output="screen"
+            cmd=["ros2", "run", "demorobot_msgserver", "ns_action_server"], output="screen"
         ),
 
         ExecuteProcess(

@@ -27,7 +27,7 @@ setup(
     entry_points={
         'console_scripts': [
             'msg_sender = demorobot_msgserver.msg_sender:main',
-            'action_server = demorobot_msgserver.ns_action_server:main',
+            'ns_action_server = demorobot_msgserver.ns_action_server:main',
             'video_stream = demorobot_msgserver.video_stream:main'
         ],
     },

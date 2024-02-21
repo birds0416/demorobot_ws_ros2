@@ -12,14 +12,14 @@ class MediaReceiver(Node):
         super().__init__('MediaReceiver')
 
         self.sub_evtimg = self.create_subscription(Image, 'save_img', self.evtimg_callback, 10)
-        self.sub_evtimg_empty = self.create_subscription(Image, 'save_img', self.evtimg_empty_callback, 10)
+        self.sub_evtimg_empty = self.create_subscription(Image, 'save_img_emtpy', self.evtimg_empty_callback, 10)
     
     def evtimg_callback(self, msg):
         bridge = CvBridge()
         cv_img = bridge.imgmsg_to_cv2(msg, desired_encoding='bgr8')
 
         # 이미지 번호를 시간으로 입력하게끔 변경
-        cv2.imwrite('./evt_imgs/event_img_{}.jpg'.format(0), cv_img)
+        cv2.imwrite('./evt_imgs/event_img_{}.jpg'.format(msg.header.stamp.sec), cv_img)
         self.get_logger().info("Event Image {} Save SUCCESS".format('event_img_{}.jpg'.format(0)))
 
     def evtimg_empty_callback(self, msg):
@@ -27,7 +27,7 @@ class MediaReceiver(Node):
         cv_img = bridge.imgmsg_to_cv2(msg, desired_encoding='bgr8')
 
         # 이미지 번호를 시간으로 입력하게끔 변경
-        cv2.imwrite('./evt_imgs/event_img_empty_{}.jpg'.format(0), cv_img)
+        cv2.imwrite('./evt_imgs/event_img_empty_{}.jpg'.format(msg.header.stamp.sec), cv_img)
         self.get_logger().info("Event Image {} Save SUCCESS".format('event_img_empty_{}.jpg'.format(0)))
 
 def main(args=None):

@@ -24,8 +24,14 @@ class MsgSender(Node):
 
         self.broker_address = self.get_parameter("~broker_ip_address").get_parameter_value().string_value
         # self.broker_route = self.get_parameter("~broker_ip_route").get_parameter_value().integer_value
+
+        # 1. 좌표 정보,  pos_x, pos_y, ori_z, ori_w
         self.MQTT_SUB_TOPIC_1 = self.get_parameter("~mqtt_sub_topic_1").get_parameter_value().string_value
+        
+        # 2. 로봇 주행 모드 - 일반, 비상
         self.MQTT_SUB_TOPIC_2 = self.get_parameter("~mqtt_sub_topic_2").get_parameter_value().string_value
+
+        # 3. map grid information
         # self.MQTT_SUB_TOPIC_3 = self.get_parameter("~mqtt_sub_topic_3").get_parameter_value().string_value
         self.MQTT_USERNAME = self.get_parameter("~mqtt_username").get_parameter_value().string_value
         self.MQTT_PASSWORD = self.get_parameter("~mqtt_password").get_parameter_value().string_value
