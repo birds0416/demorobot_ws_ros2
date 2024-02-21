@@ -476,31 +476,49 @@ def main(args=None):
                     #     distance_f.write("horizontal average: " + str(horizontal_avg) + "m\n")
 
                     #region depth avg
-                    sum = 0
+                    # sum = 0
                     if dist_data_size < 4:
                         distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
-                    elif dist_data_size >= 4 and dist_data_size < 8:
-                        for i in range(1, dist_data_size - 1):
-                            sum += temp_depths[i]
-                        dist_avg = round(sum / (dist_data_size - 2), 3)
-                        distance_f.write(": " + str(dist_avg) + "m\n")
-                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    elif dist_data_size >= 8 and dist_data_size < 12:
-                        for i in range(1, dist_data_size - 2):
-                            sum += temp_depths[i]
-                        dist_avg = round(sum / (dist_data_size - 3), 3)
-                        distance_f.write(": " + str(dist_avg) + "m\n")
-                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    else:
-                        for i in range(1, dist_data_size - 5):
-                            sum += temp_depths[i]
-                        dist_avg = round(sum / (dist_data_size - 6), 3)
-                        distance_f.write(": " + str(dist_avg) + "m\n")
-                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    # elif dist_data_size >= 4 and dist_data_size < 8:
+                    #     for i in range(0, dist_data_size - 1):
+                    #         sum += temp_depths[i]
+                    #     dist_avg = round(sum / (dist_data_size - 1), 3)
+                    #     distance_f.write(": " + str(dist_avg) + "m\n")
+                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    # elif dist_data_size >= 8 and dist_data_size < 12:
+                    #     for i in range(0, dist_data_size - 2):
+                    #         sum += temp_depths[i]
+                    #     dist_avg = round(sum / (dist_data_size - 2), 3)
+                    #     distance_f.write(": " + str(dist_avg) + "m\n")
+                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    # else:
+                    #     for i in range(0, dist_data_size - 3):
+                    #         sum += temp_depths[i]
+                    #     dist_avg = round(sum / (dist_data_size - 3), 3)
+                    #     distance_f.write(": " + str(dist_avg) + "m\n")
+                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
                     #endregion depth avg
+
+                    #region gemini created code
+                    # Calculate the median and interquartile range (IQR)
+                    median = temp_depths[dist_data_size // 2]
+                    q1 = temp_depths[dist_data_size // 4]
+                    q3 = temp_depths[3 * dist_data_size // 4]
+                    iqr = q3 - q1
+
+                    # Define upper and lower bounds for outliers
+                    upper_bound = q3 + 1.5 * iqr
+                    lower_bound = q1 - 1.5 * iqr
+                    filtered_data = [x for x in temp_depths if lower_bound <= x <= upper_bound]
+                    dist_avg = round(sum(filtered_data) / len(filtered_data), 3)
+                    distance_f.write(": " + str(dist_avg) + "m\n")
+                    empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                    cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    #endregion gemini created code
+
                     
                     distance_f.write("\n")
                     #endregion 계산 5
@@ -603,20 +621,20 @@ def main(args=None):
                 # distance_f.flush()
                 #endregion test
 
-                # if mode == 0:
-                #     continue
-                # elif mode == 1:
-                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
-                #     cv2.imshow("Depth Frame", depth_frame)
-                #     out.write(annotated_frame)
+                if mode == 0:
+                    continue
+                elif mode == 1:
+                    cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    cv2.imshow("Depth Frame", depth_frame)
+                    # out.write(annotated_frame)
 
             except IndexError:
                 print('array error')
 
-                # if mode == 0:
-                #     continue
-                # elif mode == 1:
-                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
+                if mode == 0:
+                    continue
+                elif mode == 1:
+                    cv2.imshow("YOLOv8 Inference", annotated_frame)
                     # out.write(annotated_frame)   
 
             if cv2.waitKey(1) & 0xFF == ord("q"):

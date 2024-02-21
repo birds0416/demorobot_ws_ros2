@@ -7,8 +7,9 @@ from Rosmaster_Lib import Rosmaster
 class BatteryStatus(Node):
     def __init__(self):
         super().__init__('BatteryStat')
-
-        self.bat_stat_pub = self.create_publisher(BatteryStat, '/device01/battery_stat', 10)
+        
+        self.NAMESPACE = self.get_namespace()
+        self.bat_stat_pub = self.create_publisher(BatteryStat, self.NAMESPACE + '/battery_stat', 10)
         timer_period = 0.5
         self.timer = self.create_timer(timer_period, self.battery_vol_callback)
 
@@ -25,6 +26,13 @@ class BatteryStatus(Node):
         # checknum = (T_CARTYPE + T_FUNC + T_LEN + vol) % 256
         # data = "$%02x%02x%02x%02x%02x#" % (T_CARTYPE, T_FUNC, T_LEN, vol, checknum)
         # tcp.send(data.encode(encoding="utf-8"))
+            
+        # 배터리가 30% 미만이면 충전모드
+        # if vol / 10.0 < 1 and vol / 10.0 >= 0.3:
+        #     msg.mode = False
+        # else:
+        #     msg.mode = True
+
         if self.g_debug:
             print("voltage:", vol / 10.0)
             # print("tcp send:", data)

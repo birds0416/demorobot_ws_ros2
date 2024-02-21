@@ -13,6 +13,7 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
+        (os.path.join(share_dir, 'scripts'), glob('scripts/*.py')),
         (os.path.join(share_dir, 'launch'), glob('launch/*.launch.py'))
     ],
     install_requires=['setuptools'],
@@ -24,7 +25,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'robot_gui = demorobot_gui.main_gui:main'
+            'robot_main = demorobot_gui.robot_main:main'
         ],
     },
 )
