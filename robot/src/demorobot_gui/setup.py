@@ -25,7 +25,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'robot_main = demorobot_gui.robot_main:main'
+            'robot_main = demorobot_gui.robot_main:main',
+            'normal_mode = demorobot_gui.normal:main',
+            'emergency_mode = demorobot_gui.emergency:main'
         ],
     },
 )
