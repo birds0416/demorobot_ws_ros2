@@ -14,6 +14,7 @@ class NamespaceActionClient(Node):
         self.DEVICE_N = Int32()
         self.DEVICE_N.data = int(self.NAMESPACE[-2:])
         self.get_logger().info("self.DEVICE_N: {}".format(self.DEVICE_N.data))
+        self.send_goal()
 
     def send_goal(self):
         goal_msg = RobotNamespace.Goal()
@@ -24,7 +25,6 @@ class NamespaceActionClient(Node):
 def main(args=None):
     rclpy.init(args=args)
     action_client = NamespaceActionClient()
-    action_client.send_goal()
     rclpy.spin(action_client)
 
 if __name__ == '__main__':

@@ -34,6 +34,7 @@ class DetectPublisher(Node):
         self.NAMESPACE = self.get_namespace()
         self.detect_pub = self.create_publisher(Detect, self.NAMESPACE + '/pose_detect/detect_points', 10)
         self._infer_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/detect_img', 10)
+        self._depth_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/depth_frame', 10)
 
 class ImageSubscriber(Node):
     def __init__(self):
@@ -71,14 +72,35 @@ class ImageSubscriber(Node):
         ''' Version 3'''
         cv_img = bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
         h, w = cv_img.shape
-        self.depth_img = cv_img
+        '''
+        applyColorMap list
+        cv2.COLORMAP_AUTUMN
+        cv2.COLORMAP_BONE
+        cv2.COLORMAP_JET
+        cv2.COLORMAP_WINTER
+        cv2.COLORMAP_RAINBOW
+        cv2.COLORMAP_OCEAN
+        cv2.COLORMAP_SUMMER
+        cv2.COLORMAP_SPRING
+        cv2.COLORMAP_COOL
+        cv2.COLORMAP_HSV
+        cv2.COLORMAP_PINK
+        cv2.COLORMAP_HOT
+        cv2.COLORMAP_PARULA
+        cv2.COLORMAP_MAGMA
+        cv2.COLORMAP_INFERNO
+        cv2.COLORMAP_PLASMA
+        cv2.COLORMAP_VIRIDIS
+        cv2.COLORMAP_CIVIDIS
+        cv2.COLORMAP_TWILIGHT
+        cv2.COLORMAP_TWILIGHT_SHIFTED
+        cv2.COLORMAP_TURBO
+        cv2.COLORMAP_DEEPGREEN
+        '''
+        self.depth_img = cv2.applyColorMap(cv_img.astype(np.uint8), cv2.COLORMAP_BONE)
+        # self.depth_img = cv2.cvtColor(cv_img.astype(np.uint16), cv2.COLOR_BGR2RGB)
         self.img_values = np.zeros((h, w), dtype=np.uint16)
         self.img_values = cv_img.astype(np.uint16)
-        # for j in range(h):
-        #     temp = []
-        #     for i in range(w):
-        #         temp.append(str(cv_img[j, i]))
-        #     self.img_values.append(temp)
 
 class EmptyNode(Node):
     def __init__(self):
@@ -213,7 +235,7 @@ def main(args=None):
         return False  
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
-    distance_f = open("./src/demorobot_posedetect/logs/{}_keypoint_distance.txt".format(now), 'w+')
+    # distance_f = open("./src/demorobot_posedetect/logs/{}_keypoint_distance.txt".format(now), 'w+')
     # distance_f = open("./src/demorobot_posedetect/distances/{}_distance.txt".format(now), 'w+')
 
     while True: # 프레임 단위로 반복.
@@ -400,106 +422,27 @@ def main(args=None):
                     #region 계산 5
                     temp_depths = []
                     now2 = datetime.datetime.now().strftime("%H-%M-%S")
-                    distance_f.write(now2 + ":\n")
-                    horizontal_depth = []
-                    horizontal_sum = 0
+                    # distance_f.write(now2 + ":\n")
                     empty_node.get_logger().info("Time: {}".format(now2))
                     for idx, data in enumerate(keypoint_datas):
                         depth_val = depth_pix[int(data[1])][int(data[0])]
-                        distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
-                        distance_f.write("\t" + str(depth_val / 1000) + "m\n")
+                        # distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
+                        # distance_f.write("\t" + str(depth_val / 1000) + "m\n")
                         if depth_val != 0:
                             dist = depth_val / 1000
                             temp_depths.append(dist)
                             
-                            # 1 pixel = 0.2645833333
-                            # pix_to_mm = 0.2645833333
-                            # # pix_horizontal_dist = abs(data[0] - 320)
-                            # pix_vertical_dist = abs(data[1] - 240)
-
-                            # # mm_horizontal_dist = pix_horizontal_dist * pix_to_mm
-                            # mm_vertical_dist = pix_vertical_dist * pix_to_mm
-                            # mm_diagonal_dist = depth_val
-
-                            # # meter
-                            # horizontal_dist = math.sqrt(mm_diagonal_dist ** 2 - mm_vertical_dist ** 2) / 1000
-                            # horizontal_sum += horizontal_dist
-                            # horizontal_depth.append(horizontal_dist)
-                            
-                            #region print each joint
-                            # if idx == 0 :
-                            #     distance_f.write("0  - nose: " + str(dist) + "m\n")
-                            # if idx == 1:
-                            #     distance_f.write("1  - Left-eye: " + str(dist) + "m\n")
-                            # if idx == 2:
-                            #     distance_f.write("2  - Right-eye: " + str(dist) + "m\n")
-                            # if idx == 3:
-                            #     distance_f.write("3  - Left-ear: " + str(dist) + "m\n")
-                            # if idx == 4:
-                            #     distance_f.write("4  - Right-ear: " + str(dist) + "m\n")
-                            # if idx == 5:
-                            #     distance_f.write("5  - Left-Shoulder: " + str(dist) + "m\n")
-                            # if idx == 6:
-                            #     distance_f.write("6  - Right-Shoulder: " + str(dist) + "m\n")
-                            # if idx == 7:
-                            #     distance_f.write("7  - Left-elbow: " + str(dist) + "m\n")
-                            # if idx == 8:
-                            #     distance_f.write("8  - Right-elbow: " + str(dist) + "m\n")
-                            # if idx == 9:
-                            #     distance_f.write("9  - Left-wrist: " + str(dist) + "m\n")
-                            # if idx == 10:
-                            #     distance_f.write("10 - Right-wrist: " + str(dist) + "m\n")
-                            # if idx == 11:
-                            #     distance_f.write("11 - Left-hip: " + str(dist) + "m\n")
-                            # if idx == 12:
-                            #     distance_f.write("12 - Right-hip: " + str(dist) + "m\n")
-                            # if idx == 13:
-                            #     distance_f.write("13 - Left-knee: " + str(dist) + "m\n")
-                            # if idx == 14:
-                            #     distance_f.write("14 - Right-knee: " + str(dist) + "m\n")
-                            # if idx == 15:
-                            #     distance_f.write("15 - Left-ankle: " + str(dist) + "m\n")
-                            # if idx == 16:
-                            #     distance_f.write("16 - Right-ankle: " + str(dist) + "m\n\n")
-                            # distance_f.write("\n\n")
-                            #endregion print each joint
-                    
                     temp_depths.sort()
                     # empty_node.get_logger().info("Sorted depths: {}".format(temp_depths))
                     dist_data_size = len(temp_depths)
-                    for d in temp_depths:
-                        distance_f.write(str(d) + " ")
-                    distance_f.write("\n")
-
-                    # if len(horizontal_depth) != 0:
-                    #     horizontal_avg = round(horizontal_sum / len(horizontal_depth), 3)
-                    #     distance_f.write("horizontal average: " + str(horizontal_avg) + "m\n")
+                    # for d in temp_depths:
+                    #     distance_f.write(str(d) + " ")
+                    # distance_f.write("\n")
 
                     #region depth avg
                     # sum = 0
-                    if dist_data_size < 4:
-                        distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
-                    # elif dist_data_size >= 4 and dist_data_size < 8:
-                    #     for i in range(0, dist_data_size - 1):
-                    #         sum += temp_depths[i]
-                    #     dist_avg = round(sum / (dist_data_size - 1), 3)
-                    #     distance_f.write(": " + str(dist_avg) + "m\n")
-                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    # elif dist_data_size >= 8 and dist_data_size < 12:
-                    #     for i in range(0, dist_data_size - 2):
-                    #         sum += temp_depths[i]
-                    #     dist_avg = round(sum / (dist_data_size - 2), 3)
-                    #     distance_f.write(": " + str(dist_avg) + "m\n")
-                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    # else:
-                    #     for i in range(0, dist_data_size - 3):
-                    #         sum += temp_depths[i]
-                    #     dist_avg = round(sum / (dist_data_size - 3), 3)
-                    #     distance_f.write(": " + str(dist_avg) + "m\n")
-                    #     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                    #     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                    # if dist_data_size < 4:
+                    #     distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
                     #endregion depth avg
 
                     #region gemini created code
@@ -514,16 +457,17 @@ def main(args=None):
                     lower_bound = q1 - 1.5 * iqr
                     filtered_data = [x for x in temp_depths if lower_bound <= x <= upper_bound]
                     dist_avg = round(sum(filtered_data) / len(filtered_data), 3)
-                    distance_f.write(": " + str(dist_avg) + "m\n")
+                    # distance_f.write(": " + str(dist_avg) + "m\n")
                     empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
                     cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
                     #endregion gemini created code
 
                     
-                    distance_f.write("\n")
+                    # distance_f.write("\n")
                     #endregion 계산 5
                     detect_node.detect_pub.publish(detect_msg)
                     detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(annotated_frame, encoding=img_node.encoding))
+                    detect_node._depth_pub.publish(bridge.cv2_to_imgmsg(depth_frame, encoding=img_node.encoding))
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   
@@ -624,8 +568,9 @@ def main(args=None):
                 if mode == 0:
                     continue
                 elif mode == 1:
-                    cv2.imshow("YOLOv8 Inference", annotated_frame)
-                    cv2.imshow("Depth Frame", depth_frame)
+                    # cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    # cv2.imshow("Depth Frame", depth_frame)
+                    pass
                     # out.write(annotated_frame)
 
             except IndexError:
@@ -634,7 +579,8 @@ def main(args=None):
                 if mode == 0:
                     continue
                 elif mode == 1:
-                    cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    # cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    pass
                     # out.write(annotated_frame)   
 
             if cv2.waitKey(1) & 0xFF == ord("q"):

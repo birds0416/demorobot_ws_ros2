@@ -11,24 +11,6 @@ import numpy as np
 msgFont = QFont('NanumGothic', 15)
 msgFont.setBold(True)
 
-class VideoThread(QThread):
-    change_pixmap_signal = pyqtSignal(np.ndarray)
-
-    def __init__(self, frame):
-        super().__init__()
-        self._run_flag = True
-        self.frame = frame
-    
-    def run(self):
-        tf = True
-        while self._run_flag:
-            if tf:
-                self.change_pixmap_signal.emit(self.frame)
-    
-    def stop(self):
-        self._run_flag = False
-        self.wait()
-    
 class EmerWindow(QWidget):
     def __init__(self):
         super().__init__()
@@ -46,16 +28,25 @@ class EmerWindow(QWidget):
         self.cpu_stat.setFont(QFont('NanumGothic', 12))
         self.cpu_stat.setGeometry(400, 10, 200, 30)
 
-        self.img_label = QLabel(self)
-        self.img_label.setGeometry(130, 40, 640 * 0.8, 480 * 0.8)
+        self.rgb_img_label = QLabel(self)
+        self.rgb_img_label.setGeometry(65, 40, 640 * 0.8, 480 * 0.8)
+        self.depth_img_label = QLabel(self)
+        self.depth_img_label.setGeometry(65, 40, 640 * 0.8, 480 * 0.8)
         # self.img_label.resize(640, 480)
 
-        self.detection_img_btn = QPushButton('감지 이미지', self)
-        self.detection_img_btn.setGeometry(270, 430, 100, 30)
+        self.detection_rgb_img_btn = QPushButton('감지 이미지 보기', self)
+        self.detection_rgb_img_btn.setGeometry(170, 430, 120, 30)
 
-    def update_img(self, cv_img):
+        self.detection_depth_img_btn = QPushButton('Depth 이미지 보기', self)
+        self.detection_depth_img_btn.setGeometry(350, 430, 120, 30)
+
+    def show_rgb_img(self, cv_img):
         qt_img = self.convert_cv_qt(cv_img)
-        self.img_label.setPixmap(qt_img)
+        self.rgb_img_label.setPixmap(qt_img)
+    
+    def show_depth_img(self, cv_img):
+        qt_img = self.convert_cv_qt(cv_img)
+        self.depth_img_label.setPixmap(qt_img)
     
     def convert_cv_qt(self, cv_img):
         """Convert from an opencv image to QPixmap"""
@@ -63,7 +54,7 @@ class EmerWindow(QWidget):
         h, w, ch = rgb_image.shape
         bytes_per_line = ch * w
         convert_to_Qt_format = QImage(rgb_image.data, w, h, bytes_per_line, QImage.Format_RGB888)
-        p = convert_to_Qt_format.scaled(512, 384, Qt.KeepAspectRatio)
+        p = convert_to_Qt_format.scaled(640 * 0.8, 480 * 0.8, Qt.KeepAspectRatio)
         return QPixmap.fromImage(p)
 
 if __name__ == '__main__':
