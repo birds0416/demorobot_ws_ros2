@@ -30,8 +30,7 @@ class EmergencyMode(Node):
         self.ros2_worker.start()
 
         #region pose detect img
-        self.pose_image = np.empty(shape=[1])
-        self.depth_image = np.empty(shape=[1])
+        # self.pose_image = np.empty(shape=[1/])
         # self.sub_pose_detect = self.create_subscription(Image, self.NAMESPACE + '/pose_detect/detect_img', self.pose_detect_callback, 10)
         self.sub_pose_detect = self.create_subscription(Image, '/device01/pose_detect/detect_img', self.pose_detect_callback, 10)
         # self.sub_depth_frame = self.create_subscription(Image, self.NAMESPACE + '/pose_detect/detect_img', self.depth_frame_callback, 10)
@@ -58,14 +57,8 @@ class EmergencyMode(Node):
             self.gui.show_depth_img(self.depth_image)
 
     def toggle_video_feed(self, num):
-        # QMessageBox.warning(self.gui, 'Detect Image Error', "감지 이미지 접속 불가")
-        # self.gui.detection_img_btn.clicked.connect(lambda: self.get_cv_img(None))
-        # if img == None:
-        #     self.gui.detection_img_btn.clicked.connect(lambda: self.get_cv_img(None))
-        # else:
-        # self.detect_thread = VideoThread(img)
-        # self.gui.detection_img_btn.clicked.connect(lambda: self.get_cv_img(img))
-        # self.detect_thread.start()
+        # if self.pose_image == None:
+        #     QMessageBox.warning(self.gui, 'Detect Image Error', "감지 이미지 접속 불가")
         
         if num == 1:
             # 아무것도 재생중이지 않을 때
