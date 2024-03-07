@@ -50,18 +50,18 @@ class NavigationTab(object):
         MainWindow.setWindowTitle("위치 안내 메시지")
         self.centralwidget = QWidget(MainWindow)
 
-        if num == 1:
-            MainWindow.navigation_coordinate = (10, 10)
-        elif num == 2:
-            MainWindow.navigation_coordinate = (20, 20)
-        elif num == 3:
-            MainWindow.navigation_coordinate = (30, 30)
-        elif num == 4:
-            MainWindow.navigation_coordinate = (40, 40)
-        elif num == 5:
-            MainWindow.navigation_coordinate = (50, 50)
-        elif num == 6:
-            MainWindow.navigation_coordinate = (60, 60)
+        # if num == 1:
+        #     MainWindow.navigation_coordinate = (10, 10)
+        # elif num == 2:
+        #     MainWindow.navigation_coordinate = (20, 20)
+        # elif num == 3:
+        #     MainWindow.navigation_coordinate = (30, 30)
+        # elif num == 4:
+        #     MainWindow.navigation_coordinate = (40, 40)
+        # elif num == 5:
+        #     MainWindow.navigation_coordinate = (50, 50)
+        # elif num == 6:
+        #     MainWindow.navigation_coordinate = (60, 60)
         
         self.location_msg = QLabel('위치 {}로\n이동중입니다'.format(num), self.centralwidget)
         self.location_msg.setFont(msgFont)
@@ -111,28 +111,28 @@ class MainWindow(QMainWindow):
 
         self.navigation_coordinate = (0, 0)
         
-        if self.bat_percent <= 30:
-            self.init_charging_Window()
-        else:
-            self.init_navigation_Window()
+        # if self.bat_percent <= 30:
+        #     self.init_charging_Window()
+        # else:
+        #     self.init_navigation_Window()
     
     def return_navigation_coord(self):
         return self.navigation_coordinate
             
-    def init_navigation_Tab(self, num):
-        self.navigationTab.setupUI(self, num)
-        self.navigationTab.backBTN.clicked.connect(self.init_navigation_Window)
-        self.show()
+    # def init_navigation_Tab(self, num):
+    #     self.navigationTab.setupUI(self, num)
+    #     self.navigationTab.backBTN.clicked.connect(self.init_navigation_Window)
+    #     self.show()
 
-    def init_navigation_Window(self):
-        self.navigationWindow.setupUI(self)
-        self.navigationWindow.location_btn1.clicked.connect(lambda: self.init_navigation_Tab(1))
-        self.navigationWindow.location_btn2.clicked.connect(lambda: self.init_navigation_Tab(2))
-        self.navigationWindow.location_btn3.clicked.connect(lambda: self.init_navigation_Tab(3))
-        self.navigationWindow.location_btn4.clicked.connect(lambda: self.init_navigation_Tab(4))
-        self.navigationWindow.location_btn5.clicked.connect(lambda: self.init_navigation_Tab(5))
-        self.navigationWindow.location_btn6.clicked.connect(lambda: self.init_navigation_Tab(6))
-        self.show()
+    # def init_navigation_Window(self):
+    #     self.navigationWindow.setupUI(self)
+    #     self.navigationWindow.location_btn1.clicked.connect(lambda: self.init_navigation_Tab(1))
+    #     self.navigationWindow.location_btn2.clicked.connect(lambda: self.init_navigation_Tab(2))
+    #     self.navigationWindow.location_btn3.clicked.connect(lambda: self.init_navigation_Tab(3))
+    #     self.navigationWindow.location_btn4.clicked.connect(lambda: self.init_navigation_Tab(4))
+    #     self.navigationWindow.location_btn5.clicked.connect(lambda: self.init_navigation_Tab(5))
+    #     self.navigationWindow.location_btn6.clicked.connect(lambda: self.init_navigation_Tab(6))
+    #     self.show()
         
     def init_charging_Window(self):
         self.chargingWindow.setupUI(self)

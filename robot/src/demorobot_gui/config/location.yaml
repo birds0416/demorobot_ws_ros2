@@ -1,0 +1,8 @@
+normal_mode:
+  ros__parameters:
+    location_1: [10.0, 10.0]
+    location_2: [20.0, 20.0]
+    location_3: [30.0, 30.0]
+    location_4: [40.0, 40.0]
+    location_5: [50.0, 50.0]
+    location_6: [60.0, 60.0]

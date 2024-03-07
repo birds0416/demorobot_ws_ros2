@@ -10,9 +10,9 @@ setup(
     version='0.0.0',
     packages=[package_name],
     data_files=[
-        ('share/ament_index/resource_index/packages',
-            ['resource/' + package_name]),
+        ('share/ament_index/resource_index/packages', ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
+        (os.path.join(share_dir, 'config'), glob('config/*.yaml')),
         (os.path.join(share_dir, 'scripts'), glob('scripts/*.py')),
         (os.path.join(share_dir, 'launch'), glob('launch/*.launch.py'))
     ],
