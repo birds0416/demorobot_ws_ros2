@@ -9,6 +9,7 @@ from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, Pose
 from demorobot_msg.msg import BatteryStat
 
 from scripts.main_gui import *
+import json
 
 class ROS2Worker(QThread):
     def __init__(self, node):
@@ -22,31 +23,41 @@ class ROS2Worker(QThread):
 class NormalMode(Node):
     def __init__(self):
         super().__init__('normal_mode')
+        self.NAMESPACE = self.get_namespace()
 
         ''' 위치 parameters '''
         #region
-        self.declare_parameter('location_1', [])
-        self.declare_parameter('location_2', [])
-        self.declare_parameter('location_3', [])
-        self.declare_parameter('location_4', [])
-        self.declare_parameter('location_5', [])
-        self.declare_parameter('location_6', [])
+        # self.declare_parameter('location_1', [])
+        # self.declare_parameter('location_2', [])
+        # self.declare_parameter('location_3', [])
+        # self.declare_parameter('location_4', [])
+        # self.declare_parameter('location_5', [])
+        # self.declare_parameter('location_6', [])
 
-        self.LOC_1 = self.get_parameter("location_1").get_parameter_value().double_array_value
-        self.LOC_2 = self.get_parameter("location_2").get_parameter_value().double_array_value
-        self.LOC_3 = self.get_parameter("location_3").get_parameter_value().double_array_value
-        self.LOC_4 = self.get_parameter("location_4").get_parameter_value().double_array_value
-        self.LOC_5 = self.get_parameter("location_5").get_parameter_value().double_array_value
-        self.LOC_6 = self.get_parameter("location_6").get_parameter_value().double_array_value
+        # self.LOC_1 = self.get_parameter("location_1").get_parameter_value().double_array_value
+        # self.LOC_2 = self.get_parameter("location_2").get_parameter_value().double_array_value
+        # self.LOC_3 = self.get_parameter("location_3").get_parameter_value().double_array_value
+        # self.LOC_4 = self.get_parameter("location_4").get_parameter_value().double_array_value
+        # self.LOC_5 = self.get_parameter("location_5").get_parameter_value().double_array_value
+        # self.LOC_6 = self.get_parameter("location_6").get_parameter_value().double_array_value
 
-        self.get_logger().info("LOC_1: {}".format(self.LOC_1))
+        location_path = "/root/demorobot_ws/src/demorobot_gui/config/location.json"
+        with open(location_path, 'r') as rf:
+            location_data = json.load(rf)
+
+        self.LOC_1 = location_data["location_1"]
+        self.LOC_2 = location_data["location_2"]
+        self.LOC_3 = location_data["location_3"]
+        self.LOC_4 = location_data["location_4"]
+        self.LOC_5 = location_data["location_5"]
+        self.LOC_6 = location_data["location_6"]
         #endregion
 
         self.ros2_worker = ROS2Worker(self)
         self.ros2_worker.start()
 
-        self.pub_location = self.create_publisher(PoseStamped, '/location_pose_navigation', 10)
-        self.sub_goal_result = self.create_subscription(Int8, 'navigation_result', self.nav_result_callback, 10)
+        self.pub_location = self.create_publisher(PoseStamped, self.NAMESPACE + '/location_pose_navigation', 10)
+        self.sub_goal_result = self.create_subscription(Int8, self.NAMESPACE + '/navigation_result', self.nav_result_callback, 10)
 
         self.app = QApplication(sys.argv)
         self.gui = MainWindow()

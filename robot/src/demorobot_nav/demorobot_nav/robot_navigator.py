@@ -61,17 +61,34 @@ class RobotNavigator(Node):
         self.initial_pose.header.frame_id = 'map'
 
         self.is_pose_mqtt_received = False
-        self.sub_pose = self.create_subscription(
+        
+        ''' 서버에서 보내는 위치 정보 '''
+        #region
+        self.sub_pose_server = self.create_subscription(
             PoseStamped,
-            self.NAMESPACE + '/server_msg/pose_from_server',
-            self.pose_callback,
+            self.NAMESPACE + 'server_msg/pose_from_server',
+            self.pose_server_callback,
             10
         )
-        self.pose_msg = PoseStamped()
+        self.is_pose_server = False
+        self.pose_msg_server = PoseStamped()
+        #endregion
+        
+        ''' UI버튼에서 보내는 위치 정보 '''
+        #region
+        self.sub_pose_ui = self.create_subscription(
+            PoseStamped,
+            self.NAMESPACE + 'location_pose_navigation',
+            self.pose_ui_callback,
+            10
+        )
+        self.is_pose_ui = False
+        self.pose_msg_ui = PoseStamped()
+        #endregion
         
         self.sub_drive_mode = self.create_subscription(
             Int8,
-            self.NAMESPACE + '/server_msg/drive_mode',
+            self.NAMESPACE + 'server_msg/drive_mode',
             self.drive_mode_callback,
             10
         )
@@ -79,6 +96,11 @@ class RobotNavigator(Node):
         
         #endregion
 
+        ''' navigation related variables '''
+        #region
+        self.pub_navigation_result = self.create_publisher(Int8, self.NAMESPACE + 'navigation_result', 10)
+        #endregion
+        
         ''' costmap related variables '''
         #region
         self.change_maps_srv = self.create_client(LoadMap, '/map_server/load_map')
@@ -100,9 +122,16 @@ class RobotNavigator(Node):
     def drive_mode_callback(self, msg):
         self.drive_mode = msg.data
 
-    def pose_callback(self, data):
-        self.pose_msg.pose.position.x = data.pose.position.x
-        self.pose_msg.pose.position.y = data.pose.position.y
+    def pose_ui_callback(self, data):
+        self.pose_msg_ui.pose.position.x = data.pose.position.x
+        self.pose_msg_ui.pose.position.y = data.pose.position.y
+        self.is_pose_ui = True
+        self.get_logger().info("received pose: {}".format(data))
+
+    def pose_server_callback(self, data):
+        self.pose_msg_server.pose.position.x = data.pose.position.x
+        self.pose_msg_server.pose.position.y = data.pose.position.y
+        self.is_pose_server = True
         self.is_pose_mqtt_received = True
         # self.received_pose_msg.pose.position.z = data.pose.position.z
 
@@ -110,17 +139,6 @@ class RobotNavigator(Node):
         # self.received_pose_msg.pose.orientation.y = data.pose.orientation.y
         # self.received_pose_msg.pose.orientation.z = data.pose.orientation.z
         # self.received_pose_msg.pose.orientation.w = data.pose.orientation.w
-
-        # self.get_logger().info("Received Pose from topic: {}\nPosition x = {},\nPosition y = {}".format(
-        #                                         '/pose_from_mqtt',
-        #                                         self.received_pose_msg.pose.position.x,
-        #                                         self.received_pose_msg.pose.position.y))
-        
-        # self.get_logger().info("Received Pose from topic: {}\nPosition x = {},\nPosition y = {},\nPosition w = {}".format(
-        #                                         '/pose_from_mqtt',
-        #                                         self.received_pose_msg.pose.position.x,
-        #                                         self.received_pose_msg.pose.position.y,
-        #                                         self.received_pose_msg.pose.orientation.w))
     
     def initialPoseCallback(self, msg):
         self.initial_pose_received = True
@@ -435,10 +453,18 @@ def main(args=None):
 
     try:
         while True:
-            goal_pose.pose.position.x = navigator.pose_msg.pose.position.x
-            goal_pose.pose.position.y = navigator.pose_msg.pose.position.y
-            goal_pose.pose.orientation.w = navigator.pose_msg.pose.orientation.w
 
+            if navigator.is_pose_server:
+                goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
+                goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
+                goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
+
+            if navigator.is_pose_ui:
+                goal_pose.pose.position.x = navigator.pose_msg_ui.pose.position.x
+                goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
+                goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
+
+            navigator.get_logger().info("goal_pose.pose: {}".format(goal_pose.pose))
             '''TODO
             메시지 받으면 지금 네비게이션 동작중인지 확인하고, cancelNav를 호출
             goToPose 다음에 while not navigator.isNavComplete(): 이 구문이 있으니, 아까 예상대로 완료가 되어야지만 다음 로직 수행.

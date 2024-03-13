@@ -138,7 +138,7 @@ def main(args=None):
 
     # config 읽어오기
     properties = configparser.ConfigParser()
-    properties.read('./src/demorobot_posedetect/demorobot_posedetect/config.ini')
+    properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
 
     default = properties["DEFAULT"] #기본 세팅 목록
     timeset = properties["TIMESET"] #시간 관련 세팅 목록    
