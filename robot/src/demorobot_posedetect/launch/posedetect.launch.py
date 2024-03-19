@@ -22,7 +22,7 @@ def generate_launch_description():
     return LaunchDescription({
         GroupAction(
             actions=[
-                PushRosNamespace(_ns),
+                # PushRosNamespace(_ns),
                 Node(
                     package=package_name,
                     executable='detect_human_fall',

@@ -12,8 +12,8 @@ def generate_launch_description():
     package_name = 'demorobot_depth'
     package_dir = get_package_share_directory(package_name)
 
-    library_ws = '/home/jetson/cornersdev/yahboomcar_ros2_ws/software/library_ws'
-    astra_camera_launch = os.path.join(library_ws, 'install', 'astra_camera', 'share', 'astra_camera', 'launch', 'astro_pro_plus.launch.xml')
+    # library_ws = '/home/jetson/cornersdev/yahboomcar_ros2_ws/software/library_ws'
+    # astra_camera_launch = os.path.join(library_ws, 'install', 'astra_camera', 'share', 'astra_camera', 'launch', 'astro_pro_plus.launch.xml')
 
     posedetect_dir = get_package_share_directory('demorobot_posedetect')
 
@@ -31,7 +31,8 @@ def generate_launch_description():
                 PushRosNamespace(_ns),
                 IncludeLaunchDescription(
                     XMLLaunchDescriptionSource(
-                        astra_camera_launch
+                        # astra_camera_launch
+                        os.path.join(get_package_share_directory('astra_camera'), 'launch/astro_pro_plus.launch.xml')
                     )
                 ),
                 IncludeLaunchDescription(

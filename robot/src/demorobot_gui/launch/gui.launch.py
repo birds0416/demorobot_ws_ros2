@@ -57,39 +57,57 @@ def generate_launch_description():
                 #         {"namespace": _ns}
                 #     ]
                 # )
-                TimerAction(
-                    # 초 단위 설정
-                    period = 1.0,
-                    actions=[
-                        IncludeLaunchDescription(
-                            PythonLaunchDescriptionSource(
-                                laser_bringup_launch
-                            )
-                        ),
-                        # IncludeLaunchDescription(
-                        #     PythonLaunchDescriptionSource(
-                        #         display_nav_launch
-                        #     )
-                        # ),
-                        IncludeLaunchDescription(
-                            PythonLaunchDescriptionSource(
-                                navigation_dwa_launch
-                            )
-                        ),
-                        Node(
-                            package='demorobot_nav',
-                            executable='robot_navigator',
-                            parameters=[
-                                {"use_sim_time": True},
-                                {"is_stamped": True},
-                                {"namespace": _ns},
-                            ]
-                        )
-                    ]
-                ),
+                # TimerAction(
+                #     # 초 단위 설정
+                #     period = 1.0,
+                #     actions=[
+                #         IncludeLaunchDescription(
+                #             PythonLaunchDescriptionSource(
+                #                 laser_bringup_launch
+                #             )
+                #         ),
+                #         # IncludeLaunchDescription(
+                #         #     PythonLaunchDescriptionSource(
+                #         #         display_nav_launch
+                #         #     )
+                #         # ),
+                #         IncludeLaunchDescription(
+                #             PythonLaunchDescriptionSource(
+                #                 navigation_dwa_launch
+                #             )
+                #         ),
+                #         Node(
+                #             package='demorobot_nav',
+                #             executable='robot_navigator',
+                #             parameters=[
+                #                 {"use_sim_time": True},
+                #                 {"is_stamped": True},
+                #                 {"namespace": _ns},
+                #             ]
+                #         )
+                #     ]
+                # ),
+                # Node(
+                #     package='demorobot_nav',
+                #     executable='robot_navigator',
+                #     parameters=[
+                #         {"use_sim_time": True},
+                #         {"is_stamped": True},
+                #         {"namespace": _ns},
+                #     ]
+                # ),
+                # Node(
+                #     package=package_name,
+                #     executable='normal_mode',
+                #     parameters=[
+                #         {"use_sim_time": True},
+                #         {"is_stamped": True},
+                #         {"namespace": _ns},
+                #     ]
+                # )
                 Node(
                     package=package_name,
-                    executable='normal_mode',
+                    executable='emergency_mode',
                     parameters=[
                         {"use_sim_time": True},
                         {"is_stamped": True},

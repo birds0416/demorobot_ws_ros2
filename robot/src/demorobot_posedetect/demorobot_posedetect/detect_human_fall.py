@@ -60,11 +60,12 @@ class ImageSubscriber(Node):
             qos
         )
 
-        self.encoding = None
+        self.img_encoding = None
+        self.dep_encoding = None
 
     def image_callback(self, data):
         self.image = bridge.imgmsg_to_cv2(data, 'bgr8')
-        self.encoding = data.encoding
+        self.img_encoding = data.encoding
         self.img_w = data.width
         self.img_h = data.height
     
@@ -97,8 +98,10 @@ class ImageSubscriber(Node):
         cv2.COLORMAP_TURBO
         cv2.COLORMAP_DEEPGREEN
         '''
-        self.depth_img = cv2.applyColorMap(cv_img.astype(np.uint8), cv2.COLORMAP_BONE)
-        # self.depth_img = cv2.cvtColor(cv_img.astype(np.uint16), cv2.COLOR_BGR2RGB)
+        normalized_depth_img = cv2.normalize(cv_img, None, 0, 255, cv2.NORM_MINMAX, dtype=cv2.CV_8U)
+        self.depth_img = cv2.applyColorMap(normalized_depth_img, cv2.COLORMAP_BONE)
+        self.dep_encoding = "16UC1"
+        # msg.encoding: 16UC1
         self.img_values = np.zeros((h, w), dtype=np.uint16)
         self.img_values = cv_img.astype(np.uint16)
 
@@ -138,7 +141,8 @@ def main(args=None):
 
     # config 읽어오기
     properties = configparser.ConfigParser()
-    properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
+    # properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
+    properties.read('/root/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
 
     default = properties["DEFAULT"] #기본 세팅 목록
     timeset = properties["TIMESET"] #시간 관련 세팅 목록    
@@ -280,194 +284,199 @@ def main(args=None):
             try:
                 people_fall_count = 0 # 해당 프레임에 넘어져 있는 사람이 있는지 카운트
                 #감지 된 각 객체들을 분석
-                for result in results:
-                    #감지 정확도 낮을 시 건너뛰는 로직 필요
-                    score = float(result.boxes.conf[0])
-                    if score < 0.6:
-                        continue  
 
-                    #감지된 box 값 저장
-                    pred_box_xywh = result.boxes.xywh.numpy()
-                    box_w = pred_box_xywh[0][2]
-                    box_h = pred_box_xywh[0][3]
-                    box_rate = box_w / box_h #box의 세로길이대비 가로길이의 비  
+                if results != None:
+                    for result in results:
+                        #감지 정확도 낮을 시 건너뛰는 로직 필요
+                        score = float(result.boxes.conf[0])
+                        if score < 0.6:
+                            continue  
 
-                    pred_box_xyxy = result.boxes.xyxy.numpy()
-                    box_x = int(pred_box_xyxy[0][0])
-                    box_y = int(pred_box_xyxy[0][1])
-                    box_xx = int(pred_box_xyxy[0][2])
-                    box_yy = int(pred_box_xyxy[0][3])
+                        #감지된 box 값 저장
+                        pred_box_xywh = result.boxes.xywh.numpy()
+                        box_w = pred_box_xywh[0][2]
+                        box_h = pred_box_xywh[0][3]
+                        box_rate = box_w / box_h #box의 세로길이대비 가로길이의 비  
 
-                    detect_msg.box = [box_x, box_y, box_xx, box_yy]
+                        pred_box_xyxy = result.boxes.xyxy.numpy()
+                        box_x = int(pred_box_xyxy[0][0])
+                        box_y = int(pred_box_xyxy[0][1])
+                        box_xx = int(pred_box_xyxy[0][2])
+                        box_yy = int(pred_box_xyxy[0][3])
 
-                    keypoint_datas = result.keypoints.xy.numpy()[0]
-                    detect_msg.data = []
-                    for data in keypoint_datas:
-                        detect_msg.data.append(data[0])
-                        detect_msg.data.append(data[1]) 
+                        detect_msg.box = [box_x, box_y, box_xx, box_yy]
 
-                    # 디텍션 박스의 가로세로 비율과 머리, 발 위치를 같이 사용해 넘어짐 감지
-                    # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
-                    keypoint_comp_result = keypoint_comp(result.keypoints.xy.numpy())
-                    # detect_msg.box = pred_box_xyxy[0]
-                    if box_rate > 0.5 and keypoint_comp_result:
-                        people_fall_count += 1
-                        detect_msg.fall = True
-                        cv2.putText(annotated_frame, "FALL", (box_x-5,box_y-5),0,1,red_color,2)
-                        cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),red_color,2)
-                    else:
-                        detect_msg.fall = False
-                        cv2.putText(annotated_frame, "Person", (box_x-5,box_y-5),0,1,green_color,2)
-                        cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),green_color,2) 
+                        keypoint_datas = result.keypoints.xy.numpy()[0]
+                        detect_msg.data = []
+                        for data in keypoint_datas:
+                            detect_msg.data.append(data[0])
+                            detect_msg.data.append(data[1]) 
+
+                        # 디텍션 박스의 가로세로 비율과 머리, 발 위치를 같이 사용해 넘어짐 감지
+                        # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
+                        keypoint_comp_result = keypoint_comp(result.keypoints.xy.numpy())
+                        # detect_msg.box = pred_box_xyxy[0]
+                        if box_rate > 0.5 and keypoint_comp_result:
+                            people_fall_count += 1
+                            detect_msg.fall = True
+                            cv2.putText(annotated_frame, "FALL", (box_x-5,box_y-5),0,1,red_color,2)
+                            cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),red_color,2)
+                        else:
+                            detect_msg.fall = False
+                            cv2.putText(annotated_frame, "Person", (box_x-5,box_y-5),0,1,green_color,2)
+                            cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),green_color,2) 
+                        
+                        #region 계산 1
+                        # 좌표 비율 계산 (yolo: 640x384)
+                        # box_x_mod = int(box_x * (480 / 384))
+                        # box_xx_mod = int(box_xx * (480 / 384))
+                        # box_y_mod = int(box_y * (480 / 384))
+                        # box_yy_mod = int(box_yy * (480 / 384))
+                        
+                        # box_mid_x = int((box_x_mod + box_xx_mod) / 2)
+                        # box_mid_y = int((box_y_mod + box_yy_mod) / 2)
+                        #endregion 계산 1
+
+                        #region 계산 2
+                        box_mid_x = int((box_x + box_xx) / 2)
+                        box_mid_y = int((box_y + box_yy) / 2)
+
+                        # distance = float(depth_pix[240][box_mid_x]) / 1000
+                        # empty_node.get_logger().info("This is Distance: {}m".format(distance))
+                        
+                        # box_dist = round(distance, 2)
+
+                        # dist_text = str(box_dist) + 'm'
+
+                        # cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                        # cv2.circle(annotated_frame, (box_mid_x, box_mid_y), radius=0, color=(0, 0, 255), thickness=1)
+                        #endregion 계산 2
+                        
+                        #region 계산 3
+                        # # 어깨 2 pnts
+                        # # idx 5, 6 average
+                        # idx_5_x = keypoint_datas[5][0]
+                        # idx_5_y = keypoint_datas[5][1]
+                        # idx_6_x = keypoint_datas[6][0]
+                        # idx_6_y = keypoint_datas[6][1]
+                        # # x_avg_sho = int((idx_5_x + idx_6_x) / 2)
+
+                        # # 골반 2 pnts
+                        # # idx 11, 12 average
+                        # idx_11_x = keypoint_datas[11][0]
+                        # idx_11_y = keypoint_datas[11][1]
+                        # idx_12_x = keypoint_datas[12][0]
+                        # idx_12_y = keypoint_datas[12][1]
+                        # # x_avg_hip = int((idx_11_x + idx_12_x) / 2)
+
+                        # # 무릎 2 pnts
+                        # # idx 13, 14 average
+                        # idx_13_x = keypoint_datas[13][0]
+                        # idx_13_y = keypoint_datas[13][1]
+                        # idx_14_x = keypoint_datas[14][0]
+                        # idx_14_y = keypoint_datas[14][1]
+                        # # x_avg_kne = int((idx_13_x + idx_14_x) / 2)
+
+                        # # 발 2 pnts
+                        # # idx 13, 14 average
+                        # idx_15_x = keypoint_datas[15][0]
+                        # idx_15_y = keypoint_datas[15][1]
+                        # idx_16_x = keypoint_datas[16][0]
+                        # idx_16_y = keypoint_datas[16][1]
+                        # # x_avg_ank = int((idx_15_x + idx_16_x) / 2)
+
+                        # x_list = [idx_5_x, idx_6_x, idx_11_x, idx_12_x, idx_13_x, idx_14_x, idx_15_x, idx_16_x]
+                        # y_list = [idx_5_y, idx_6_y, idx_11_y, idx_12_y, idx_13_y, idx_14_y, idx_15_y, idx_16_y]
+
+                        # non_zero = non_zero_cnt(x_list, y_list)
+
+                        # x_avg = 0
+                        # if non_zero > 0:
+                        #     x_avg = int(sum(x_list) / non_zero)
+                        # else:
+                        #     x_avg = 0
+                        #endregion 계산 3
+
+                        #region 계산 4
+                        # x_sum = 0
+                        # x_avg = 0
+                        # cnt = 0
+                        # distance_f.write(now + " - idx " + str(box_idx) + ":\n")
+                        # distance_f.write("[\n")
+                        # for data in keypoint_datas:
+                        #     if data[0] != 0 or data[1] != 0:
+                        #         x_sum += data[0]
+                        #         distance_f.write("\t"+ str(data[0]) + ", ")
+                        #         # x_sum += data[0] * (480 / 384)
+                        #         cnt += 1
+                        # distance_f.write("\n]\n")
+                        # if cnt != 0:
+                        #     x_avg = int(x_sum / cnt)
+                        #     distance_f.write("cnt: " + str(cnt) + " / x_avg = " + str(x_avg) + "\n")
+
+                        #     distance = float(depth_pix[240][x_avg]) / 1000
+                        #     if distance != 0.0:
+                        #         distance_f.write("distance " + str(distance) + "m\n\n")
+                        #         distance_f.flush()
+
+                        #         box_dist = round(distance, 2)
+                        #         dist_text = str(box_dist) + 'm'
+                        #         cv2.putText(annotated_frame, "idx: " + str(box_idx), (box_mid_x + 10, box_mid_y - 30), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 255), 1)
+                        #         cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                        #endregion 계산 4
+
+                        #region 계산 5
+                        temp_depths = []
+                        now2 = datetime.datetime.now().strftime("%H-%M-%S")
+                        # distance_f.write(now2 + ":\n")
+                        empty_node.get_logger().info("Time: {}".format(now2))
+                        for idx, data in enumerate(keypoint_datas):
+                            depth_val = depth_pix[int(data[1])][int(data[0])]
+                            # distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
+                            # distance_f.write("\t" + str(depth_val / 1000) + "m\n")
+                            if depth_val != 0:
+                                dist = depth_val / 1000
+                                temp_depths.append(dist)
+                                
+                        temp_depths.sort()
+                        # empty_node.get_logger().info("Sorted depths: {}".format(temp_depths))
+                        dist_data_size = len(temp_depths)
+                        # for d in temp_depths:
+                        #     distance_f.write(str(d) + " ")
+                        # distance_f.write("\n")
+
+                        #region depth avg
+                        # sum = 0
+                        # if dist_data_size < 4:
+                        #     distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
+                        #endregion depth avg
+
+                        #region gemini created code
+                        # Calculate the median and interquartile range (IQR)
+                        median = temp_depths[dist_data_size // 2]
+                        q1 = temp_depths[dist_data_size // 4]
+                        q3 = temp_depths[3 * dist_data_size // 4]
+                        iqr = q3 - q1
+
+                        # Define upper and lower bounds for outliers
+                        upper_bound = q3 + 1.5 * iqr
+                        lower_bound = q1 - 1.5 * iqr
+                        filtered_data = [x for x in temp_depths if lower_bound <= x <= upper_bound]
+                        dist_avg = round(sum(filtered_data) / len(filtered_data), 3)
+                        # distance_f.write(": " + str(dist_avg) + "m\n")
+                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
+                        cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                        #endregion gemini created code
+
                     
-                    #region 계산 1
-                    # 좌표 비율 계산 (yolo: 640x384)
-                    # box_x_mod = int(box_x * (480 / 384))
-                    # box_xx_mod = int(box_xx * (480 / 384))
-                    # box_y_mod = int(box_y * (480 / 384))
-                    # box_yy_mod = int(box_yy * (480 / 384))
+                        # distance_f.write("\n")
+                        #endregion 계산 5
                     
-                    # box_mid_x = int((box_x_mod + box_xx_mod) / 2)
-                    # box_mid_y = int((box_y_mod + box_yy_mod) / 2)
-                    #endregion 계산 1
-
-                    #region 계산 2
-                    box_mid_x = int((box_x + box_xx) / 2)
-                    box_mid_y = int((box_y + box_yy) / 2)
-
-                    # distance = float(depth_pix[240][box_mid_x]) / 1000
-                    # empty_node.get_logger().info("This is Distance: {}m".format(distance))
-                    
-                    # box_dist = round(distance, 2)
-
-                    # dist_text = str(box_dist) + 'm'
-
-                    # cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    # cv2.circle(annotated_frame, (box_mid_x, box_mid_y), radius=0, color=(0, 0, 255), thickness=1)
-                    #endregion 계산 2
-                    
-                    #region 계산 3
-                    # # 어깨 2 pnts
-                    # # idx 5, 6 average
-                    # idx_5_x = keypoint_datas[5][0]
-                    # idx_5_y = keypoint_datas[5][1]
-                    # idx_6_x = keypoint_datas[6][0]
-                    # idx_6_y = keypoint_datas[6][1]
-                    # # x_avg_sho = int((idx_5_x + idx_6_x) / 2)
-
-                    # # 골반 2 pnts
-                    # # idx 11, 12 average
-                    # idx_11_x = keypoint_datas[11][0]
-                    # idx_11_y = keypoint_datas[11][1]
-                    # idx_12_x = keypoint_datas[12][0]
-                    # idx_12_y = keypoint_datas[12][1]
-                    # # x_avg_hip = int((idx_11_x + idx_12_x) / 2)
-
-                    # # 무릎 2 pnts
-                    # # idx 13, 14 average
-                    # idx_13_x = keypoint_datas[13][0]
-                    # idx_13_y = keypoint_datas[13][1]
-                    # idx_14_x = keypoint_datas[14][0]
-                    # idx_14_y = keypoint_datas[14][1]
-                    # # x_avg_kne = int((idx_13_x + idx_14_x) / 2)
-
-                    # # 발 2 pnts
-                    # # idx 13, 14 average
-                    # idx_15_x = keypoint_datas[15][0]
-                    # idx_15_y = keypoint_datas[15][1]
-                    # idx_16_x = keypoint_datas[16][0]
-                    # idx_16_y = keypoint_datas[16][1]
-                    # # x_avg_ank = int((idx_15_x + idx_16_x) / 2)
-
-                    # x_list = [idx_5_x, idx_6_x, idx_11_x, idx_12_x, idx_13_x, idx_14_x, idx_15_x, idx_16_x]
-                    # y_list = [idx_5_y, idx_6_y, idx_11_y, idx_12_y, idx_13_y, idx_14_y, idx_15_y, idx_16_y]
-
-                    # non_zero = non_zero_cnt(x_list, y_list)
-
-                    # x_avg = 0
-                    # if non_zero > 0:
-                    #     x_avg = int(sum(x_list) / non_zero)
-                    # else:
-                    #     x_avg = 0
-                    #endregion 계산 3
-
-                    #region 계산 4
-                    # x_sum = 0
-                    # x_avg = 0
-                    # cnt = 0
-                    # distance_f.write(now + " - idx " + str(box_idx) + ":\n")
-                    # distance_f.write("[\n")
-                    # for data in keypoint_datas:
-                    #     if data[0] != 0 or data[1] != 0:
-                    #         x_sum += data[0]
-                    #         distance_f.write("\t"+ str(data[0]) + ", ")
-                    #         # x_sum += data[0] * (480 / 384)
-                    #         cnt += 1
-                    # distance_f.write("\n]\n")
-                    # if cnt != 0:
-                    #     x_avg = int(x_sum / cnt)
-                    #     distance_f.write("cnt: " + str(cnt) + " / x_avg = " + str(x_avg) + "\n")
-
-                    #     distance = float(depth_pix[240][x_avg]) / 1000
-                    #     if distance != 0.0:
-                    #         distance_f.write("distance " + str(distance) + "m\n\n")
-                    #         distance_f.flush()
-
-                    #         box_dist = round(distance, 2)
-                    #         dist_text = str(box_dist) + 'm'
-                    #         cv2.putText(annotated_frame, "idx: " + str(box_idx), (box_mid_x + 10, box_mid_y - 30), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 255), 1)
-                    #         cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    #endregion 계산 4
-
-                    #region 계산 5
-                    temp_depths = []
-                    now2 = datetime.datetime.now().strftime("%H-%M-%S")
-                    # distance_f.write(now2 + ":\n")
-                    empty_node.get_logger().info("Time: {}".format(now2))
-                    for idx, data in enumerate(keypoint_datas):
-                        depth_val = depth_pix[int(data[1])][int(data[0])]
-                        # distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
-                        # distance_f.write("\t" + str(depth_val / 1000) + "m\n")
-                        if depth_val != 0:
-                            dist = depth_val / 1000
-                            temp_depths.append(dist)
-                            
-                    temp_depths.sort()
-                    # empty_node.get_logger().info("Sorted depths: {}".format(temp_depths))
-                    dist_data_size = len(temp_depths)
-                    # for d in temp_depths:
-                    #     distance_f.write(str(d) + " ")
-                    # distance_f.write("\n")
-
-                    #region depth avg
-                    # sum = 0
-                    # if dist_data_size < 4:
-                    #     distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
-                    #endregion depth avg
-
-                    #region gemini created code
-                    # Calculate the median and interquartile range (IQR)
-                    median = temp_depths[dist_data_size // 2]
-                    q1 = temp_depths[dist_data_size // 4]
-                    q3 = temp_depths[3 * dist_data_size // 4]
-                    iqr = q3 - q1
-
-                    # Define upper and lower bounds for outliers
-                    upper_bound = q3 + 1.5 * iqr
-                    lower_bound = q1 - 1.5 * iqr
-                    filtered_data = [x for x in temp_depths if lower_bound <= x <= upper_bound]
-                    dist_avg = round(sum(filtered_data) / len(filtered_data), 3)
-                    # distance_f.write(": " + str(dist_avg) + "m\n")
-                    empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
-                    cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                    #endregion gemini created code
-
-                    
-                    # distance_f.write("\n")
-                    #endregion 계산 5
-                    detect_node.detect_pub.publish(detect_msg)
-                    detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(annotated_frame, encoding=img_node.encoding))
-                    detect_node._depth_pub.publish(bridge.cv2_to_imgmsg(depth_frame, encoding=img_node.encoding))
+                        detect_node.detect_pub.publish(detect_msg)
+                
+                cvtColor_img_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
+                detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(cvtColor_img_frame, encoding=img_node.img_encoding))
+                detect_node._depth_pub.publish(bridge.cv2_to_imgmsg(depth_frame, encoding=img_node.img_encoding))
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   

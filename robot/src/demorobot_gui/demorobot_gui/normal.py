@@ -27,20 +27,6 @@ class NormalMode(Node):
 
         ''' 위치 parameters '''
         #region
-        # self.declare_parameter('location_1', [])
-        # self.declare_parameter('location_2', [])
-        # self.declare_parameter('location_3', [])
-        # self.declare_parameter('location_4', [])
-        # self.declare_parameter('location_5', [])
-        # self.declare_parameter('location_6', [])
-
-        # self.LOC_1 = self.get_parameter("location_1").get_parameter_value().double_array_value
-        # self.LOC_2 = self.get_parameter("location_2").get_parameter_value().double_array_value
-        # self.LOC_3 = self.get_parameter("location_3").get_parameter_value().double_array_value
-        # self.LOC_4 = self.get_parameter("location_4").get_parameter_value().double_array_value
-        # self.LOC_5 = self.get_parameter("location_5").get_parameter_value().double_array_value
-        # self.LOC_6 = self.get_parameter("location_6").get_parameter_value().double_array_value
-
         location_path = "/root/demorobot_ws/src/demorobot_gui/config/location.json"
         with open(location_path, 'r') as rf:
             location_data = json.load(rf)
