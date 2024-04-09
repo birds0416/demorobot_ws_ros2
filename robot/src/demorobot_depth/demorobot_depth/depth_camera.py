@@ -14,7 +14,8 @@ class DepthCamera(Node):
         super().__init__('DepthCamera')
 
         self.NAMESPACE = self.get_namespace()
-        self.get_logger().info("Namespace: {}".format(self.NAMESPACE))
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
 
         self.sub_depth_img = self.create_subscription(Image, self.NAMESPACE + '/camera/depth/image_raw', self.depth_image_callback, 10)
         self.sub_detect_box = self.create_subscription(Detect, self.NAMESPACE + '/pose_detect/detect_points', self.detect_points_callback, 10)

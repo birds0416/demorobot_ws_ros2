@@ -1,5 +1,7 @@
 import time
 from enum import Enum
+import subprocess
+import threading
 
 from action_msgs.msg import GoalStatus
 from std_msgs.msg import Int8
@@ -8,6 +10,7 @@ from geometry_msgs.msg import PoseWithCovarianceStamped
 from lifecycle_msgs.srv import GetState
 from nav2_msgs.action import NavigateToPose, FollowWaypoints, ComputePathToPose
 from nav2_msgs.srv import LoadMap, ClearEntireCostmap, ManageLifecycleNodes, GetCostmap
+from std_srvs.srv import SetBool
 
 import rclpy
 
@@ -18,16 +21,29 @@ from rclpy.qos import QoSProfile
 
 from rclpy.duration import Duration
 
+class LaunchThread(threading.Thread):
+    def __init__(self, package, launch_file, namespace):
+        super().__init__()
+        self.package = package
+        self.launch_file = launch_file
+        self.namespace = namespace
+    
+    def run(self):
+        # subprocess.run(["ros2", "launch", self.package, self.launch_file, 'namespace:=' + self.namespace])
+        subprocess.run(["ros2", "launch", self.package, self.launch_file])
+
 class NavigationResult(Enum):
     UNKNOWN = 0
     SUCCEEDED = 1
     CANCELED = 2
-    FAILED = 3 
+    FAILED = 3
 
 class RobotNavigator(Node):
     def __init__(self):
         super().__init__('robot_navigator')
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
 
         self.goal_handle = None
         self.result_future = None
@@ -53,36 +69,45 @@ class RobotNavigator(Node):
             'initialpose',
             10)
         
-        self.localization_pose_sub = self.create_subscription(PoseWithCovarianceStamped,
-                                                              '/pose',
-                                                              self.initialPoseCallback,
-                                                              10)
         self.initial_pose = PoseStamped()
         self.initial_pose.header.frame_id = 'map'
+        
+        # TODO localization_pose_sub is not correct
+        ''' 
+        self.locatlization_pose_sub는 로봇이 처음 켜졌을때 
+        자신의 위치를 /pose 토픽으로 보내는데 그 정보를 구독하고, 
+        callback 함수를 통해 initialpose로 전달한다. 
+        즉 정확한 초기 위치 정보가 아닐 가능성이 높음. 
+        초기 위치를 어떻게 파악할지에 대한 정확한 알고리즘 수정이 필요 
+        '''
+        self.localization_pose_sub = self.create_subscription(PoseWithCovarianceStamped,
+                                                              'pose',
+                                                              self.initialPoseCallback,
+                                                              10)
 
         self.is_pose_mqtt_received = False
         
         ''' 서버에서 보내는 위치 정보 '''
         #region
+        self.is_pose_server = False
         self.sub_pose_server = self.create_subscription(
             PoseStamped,
             self.NAMESPACE + '/server_msg/pose_from_server',
             self.pose_server_callback,
             10
         )
-        self.is_pose_server = False
         self.pose_msg_server = PoseStamped()
         #endregion
         
         ''' UI버튼에서 보내는 위치 정보 '''
         #region
+        self.is_pose_ui = False
         self.sub_pose_ui = self.create_subscription(
             PoseStamped,
             self.NAMESPACE + '/location_pose_navigation',
             self.pose_ui_callback,
             10
         )
-        self.is_pose_ui = False
         self.pose_msg_ui = PoseStamped()
         #endregion
         
@@ -95,30 +120,38 @@ class RobotNavigator(Node):
         self.drive_mode = Int8()
         
         #endregion
-
+        
         ''' navigation related variables '''
         #region
+        # 처음 initial pose로 갈 때는 navigation result 안보내게
+        self.nav_cnt = 0
         self.pub_navigation_result = self.create_publisher(Int8, self.NAMESPACE + '/navigation_result', 10)
+        self.cancel_navigation_srv = self.create_service(SetBool, self.NAMESPACE + '/robot_navigator/cancel_navigation', self.cancel_navigation_callback)
         #endregion
         
         ''' costmap related variables '''
         #region
-        self.change_maps_srv = self.create_client(LoadMap, '/map_server/load_map')
+        self.change_maps_srv = self.create_client(LoadMap, 'map_server/load_map')
         self.clear_costmap_global_srv = self.create_client(
             ClearEntireCostmap, 
-            '/global_costmap/clear_entirely_global_costmap'
+            'global_costmap/clear_entirely_global_costmap'
         )
         
         self.clear_costmap_local_srv = self.create_client(
             ClearEntireCostmap, 
-            '/local_costmap/clear_entirely_local_costmap'
+            'local_costmap/clear_entirely_local_costmap'
         )
         
-        self.get_costmap_global_srv = self.create_client(GetCostmap, '/global_costmap/get_costmap')
-        self.get_costmap_local_srv = self.create_client(GetCostmap, '/local_costmap/get_costmap')
+        self.get_costmap_global_srv = self.create_client(GetCostmap, 'global_costmap/get_costmap')
+        self.get_costmap_local_srv = self.create_client(GetCostmap, 'local_costmap/get_costmap')
         #endregion
 
     # My Method
+    def cancel_navigation_callback(self, request, response):
+        self.cancelNav()
+        response.success = True
+        return response
+
     def drive_mode_callback(self, msg):
         self.drive_mode = msg.data
 
@@ -130,6 +163,8 @@ class RobotNavigator(Node):
     def pose_server_callback(self, data):
         self.pose_msg_server.pose.position.x = data.pose.position.x
         self.pose_msg_server.pose.position.y = data.pose.position.y
+        # self.pose_msg_server.pose.orientation.z = data.pose.orientation.z
+        # self.pose_msg_server.pose.orientation.w = data.pose.orientation.w
         self.is_pose_server = True
         self.is_pose_mqtt_received = True
         # self.received_pose_msg.pose.position.z = data.pose.position.z
@@ -423,14 +458,25 @@ class RobotNavigator(Node):
     def debug(self, msg):
         self.get_logger().debug(msg)
         return
-    
 
 '''Start of Main'''
 def main(args=None):
     rclpy.init(args=args)
     navigator = RobotNavigator()
-
+    
+    ''' yahboomcar_nav navigation 시작 '''
+    laser_bringup  = LaunchThread("yahboomcar_nav", "laser_bringup_launch.py", navigator.NAMESPACE)
+    laser_bringup.start()
+    time.sleep(1)
+    # display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
+    # display_nav.start()
+    # time.sleep(1)
+    navigation_dwa  = LaunchThread("yahboomcar_nav", "navigation_dwa_launch.py", navigator.NAMESPACE)
+    navigation_dwa.start()
+    time.sleep(5)
+    
     # Set our demo's initial pose
+    navigator._setInitialPose()
     initial_pose = PoseStamped()
     initial_pose.header.frame_id = 'map'
     initial_pose.header.stamp = navigator.get_clock().now().to_msg()
@@ -453,15 +499,19 @@ def main(args=None):
             if navigator.is_pose_server:
                 goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
                 goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
+                goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
                 goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
+                navigator.get_logger().info("goal_pose: {}".format(goal_pose.pose))
                 navigator.is_pose_server = False
-
+            
             if navigator.is_pose_ui:
                 goal_pose.pose.position.x = navigator.pose_msg_ui.pose.position.x
                 goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
+                goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
                 goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
-                navigator.get_logger().info("goal_pose.pose: {}".format(goal_pose.pose))
+                navigator.get_logger().info("goal_pose: {}".format(goal_pose.pose))
                 navigator.is_pose_ui = False
+
             '''TODO
             메시지 받으면 지금 네비게이션 동작중인지 확인하고, cancelNav를 호출
             goToPose 다음에 while not navigator.isNavComplete(): 이 구문이 있으니, 아까 예상대로 완료가 되어야지만 다음 로직 수행.
@@ -482,21 +532,33 @@ def main(args=None):
 
             # Do something depending on the return code
             result = navigator.getResult()
+            nav_result = Int8()
             if result == NavigationResult.SUCCEEDED:
                 navigator.info('Goal succeeded')
+                nav_result.data = 1
+                if navigator.nav_cnt != 0:
+                    navigator.pub_navigation_result.publish(nav_result)
+                    navigator.nav_cnt += 1
             elif result == NavigationResult.CANCELED:
                 navigator.info('Goal canceled')
+                nav_result.data = 2
+                navigator.pub_navigation_result.publish(nav_result)
             elif result == NavigationResult.FAILED:
                 navigator.info('Goal failed')
+                nav_result.data = 3
+                navigator.pub_navigation_result.publish(nav_result)
             else:
                 navigator.info('Goal invalid return status!')
 
-            navigator.lifecycleShutdown()
+            # navigator.lifecycleShutdown()
             time.sleep(0.5)
 
     except KeyboardInterrupt:
         print("KeyboardInterrupt program terminate")
-
+    
+    finally:
+        navigator.destroy_node()
+        rclpy.shutdown()
 
 if __name__ == '__main__':
     main()

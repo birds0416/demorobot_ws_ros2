@@ -1,8 +1,8 @@
 {
-    "location_1": [10.0, 10.0],
-    "location_2": [20.0, 20.0],
-    "location_3": [30.0, 30.0],
-    "location_4": [40.0, 40.0],
-    "location_5": [50.0, 50.0],
-    "location_6": [60.0, 60.0]
+    "location_1": [0.5, -0.5],
+    "location_2": [1.0, 1.0],
+    "location_3": [0.0, 0.0],
+    "location_4": [-0.5, -0.5],
+    "location_5": [-0.5, -0.5],
+    "location_6": [0.5, -0.5]
 }

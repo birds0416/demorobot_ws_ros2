@@ -12,26 +12,15 @@ def generate_launch_description():
     package_name = 'demorobot_posedetect'
     package_dir = get_package_share_directory(package_name)
 
-    _ns = LaunchConfiguration('_ns', default='device00')
-
-    # _ns_launch_arg = DeclareLaunchArgument(
-    #     '_ns',
-    #     default_value='device00'
-    # )
+    namespace = LaunchConfiguration('namespace', default='device00')
 
     return LaunchDescription({
         GroupAction(
             actions=[
-                # PushRosNamespace(_ns),
+                PushRosNamespace(namespace),
                 Node(
                     package=package_name,
                     executable='detect_human_fall',
-                    emulate_tty=True,
-                    parameters=[
-                        {"use_sim_time": True},
-                        {"is_stamped": True},
-                        {"namespace": _ns}
-                    ]
                 )
             ]
         )

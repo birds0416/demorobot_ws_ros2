@@ -11,6 +11,9 @@ class NamespaceActionClient(Node):
         self._action_client = ActionClient(self, RobotNamespace, '/robot_namespace')
         
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+            
         self.DEVICE_N = Int32()
         self.DEVICE_N.data = int(self.NAMESPACE[-2:])
         self.get_logger().info("self.DEVICE_N: {}".format(self.DEVICE_N.data))

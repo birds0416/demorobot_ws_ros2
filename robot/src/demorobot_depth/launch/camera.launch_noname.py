@@ -17,13 +17,10 @@ def generate_launch_description():
 
     posedetect_dir = get_package_share_directory('demorobot_posedetect')
 
-    namespace = LaunchConfiguration('namespace', default='device00')
-
     return LaunchDescription({
 
         GroupAction(
             actions=[
-                PushRosNamespace(namespace),
                 IncludeLaunchDescription(
                     XMLLaunchDescriptionSource(
                         astra_camera_launch

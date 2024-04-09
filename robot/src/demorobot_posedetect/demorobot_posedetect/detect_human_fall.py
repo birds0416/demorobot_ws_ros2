@@ -26,12 +26,18 @@ class EventPublisher(Node):
     def __init__(self):
         super().__init__('event_pub')
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+            
         self.event_pub = self.create_publisher(String, self.NAMESPACE + '/pose_detect/event', 10)
 
 class DetectPublisher(Node):
     def __init__(self):
         super().__init__('detect_pub')
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+            
         self.detect_pub = self.create_publisher(Detect, self.NAMESPACE + '/pose_detect/detect_points', 10)
         self._infer_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/detect_img', 10)
         self._depth_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/depth_frame', 10)
@@ -40,6 +46,9 @@ class ImageSubscriber(Node):
     def __init__(self):
         super().__init__('image_sub')
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+            
         qos = QoSProfile(depth=10)
         self.image_sub = self.create_subscription(
             Image,
@@ -141,8 +150,7 @@ def main(args=None):
 
     # config 읽어오기
     properties = configparser.ConfigParser()
-    # properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
-    properties.read('/root/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
+    properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
 
     default = properties["DEFAULT"] #기본 세팅 목록
     timeset = properties["TIMESET"] #시간 관련 세팅 목록    

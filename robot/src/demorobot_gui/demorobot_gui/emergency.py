@@ -26,6 +26,8 @@ class EmergencyMode(Node):
     def __init__(self):
         super().__init__('emergency_mode')
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
 
         self.ros2_worker = ROS2Worker(self)
         self.ros2_worker.start()

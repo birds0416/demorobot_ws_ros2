@@ -9,19 +9,16 @@ from launch_ros.actions import Node, PushRosNamespace
 from launch.actions import GroupAction
 
 def generate_launch_description():
-    package_name = 'demorobot_datahandler'
+    package_name = 'demorobot_depth'
     package_dir = get_package_share_directory(package_name)
-
-    namespace = LaunchConfiguration('namespace', default='device00')
 
     return LaunchDescription({
 
         GroupAction(
             actions=[
-                PushRosNamespace(namespace),
                 Node(
                     package=package_name,
-                    executable='action_client',
+                    executable='depth_camera',
                 )
             ]
         )

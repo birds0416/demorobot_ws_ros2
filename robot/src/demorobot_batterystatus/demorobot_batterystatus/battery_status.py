@@ -9,6 +9,9 @@ class BatteryStatus(Node):
         super().__init__('BatteryStat')
         
         self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+        
         self.bat_stat_pub = self.create_publisher(BatteryStat, self.NAMESPACE + '/battery_stat', 10)
         timer_period = 0.5
         self.timer = self.create_timer(timer_period, self.battery_vol_callback)
