@@ -5,8 +5,8 @@ import threading
 
 from action_msgs.msg import GoalStatus
 from std_msgs.msg import Int8
-from geometry_msgs.msg import PoseStamped
-from geometry_msgs.msg import PoseWithCovarianceStamped
+from geometry_msgs.msg import PoseStamped, PoseWithCovarianceStamped
+from nav_msgs.msg import Odometry
 from lifecycle_msgs.srv import GetState
 from nav2_msgs.action import NavigateToPose, FollowWaypoints, ComputePathToPose
 from nav2_msgs.srv import LoadMap, ClearEntireCostmap, ManageLifecycleNodes, GetCostmap
@@ -31,6 +31,15 @@ class LaunchThread(threading.Thread):
     def run(self):
         # subprocess.run(["ros2", "launch", self.package, self.launch_file, 'namespace:=' + self.namespace])
         subprocess.run(["ros2", "launch", self.package, self.launch_file])
+
+class RunThread(threading.Thread):
+    def __init__(self, package, run_file):
+        super().__init__()
+        self.package = package
+        self.run_file = run_file
+    
+    def run(self):
+        subprocess.run(["ros2", "run", self.package, self.run_file])
 
 class NavigationResult(Enum):
     UNKNOWN = 0
@@ -64,13 +73,18 @@ class RobotNavigator(Node):
         
         ''' pose related variables '''
         #region
-        self.initial_pose_pub = self.create_publisher(
-            PoseWithCovarianceStamped,
-            'initialpose',
-            10)
+        self.sub_initial_pose = self.create_subscription(PoseWithCovarianceStamped, 'initialpose', self._initial_pose_callback, 10)
+        # self.initial_pose_pub = self.create_publisher(
+        #     PoseWithCovarianceStamped,
+        #     'initialpose',
+        #     10)
         
         self.initial_pose = PoseStamped()
-        self.initial_pose.header.frame_id = 'map'
+        # self.initial_pose.header.frame_id = 'map'
+        # self.initial_pose.pose.position.x = 0.0
+        # self.initial_pose.pose.position.y = 0.0
+        # self.initial_pose.pose.orientation.z = 0.0
+        # self.initial_pose.pose.orientation.w = 1.0
         
         # TODO localization_pose_sub is not correct
         ''' 
@@ -80,9 +94,10 @@ class RobotNavigator(Node):
         즉 정확한 초기 위치 정보가 아닐 가능성이 높음. 
         초기 위치를 어떻게 파악할지에 대한 정확한 알고리즘 수정이 필요 
         '''
-        self.localization_pose_sub = self.create_subscription(PoseWithCovarianceStamped,
-                                                              'pose',
-                                                              self.initialPoseCallback,
+        self.robot_current_pose = Odometry()
+        self.localization_pose_sub = self.create_subscription(Odometry,
+                                                              '/odom',
+                                                              self.currentPoseCallback,
                                                               10)
 
         self.is_pose_mqtt_received = False
@@ -147,6 +162,12 @@ class RobotNavigator(Node):
         #endregion
 
     # My Method
+    def _initial_pose_callback(self, msg):
+        self.initial_pose.pose.position.x = msg.pose.pose.position.x
+        self.initial_pose.pose.position.y = msg.pose.pose.position.y
+        self.initial_pose.pose.orientation.z = msg.pose.pose.orientation.z
+        self.initial_pose.pose.orientation.w = msg.pose.pose.orientation.w
+    
     def cancel_navigation_callback(self, request, response):
         self.cancelNav()
         response.success = True
@@ -173,18 +194,24 @@ class RobotNavigator(Node):
         # self.received_pose_msg.pose.orientation.y = data.pose.orientation.y
         # self.received_pose_msg.pose.orientation.z = data.pose.orientation.z
         # self.received_pose_msg.pose.orientation.w = data.pose.orientation.w
+        
+    def currentPoseCallback(self, msg):
+        self.robot_current_pose.pose.pose.position.x = msg.pose.pose.position.x
+        self.robot_current_pose.pose.pose.position.y = msg.pose.pose.position.y
+        self.robot_current_pose.pose.pose.orientation.z = msg.pose.pose.orientation.z
+        self.robot_current_pose.pose.pose.orientation.w = msg.pose.pose.orientation.w
     
-    def initialPoseCallback(self, msg):
-        self.initial_pose_received = True
-        self.debug('Received initial pose')
-        self.initial_pose.pose.position.x = msg.pose.pose.position.x
-        self.initial_pose.pose.position.y = msg.pose.pose.position.y
-        self.initial_pose.pose.position.z = msg.pose.pose.position.z
+    # def initialPoseCallback(self, msg):
+    #     self.initial_pose_received = True
+    #     self.debug('Received initial pose')
+    #     self.initial_pose.pose.position.x = msg.pose.pose.position.x
+    #     self.initial_pose.pose.position.y = msg.pose.pose.position.y
+    #     self.initial_pose.pose.position.z = msg.pose.pose.position.z
 
-        self.initial_pose.pose.orientation.x = msg.pose.pose.orientation.x
-        self.initial_pose.pose.orientation.y = msg.pose.pose.orientation.y
-        self.initial_pose.pose.orientation.z = msg.pose.pose.orientation.z
-        self.initial_pose.pose.orientation.w = msg.pose.pose.orientation.w
+    #     self.initial_pose.pose.orientation.x = msg.pose.pose.orientation.x
+    #     self.initial_pose.pose.orientation.y = msg.pose.pose.orientation.y
+    #     self.initial_pose.pose.orientation.z = msg.pose.pose.orientation.z
+    #     self.initial_pose.pose.orientation.w = msg.pose.pose.orientation.w
     
     # Built in Methods
     def goToPose(self, pose):
@@ -435,12 +462,12 @@ class RobotNavigator(Node):
         return
 
     def _setInitialPose(self):
-        msg = PoseWithCovarianceStamped()
-        msg.pose.pose = self.initial_pose.pose
-        msg.header.frame_id = self.initial_pose.header.frame_id
-        msg.header.stamp = self.initial_pose.header.stamp
-        self.info('Publishing Initial Pose')
-        self.initial_pose_pub.publish(msg)
+        # msg = PoseWithCovarianceStamped()
+        # msg.pose.pose = self.initial_pose.pose
+        # msg.header.frame_id = self.initial_pose.header.frame_id
+        # msg.header.stamp = self.initial_pose.header.stamp
+        # self.info('Publishing Initial Pose')
+        # self.initial_pose_pub.publish(msg)
         return
 
     def info(self, msg):
@@ -470,13 +497,18 @@ def main(args=None):
     time.sleep(1)
     # display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
     # display_nav.start()
+    # ros2 run yahboomcar_laser laser_Avoidance_a1_X3
+    # laser_avoid = RunThread("yahboomcar_laser", "laser_Avoidance_a1_X3")
+    # laser_avoid.start()
     # time.sleep(1)
     navigation_dwa  = LaunchThread("yahboomcar_nav", "navigation_dwa_launch.py", navigator.NAMESPACE)
     navigation_dwa.start()
+    # navigation_teb  = LaunchThread("yahboomcar_nav", "navigation_teb_launch.py", navigator.NAMESPACE)
+    # navigation_teb.start()
     time.sleep(5)
     
     # Set our demo's initial pose
-    navigator._setInitialPose()
+    # navigator._setInitialPose()
     initial_pose = PoseStamped()
     initial_pose.header.frame_id = 'map'
     initial_pose.header.stamp = navigator.get_clock().now().to_msg()
@@ -488,43 +520,46 @@ def main(args=None):
     navigator.goToPose(initial_pose)
 
     # Go to our demos first goal pose
-    goal_pose = PoseStamped()
-    goal_pose.header.frame_id = 'map'
-    goal_pose.header.stamp = navigator.get_clock().now().to_msg()
-    # navigator.info("goal_pose.header.stamp: {}".format(goal_pose.header.stamp))
+    new_goal_pose = PoseStamped()
+    new_goal_pose.header.frame_id = 'map'
+    # new_goal_pose.header.stamp = navigator.get_clock().now().to_msg()
+    
+    prev_goal_pose = PoseStamped()
 
     try:
         while rclpy.ok():
             rclpy.spin_once(navigator)
             if navigator.is_pose_server:
-                goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
-                goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
-                goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
-                goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
-                navigator.get_logger().info("goal_pose: {}".format(goal_pose.pose))
+                new_goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
+                new_goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
+                new_goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
+                new_goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
+                navigator.get_logger().info("goal_pose: {}".format(new_goal_pose.pose))
                 navigator.is_pose_server = False
             
             if navigator.is_pose_ui:
-                goal_pose.pose.position.x = navigator.pose_msg_ui.pose.position.x
-                goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
-                goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
-                goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
-                navigator.get_logger().info("goal_pose: {}".format(goal_pose.pose))
+                new_goal_pose.pose.position.x = navigator.pose_msg_ui.poyse.position.x
+                new_goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
+                new_goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
+                new_goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
+                navigator.get_logger().info("goal_pose: {}".format(new_goal_pose.pose))
                 navigator.is_pose_ui = False
 
             '''TODO
             메시지 받으면 지금 네비게이션 동작중인지 확인하고, cancelNav를 호출
             goToPose 다음에 while not navigator.isNavComplete(): 이 구문이 있으니, 아까 예상대로 완료가 되어야지만 다음 로직 수행.
             '''
-
-            navigator.goToPose(goal_pose)
+            prev_goal_pose = new_goal_pose
+            if new_goal_pose == prev_goal_pose:
+                pass
+            else:
+                navigator.goToPose(new_goal_pose)
 
             i = 0
             while not navigator.isNavComplete():
                 # Do something with the feedback
                 i = i + 1
                 feedback = navigator.getFeedback()
-                # navigator.info("feedback: {}".format(feedback))
 
                 if navigator.is_pose_mqtt_received:
                     navigator.cancelNav()
