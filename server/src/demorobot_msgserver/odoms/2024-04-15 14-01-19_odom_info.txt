@@ -1,0 +1,8299 @@
+demorobot Odometry: 
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.063278214261665
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06384623018901668
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0641113582669214
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0644623923530811
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06406191478925395
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0632171743645316
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.062184422770499945
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06374579575163214
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06356257801291751
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0643295522438193
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0647644829028989
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06580538526654173
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06517021018772436
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06651645422763845
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06722299026501782
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06617117990080199
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06701842974401369
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06740647564568382
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06804414223054717
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0675530765896181
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0678901842883358
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06746898718178106
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06814502351368747
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06866434459661068
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06716804062207055
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06709136101133936
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06801546218955262
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06728352686397228
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06947088579902697
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.06914655845954112
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07008293336830031
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07095056967262597
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07136116416028174
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07133194261517735
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07240504914244814
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07275349560380322
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07367104089387731
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07404739043737159
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07484564552752761
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0757888385683463
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0755759134967582
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07618761956605105
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07621638305204992
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07678540918151908
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07714045356407188
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07700815667156632
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0774654596030581
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07729818479939315
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07646000267471463
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07659293191844901
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07744526685760292
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07790606303621517
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07697426183636638
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07655715986611888
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07750216566503194
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07814564538625435
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07834618557586054
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07811703172694098
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07913246737874188
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0789836349308326
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07910086359160727
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07732356852801477
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07778227652405378
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07761544751616306
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07728572199524734
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07754150794472557
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07630888721108053
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07482420171835971
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07704935554466795
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07839952621323319
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07773261076776596
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07815218413391677
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07769833490320714
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07881542846694548
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07923612932974508
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08004543724359439
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07985440877032869
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0794404208537571
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07912347102020544
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07793837587685491
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07811150465090258
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.07998307607422028
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0804005725693581
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08044200225658446
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08170776653644454
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08268586336137175
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0825798470660601
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0824805366862734
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08220756083692501
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08306729882474388
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08370696467454525
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08378005578124388
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08294686690403336
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08315948776259077
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08369150295862983
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08420125622626878
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08284121714238894
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08279848949958912
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08316903899416767
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08361768417560105
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08355864383380433
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08359112661630641
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0843746920382184
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08634218864777808
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08667454851451903
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08715535485607752
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08720072075724711
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08802897764610189
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08745460348941038
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08814972982929555
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08919776392545117
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08941848663577014
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08927343178053115
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09023577803674475
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08999887229570198
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08842761612503817
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08963780029379098
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09023669473586808
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.08916261473719592
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09090242614087235
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09075668012384394
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0905456631800476
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09144252262264135
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09182867436653012
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09220149916219694
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09275651370716403
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09412915079686983
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09488409492477637
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09438825603357408
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09397542223160667
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09478752929001366
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09555995855748914
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09573258946963074
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09589652393311811
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09616088764812464
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09707840356294416
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09697538244081182
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09680216929073299
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09671050501080547
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09673488603821351
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09778681181838846
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09794681672359766
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0962648455839358
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09737326296903401
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09803989641165532
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09766082911802952
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09843458383492369
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09960775691651967
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10023148553173378
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.0996162159868241
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.09974332944908126
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10025364428522418
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10021824093814331
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10174148526800068
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10257290125454135
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10268946333521214
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10380304588544949
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10415019838670267
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10401884851946644
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10403175667502644
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10438353916812228
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10401128945901307
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10438946299146307
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10445910202166137
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10484210218448482
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10390515702733909
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1051127320645341
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10452398325638655
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10505829490821372
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10386564580176272
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1041063594942331
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10329616971224617
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1037548453181812
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10494676693268293
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10410295845117012
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10469518921610083
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10465950942183733
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10531496889617113
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10653406396263955
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10715791897184333
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10828628499407698
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10937182544626348
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10929824998978695
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10952019460960952
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10928360118039498
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10992567226506116
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10906203064265708
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10945444503233835
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10998046814652844
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10864485486616972
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10846851773370379
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10782600607017641
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10749505336385064
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10659376834451627
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10625792664810227
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10801312931361394
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11020295665557142
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11008881424636595
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11031600608447945
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.10984902858683583
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1108109443975763
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11097416390880996
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11164007450140244
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11241718826405009
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11199294008631341
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1124138078986275
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11242901356002905
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11295963572651542
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11442433856545896
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1141970827898071
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11462002505811085
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11584273624961172
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1171628416394156
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1164229885412314
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11805379314476151
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11812692705367579
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11845984889196626
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11801406454046545
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11918579487250326
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11974451976690534
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12064138142099128
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12038180258611515
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.11916575064012705
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1207343616832781
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12165173642439807
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.1222925669140563
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12293318017074202
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12427705465294941
+
+robot_pose.pose.position:
+	x: 0.0
+	x: 0.0
+robot_pose.pose.orientation:
+	z: 0.12272195756823186
+
+robot_pose.pose.position:
+	x: 0.0002560588302295984
+	x: -0.0002560588302295984
+robot_pose.pose.orientation:
+	z: 0.1649689249764594
+
+robot_pose.pose.position:
+	x: 0.0005499835480915724
+	x: -0.0005488069826299858
+robot_pose.pose.orientation:
+	z: 0.2157354367189215
+
+robot_pose.pose.position:
+	x: 0.001193841126629035
+	x: -0.0011869953689592086
+robot_pose.pose.orientation:
+	z: 0.32485081725061604
+
+robot_pose.pose.position:
+	x: 0.0015311294853109377
+	x: 0.00035662206933945954
+robot_pose.pose.orientation:
+	z: 0.572500934554475
+
+robot_pose.pose.position:
+	x: 0.003826134975252434
+	x: 0.003535147986053788
+robot_pose.pose.orientation:
+	z: 1.5922452428397074
+
+robot_pose.pose.position:
+	x: 0.007580106307138404
+	x: 0.007131043775855871
+robot_pose.pose.orientation:
+	z: 3.0777001586438932
+
+robot_pose.pose.position:
+	x: 0.011923417275777051
+	x: 0.012443604084473009
+robot_pose.pose.orientation:
+	z: 4.9775631455205005
+
+robot_pose.pose.position:
+	x: 0.01345712601701955
+	x: 0.015395778313349847
+robot_pose.pose.orientation:
+	z: 7.819200469055169
+
+robot_pose.pose.position:
+	x: 0.012027190578305163
+	x: 0.015611270483808065
+robot_pose.pose.orientation:
+	z: 11.183521008963082
+
+robot_pose.pose.position:
+	x: 0.009223727852935668
+	x: 0.014237412109145333
+robot_pose.pose.orientation:
+	z: 14.432469537537045
+
+robot_pose.pose.position:
+	x: 0.006910181313493975
+	x: 0.012633124858428362
+robot_pose.pose.orientation:
+	z: 17.437638829094492
+
+robot_pose.pose.position:
+	x: 0.004269964436657559
+	x: 0.009959628737440336
+robot_pose.pose.orientation:
+	z: 20.253246943882246
+
+robot_pose.pose.position:
+	x: 0.002832404322909398
+	x: 0.006860379734561854
+robot_pose.pose.orientation:
+	z: 22.787503093073216
+
+robot_pose.pose.position:
+	x: 0.0012831120127027652
+	x: 0.0049312466994649775
+robot_pose.pose.orientation:
+	z: 25.23815997106893
+
+robot_pose.pose.position:
+	x: 0.0007653418417321428
+	x: 0.0032370295689185874
+robot_pose.pose.orientation:
+	z: 27.542483580920116
+
+robot_pose.pose.position:
+	x: 0.0008952290896311636
+	x: 0.0021505942310262446
+robot_pose.pose.orientation:
+	z: 29.59163158045578
+
+robot_pose.pose.position:
+	x: 0.0009264919010059878
+	x: 0.0019914751478180043
+robot_pose.pose.orientation:
+	z: 31.341734747622866
+
+robot_pose.pose.position:
+	x: 0.001284568897099233
+	x: 0.0021059848405462463
+robot_pose.pose.orientation:
+	z: 32.80750612356213
+
+robot_pose.pose.position:
+	x: 0.0015007081220127475
+	x: 0.0017932786632571093
+robot_pose.pose.orientation:
+	z: 33.980612955799835
+
+robot_pose.pose.position:
+	x: 0.0019335844696105476
+	x: 0.0009975552014035176
+robot_pose.pose.orientation:
+	z: 34.90309081911804
+
+robot_pose.pose.position:
+	x: 0.001998817129213288
+	x: 0.0008766099214230318
+robot_pose.pose.orientation:
+	z: 35.03545698086648
+
+robot_pose.pose.position:
+	x: 0.002008526502911033
+	x: 0.0008559777872366015
+robot_pose.pose.orientation:
+	z: 35.04746855904983
+
+robot_pose.pose.position:
+	x: 0.0020098707231821404
+	x: 0.0008508230047369553
+robot_pose.pose.orientation:
+	z: 35.04680534105722
+
+robot_pose.pose.position:
+	x: 0.0020101622539174945
+	x: 0.0008488353393045098
+robot_pose.pose.orientation:
+	z: 35.045929783871195
+
+robot_pose.pose.position:
+	x: 0.0020105223001629863
+	x: 0.0008482228214178226
+robot_pose.pose.orientation:
+	z: 35.044610526753125
+
+robot_pose.pose.position:
+	x: 0.002011134118256197
+	x: 0.0008488342240656387
+robot_pose.pose.orientation:
+	z: 35.04373004263124
+
+robot_pose.pose.position:
+	x: 0.00201202940994057
+	x: 0.0008506861533186946
+robot_pose.pose.orientation:
+	z: 35.04188621949931
+
+robot_pose.pose.position:
+	x: 0.002013165035308614
+	x: 0.0008536111180703711
+robot_pose.pose.orientation:
+	z: 35.041887962334556
+
+robot_pose.pose.position:
+	x: 0.00201457451007999
+	x: 0.0008577783157244464
+robot_pose.pose.orientation:
+	z: 35.03889700042035
+
+robot_pose.pose.position:
+	x: 0.002016138468330719
+	x: 0.000862733026785696
+robot_pose.pose.orientation:
+	z: 35.03769998039966
+
+robot_pose.pose.position:
+	x: 0.0020178855799518475
+	x: 0.0008685996211927739
+robot_pose.pose.orientation:
+	z: 35.034188258106134
+
+robot_pose.pose.position:
+	x: 0.002019726631657683
+	x: 0.0008750524651335317
+robot_pose.pose.orientation:
+	z: 35.03247264222361
+
+robot_pose.pose.position:
+	x: 0.0020216261171759407
+	x: 0.0008818937191336525
+robot_pose.pose.orientation:
+	z: 35.02936147911756
+
+robot_pose.pose.position:
+	x: 0.0020235479126810545
+	x: 0.0008890208784067355
+robot_pose.pose.orientation:
+	z: 35.02876255813149
+
+robot_pose.pose.position:
+	x: 0.002025450347926516
+	x: 0.0008961973642964915
+robot_pose.pose.orientation:
+	z: 35.027542260944685
+
+robot_pose.pose.position:
+	x: 0.0020273089948295428
+	x: 0.000903367205955531
+robot_pose.pose.orientation:
+	z: 35.0237945810898
+
+robot_pose.pose.position:
+	x: 0.0020290874611638
+	x: 0.0009103758446401102
+robot_pose.pose.orientation:
+	z: 35.0210986624675
+
+robot_pose.pose.position:
+	x: 0.002040044357558522
+	x: 0.0009684972406356813
+robot_pose.pose.orientation:
+	z: 34.96227804564308
+
+robot_pose.pose.position:
+	x: 0.0020415251694735612
+	x: 0.0009737922729514832
+robot_pose.pose.orientation:
+	z: 34.95819964714454
+
+robot_pose.pose.position:
+	x: 0.0020417623958245237
+	x: 0.000974664028561471
+robot_pose.pose.orientation:
+	z: 34.95801820799494
+
+robot_pose.pose.position:
+	x: 0.0020417758269557786
+	x: 0.0009747251617771823
+robot_pose.pose.orientation:
+	z: 34.959042295379255
+
+robot_pose.pose.position:
+	x: 0.002041756870800522
+	x: 0.0009746679342261231
+robot_pose.pose.orientation:
+	z: 34.96123891502372
+
+robot_pose.pose.position:
+	x: 0.00204173495085492
+	x: 0.0009745990857582444
+robot_pose.pose.orientation:
+	z: 34.959821556164194
+
+robot_pose.pose.position:
+	x: 0.002041713325067159
+	x: 0.0009745302631042558
+robot_pose.pose.orientation:
+	z: 34.958390963672024
+
+robot_pose.pose.position:
+	x: 0.0020416922367631866
+	x: 0.0009744632631818521
+robot_pose.pose.orientation:
+	z: 34.959603410812
+
+robot_pose.pose.position:
+	x: 0.002041664538976109
+	x: 0.000974373758125722
+robot_pose.pose.orientation:
+	z: 34.951116474157715
+
+robot_pose.pose.position:
+	x: 0.0020416413191240495
+	x: 0.0009743006812969137
+robot_pose.pose.orientation:
+	z: 34.957825082618534
+
+robot_pose.pose.position:
+	x: 0.002041636723988731
+	x: 0.0009742867695013675
+robot_pose.pose.orientation:
+	z: 34.95665110778819
+
+robot_pose.pose.position:
+	x: 0.002041623142579874
+	x: 0.0009742437477780293
+robot_pose.pose.orientation:
+	z: 34.95980229540853
+
+robot_pose.pose.position:
+	x: 0.0020416093088029444
+	x: 0.000974200160157268
+robot_pose.pose.orientation:
+	z: 34.96292584209379
+
+robot_pose.pose.position:
+	x: 0.0020415959313873134
+	x: 0.000974157984132202
+robot_pose.pose.orientation:
+	z: 34.96051802842601
+
+robot_pose.pose.position:
+	x: 0.00204158340610473
+	x: 0.0009741180989137688
+robot_pose.pose.orientation:
+	z: 34.96049582116005
+
+robot_pose.pose.position:
+	x: 0.0020415714694994236
+	x: 0.0009740801653996427
+robot_pose.pose.orientation:
+	z: 34.96183734670886
+
+robot_pose.pose.position:
+	x: 0.002041560404727916
+	x: 0.00097404517729125
+robot_pose.pose.orientation:
+	z: 34.96030143094883
+
+robot_pose.pose.position:
+	x: 0.0020415504223639
+	x: 0.0009740133891633774
+robot_pose.pose.orientation:
+	z: 34.96129294660758
+
+robot_pose.pose.position:
+	x: 0.002041540399034714
+	x: 0.00097398163571213
+robot_pose.pose.orientation:
+	z: 34.962650254225174
+
+robot_pose.pose.position:
+	x: 0.002041531434197868
+	x: 0.0009739532631537929
+robot_pose.pose.orientation:
+	z: 34.960146904086116
+
+robot_pose.pose.position:
+	x: 0.0020415231140300735
+	x: 0.0009739267834908645
+robot_pose.pose.orientation:
+	z: 34.961071437449235
+
+robot_pose.pose.position:
+	x: 0.00204151543372912
+	x: 0.0009739024009855421
+robot_pose.pose.orientation:
+	z: 34.96101740836524
+
+robot_pose.pose.position:
+	x: 0.0020415075485765376
+	x: 0.0009738774023402804
+robot_pose.pose.orientation:
+	z: 34.96334552457368
+
+robot_pose.pose.position:
+	x: 0.002041500388063407
+	x: 0.0009738547127228182
+robot_pose.pose.orientation:
+	z: 34.96009497207132
+
+robot_pose.pose.position:
+	x: 0.002041493594570114
+	x: 0.0009738330923204632
+robot_pose.pose.orientation:
+	z: 34.96269966716766
+
+robot_pose.pose.position:
+	x: 0.002041487743372291
+	x: 0.0009738145923376238
+robot_pose.pose.orientation:
+	z: 34.9607298782394
+
+robot_pose.pose.position:
+	x: 0.0020414815910289466
+	x: 0.0009737949539125258
+robot_pose.pose.orientation:
+	z: 34.9618918075779
+
+robot_pose.pose.position:
+	x: 0.002041475951587908
+	x: 0.0009737771332374344
+robot_pose.pose.orientation:
+	z: 34.961886601754024
+
+robot_pose.pose.position:
+	x: 0.0020414712823781517
+	x: 0.0009737623224308156
+robot_pose.pose.orientation:
+	z: 34.963112701878565
+
+robot_pose.pose.position:
+	x: 0.0020414664664283578
+	x: 0.0009737470719012063
+robot_pose.pose.orientation:
+	z: 34.963857104832954
+
+robot_pose.pose.position:
+	x: 0.0020414618748156137
+	x: 0.000973732514829143
+robot_pose.pose.orientation:
+	z: 34.96237848918427
+
+robot_pose.pose.position:
+	x: 0.0020414576609534734
+	x: 0.0009737191156498422
+robot_pose.pose.orientation:
+	z: 34.964278922278694
+
+robot_pose.pose.position:
+	x: 0.0020414536832550827
+	x: 0.0009737065296707075
+robot_pose.pose.orientation:
+	z: 34.967116187547155
+
+robot_pose.pose.position:
+	x: 0.002041449935839651
+	x: 0.0009736946842931628
+robot_pose.pose.orientation:
+	z: 34.96476965934077
+
+robot_pose.pose.position:
+	x: 0.0020414462310821106
+	x: 0.0009736828663131531
+robot_pose.pose.orientation:
+	z: 34.96715011845977
+
+robot_pose.pose.position:
+	x: 0.002041442847220917
+	x: 0.0009736721611960722
+robot_pose.pose.orientation:
+	z: 34.96539894448152
+
+robot_pose.pose.position:
+	x: 0.002041439787319643
+	x: 0.0009736624112594405
+robot_pose.pose.orientation:
+	z: 34.96395878799234
+
+robot_pose.pose.position:
+	x: 0.0020414369094921905
+	x: 0.0009736532626561135
+robot_pose.pose.orientation:
+	z: 34.965801841827485
+
+robot_pose.pose.position:
+	x: 0.0020414343394497872
+	x: 0.0009736451294849021
+robot_pose.pose.orientation:
+	z: 34.965097879208564
+
+robot_pose.pose.position:
+	x: 0.0020414317614090285
+	x: 0.0009736369346517436
+robot_pose.pose.orientation:
+	z: 34.96617571786811
+
+robot_pose.pose.position:
+	x: 0.0020414293194280803
+	x: 0.0009736291755586612
+robot_pose.pose.orientation:
+	z: 34.96608239368722
+
+robot_pose.pose.position:
+	x: 0.002041426936743279
+	x: 0.0009736216208526804
+robot_pose.pose.orientation:
+	z: 34.96424766968072
+
+robot_pose.pose.position:
+	x: 0.0020414249870778474
+	x: 0.0009736154005854971
+robot_pose.pose.orientation:
+	z: 34.96581556388966
+
+robot_pose.pose.position:
+	x: 0.0020414227381166583
+	x: 0.0009736082513579912
+robot_pose.pose.orientation:
+	z: 34.963704032333936
+
+robot_pose.pose.position:
+	x: 0.002041420887642263
+	x: 0.0009736023761491956
+robot_pose.pose.orientation:
+	z: 34.962616460980485
+
+robot_pose.pose.position:
+	x: 0.0020414193572792683
+	x: 0.0009735975079076582
+robot_pose.pose.orientation:
+	z: 34.96477617343033
+
+robot_pose.pose.position:
+	x: 0.002041417668130295
+	x: 0.0009735921665976233
+robot_pose.pose.orientation:
+	z: 34.966952651129134
+
+robot_pose.pose.position:
+	x: 0.002041416133732954
+	x: 0.0009735873110726677
+robot_pose.pose.orientation:
+	z: 34.96563523029346
+
+robot_pose.pose.position:
+	x: 0.0020414146814369946
+	x: 0.000973582691738164
+robot_pose.pose.orientation:
+	z: 34.964346129565385
+
+robot_pose.pose.position:
+	x: 0.0020414133409486874
+	x: 0.0009735784215122004
+robot_pose.pose.orientation:
+	z: 34.966588360107515
+
+robot_pose.pose.position:
+	x: 0.002041412041842373
+	x: 0.0009735743103456086
+robot_pose.pose.orientation:
+	z: 34.96437862476068
+
+robot_pose.pose.position:
+	x: 0.002041411879531282
+	x: 0.0009735737872839635
+robot_pose.pose.orientation:
+	z: 34.9663076281678
+
+robot_pose.pose.position:
+	x: 0.002041408885598329
+	x: 0.0009735642835466728
+robot_pose.pose.orientation:
+	z: 34.963794819554586
+
+robot_pose.pose.position:
+	x: 0.0020414085544860957
+	x: 0.0009735632084741611
+robot_pose.pose.orientation:
+	z: 34.96543046916012
+
+robot_pose.pose.position:
+	x: 0.0020414075416871178
+	x: 0.0009735600010855696
+robot_pose.pose.orientation:
+	z: 34.96469932676042
+
+robot_pose.pose.position:
+	x: 0.0020414066464521253
+	x: 0.0009735571593660787
+robot_pose.pose.orientation:
+	z: 34.96405691511586
+
+robot_pose.pose.position:
+	x: 0.0020414058499577817
+	x: 0.000973554629496846
+robot_pose.pose.orientation:
+	z: 34.966483547912425
+
+robot_pose.pose.position:
+	x: 0.0020414050274273074
+	x: 0.0009735520284288879
+robot_pose.pose.orientation:
+	z: 34.96751989943463
+
+robot_pose.pose.position:
+	x: 0.002041404230788829
+	x: 0.0009735495014598494
+robot_pose.pose.orientation:
+	z: 34.96733011922152
+
+robot_pose.pose.position:
+	x: 0.00204140350348214
+	x: 0.0009735471961561184
+robot_pose.pose.orientation:
+	z: 34.971636521442484
+
+robot_pose.pose.position:
+	x: 0.0020414028512037658
+	x: 0.0009735451345888619
+robot_pose.pose.orientation:
+	z: 34.96903528546626
+
+robot_pose.pose.position:
+	x: 0.0020414021729828658
+	x: 0.0009735429720939277
+robot_pose.pose.orientation:
+	z: 34.96896918696578
+
+robot_pose.pose.position:
+	x: 0.0020414015839626126
+	x: 0.0009735411005537334
+robot_pose.pose.orientation:
+	z: 34.97121103005421
+
+robot_pose.pose.position:
+	x: 0.002041401025912216
+	x: 0.0009735393361601138
+robot_pose.pose.orientation:
+	z: 34.96938421879637
+
+robot_pose.pose.position:
+	x: 0.0020414005266510492
+	x: 0.0009735377468716564
+robot_pose.pose.orientation:
+	z: 34.97177343836845
+
+robot_pose.pose.position:
+	x: 0.0020414000359626127
+	x: 0.0009735361907157096
+robot_pose.pose.orientation:
+	z: 34.96940636808938
+
+robot_pose.pose.position:
+	x: 0.0020413995638518677
+	x: 0.0009735346865911927
+robot_pose.pose.orientation:
+	z: 34.971357217836285
+
+robot_pose.pose.position:
+	x: 0.0020413991332739736
+	x: 0.0009735333212870525
+robot_pose.pose.orientation:
+	z: 34.96941287968308
+
+robot_pose.pose.position:
+	x: 0.002041398727109135
+	x: 0.0009735320261732754
+robot_pose.pose.orientation:
+	z: 34.971895781582305
+
+robot_pose.pose.position:
+	x: 0.002041398321828774
+	x: 0.0009735307413573842
+robot_pose.pose.orientation:
+	z: 34.970123616473174
+
+robot_pose.pose.position:
+	x: 0.0020413979546935568
+	x: 0.0009735295715871843
+robot_pose.pose.orientation:
+	z: 34.97211616543106
+
+robot_pose.pose.position:
+	x: 0.0020413976370042665
+	x: 0.0009735285652612576
+robot_pose.pose.orientation:
+	z: 34.9696620332514
+
+robot_pose.pose.position:
+	x: 0.002041397307883298
+	x: 0.0009735275160511125
+robot_pose.pose.orientation:
+	z: 34.96940716896379
+
+robot_pose.pose.position:
+	x: 0.0020413970100483813
+	x: 0.0009735265671341993
+robot_pose.pose.orientation:
+	z: 34.97054397942603
+
+robot_pose.pose.position:
+	x: 0.0020413967247865914
+	x: 0.000973525663864614
+robot_pose.pose.orientation:
+	z: 34.970708190020666
+
+robot_pose.pose.position:
+	x: 0.002041396476827813
+	x: 0.0009735248739106204
+robot_pose.pose.orientation:
+	z: 34.96839018132991
+
+robot_pose.pose.position:
+	x: 0.002041396216773366
+	x: 0.0009735240470357523
+robot_pose.pose.orientation:
+	z: 34.971020052031626
+
+robot_pose.pose.position:
+	x: 0.00204139600676259
+	x: 0.0009735233828195281
+robot_pose.pose.orientation:
+	z: 34.97328171002765
+
+robot_pose.pose.position:
+	x: 0.002041395787217807
+	x: 0.0009735226881242285
+robot_pose.pose.orientation:
+	z: 34.972539211810634
+
+robot_pose.pose.position:
+	x: 0.002041395585863719
+	x: 0.000973522047954335
+robot_pose.pose.orientation:
+	z: 34.97206836282357
+
+robot_pose.pose.position:
+	x: 0.0020413953934927676
+	x: 0.000973521435146827
+robot_pose.pose.orientation:
+	z: 34.97272659204472
+
+robot_pose.pose.position:
+	x: 0.0020413952149663196
+	x: 0.0009735208688244933
+robot_pose.pose.orientation:
+	z: 34.97390312043304
+
+robot_pose.pose.position:
+	x: 0.0020413950469213844
+	x: 0.0009735203352601141
+robot_pose.pose.orientation:
+	z: 34.9717256322747
+
+robot_pose.pose.position:
+	x: 0.0020413948885414325
+	x: 0.0009735198300227857
+robot_pose.pose.orientation:
+	z: 34.973777337578866
+
+robot_pose.pose.position:
+	x: 0.0020413947377349055
+	x: 0.0009735193517604269
+robot_pose.pose.orientation:
+	z: 34.97270696239092
+
+robot_pose.pose.position:
+	x: 0.0020413945964647914
+	x: 0.0009735189014995049
+robot_pose.pose.orientation:
+	z: 34.97142800826
+
+robot_pose.pose.position:
+	x: 0.0020413944490742285
+	x: 0.0009735184284578595
+robot_pose.pose.orientation:
+	z: 34.97147570188915
+
+robot_pose.pose.position:
+	x: 0.0020413943201574997
+	x: 0.0009735180218480891
+robot_pose.pose.orientation:
+	z: 34.973262508119724
+
+robot_pose.pose.position:
+	x: 0.002041394233349367
+	x: 0.0009735177474545601
+robot_pose.pose.orientation:
+	z: 34.97548790404103
+
+robot_pose.pose.position:
+	x: 0.0020413941091068405
+	x: 0.0009735173535512408
+robot_pose.pose.orientation:
+	z: 34.97864423208088
+
+robot_pose.pose.position:
+	x: 0.0020413940038496474
+	x: 0.0009735170190386262
+robot_pose.pose.orientation:
+	z: 34.974749798115816
+
+robot_pose.pose.position:
+	x: 0.002041393905262972
+	x: 0.0009735167051690489
+robot_pose.pose.orientation:
+	z: 34.97839894772007
+
+robot_pose.pose.position:
+	x: 0.0020413938249412003
+	x: 0.0009735164518402705
+robot_pose.pose.orientation:
+	z: 34.97705035710148
+
+robot_pose.pose.position:
+	x: 0.0020413937467720386
+	x: 0.0009735162025917841
+robot_pose.pose.orientation:
+	z: 34.97921761524592
+
+robot_pose.pose.position:
+	x: 0.0020413936658303785
+	x: 0.0009735159461712813
+robot_pose.pose.orientation:
+	z: 34.97685379533582
+
+robot_pose.pose.position:
+	x: 0.0020413935939933834
+	x: 0.0009735157165444196
+robot_pose.pose.orientation:
+	z: 34.97841557304736
+
+robot_pose.pose.position:
+	x: 0.002041393521457875
+	x: 0.0009735154858713184
+robot_pose.pose.orientation:
+	z: 34.97730370461143
+
+robot_pose.pose.position:
+	x: 0.0020413934570694603
+	x: 0.000973515281291361
+robot_pose.pose.orientation:
+	z: 34.97746717208475
+
+robot_pose.pose.position:
+	x: 0.002041393399679342
+	x: 0.0009735150984564973
+robot_pose.pose.orientation:
+	z: 34.97752034967427
+
+robot_pose.pose.position:
+	x: 0.0020413933401476334
+	x: 0.0009735149092832573
+robot_pose.pose.orientation:
+	z: 34.98046273689745
+
+robot_pose.pose.position:
+	x: 0.002041393286977662
+	x: 0.0009735147411443797
+robot_pose.pose.orientation:
+	z: 34.97996773261684
+
+robot_pose.pose.position:
+	x: 0.002041393234257927
+	x: 0.0009735145722400408
+robot_pose.pose.orientation:
+	z: 34.9802809849466
+
+robot_pose.pose.position:
+	x: 0.0020413931823579923
+	x: 0.0009735144076759238
+robot_pose.pose.orientation:
+	z: 34.984479706094554
+
+robot_pose.pose.position:
+	x: 0.0020413931412197033
+	x: 0.0009735142781978829
+robot_pose.pose.orientation:
+	z: 34.98431737836712
+
+robot_pose.pose.position:
+	x: 0.002041393101163613
+	x: 0.000973514150691403
+robot_pose.pose.orientation:
+	z: 34.982845848923674
+
+robot_pose.pose.position:
+	x: 0.002041393060406312
+	x: 0.0009735140201871363
+robot_pose.pose.orientation:
+	z: 34.98160004452879
+
+robot_pose.pose.position:
+	x: 0.00204139302413794
+	x: 0.0009735139047189937
+robot_pose.pose.orientation:
+	z: 34.98309239716122
+
+robot_pose.pose.position:
+	x: 0.0020413929908957556
+	x: 0.0009735137994110457
+robot_pose.pose.orientation:
+	z: 34.98223764807894
+
+robot_pose.pose.position:
+	x: 0.0020413929593460734
+	x: 0.0009735136985447936
+robot_pose.pose.orientation:
+	z: 34.983087690028825
+
+robot_pose.pose.position:
+	x: 0.002041392926641751
+	x: 0.0009735135942851358
+robot_pose.pose.orientation:
+	z: 34.98288440570779
+
+robot_pose.pose.position:
+	x: 0.002041392894940784
+	x: 0.000973513492916837
+robot_pose.pose.orientation:
+	z: 34.98217694170749
+
+robot_pose.pose.position:
+	x: 0.002041392868012503
+	x: 0.000973513407797451
+robot_pose.pose.orientation:
+	z: 34.985663337810344
+
+robot_pose.pose.position:
+	x: 0.002041392847442825
+	x: 0.0009735133428857678
+robot_pose.pose.orientation:
+	z: 34.98560022458999
+
+robot_pose.pose.position:
+	x: 0.0020413928243997537
+	x: 0.0009735132697283184
+robot_pose.pose.orientation:
+	z: 34.98762076675962
+
+robot_pose.pose.position:
+	x: 0.0020413928032581513
+	x: 0.0009735132026555
+robot_pose.pose.orientation:
+	z: 34.985958038277964
+
+robot_pose.pose.position:
+	x: 0.0020413927822876933
+	x: 0.0009735131355449907
+robot_pose.pose.orientation:
+	z: 34.98766682069803
+
+robot_pose.pose.position:
+	x: 0.002041392761586037
+	x: 0.0009735130696981045
+robot_pose.pose.orientation:
+	z: 34.98551920083374
+
+robot_pose.pose.position:
+	x: 0.0020413927435686437
+	x: 0.000973513012199704
+robot_pose.pose.orientation:
+	z: 34.98798839361825
+
+robot_pose.pose.position:
+	x: 0.0020413927270448488
+	x: 0.0009735129598339608
+robot_pose.pose.orientation:
+	z: 34.99035626985514
+
+robot_pose.pose.position:
+	x: 0.002041392711245721
+	x: 0.0009735129097589859
+robot_pose.pose.orientation:
+	z: 34.98884738605459
+
+robot_pose.pose.position:
+	x: 0.002041392696280783
+	x: 0.0009735128619457709
+robot_pose.pose.orientation:
+	z: 34.98664731768098
+
+robot_pose.pose.position:
+	x: 0.0020413926823213678
+	x: 0.0009735128172681409
+robot_pose.pose.orientation:
+	z: 34.98730156387641
+
+robot_pose.pose.position:
+	x: 0.00204139266801301
+	x: 0.0009735127715580724
+robot_pose.pose.orientation:
+	z: 34.98760013022168
+
+robot_pose.pose.position:
+	x: 0.0020413926547379765
+	x: 0.0009735127294270245
+robot_pose.pose.orientation:
+	z: 34.989880329202414
+
+robot_pose.pose.position:
+	x: 0.0020413926436243725
+	x: 0.0009735126940258919
+robot_pose.pose.orientation:
+	z: 34.989726898976116
+
+robot_pose.pose.position:
+	x: 0.002041392632358525
+	x: 0.000973512658243813
+robot_pose.pose.orientation:
+	z: 34.989443083170464
+
+robot_pose.pose.position:
+	x: 0.0020413926225828186
+	x: 0.0009735126270856439
+robot_pose.pose.orientation:
+	z: 34.992235656793795
+
+robot_pose.pose.position:
+	x: 0.002041392612570791
+	x: 0.0009735125952823727
+robot_pose.pose.orientation:
+	z: 34.990539083278165
+
+robot_pose.pose.position:
+	x: 0.0020413926033299276
+	x: 0.0009735125657851201
+robot_pose.pose.orientation:
+	z: 34.99349161769598
+
+robot_pose.pose.position:
+	x: 0.002041392594929023
+	x: 0.0009735125391584293
+robot_pose.pose.orientation:
+	z: 34.993661930748544
+
+robot_pose.pose.position:
+	x: 0.00204139258695358
+	x: 0.0009735125137542857
+robot_pose.pose.orientation:
+	z: 34.993384788885166
+
+robot_pose.pose.position:
+	x: 0.0023586637990849553
+	x: 0.001159380311484722
+robot_pose.pose.orientation:
+	z: 34.95119798213042
+
+robot_pose.pose.position:
+	x: 0.002413964303518283
+	x: 0.0012212788311119563
+robot_pose.pose.orientation:
+	z: 34.9433241489232
+
+robot_pose.pose.position:
+	x: 0.0024121941912403255
+	x: 0.0011932561943008221
+robot_pose.pose.orientation:
+	z: 34.94716146933094
+
+robot_pose.pose.position:
+	x: 0.0024115716566535067
+	x: 0.0011877756099563182
+robot_pose.pose.orientation:
+	z: 34.94837498144404
+
+robot_pose.pose.position:
+	x: 0.003083247264664398
+	x: 0.0026857215666780793
+robot_pose.pose.orientation:
+	z: 34.70349812121092
+
+robot_pose.pose.position:
+	x: 0.00448322667531023
+	x: 0.0052556834588360895
+robot_pose.pose.orientation:
+	z: 34.27763241601831
+
+robot_pose.pose.position:
+	x: 0.005812446359892634
+	x: 0.009329005376355918
+robot_pose.pose.orientation:
+	z: 33.6776661987779
+
+robot_pose.pose.position:
+	x: 0.006691380522643272
+	x: 0.012774843580952225
+robot_pose.pose.orientation:
+	z: 32.78641399845024
+
+robot_pose.pose.position:
+	x: 0.006820925526629817
+	x: 0.013278944099831557
+robot_pose.pose.orientation:
+	z: 31.165048944207033
+
+robot_pose.pose.position:
+	x: 0.006296050622810894
+	x: 0.01218890399592979
+robot_pose.pose.orientation:
+	z: 29.126327263016776
+
+robot_pose.pose.position:
+	x: 0.00516720673006152
+	x: 0.010724622865038799
+robot_pose.pose.orientation:
+	z: 26.93749731773154
+
+robot_pose.pose.position:
+	x: 0.004287568552046188
+	x: 0.00904436922336165
+robot_pose.pose.orientation:
+	z: 24.558982660027116
+
+robot_pose.pose.position:
+	x: 0.0038165003403520673
+	x: 0.006937187654066029
+robot_pose.pose.orientation:
+	z: 22.031717991565458
+
+robot_pose.pose.position:
+	x: 0.0032264537410654917
+	x: 0.004807278585619432
+robot_pose.pose.orientation:
+	z: 19.54874413234693
+
+robot_pose.pose.position:
+	x: 0.0014953308914389966
+	x: 0.002403297744597831
+robot_pose.pose.orientation:
+	z: 17.191626144750227
+
+robot_pose.pose.position:
+	x: 0.0005004473950583971
+	x: 0.0008315751177326781
+robot_pose.pose.orientation:
+	z: 15.004544711612953
+
+robot_pose.pose.position:
+	x: 0.0006513467063633834
+	x: 8.185894016421504e-05
+robot_pose.pose.orientation:
+	z: 12.97615910127279
+
+robot_pose.pose.position:
+	x: -7.612516001043235e-05
+	x: -0.0006664776758022342
+robot_pose.pose.orientation:
+	z: 11.353819763399958
+
+robot_pose.pose.position:
+	x: -0.00032377700846939974
+	x: -0.0011079524734433322
+robot_pose.pose.orientation:
+	z: 10.015263750958727
+
+robot_pose.pose.position:
+	x: -0.00020326584157171173
+	x: -0.0008314958164422011
+robot_pose.pose.orientation:
+	z: 8.873406291064887
+
+robot_pose.pose.position:
+	x: -6.445423660856385e-06
+	x: 0.0006403481982663107
+robot_pose.pose.orientation:
+	z: 8.055653169608544
+
+robot_pose.pose.position:
+	x: 0.00024313111749737435
+	x: 0.0022813163755738518
+robot_pose.pose.orientation:
+	z: 6.915785734042086
+
+robot_pose.pose.position:
+	x: 0.0004738540556325799
+	x: 0.002839491299023684
+robot_pose.pose.orientation:
+	z: 5.227814833198729
+
+robot_pose.pose.position:
+	x: 0.000721458534993152
+	x: 0.003226493384290407
+robot_pose.pose.orientation:
+	z: 3.051730736771775
+
+robot_pose.pose.position:
+	x: 0.001501632875217913
+	x: 0.002045985003923067
+robot_pose.pose.orientation:
+	z: 0.42243513119500803
+
+robot_pose.pose.position:
+	x: 0.002226234108670078
+	x: 0.001880992778377679
+robot_pose.pose.orientation:
+	z: -2.3921763350914533
+
+robot_pose.pose.position:
+	x: 0.0032630849535857753
+	x: 0.0015104356115238288
+robot_pose.pose.orientation:
+	z: -5.295624955875689
+
+robot_pose.pose.position:
+	x: 0.003297128037952033
+	x: 0.0008615310078681502
+robot_pose.pose.orientation:
+	z: -8.334947224635473
+
+robot_pose.pose.position:
+	x: 0.0031204993505811966
+	x: 0.00018751805774665052
+robot_pose.pose.orientation:
+	z: -11.265447686393165
+
+robot_pose.pose.position:
+	x: 0.00571228207899781
+	x: -0.001311260284099657
+robot_pose.pose.orientation:
+	z: -14.320012682074742
+
+robot_pose.pose.position:
+	x: 0.010173168825392017
+	x: -0.0038404447344836464
+robot_pose.pose.orientation:
+	z: -17.527091869657035
+
+robot_pose.pose.position:
+	x: 0.019307096386506243
+	x: -0.009678174691483798
+robot_pose.pose.orientation:
+	z: -20.528793620217808
+
+robot_pose.pose.position:
+	x: 0.031453079873599556
+	x: -0.020087708243852635
+robot_pose.pose.orientation:
+	z: -23.308381120472013
+
+robot_pose.pose.position:
+	x: 0.04410296702967604
+	x: -0.034243751153124564
+robot_pose.pose.orientation:
+	z: -26.261032764462175
+
+robot_pose.pose.position:
+	x: 0.05540369754798827
+	x: -0.04990804413173432
+robot_pose.pose.orientation:
+	z: -29.210072764523815
+
+robot_pose.pose.position:
+	x: 0.06508216980225535
+	x: -0.06782967894265221
+robot_pose.pose.orientation:
+	z: -32.1990090277917
+
+robot_pose.pose.position:
+	x: 0.07266199528427551
+	x: -0.08661083791239103
+robot_pose.pose.orientation:
+	z: -34.98825598820068
+
+robot_pose.pose.position:
+	x: 0.07834118486597262
+	x: -0.10650276151150877
+robot_pose.pose.orientation:
+	z: -37.786705821010855
+
+robot_pose.pose.position:
+	x: 0.08103994576391309
+	x: -0.1252759014691545
+robot_pose.pose.orientation:
+	z: -40.241663556932224
+
+robot_pose.pose.position:
+	x: 0.08121271278703354
+	x: -0.14231712903590243
+robot_pose.pose.orientation:
+	z: -42.28851479188207
+
+robot_pose.pose.position:
+	x: 0.07964068633786897
+	x: -0.15839135611072613
+robot_pose.pose.orientation:
+	z: -44.05012992284812
+
+robot_pose.pose.position:
+	x: 0.07652143669642536
+	x: -0.17556365281841713
+robot_pose.pose.orientation:
+	z: -45.6950838893
+
+robot_pose.pose.position:
+	x: 0.07220824301449148
+	x: -0.19467309922228365
+robot_pose.pose.orientation:
+	z: -46.78113377782696
+
+robot_pose.pose.position:
+	x: 0.0655592182186108
+	x: -0.21639158043360793
+robot_pose.pose.orientation:
+	z: -47.44773280588275
+
+robot_pose.pose.position:
+	x: 0.05750216663884422
+	x: -0.23752353007383423
+robot_pose.pose.orientation:
+	z: -47.812794032801634
+
+robot_pose.pose.position:
+	x: 0.048801090767868045
+	x: -0.26019814322066626
+robot_pose.pose.orientation:
+	z: -48.107168364184794
+
+robot_pose.pose.position:
+	x: 0.04004280848189717
+	x: -0.28150234729787665
+robot_pose.pose.orientation:
+	z: -48.33908418337552
+
+robot_pose.pose.position:
+	x: 0.02975490812825207
+	x: -0.30316905488070267
+robot_pose.pose.orientation:
+	z: -48.48249635895502
+
+robot_pose.pose.position:
+	x: 0.017852431217291694
+	x: -0.325984221059578
+robot_pose.pose.orientation:
+	z: -48.61763708251555
+
+robot_pose.pose.position:
+	x: 0.0051613704183338
+	x: -0.34978661936235583
+robot_pose.pose.orientation:
+	z: -48.66341070185998
+
+robot_pose.pose.position:
+	x: -0.006424871918408559
+	x: -0.37329601006629815
+robot_pose.pose.orientation:
+	z: -48.6546360870162
+
+robot_pose.pose.position:
+	x: -0.018226972621770594
+	x: -0.39535574868193846
+robot_pose.pose.orientation:
+	z: -48.74746050607672
+
+robot_pose.pose.position:
+	x: -0.030509679703162585
+	x: -0.41809514254893376
+robot_pose.pose.orientation:
+	z: -48.848862742467276
+
+robot_pose.pose.position:
+	x: -0.04258756480448637
+	x: -0.44084423869477435
+robot_pose.pose.orientation:
+	z: -48.90819007961502
+
+robot_pose.pose.position:
+	x: -0.05473338334212203
+	x: -0.4628615341743788
+robot_pose.pose.orientation:
+	z: -48.929286423534286
+
+robot_pose.pose.position:
+	x: -0.0670914694027717
+	x: -0.48399770668995784
+robot_pose.pose.orientation:
+	z: -48.96070910868027
+
+robot_pose.pose.position:
+	x: -0.07971725047965607
+	x: -0.5046129563710696
+robot_pose.pose.orientation:
+	z: -48.98473225121627
+
+robot_pose.pose.position:
+	x: -0.09168277614495272
+	x: -0.5251767394426222
+robot_pose.pose.orientation:
+	z: -48.9423114363053
+
+robot_pose.pose.position:
+	x: -0.10297679903720398
+	x: -0.5466811414329912
+robot_pose.pose.orientation:
+	z: -48.941289157081336
+
+robot_pose.pose.position:
+	x: -0.11537718593554407
+	x: -0.5681749927500528
+robot_pose.pose.orientation:
+	z: -48.937162298437315
+
+robot_pose.pose.position:
+	x: -0.12862213726299268
+	x: -0.5901131466697291
+robot_pose.pose.orientation:
+	z: -48.879747367487205
+
+robot_pose.pose.position:
+	x: -0.14222897342072402
+	x: -0.6117727774783974
+robot_pose.pose.orientation:
+	z: -48.588878473738696
+
+robot_pose.pose.position:
+	x: -0.15525679770202586
+	x: -0.6333128874975121
+robot_pose.pose.orientation:
+	z: -48.26496257614706
+
+robot_pose.pose.position:
+	x: -0.16759343046636638
+	x: -0.6545793365388446
+robot_pose.pose.orientation:
+	z: -48.087605916704014
+
+robot_pose.pose.position:
+	x: -0.18010536540453678
+	x: -0.6754387004022699
+robot_pose.pose.orientation:
+	z: -47.92091542476954
+
+robot_pose.pose.position:
+	x: -0.19207632962991317
+	x: -0.694362875169053
+robot_pose.pose.orientation:
+	z: -47.632741476311445
+
+robot_pose.pose.position:
+	x: -0.20379328055527152
+	x: -0.7135024908558648
+robot_pose.pose.orientation:
+	z: -47.48406722534934
+
+robot_pose.pose.position:
+	x: -0.21522668179457982
+	x: -0.7334588199598617
+robot_pose.pose.orientation:
+	z: -47.46841501946609
+
+robot_pose.pose.position:
+	x: -0.2275539856184268
+	x: -0.7532471249574537
+robot_pose.pose.orientation:
+	z: -47.3037663808591
+
+robot_pose.pose.position:
+	x: -0.23966913817022895
+	x: -0.7731033785608471
+robot_pose.pose.orientation:
+	z: -47.2817506989781
+
+robot_pose.pose.position:
+	x: -0.25267805786119824
+	x: -0.7940420150326991
+robot_pose.pose.orientation:
+	z: -47.364202527664396
+
+robot_pose.pose.position:
+	x: -0.2654930177150463
+	x: -0.8141984194036789
+robot_pose.pose.orientation:
+	z: -47.44647697774468
+
+robot_pose.pose.position:
+	x: -0.27890452865300147
+	x: -0.8348555467679118
+robot_pose.pose.orientation:
+	z: -47.4236881180905
+
+robot_pose.pose.position:
+	x: -0.29247645057302624
+	x: -0.855547058896245
+robot_pose.pose.orientation:
+	z: -47.273102670790855
+
+robot_pose.pose.position:
+	x: -0.30613194829829565
+	x: -0.8764676795032239
+robot_pose.pose.orientation:
+	z: -47.127298385650136
+
+robot_pose.pose.position:
+	x: -0.32114028200756256
+	x: -0.8982928138388305
+robot_pose.pose.orientation:
+	z: -47.18934913600066
+
+robot_pose.pose.position:
+	x: -0.3358613198838341
+	x: -0.9184369667706982
+robot_pose.pose.orientation:
+	z: -47.21629917520347
+
+robot_pose.pose.position:
+	x: -0.3512210520984921
+	x: -0.9403178639357708
+robot_pose.pose.orientation:
+	z: -47.47301618516096
+
+robot_pose.pose.position:
+	x: -0.3670452286040584
+	x: -0.9617538051328488
+robot_pose.pose.orientation:
+	z: -47.670477995779784
+
+robot_pose.pose.position:
+	x: -0.38400230504441807
+	x: -0.9836600995088655
+robot_pose.pose.orientation:
+	z: -47.81460631776292
+
+robot_pose.pose.position:
+	x: -0.4019314004475008
+	x: -1.006118743004277
+robot_pose.pose.orientation:
+	z: -48.20953444158529
+
+robot_pose.pose.position:
+	x: -0.41992783946082196
+	x: -1.0269792862077294
+robot_pose.pose.orientation:
+	z: -48.55389044613397
+
+robot_pose.pose.position:
+	x: -0.43760632866263777
+	x: -1.047138431968398
+robot_pose.pose.orientation:
+	z: -48.7719036356145
+
+robot_pose.pose.position:
+	x: -0.45546466382634176
+	x: -1.0654971481804583
+robot_pose.pose.orientation:
+	z: -48.83929256317035
+
+robot_pose.pose.position:
+	x: -0.4731307562982769
+	x: -1.0829662408064222
+robot_pose.pose.orientation:
+	z: -48.98886702763769
+
+robot_pose.pose.position:
+	x: -0.4901187341871112
+	x: -1.0995646415056939
+robot_pose.pose.orientation:
+	z: -48.97411554376619
+
+robot_pose.pose.position:
+	x: -0.5090288718786253
+	x: -1.1169199579081264
+robot_pose.pose.orientation:
+	z: -48.91185153965567
+
+robot_pose.pose.position:
+	x: -0.5286492064746516
+	x: -1.1350939425687077
+robot_pose.pose.orientation:
+	z: -48.747806153600486
+
+robot_pose.pose.position:
+	x: -0.5470886167440334
+	x: -1.1539701185924731
+robot_pose.pose.orientation:
+	z: -48.488601128959246
+
+robot_pose.pose.position:
+	x: -0.5663301974760623
+	x: -1.1730366696225325
+robot_pose.pose.orientation:
+	z: -48.46830103377086
+
+robot_pose.pose.position:
+	x: -0.5844621646178682
+	x: -1.1915965510205833
+robot_pose.pose.orientation:
+	z: -48.4525988286599
+
+robot_pose.pose.position:
+	x: -0.6018028652335128
+	x: -1.2097249863806938
+robot_pose.pose.orientation:
+	z: -48.455290560833156
+
+robot_pose.pose.position:
+	x: -0.6183787821187194
+	x: -1.2279795628050352
+robot_pose.pose.orientation:
+	z: -48.46359148862492
+
+robot_pose.pose.position:
+	x: -0.6347798195324119
+	x: -1.246505043142846
+robot_pose.pose.orientation:
+	z: -48.65959481114572
+
+robot_pose.pose.position:
+	x: -0.652094930395477
+	x: -1.2641302237923218
+robot_pose.pose.orientation:
+	z: -48.875003928006386
+
+robot_pose.pose.position:
+	x: -0.6696600254328396
+	x: -1.281439722233622
+robot_pose.pose.orientation:
+	z: -49.092895836212094
+
+robot_pose.pose.position:
+	x: -0.6865662694427295
+	x: -1.2980563600617883
+robot_pose.pose.orientation:
+	z: -49.25091338894843
+
+robot_pose.pose.position:
+	x: -0.7020446567871267
+	x: -1.3130475693480317
+robot_pose.pose.orientation:
+	z: -49.33401444357285
+
+robot_pose.pose.position:
+	x: -0.7164837360791081
+	x: -1.326823813124099
+robot_pose.pose.orientation:
+	z: -49.15399184712288
+
+robot_pose.pose.position:
+	x: -0.7303904675596145
+	x: -1.3407830455420573
+robot_pose.pose.orientation:
+	z: -48.92648439231673
+
+robot_pose.pose.position:
+	x: -0.7421664267560738
+	x: -1.3517243043924434
+robot_pose.pose.orientation:
+	z: -48.629784520398594
+
+robot_pose.pose.position:
+	x: -0.7530700169984013
+	x: -1.360216254246309
+robot_pose.pose.orientation:
+	z: -48.046210733309465
+
+robot_pose.pose.position:
+	x: -0.7586807192876412
+	x: -1.3666077592205959
+robot_pose.pose.orientation:
+	z: -47.27748146650181
+
+robot_pose.pose.position:
+	x: -0.7619796214376569
+	x: -1.370893947440832
+robot_pose.pose.orientation:
+	z: -46.44751741644572
+
+robot_pose.pose.position:
+	x: -0.7651973711552207
+	x: -1.375522814994783
+robot_pose.pose.orientation:
+	z: -45.545253678597234
+
+robot_pose.pose.position:
+	x: -0.768222704695579
+	x: -1.3795000895505398
+robot_pose.pose.orientation:
+	z: -44.79121971967531
+
+robot_pose.pose.position:
+	x: -0.7706162484725527
+	x: -1.3837100127791722
+robot_pose.pose.orientation:
+	z: -43.913275219837836
+
+robot_pose.pose.position:
+	x: -0.772618716686749
+	x: -1.388544080448014
+robot_pose.pose.orientation:
+	z: -43.146511781174425
+
+robot_pose.pose.position:
+	x: -0.7746451612763651
+	x: -1.3940648466033143
+robot_pose.pose.orientation:
+	z: -42.30185953243965
+
+robot_pose.pose.position:
+	x: -0.7752503284928429
+	x: -1.3988664581353503
+robot_pose.pose.orientation:
+	z: -41.29907066154416
+
+robot_pose.pose.position:
+	x: -0.7758078566459485
+	x: -1.4016934953747309
+robot_pose.pose.orientation:
+	z: -40.159217524780054
+
+robot_pose.pose.position:
+	x: -0.7746864757498632
+	x: -1.4039486660820057
+robot_pose.pose.orientation:
+	z: -38.772525339118474
+
+robot_pose.pose.position:
+	x: -0.7726180361336333
+	x: -1.4050924051985256
+robot_pose.pose.orientation:
+	z: -37.16465544968881
+
+robot_pose.pose.position:
+	x: -0.770967742952735
+	x: -1.4052220402673778
+robot_pose.pose.orientation:
+	z: -35.54778084081464
+
+robot_pose.pose.position:
+	x: -0.7692755484251655
+	x: -1.4054176771880869
+robot_pose.pose.orientation:
+	z: -34.704064722863805
+
+robot_pose.pose.position:
+	x: -0.7690261949002907
+	x: -1.4073663656547253
+robot_pose.pose.orientation:
+	z: -34.362639980166485
+
+robot_pose.pose.position:
+	x: -0.7695842495597327
+	x: -1.4088330719521225
+robot_pose.pose.orientation:
+	z: -34.16669513351688
+
+robot_pose.pose.position:
+	x: -0.7705997279773037
+	x: -1.4099047456020368
+robot_pose.pose.orientation:
+	z: -33.9934104936573
+
+robot_pose.pose.position:
+	x: -0.7723357811361166
+	x: -1.4116488461266437
+robot_pose.pose.orientation:
+	z: -33.79161395928373
+
+robot_pose.pose.position:
+	x: -0.7735144098333936
+	x: -1.4127953378024667
+robot_pose.pose.orientation:
+	z: -33.72036249026652
+
+robot_pose.pose.position:
+	x: -0.7736037535696714
+	x: -1.4148373222392747
+robot_pose.pose.orientation:
+	z: -33.9547367967908
+
+robot_pose.pose.position:
+	x: -0.7744635329878462
+	x: -1.4180280284874482
+robot_pose.pose.orientation:
+	z: -34.310083556550815
+
+robot_pose.pose.position:
+	x: -0.7760705672125968
+	x: -1.423427666298724
+robot_pose.pose.orientation:
+	z: -34.79814197446811
+
+robot_pose.pose.position:
+	x: -0.7779173073702875
+	x: -1.4291482379633178
+robot_pose.pose.orientation:
+	z: -35.29693423159417
+
+robot_pose.pose.position:
+	x: -0.7799131328832758
+	x: -1.4355109192667916
+robot_pose.pose.orientation:
+	z: -35.87589858123554
+
+robot_pose.pose.position:
+	x: -0.7809406762275626
+	x: -1.4396514544802461
+robot_pose.pose.orientation:
+	z: -36.27041110635237
+
+robot_pose.pose.position:
+	x: -0.7811926807630704
+	x: -1.4421841160347453
+robot_pose.pose.orientation:
+	z: -36.5324221734536
+
+robot_pose.pose.position:
+	x: -0.7816449746266392
+	x: -1.4448374537369213
+robot_pose.pose.orientation:
+	z: -36.86949662928558
+
+robot_pose.pose.position:
+	x: -0.7819205923847555
+	x: -1.447781153645262
+robot_pose.pose.orientation:
+	z: -37.261169161045146
+
+robot_pose.pose.position:
+	x: -0.7822874136673905
+	x: -1.451458928152376
+robot_pose.pose.orientation:
+	z: -37.74626421820397
+
+robot_pose.pose.position:
+	x: -0.782654650640075
+	x: -1.4545655948316683
+robot_pose.pose.orientation:
+	z: -38.22338945689466
+
+robot_pose.pose.position:
+	x: -0.7835769816268775
+	x: -1.456881240819272
+robot_pose.pose.orientation:
+	z: -38.56154765097411
+
+robot_pose.pose.position:
+	x: -0.7846148312095625
+	x: -1.459085250435089
+robot_pose.pose.orientation:
+	z: -38.89180259342149
+
+robot_pose.pose.position:
+	x: -0.7851702077977081
+	x: -1.4602933586501843
+robot_pose.pose.orientation:
+	z: -39.06990042115971
+
+robot_pose.pose.position:
+	x: -0.7859144259200495
+	x: -1.4627238675243734
+robot_pose.pose.orientation:
+	z: -39.408430850970454
+
+robot_pose.pose.position:
+	x: -0.7869945071334212
+	x: -1.4666628798017187
+robot_pose.pose.orientation:
+	z: -40.06465024272286
+
+robot_pose.pose.position:
+	x: -0.7881507900085348
+	x: -1.4717364249439011
+robot_pose.pose.orientation:
+	z: -40.61256386228079
+
+robot_pose.pose.position:
+	x: -0.7889469908562129
+	x: -1.4774876685793166
+robot_pose.pose.orientation:
+	z: -41.85955220174339
+
+robot_pose.pose.position:
+	x: -0.7896829948581423
+	x: -1.4835835445659444
+robot_pose.pose.orientation:
+	z: -42.20443823065468
+
+robot_pose.pose.position:
+	x: -0.790727011596758
+	x: -1.4901653689599894
+robot_pose.pose.orientation:
+	z: -43.007112843515515
+
+robot_pose.pose.position:
+	x: -0.7932992177334424
+	x: -1.497333967021244
+robot_pose.pose.orientation:
+	z: -43.90365310732019
+
+robot_pose.pose.position:
+	x: -0.7966642655292008
+	x: -1.5050839659052921
+robot_pose.pose.orientation:
+	z: -44.8807819622245
+
+robot_pose.pose.position:
+	x: -0.8011990048745091
+	x: -1.5135589481360499
+robot_pose.pose.orientation:
+	z: -46.021287796437136
+
+robot_pose.pose.position:
+	x: -0.8056796413875249
+	x: -1.5224703115661073
+robot_pose.pose.orientation:
+	z: -47.09756860195799
+
+robot_pose.pose.position:
+	x: -0.8115617582982751
+	x: -1.531523392515001
+robot_pose.pose.orientation:
+	z: -48.232292645690116
+
+robot_pose.pose.position:
+	x: -0.8189566041272471
+	x: -1.541265315657134
+robot_pose.pose.orientation:
+	z: -49.399495513912655
+
+robot_pose.pose.position:
+	x: -0.8271635876109549
+	x: -1.5505438682246526
+robot_pose.pose.orientation:
+	z: -50.44426309872094
+
+robot_pose.pose.position:
+	x: -0.837105394536749
+	x: -1.560187971992881
+robot_pose.pose.orientation:
+	z: -51.4896302965028
+
+robot_pose.pose.position:
+	x: -0.8488406147693888
+	x: -1.5694574671166543
+robot_pose.pose.orientation:
+	z: -52.516112936071345
+
+robot_pose.pose.position:
+	x: -0.8620617632109068
+	x: -1.5780431335670284
+robot_pose.pose.orientation:
+	z: -53.47750524437558
+
+robot_pose.pose.position:
+	x: -0.8774676642423803
+	x: -1.5860800892457854
+robot_pose.pose.orientation:
+	z: -54.47151850400902
+
+robot_pose.pose.position:
+	x: -0.8930734315948756
+	x: -1.5922287679891918
+robot_pose.pose.orientation:
+	z: -55.26750574863728
+
+robot_pose.pose.position:
+	x: -0.9104672078705373
+	x: -1.5960251075024832
+robot_pose.pose.orientation:
+	z: -55.91840643405968
+
+robot_pose.pose.position:
+	x: -0.9294803818570485
+	x: -1.5989702216079933
+robot_pose.pose.orientation:
+	z: -56.336046384024826
+
+robot_pose.pose.position:
+	x: -0.950331068030722
+	x: -1.6016171413406335
+robot_pose.pose.orientation:
+	z: -56.49028172975532
+
+robot_pose.pose.position:
+	x: -0.9733041674393851
+	x: -1.6040443215147164
+robot_pose.pose.orientation:
+	z: -56.551204548448894
+
+robot_pose.pose.position:
+	x: -0.9980127849605799
+	x: -1.6067802418788315
+robot_pose.pose.orientation:
+	z: -56.573503692511814
+
+robot_pose.pose.position:
+	x: -1.0220889880759785
+	x: -1.6076337732384844
+robot_pose.pose.orientation:
+	z: -56.54186975706145
+
+robot_pose.pose.position:
+	x: -1.0474961156944178
+	x: -1.6091253763220663
+robot_pose.pose.orientation:
+	z: -56.51488129253625
+
+robot_pose.pose.position:
+	x: -1.0734622113488466
+	x: -1.610386170929407
+robot_pose.pose.orientation:
+	z: -56.50448222042828
+
+robot_pose.pose.position:
+	x: -1.0995322740501543
+	x: -1.611098126812039
+robot_pose.pose.orientation:
+	z: -56.54527282677785
+
+robot_pose.pose.position:
+	x: -1.1251546487749435
+	x: -1.6125896100354538
+robot_pose.pose.orientation:
+	z: -56.57635068906992
+
+robot_pose.pose.position:
+	x: -1.1498764085017683
+	x: -1.6137787923010682
+robot_pose.pose.orientation:
+	z: -56.52369116340011
+
+robot_pose.pose.position:
+	x: -1.1753408434859183
+	x: -1.6148390514141995
+robot_pose.pose.orientation:
+	z: -56.405800413157266
+
+robot_pose.pose.position:
+	x: -1.2017323852702397
+	x: -1.6170674924991446
+robot_pose.pose.orientation:
+	z: -56.233380076008885
+
+robot_pose.pose.position:
+	x: -1.2280894426619016
+	x: -1.6206473100286471
+robot_pose.pose.orientation:
+	z: -56.14931100287742
+
+robot_pose.pose.position:
+	x: -1.2531097449039057
+	x: -1.624760704183091
+robot_pose.pose.orientation:
+	z: -56.08354223843226
+
+robot_pose.pose.position:
+	x: -1.2776579896573599
+	x: -1.629355096634409
+robot_pose.pose.orientation:
+	z: -56.09744461416728
+
+robot_pose.pose.position:
+	x: -1.3025055115581887
+	x: -1.6351407370477566
+robot_pose.pose.orientation:
+	z: -56.09657602334502
+
+robot_pose.pose.position:
+	x: -1.3271527690167861
+	x: -1.6405821777464091
+robot_pose.pose.orientation:
+	z: -56.08145442531904
+
+robot_pose.pose.position:
+	x: -1.3514612728040438
+	x: -1.6462617190145616
+robot_pose.pose.orientation:
+	z: -56.075273770162035
+
+robot_pose.pose.position:
+	x: -1.3753858084629016
+	x: -1.6513278594969703
+robot_pose.pose.orientation:
+	z: -56.045772882133065
+
+robot_pose.pose.position:
+	x: -1.398991798841877
+	x: -1.6581033360995496
+robot_pose.pose.orientation:
+	z: -55.95495629836442
+
+robot_pose.pose.position:
+	x: -1.4228239543191643
+	x: -1.665040771805676
+robot_pose.pose.orientation:
+	z: -55.89106608903793
+
+robot_pose.pose.position:
+	x: -1.4469538124932235
+	x: -1.6723722809627315
+robot_pose.pose.orientation:
+	z: -55.78567130802441
+
+robot_pose.pose.position:
+	x: -1.4710168772428147
+	x: -1.67979526801796
+robot_pose.pose.orientation:
+	z: -55.6519435501541
+
+robot_pose.pose.position:
+	x: -1.493936169276725
+	x: -1.687876025707362
+robot_pose.pose.orientation:
+	z: -55.51178338959885
+
+robot_pose.pose.position:
+	x: -1.515025537076121
+	x: -1.695275016794939
+robot_pose.pose.orientation:
+	z: -55.37480982725191
+
+robot_pose.pose.position:
+	x: -1.535923249869078
+	x: -1.7032971500195466
+robot_pose.pose.orientation:
+	z: -55.25168086005592
+
+robot_pose.pose.position:
+	x: -1.5556435942601423
+	x: -1.7106692576918376
+robot_pose.pose.orientation:
+	z: -55.16020595314656
+
+robot_pose.pose.position:
+	x: -1.5748895917856598
+	x: -1.7187222311868797
+robot_pose.pose.orientation:
+	z: -55.05065757441598
+
+robot_pose.pose.position:
+	x: -1.5910274313731647
+	x: -1.7256858265578239
+robot_pose.pose.orientation:
+	z: -54.97495755058262
+
+robot_pose.pose.position:
+	x: -1.6059289624872959
+	x: -1.7331068255631206
+robot_pose.pose.orientation:
+	z: -54.762056387242325
+
+robot_pose.pose.position:
+	x: -1.6197542465506127
+	x: -1.7408105000236802
+robot_pose.pose.orientation:
+	z: -54.53002112505591
+
+robot_pose.pose.position:
+	x: -1.6304729075146691
+	x: -1.7448106651607316
+robot_pose.pose.orientation:
+	z: -54.05515562959778
+
+robot_pose.pose.position:
+	x: -1.6379461280609753
+	x: -1.7490260793559063
+robot_pose.pose.orientation:
+	z: -53.4552335287079
+
+robot_pose.pose.position:
+	x: -1.6422405518043575
+	x: -1.7536157451471328
+robot_pose.pose.orientation:
+	z: -52.644756793713135
+
+robot_pose.pose.position:
+	x: -1.6450672313185428
+	x: -1.7591512126232278
+robot_pose.pose.orientation:
+	z: -51.819785398974844
+
+robot_pose.pose.position:
+	x: -1.646661026388187
+	x: -1.763975172279881
+robot_pose.pose.orientation:
+	z: -50.88292273838634
+
+robot_pose.pose.position:
+	x: -1.6464187927529892
+	x: -1.7688054734959744
+robot_pose.pose.orientation:
+	z: -49.96265608781004
+
+robot_pose.pose.position:
+	x: -1.6447325615382669
+	x: -1.774150041581358
+robot_pose.pose.orientation:
+	z: -49.07526856098862
+
+robot_pose.pose.position:
+	x: -1.6436140058727788
+	x: -1.778484001171716
+robot_pose.pose.orientation:
+	z: -48.10929936772454
+
+robot_pose.pose.position:
+	x: -1.6436554705116337
+	x: -1.7799866209688928
+robot_pose.pose.orientation:
+	z: -47.1639015642851
+
+robot_pose.pose.position:
+	x: -1.6431782091991847
+	x: -1.7799829894648065
+robot_pose.pose.orientation:
+	z: -45.629733793221526
+
+robot_pose.pose.position:
+	x: -1.6432207929701237
+	x: -1.7790552040134664
+robot_pose.pose.orientation:
+	z: -44.092582801056835
+
+robot_pose.pose.position:
+	x: -1.6440825152216998
+	x: -1.7786810750267514
+robot_pose.pose.orientation:
+	z: -42.79181774300735
+
+robot_pose.pose.position:
+	x: -1.6444977722449998
+	x: -1.7797219868333745
+robot_pose.pose.orientation:
+	z: -42.33527979471301
+
+robot_pose.pose.position:
+	x: -1.6461218362757533
+	x: -1.7806229851583049
+robot_pose.pose.orientation:
+	z: -42.15290091987903
+
+robot_pose.pose.position:
+	x: -1.6470865366373035
+	x: -1.7810396591750761
+robot_pose.pose.orientation:
+	z: -42.08720355768782
+
+robot_pose.pose.position:
+	x: -1.64795703819418
+	x: -1.7813958767299245
+robot_pose.pose.orientation:
+	z: -42.010119337974736
+
+robot_pose.pose.position:
+	x: -1.6496531635983431
+	x: -1.7822525940363267
+robot_pose.pose.orientation:
+	z: -41.72273099161201
+
+robot_pose.pose.position:
+	x: -1.6523423287669978
+	x: -1.7837397026363437
+robot_pose.pose.orientation:
+	z: -41.35385406299615
+
+robot_pose.pose.position:
+	x: -1.6555347713794253
+	x: -1.7855983091712138
+robot_pose.pose.orientation:
+	z: -40.71729619200501
+
+robot_pose.pose.position:
+	x: -1.6590893729531924
+	x: -1.787773267562984
+robot_pose.pose.orientation:
+	z: -39.916396652297024
+
+robot_pose.pose.position:
+	x: -1.6626165532918793
+	x: -1.7900333503379793
+robot_pose.pose.orientation:
+	z: -38.972266117750166
+
+robot_pose.pose.position:
+	x: -1.6654656020391119
+	x: -1.7919243276238725
+robot_pose.pose.orientation:
+	z: -38.4357659394605
+
+robot_pose.pose.position:
+	x: -1.6669508612024626
+	x: -1.7929030698545223
+robot_pose.pose.orientation:
+	z: -38.0377187192591
+
+robot_pose.pose.position:
+	x: -1.6668642715980164
+	x: -1.792760959505747
+robot_pose.pose.orientation:
+	z: -37.89073442081525
+
+robot_pose.pose.position:
+	x: -1.666844173637947
+	x: -1.7926769855274558
+robot_pose.pose.orientation:
+	z: -37.91373036104628
+
+robot_pose.pose.position:
+	x: -1.6668321755540878
+	x: -1.7926082635621354
+robot_pose.pose.orientation:
+	z: -37.829175462880876
+
+robot_pose.pose.position:
+	x: -1.6668238417763834
+	x: -1.7925491418294162
+robot_pose.pose.orientation:
+	z: -37.898523356805946
+
+robot_pose.pose.position:
+	x: -1.6668129948772783
+	x: -1.7924977006158218
+robot_pose.pose.orientation:
+	z: -37.841785615184065
+
+robot_pose.pose.position:
+	x: -1.6668045211917677
+	x: -1.7924539364249048
+robot_pose.pose.orientation:
+	z: -37.86296751032932
+
+robot_pose.pose.position:
+	x: -1.6667951972033042
+	x: -1.7924163859392608
+robot_pose.pose.orientation:
+	z: -37.88061281911188
+
+robot_pose.pose.position:
+	x: -1.6667861350676807
+	x: -1.792384737258476
+robot_pose.pose.orientation:
+	z: -37.90949300704282
+
+robot_pose.pose.position:
+	x: -1.6667761071435738
+	x: -1.7923593026671136
+robot_pose.pose.orientation:
+	z: -37.838554673015295
+
+robot_pose.pose.position:
+	x: -1.66676883774751
+	x: -1.792338596722111
+robot_pose.pose.orientation:
+	z: -37.834451163411266
+
+robot_pose.pose.position:
+	x: -1.6667606739878338
+	x: -1.7923223254186937
+robot_pose.pose.orientation:
+	z: -37.829782648262395
+
+robot_pose.pose.position:
+	x: -1.6667527315963635
+	x: -1.7923098758884008
+robot_pose.pose.orientation:
+	z: -37.83149260565433
+
+robot_pose.pose.position:
+	x: -1.6667452716563065
+	x: -1.7923007489591425
+robot_pose.pose.orientation:
+	z: -37.87534121694995
+
+robot_pose.pose.position:
+	x: -1.666737299796884
+	x: -1.7922947902725859
+robot_pose.pose.orientation:
+	z: -37.92870840062525
+
+robot_pose.pose.position:
+	x: -1.6667281495011335
+	x: -1.7922926904500698
+robot_pose.pose.orientation:
+	z: -37.852692399394456
+
+robot_pose.pose.position:
+	x: -1.6667225719236125
+	x: -1.792292717396972
+robot_pose.pose.orientation:
+	z: -37.855413603732714
+
+robot_pose.pose.position:
+	x: -1.6667160098135625
+	x: -1.7922950175748076
+robot_pose.pose.orientation:
+	z: -37.87309190869596
+
+robot_pose.pose.position:
+	x: -1.666708996436838
+	x: -1.79229949877814
+robot_pose.pose.orientation:
+	z: -37.86005048533789
+
+robot_pose.pose.position:
+	x: -1.6667034439811894
+	x: -1.7923051887805972
+robot_pose.pose.orientation:
+	z: -37.92628393259716
+
+robot_pose.pose.position:
+	x: -1.6666961774932019
+	x: -1.7923129689679784
+robot_pose.pose.orientation:
+	z: -37.9354068980773
+
+robot_pose.pose.position:
+	x: -1.6666896152964483
+	x: -1.792322534648512
+robot_pose.pose.orientation:
+	z: -37.88595582602573
+
+robot_pose.pose.position:
+	x: -1.666684866407943
+	x: -1.7923329068250227
+robot_pose.pose.orientation:
+	z: -37.87557886818838
+
+robot_pose.pose.position:
+	x: -1.6664610023255009
+	x: -1.7926416851493476
+robot_pose.pose.orientation:
+	z: -37.91838707458808
+
+robot_pose.pose.position:
+	x: -1.6665242673488514
+	x: -1.7950575476612134
+robot_pose.pose.orientation:
+	z: -38.24414475428428
+
+robot_pose.pose.position:
+	x: -1.66712303344375
+	x: -1.7988819103361102
+robot_pose.pose.orientation:
+	z: -39.365784733595945
+
+robot_pose.pose.position:
+	x: -1.668218840520569
+	x: -1.8033918514426752
+robot_pose.pose.orientation:
+	z: -39.46531549569793
+
+robot_pose.pose.position:
+	x: -1.6695938302448974
+	x: -1.8082387108313889
+robot_pose.pose.orientation:
+	z: -40.0087932444668
+
+robot_pose.pose.position:
+	x: -1.671803962559842
+	x: -1.8129109883724612
+robot_pose.pose.orientation:
+	z: -40.6136448611508
+
+robot_pose.pose.position:
+	x: -1.673500151790181
+	x: -1.8149006464575281
+robot_pose.pose.orientation:
+	z: -40.93592901056326
+
+robot_pose.pose.position:
+	x: -1.6742716460858964
+	x: -1.8160289169589994
+robot_pose.pose.orientation:
+	z: -41.2754798989954
+
+robot_pose.pose.position:
+	x: -1.675987255842546
+	x: -1.8170166243111554
+robot_pose.pose.orientation:
+	z: -41.35676424011513
+
+robot_pose.pose.position:
+	x: -1.6769932835039802
+	x: -1.8186453098990045
+robot_pose.pose.orientation:
+	z: -41.76457611132509
+
+robot_pose.pose.position:
+	x: -1.6775569156598282
+	x: -1.8200966668708138
+robot_pose.pose.orientation:
+	z: -42.21473698184535
+
+robot_pose.pose.position:
+	x: -1.6795100882703642
+	x: -1.8206053333492127
+robot_pose.pose.orientation:
+	z: -43.00490137722633
+
+robot_pose.pose.position:
+	x: -1.6813723074840123
+	x: -1.8193149638856745
+robot_pose.pose.orientation:
+	z: -44.2484507969851
+
+robot_pose.pose.position:
+	x: -1.683997827128468
+	x: -1.8193402667124905
+robot_pose.pose.orientation:
+	z: -45.6865102821949
+
+robot_pose.pose.position:
+	x: -1.687614676593256
+	x: -1.8200530246991304
+robot_pose.pose.orientation:
+	z: -47.190163905099226
+
+robot_pose.pose.position:
+	x: -1.690298757140603
+	x: -1.8214078251961394
+robot_pose.pose.orientation:
+	z: -48.68537730234687
+
+robot_pose.pose.position:
+	x: -1.6934460258690434
+	x: -1.8249335113542653
+robot_pose.pose.orientation:
+	z: -50.26094028803799
+
+robot_pose.pose.position:
+	x: -1.6960750661460842
+	x: -1.829017374929912
+robot_pose.pose.orientation:
+	z: -51.70144274151612
+
+robot_pose.pose.position:
+	x: -1.7000608236784498
+	x: -1.8332141698525173
+robot_pose.pose.orientation:
+	z: -52.8865767059383
+
+robot_pose.pose.position:
+	x: -1.7041616875093706
+	x: -1.8390697291586535
+robot_pose.pose.orientation:
+	z: -53.87704807987848
+
+robot_pose.pose.position:
+	x: -1.7110876258068324
+	x: -1.845414045707249
+robot_pose.pose.orientation:
+	z: -54.788088379674804
+
+robot_pose.pose.position:
+	x: -1.72277008404435
+	x: -1.8513479395480599
+robot_pose.pose.orientation:
+	z: -55.571477263046724
+
+robot_pose.pose.position:
+	x: -1.737885412153
+	x: -1.8550861518012938
+robot_pose.pose.orientation:
+	z: -56.18911502539659
+
+robot_pose.pose.position:
+	x: -1.7524379890858137
+	x: -1.8565283763255689
+robot_pose.pose.orientation:
+	z: -56.626777997041
+
+robot_pose.pose.position:
+	x: -1.7671824300589098
+	x: -1.856820789429885
+robot_pose.pose.orientation:
+	z: -56.90920140934917
+
+robot_pose.pose.position:
+	x: -1.7815698829040802
+	x: -1.8548871554256448
+robot_pose.pose.orientation:
+	z: -57.06654101443005
+
+robot_pose.pose.position:
+	x: -1.7957188152610948
+	x: -1.8515784930792267
+robot_pose.pose.orientation:
+	z: -57.18883480240437
+
+robot_pose.pose.position:
+	x: -1.8051981662610177
+	x: -1.850427800076376
+robot_pose.pose.orientation:
+	z: -52.50169516415567
+
+robot_pose.pose.position:
+	x: -1.8134557415839812
+	x: -1.8557040078910938
+robot_pose.pose.orientation:
+	z: -49.542051233433945
+
+robot_pose.pose.position:
+	x: -1.820672194888898
+	x: -1.862658193500625
+robot_pose.pose.orientation:
+	z: -48.11080806254904
+
+robot_pose.pose.position:
+	x: -1.827402870905647
+	x: -1.8704294416178093
+robot_pose.pose.orientation:
+	z: -46.903416061946736
+
+robot_pose.pose.position:
+	x: -1.833695647501193
+	x: -1.8788575838004982
+robot_pose.pose.orientation:
+	z: -45.787570355171866
+
+robot_pose.pose.position:
+	x: -1.8395463613688827
+	x: -1.8878195925443095
+robot_pose.pose.orientation:
+	z: -44.780153934781545
+
+robot_pose.pose.position:
+	x: -1.8450340156895422
+	x: -1.897324740325561
+robot_pose.pose.orientation:
+	z: -43.84998959054109
+
+robot_pose.pose.position:
+	x: -1.850101458385525
+	x: -1.9073138903909252
+robot_pose.pose.orientation:
+	z: -42.690331809349765
+
+robot_pose.pose.position:
+	x: -1.8546678244844146
+	x: -1.9178128212076178
+robot_pose.pose.orientation:
+	z: -41.60368386160498
+
+robot_pose.pose.position:
+	x: -1.8587862836167872
+	x: -1.9288007674382952
+robot_pose.pose.orientation:
+	z: -40.72363180542473
+
+robot_pose.pose.position:
+	x: -1.862617091857784
+	x: -1.9400359157685838
+robot_pose.pose.orientation:
+	z: -40.73387045733571
+
+robot_pose.pose.position:
+	x: -1.8666377954636302
+	x: -1.9515194434920304
+robot_pose.pose.orientation:
+	z: -41.22017160028271
+
+robot_pose.pose.position:
+	x: -1.8711075034675309
+	x: -1.9630936804247723
+robot_pose.pose.orientation:
+	z: -42.143175521961446
+
+robot_pose.pose.position:
+	x: -1.8762636549455003
+	x: -1.974699775021897
+robot_pose.pose.orientation:
+	z: -43.184955637053754
+
+robot_pose.pose.position:
+	x: -1.8821441355886324
+	x: -1.9861651816991415
+robot_pose.pose.orientation:
+	z: -44.26190296220526
+
+robot_pose.pose.position:
+	x: -1.8887971509652937
+	x: -1.997414271737501
+robot_pose.pose.orientation:
+	z: -45.429303198794145
+
+robot_pose.pose.position:
+	x: -1.8964203772793236
+	x: -2.0084168247216008
+robot_pose.pose.orientation:
+	z: -46.88374351670012
+
+robot_pose.pose.position:
+	x: -1.9050975233613419
+	x: -2.018798682609412
+robot_pose.pose.orientation:
+	z: -48.491465230943916
+
+robot_pose.pose.position:
+	x: -1.9150596531604331
+	x: -2.0285098654670675
+robot_pose.pose.orientation:
+	z: -50.03322379277355
+
+robot_pose.pose.position:
+	x: -1.9260700635539814
+	x: -2.0371619061756925
+robot_pose.pose.orientation:
+	z: -51.50328620935685
+
+robot_pose.pose.position:
+	x: -1.9383089784948961
+	x: -2.044753610421113
+robot_pose.pose.orientation:
+	z: -52.84453680921399
+
+robot_pose.pose.position:
+	x: -1.9515149646821142
+	x: -2.05099677178023
+robot_pose.pose.orientation:
+	z: -54.02052459151991
+
+robot_pose.pose.position:
+	x: -1.9655461170959203
+	x: -2.055894893903314
+robot_pose.pose.orientation:
+	z: -54.822332405067584
+
+robot_pose.pose.position:
+	x: -1.979981127781753
+	x: -2.0596095286645255
+robot_pose.pose.orientation:
+	z: -55.41014765760819
+
+robot_pose.pose.position:
+	x: -1.9950626953216168
+	x: -2.0624553485392987
+robot_pose.pose.orientation:
+	z: -55.85394019535686
+
+robot_pose.pose.position:
+	x: -2.0102241735776523
+	x: -2.0643916641528457
+robot_pose.pose.orientation:
+	z: -56.17312966483236
+
+robot_pose.pose.position:
+	x: -2.026123350374
+	x: -2.0655238353877983
+robot_pose.pose.orientation:
+	z: -56.48708342765147
+
+robot_pose.pose.position:
+	x: -2.0418872625573594
+	x: -2.065735278586371
+robot_pose.pose.orientation:
+	z: -56.72961131394836
+
+robot_pose.pose.position:
+	x: -2.020314908264166
+	x: -2.1498227473746314
+robot_pose.pose.orientation:
+	z: -56.89978046221155
+
+robot_pose.pose.position:
+	x: -2.0383763200426555
+	x: -2.1544761986868264
+robot_pose.pose.orientation:
+	z: -56.90795197125851
+
+robot_pose.pose.position:
+	x: -2.0566370826635936
+	x: -2.1593250251726053
+robot_pose.pose.orientation:
+	z: -56.84613298677613
+
+robot_pose.pose.position:
+	x: -2.075138279151302
+	x: -2.1647029340248025
+robot_pose.pose.orientation:
+	z: -56.74516632440176
+
+robot_pose.pose.position:
+	x: -2.093879309457211
+	x: -2.1707366010295366
+robot_pose.pose.orientation:
+	z: -56.64329056641971
+
+robot_pose.pose.position:
+	x: -2.1124965395818953
+	x: -2.1773206636867934
+robot_pose.pose.orientation:
+	z: -56.5145586563827
+
+robot_pose.pose.position:
+	x: -2.1312607117996745
+	x: -2.1846484250345237
+robot_pose.pose.orientation:
+	z: -56.34062403038686
+
+robot_pose.pose.position:
+	x: -2.150034726329691
+	x: -2.192871967180917
+robot_pose.pose.orientation:
+	z: -56.08234935247899
+
+robot_pose.pose.position:
+	x: -2.172973011491343
+	x: -2.1860357592124333
+robot_pose.pose.orientation:
+	z: -55.73283014902125
+
+robot_pose.pose.position:
+	x: -2.1965990397445907
+	x: -2.20204554266771
+robot_pose.pose.orientation:
+	z: -55.355801709604975
+
+robot_pose.pose.position:
+	x: -2.217919399633564
+	x: -2.215286242243948
+robot_pose.pose.orientation:
+	z: -54.82161548211318
+
+robot_pose.pose.position:
+	x: -2.238543051537835
+	x: -2.2302697563218485
+robot_pose.pose.orientation:
+	z: -54.13258854444151
+
+robot_pose.pose.position:
+	x: -2.258136666748407
+	x: -2.247092243382126
+robot_pose.pose.orientation:
+	z: -53.276183800509685
+
+robot_pose.pose.position:
+	x: -2.276752463505954
+	x: -2.2724302390663507
+robot_pose.pose.orientation:
+	z: -52.48293691633455
+
+robot_pose.pose.position:
+	x: -2.292597701100898
+	x: -2.29074143175205
+robot_pose.pose.orientation:
+	z: -51.873837045483384
+
+robot_pose.pose.position:
+	x: -2.306541819275957
+	x: -2.3066334493965623
+robot_pose.pose.orientation:
+	z: -51.38760430394516
+
+robot_pose.pose.position:
+	x: -2.321980651149378
+	x: -2.327844958671557
+robot_pose.pose.orientation:
+	z: -50.90588607769521
+
+robot_pose.pose.position:
+	x: -2.3367957487408932
+	x: -2.3498638028624237
+robot_pose.pose.orientation:
+	z: -50.46447645922277
+
+robot_pose.pose.position:
+	x: -2.350976519585305
+	x: -2.372475465517409
+robot_pose.pose.orientation:
+	z: -50.0724142623771
+
+robot_pose.pose.position:
+	x: -2.3648619675131206
+	x: -2.395973680092824
+robot_pose.pose.orientation:
+	z: -49.772033912995596
+
+robot_pose.pose.position:
+	x: -2.378512560982691
+	x: -2.420014846510441
+robot_pose.pose.orientation:
+	z: -49.662347091457264
+
+robot_pose.pose.position:
+	x: -2.392274863714283
+	x: -2.444489882327431
+robot_pose.pose.orientation:
+	z: -49.72401791455715
+
+robot_pose.pose.position:
+	x: -2.4063981083681165
+	x: -2.4691834782710855
+robot_pose.pose.orientation:
+	z: -49.932751949698044
+
+robot_pose.pose.position:
+	x: -2.42122656554992
+	x: -2.4939525972350034
+robot_pose.pose.orientation:
+	z: -50.42332368284191
+
+robot_pose.pose.position:
+	x: -2.4372121897644896
+	x: -2.518578535584117
+robot_pose.pose.orientation:
+	z: -50.9492311558428
+
+robot_pose.pose.position:
+	x: -2.454357442825845
+	x: -2.542780754993331
+robot_pose.pose.orientation:
+	z: -51.52786786488045
+
+robot_pose.pose.position:
+	x: -2.4728948347901807
+	x: -2.5667871781330547
+robot_pose.pose.orientation:
+	z: -52.01263028965119
+
+robot_pose.pose.position:
+	x: -2.4921378480195306
+	x: -2.589856335179097
+robot_pose.pose.orientation:
+	z: -52.44134046441923
+
+robot_pose.pose.position:
+	x: -2.5127771948260453
+	x: -2.6127747277586053
+robot_pose.pose.orientation:
+	z: -52.83585357415764
+
+robot_pose.pose.position:
+	x: -2.534497486677347
+	x: -2.635210841579993
+robot_pose.pose.orientation:
+	z: -53.23832828838325
+
+robot_pose.pose.position:
+	x: -2.5573687376152416
+	x: -2.6570967259334464
+robot_pose.pose.orientation:
+	z: -53.70674065761182
+
+robot_pose.pose.position:
+	x: -2.5815251686506864
+	x: -2.6781011524491714
+robot_pose.pose.orientation:
+	z: -54.2204318266027
+
+robot_pose.pose.position:
+	x: -2.607133372815825
+	x: -2.6980152110969664
+robot_pose.pose.orientation:
+	z: -54.743601867693066
+
+robot_pose.pose.position:
+	x: -2.634152595986248
+	x: -2.716760473474339
+robot_pose.pose.orientation:
+	z: -55.189895381847876
+
+robot_pose.pose.position:
+	x: -2.6623647037901867
+	x: -2.734237656864997
+robot_pose.pose.orientation:
+	z: -55.54172588786226
+
+robot_pose.pose.position:
+	x: -2.691715825501723
+	x: -2.750617244408901
+robot_pose.pose.orientation:
+	z: -55.79626688776612
+
+robot_pose.pose.position:
+	x: -2.5643859092644283
+	x: -2.6353834796279654
+robot_pose.pose.orientation:
+	z: -55.976641497575876
+
+robot_pose.pose.position:
+	x: -2.5739877348501174
+	x: -2.639943295896034
+robot_pose.pose.orientation:
+	z: -56.097666833615044
+
+robot_pose.pose.position:
+	x: -2.584092136281576
+	x: -2.6467443583185153
+robot_pose.pose.orientation:
+	z: -56.24714709963971
+
+robot_pose.pose.position:
+	x: -2.5910044585605205
+	x: -2.6495523980266573
+robot_pose.pose.orientation:
+	z: -56.42878568277476
+
+robot_pose.pose.position:
+	x: -2.5974421061330153
+	x: -2.6519037193048334
+robot_pose.pose.orientation:
+	z: -56.59061951132231
+
+robot_pose.pose.position:
+	x: -2.6034070877587525
+	x: -2.653851152938171
+robot_pose.pose.orientation:
+	z: -56.73875228865375
+
+robot_pose.pose.position:
+	x: -2.6088585292591047
+	x: -2.65545021405824
+robot_pose.pose.orientation:
+	z: -56.829398614430374
+
+robot_pose.pose.position:
+	x: -2.6137734154585424
+	x: -2.656775819950718
+robot_pose.pose.orientation:
+	z: -56.90374962599914
+
+robot_pose.pose.position:
+	x: -2.6181258435338393
+	x: -2.6578795461505855
+robot_pose.pose.orientation:
+	z: -56.9282858364476
+
+robot_pose.pose.position:
+	x: -2.621938433206382
+	x: -2.6588305435569626
+robot_pose.pose.orientation:
+	z: -56.93368762489756
+
+robot_pose.pose.position:
+	x: -2.6251692507146114
+	x: -2.6596387857889576
+robot_pose.pose.orientation:
+	z: -56.93727547257522
+
+robot_pose.pose.position:
+	x: -2.6278351905146917
+	x: -2.660310155508557
+robot_pose.pose.orientation:
+	z: -56.9449553441995
+
+robot_pose.pose.position:
+	x: -2.629930335959832
+	x: -2.660844645296387
+robot_pose.pose.orientation:
+	z: -56.94714463033076
+
+robot_pose.pose.position:
+	x: -2.6314603932426355
+	x: -2.661248885395789
+robot_pose.pose.orientation:
+	z: -56.94464084007573
+
+robot_pose.pose.position:
+	x: -2.632407627527791
+	x: -2.6615182393505146
+robot_pose.pose.orientation:
+	z: -56.95391057696353
+
+robot_pose.pose.position:
+	x: -2.6327880629334643
+	x: -2.661656682684201
+robot_pose.pose.orientation:
+	z: -56.965484666632854
+
+robot_pose.pose.position:
+	x: -2.632596132762061
+	x: -2.6616671318183447
+robot_pose.pose.orientation:
+	z: -56.98343699924848
+
+robot_pose.pose.position:
+	x: -2.6318298506789044
+	x: -2.6615563662264106
+robot_pose.pose.orientation:
+	z: -57.0433233289721
+
+robot_pose.pose.position:
+	x: -2.6304839231098103
+	x: -2.6613568554685454
+robot_pose.pose.orientation:
+	z: -57.08189939236829
+
+robot_pose.pose.position:
+	x: -2.6285585099664424
+	x: -2.661071591006148
+robot_pose.pose.orientation:
+	z: -57.089948215897664
+
+robot_pose.pose.position:
+	x: -2.626047651836246
+	x: -2.6606929074015624
+robot_pose.pose.orientation:
+	z: -57.09983601281024
+
+robot_pose.pose.position:
+	x: -2.622814819436178
+	x: -2.66022228972585
+robot_pose.pose.orientation:
+	z: -57.126580310854656
+
+robot_pose.pose.position:
+	x: -2.6192913387967276
+	x: -2.6597546836385613
+robot_pose.pose.orientation:
+	z: -57.167341101638975
+
+robot_pose.pose.position:
+	x: -2.6150254102254067
+	x: -2.659264923978035
+robot_pose.pose.orientation:
+	z: -57.207866185071666
+
+robot_pose.pose.position:
+	x: -2.6101582466682016
+	x: -2.658796488715013
+robot_pose.pose.orientation:
+	z: -57.23109936127927
+
+robot_pose.pose.position:
+	x: -2.6046411927205066
+	x: -2.6583392974370645
+robot_pose.pose.orientation:
+	z: -57.24545514031838
+
+robot_pose.pose.position:
+	x: -2.5986775876912076
+	x: -2.6578914879734277
+robot_pose.pose.orientation:
+	z: -57.25005593704916
+
+robot_pose.pose.position:
+	x: -2.5920543252635575
+	x: -2.6574035309314077
+robot_pose.pose.orientation:
+	z: -57.24760664756213
+
+robot_pose.pose.position:
+	x: -2.584830324609805
+	x: -2.656862412943382
+robot_pose.pose.orientation:
+	z: -57.25018352906952
+
+robot_pose.pose.position:
+	x: -2.5769146501143743
+	x: -2.656320460675402
+robot_pose.pose.orientation:
+	z: -57.26159921232721
+
+robot_pose.pose.position:
+	x: -2.568661586732216
+	x: -2.655872411064834
+robot_pose.pose.orientation:
+	z: -57.279561246913836
+
+robot_pose.pose.position:
+	x: -2.5596695750896354
+	x: -2.6555609796242754
+robot_pose.pose.orientation:
+	z: -57.28947926302335
+
+robot_pose.pose.position:
+	x: -2.5500845621424917
+	x: -2.655375240377314
+robot_pose.pose.orientation:
+	z: -57.293324204238615
+
+robot_pose.pose.position:
+	x: -2.539921023466132
+	x: -2.6552237025147694
+robot_pose.pose.orientation:
+	z: -57.29064689996691
+
+robot_pose.pose.position:
+	x: -2.5291903751530493
+	x: -2.6549214589342105
+robot_pose.pose.orientation:
+	z: -57.27813238283482
+
+robot_pose.pose.position:
+	x: -2.517871128959955
+	x: -2.6542399210406593
+robot_pose.pose.orientation:
+	z: -57.22356081020834
+
+robot_pose.pose.position:
+	x: -2.50600985111386
+	x: -2.6529616146764203
+robot_pose.pose.orientation:
+	z: -57.15475388932059
+
+robot_pose.pose.position:
+	x: -2.4936256977548537
+	x: -2.6510684535156126
+robot_pose.pose.orientation:
+	z: -57.02637618400651
+
+robot_pose.pose.position:
+	x: -2.480807333979888
+	x: -2.648323331091888
+robot_pose.pose.orientation:
+	z: -56.79128393572534
+
+robot_pose.pose.position:
+	x: -2.467679090383034
+	x: -2.6444637255305556
+robot_pose.pose.orientation:
+	z: -56.425472555584335
+
+robot_pose.pose.position:
+	x: -2.454330564807284
+	x: -2.639271665732443
+robot_pose.pose.orientation:
+	z: -55.921120294848535
+
+robot_pose.pose.position:
+	x: -2.441018117006346
+	x: -2.632642795093237
+robot_pose.pose.orientation:
+	z: -55.2669404088137
+
+robot_pose.pose.position:
+	x: -2.4279421585452017
+	x: -2.6244550363670074
+robot_pose.pose.orientation:
+	z: -54.3907614309981
+
+robot_pose.pose.position:
+	x: -2.922708571585542
+	x: -2.707335437706587
+robot_pose.pose.orientation:
+	z: -53.232498800152456
+
+robot_pose.pose.position:
+	x: -2.9315460019423805
+	x: -2.7159357850644645
+robot_pose.pose.orientation:
+	z: -51.92868891707572
+
+robot_pose.pose.position:
+	x: -2.939737225770177
+	x: -2.72630773479182
+robot_pose.pose.orientation:
+	z: -50.499529512334284
+
+robot_pose.pose.position:
+	x: -2.9459876137943843
+	x: -2.7364383658304354
+robot_pose.pose.orientation:
+	z: -48.9240030472648
+
+robot_pose.pose.position:
+	x: -2.9515210247998827
+	x: -2.7479120377700013
+robot_pose.pose.orientation:
+	z: -47.32102942455331
+
+robot_pose.pose.position:
+	x: -2.955943718272739
+	x: -2.76000144032985
+robot_pose.pose.orientation:
+	z: -45.786702902600666
+
+robot_pose.pose.position:
+	x: -2.959338602434664
+	x: -2.772561454509474
+robot_pose.pose.orientation:
+	z: -44.423053642140395
+
+robot_pose.pose.position:
+	x: -2.961764749377927
+	x: -2.7855175272363613
+robot_pose.pose.orientation:
+	z: -42.9086782258703
+
+robot_pose.pose.position:
+	x: -2.963080379254776
+	x: -2.798596541321836
+robot_pose.pose.orientation:
+	z: -41.10930171848404
+
+robot_pose.pose.position:
+	x: -2.963261850666217
+	x: -2.811946533721723
+robot_pose.pose.orientation:
+	z: -39.52623277036567
+
+robot_pose.pose.position:
+	x: -2.9625452372044925
+	x: -2.82552714826281
+robot_pose.pose.orientation:
+	z: -38.99434053713939
+
+robot_pose.pose.position:
+	x: -2.96154791331544
+	x: -2.839035228697177
+robot_pose.pose.orientation:
+	z: -38.75457055698835
+
+robot_pose.pose.position:
+	x: -2.960406856736011
+	x: -2.852691814173738
+robot_pose.pose.orientation:
+	z: -38.69435794630276
+
+robot_pose.pose.position:
+	x: -2.959225674455007
+	x: -2.8664988040051558
+robot_pose.pose.orientation:
+	z: -38.764778827028245
+
+robot_pose.pose.position:
+	x: -2.958058568632214
+	x: -2.880442843057591
+robot_pose.pose.orientation:
+	z: -38.86908518652834
+
+robot_pose.pose.position:
+	x: -2.9569270408417934
+	x: -2.8945914627776026
+robot_pose.pose.orientation:
+	z: -38.927771160145376
+
+robot_pose.pose.position:
+	x: -2.955845328940199
+	x: -2.9086661996458196
+robot_pose.pose.orientation:
+	z: -38.96109634032148
+
+robot_pose.pose.position:
+	x: -2.954783209189623
+	x: -2.9229815335599696
+robot_pose.pose.orientation:
+	z: -39.06674588529007
+
+robot_pose.pose.position:
+	x: -2.953757270565157
+	x: -2.9374920582172215
+robot_pose.pose.orientation:
+	z: -39.143042488406614
+
+robot_pose.pose.position:
+	x: -2.952783379982972
+	x: -2.9520200946262123
+robot_pose.pose.orientation:
+	z: -39.15539229859251
+
+robot_pose.pose.position:
+	x: -2.951812955808795
+	x: -2.966701074093669
+robot_pose.pose.orientation:
+	z: -39.19561781477604
+
+robot_pose.pose.position:
+	x: -2.9508782760652106
+	x: -2.981520749869693
+robot_pose.pose.orientation:
+	z: -39.30636209679151
+
+robot_pose.pose.position:
+	x: -2.950007062926294
+	x: -2.9964776990018076
+robot_pose.pose.orientation:
+	z: -39.4446422948868
+
+robot_pose.pose.position:
+	x: -2.949229662818153
+	x: -3.0115706745369333
+robot_pose.pose.orientation:
+	z: -39.60974614075176
+
+robot_pose.pose.position:
+	x: -2.9485499019745878
+	x: -3.026758664296882
+robot_pose.pose.orientation:
+	z: -39.716919573007395
+
+robot_pose.pose.position:
+	x: -2.9479685129771043
+	x: -3.0420928198767694
+robot_pose.pose.orientation:
+	z: -39.86300402164996
+
+robot_pose.pose.position:
+	x: -2.947459032644431
+	x: -3.057654560591925
+robot_pose.pose.orientation:
+	z: -39.96764892095568
+
+robot_pose.pose.position:
+	x: -2.9470188928771717
+	x: -3.0731805851169813
+robot_pose.pose.orientation:
+	z: -39.94820842953177
+
+robot_pose.pose.position:
+	x: -2.946574205675619
+	x: -3.0889809882759747
+robot_pose.pose.orientation:
+	z: -39.87199884520578
+
+robot_pose.pose.position:
+	x: -2.9460937115592136
+	x: -3.1047308251486916
+robot_pose.pose.orientation:
+	z: -39.8537942751035
+
+robot_pose.pose.position:
+	x: -2.945559829855267
+	x: -3.1206950174262578
+robot_pose.pose.orientation:
+	z: -39.774918181618744
+
+robot_pose.pose.position:
+	x: -2.9449413537581615
+	x: -3.1368015016820086
+robot_pose.pose.orientation:
+	z: -39.52484317948772
+
+robot_pose.pose.position:
+	x: -2.944158619061554
+	x: -3.1529940191633257
+robot_pose.pose.orientation:
+	z: -39.41981029061073
+
+robot_pose.pose.position:
+	x: -2.9432856311160216
+	x: -3.169394252552485
+robot_pose.pose.orientation:
+	z: -39.33648005246076
+
+robot_pose.pose.position:
+	x: -2.94235441805905
+	x: -3.185777238061091
+robot_pose.pose.orientation:
+	z: -39.27611621328701
+
+robot_pose.pose.position:
+	x: -2.9413834623457897
+	x: -3.2023449519324902
+robot_pose.pose.orientation:
+	z: -39.34123914507304
+
+robot_pose.pose.position:
+	x: -2.940439167994495
+	x: -3.219051447595648
+robot_pose.pose.orientation:
+	z: -39.43640563902806
+
+robot_pose.pose.position:
+	x: -2.9395527959254157
+	x: -3.2360099129148696
+robot_pose.pose.orientation:
+	z: -39.52244149795606
+
+robot_pose.pose.position:
+	x: -2.9387861961994166
+	x: -3.252815555308412
+robot_pose.pose.orientation:
+	z: -39.75436208156351
+
+robot_pose.pose.position:
+	x: -2.938374805187801
+	x: -3.269971472391894
+robot_pose.pose.orientation:
+	z: -40.625034547539244
+
+robot_pose.pose.position:
+	x: -2.939113407457419
+	x: -3.2871468597127285
+robot_pose.pose.orientation:
+	z: -42.89829236830117
+
+robot_pose.pose.position:
+	x: -2.942134098837983
+	x: -3.3042581589667384
+robot_pose.pose.orientation:
+	z: -45.90950692777603
+
+robot_pose.pose.position:
+	x: -2.9479472072027675
+	x: -3.320815253457697
+robot_pose.pose.orientation:
+	z: -48.474022569149454
+
+robot_pose.pose.position:
+	x: -2.9561726112711098
+	x: -3.3364406410907543
+robot_pose.pose.orientation:
+	z: -50.287811880293134
+
+robot_pose.pose.position:
+	x: -2.9661894291499444
+	x: -3.3510558259403984
+robot_pose.pose.orientation:
+	z: -51.59510600911622
+
+robot_pose.pose.position:
+	x: -2.979799866555705
+	x: -3.014088161203889
+robot_pose.pose.orientation:
+	z: -52.386601748108134
+
+robot_pose.pose.position:
+	x: -2.979941372800426
+	x: -3.010728635074774
+robot_pose.pose.orientation:
+	z: -52.82212647582211
+
+robot_pose.pose.position:
+	x: -2.9795515689505354
+	x: -3.0153710238013893
+robot_pose.pose.orientation:
+	z: -52.66225523296955
+
+robot_pose.pose.position:
+	x: -2.979430047552713
+	x: -3.0075485790676213
+robot_pose.pose.orientation:
+	z: -52.04537867164197
+
+robot_pose.pose.position:
+	x: -2.979701396093819
+	x: -2.9986990649142005
+robot_pose.pose.orientation:
+	z: -50.94692909534296
+
+robot_pose.pose.position:
+	x: -2.9804193383287774
+	x: -2.9896647481877543
+robot_pose.pose.orientation:
+	z: -49.21787988221581
+
+robot_pose.pose.position:
+	x: -2.9803144948462243
+	x: -2.9984112986698785
+robot_pose.pose.orientation:
+	z: -46.59673597559867
+
+robot_pose.pose.position:
+	x: -2.980370447155497
+	x: -2.9971723373946766
+robot_pose.pose.orientation:
+	z: -43.12001384611095
+
+robot_pose.pose.position:
+	x: -2.98045126807355
+	x: -2.9957911472486085
+robot_pose.pose.orientation:
+	z: -39.20442656296671
+
+robot_pose.pose.position:
+	x: -2.9805385942249734
+	x: -2.9945761614010302
+robot_pose.pose.orientation:
+	z: -35.72495293879245
+
+robot_pose.pose.position:
+	x: -2.98062541549163
+	x: -2.9935163593089706
+robot_pose.pose.orientation:
+	z: -33.18532513694344
+
+robot_pose.pose.position:
+	x: -2.980706770666922
+	x: -2.9925926941982746
+robot_pose.pose.orientation:
+	z: -32.1592770613429
+
+robot_pose.pose.position:
+	x: -2.980779316009496
+	x: -2.9917871123890207
+robot_pose.pose.orientation:
+	z: -32.19752829510061
+
+robot_pose.pose.position:
+	x: -2.9805128776711856
+	x: -2.996540309478822
+robot_pose.pose.orientation:
+	z: -33.05117458560837
+
+robot_pose.pose.position:
+	x: -2.9808231728127152
+	x: -2.9965935565153896
+robot_pose.pose.orientation:
+	z: -33.701206279975835
+
+robot_pose.pose.position:
+	x: -2.9812937596274214
+	x: -2.995070801111641
+robot_pose.pose.orientation:
+	z: -34.529015851521926
+
+robot_pose.pose.position:
+	x: -2.981761327117049
+	x: -2.9933339175947826
+robot_pose.pose.orientation:
+	z: -35.336297948535524
+
+robot_pose.pose.position:
+	x: -2.982213396822374
+	x: -2.991389868649076
+robot_pose.pose.orientation:
+	z: -36.04380763383316
+
+robot_pose.pose.position:
+	x: -2.98264599069601
+	x: -2.9892449611191876
+robot_pose.pose.orientation:
+	z: -36.60433880489468
+
+robot_pose.pose.position:
+	x: -2.983079205478976
+	x: -2.9868914831740025
+robot_pose.pose.orientation:
+	z: -36.67204248039471
+
+robot_pose.pose.position:
+	x: -2.9835483727430794
+	x: -2.984333754410804
+robot_pose.pose.orientation:
+	z: -36.58760283032328
+
+robot_pose.pose.position:
+	x: -2.984061767707119
+	x: -2.981594606520077
+robot_pose.pose.orientation:
+	z: -36.46989773123089
+
+robot_pose.pose.position:
+	x: -2.9846236302398883
+	x: -2.978651175329657
+robot_pose.pose.orientation:
+	z: -36.527171344863376
+
+robot_pose.pose.position:
+	x: -2.985216748199543
+	x: -2.975508908274433
+robot_pose.pose.orientation:
+	z: -36.67279362410761
+
+robot_pose.pose.position:
+	x: -2.9858297309002957
+	x: -2.9721642603691762
+robot_pose.pose.orientation:
+	z: -36.82463163337276
+
+robot_pose.pose.position:
+	x: -2.986474326141731
+	x: -2.9686380114182693
+robot_pose.pose.orientation:
+	z: -36.51794865824898
+
+robot_pose.pose.position:
+	x: -2.987220113258766
+	x: -2.964906888167296
+robot_pose.pose.orientation:
+	z: -36.03585883649134
+
+robot_pose.pose.position:
+	x: -2.9880911541407094
+	x: -2.961025533530853
+robot_pose.pose.orientation:
+	z: -35.42711128304102
+
+robot_pose.pose.position:
+	x: -2.989117393015775
+	x: -2.9569559436967072
+robot_pose.pose.orientation:
+	z: -34.86174035732493
+
+robot_pose.pose.position:
+	x: -2.986837160629301
+	x: -2.9651591115931817
+robot_pose.pose.orientation:
+	z: -34.36347093104264
+
+robot_pose.pose.position:
+	x: -2.987382099217047
+	x: -2.9632875019788676
+robot_pose.pose.orientation:
+	z: -34.175268640891346
+
+robot_pose.pose.position:
+	x: -2.98793198212612
+	x: -2.9596005339855154
+robot_pose.pose.orientation:
+	z: -34.075830658589
+
+robot_pose.pose.position:
+	x: -2.9882272691600242
+	x: -2.957698544327297
+robot_pose.pose.orientation:
+	z: -34.06278655563644
+
+robot_pose.pose.position:
+	x: -2.9882283821000826
+	x: -2.9577067032969633
+robot_pose.pose.orientation:
+	z: -34.0830814670126
+
+robot_pose.pose.position:
+	x: -2.9882200692645524
+	x: -2.9577733888180386
+robot_pose.pose.orientation:
+	z: -34.094402721324634
+
+robot_pose.pose.position:
+	x: -2.9882124824319445
+	x: -2.957833858030215
+robot_pose.pose.orientation:
+	z: -34.100508291468586
+
+robot_pose.pose.position:
+	x: -2.9882057798177146
+	x: -2.95788725498852
+robot_pose.pose.orientation:
+	z: -34.10142520561443
+
+robot_pose.pose.position:
+	x: -2.9881999004560975
+	x: -2.9579341048969106
+robot_pose.pose.orientation:
+	z: -34.09787281543767
+
+robot_pose.pose.position:
+	x: -2.9881947018702752
+	x: -2.9579754668764555
+robot_pose.pose.orientation:
+	z: -34.09742373555539
+
+robot_pose.pose.position:
+	x: -2.9881835546546136
+	x: -2.958276731697267
+robot_pose.pose.orientation:
+	z: -34.07860746978161
+
+robot_pose.pose.position:
+	x: -2.9882702636564438
+	x: -2.9577777922567092
+robot_pose.pose.orientation:
+	z: -34.06907865119949
+
+robot_pose.pose.position:
+	x: -2.988269801294971
+	x: -2.957788509973005
+robot_pose.pose.orientation:
+	z: -34.06832346246768
+
+robot_pose.pose.position:
+	x: -2.988266639954954
+	x: -2.9578138479133207
+robot_pose.pose.orientation:
+	z: -34.07069445009832
+
+robot_pose.pose.position:
+	x: -2.9882634072254692
+	x: -2.957824402472523
+robot_pose.pose.orientation:
+	z: -34.06478728197882
+
+robot_pose.pose.position:
+	x: -2.9882540377091105
+	x: -2.9578548805079716
+robot_pose.pose.orientation:
+	z: -33.98825696469942
+
+robot_pose.pose.position:
+	x: -2.988238279138956
+	x: -2.9579047971128607
+robot_pose.pose.orientation:
+	z: -33.504961011931464
+
+robot_pose.pose.position:
+	x: -2.988214448572133
+	x: -2.9579739361875967
+robot_pose.pose.orientation:
+	z: -32.62994267566746
+
+robot_pose.pose.position:
+	x: -2.9881804582927534
+	x: -2.958060861238789
+robot_pose.pose.orientation:
+	z: -31.49227406627899
+
+robot_pose.pose.position:
+	x: -2.988133408579446
+	x: -2.9581649643450163
+robot_pose.pose.orientation:
+	z: -30.035422078781906
+
+robot_pose.pose.position:
+	x: -2.9880702912765393
+	x: -2.958284703454843
+robot_pose.pose.orientation:
+	z: -28.52124447855124
+
+robot_pose.pose.position:
+	x: -2.98798922219443
+	x: -2.958417461020753
+robot_pose.pose.orientation:
+	z: -26.848101301122384
+
+robot_pose.pose.position:
+	x: -2.987888169171369
+	x: -2.9585613576572953
+robot_pose.pose.orientation:
+	z: -25.33796455144637
+
+robot_pose.pose.position:
+	x: -2.9877647038981285
+	x: -2.958716420000236
+robot_pose.pose.orientation:
+	z: -23.705433558002344
+
+robot_pose.pose.position:
+	x: -2.9876192870184433
+	x: -2.958877582373648
+robot_pose.pose.orientation:
+	z: -22.155009721322422
+
+robot_pose.pose.position:
+	x: -2.9874502711099242
+	x: -2.9590443370805644
+robot_pose.pose.orientation:
+	z: -20.62915113087978
+
+robot_pose.pose.position:
+	x: -2.9872560750054507
+	x: -2.959214974633176
+robot_pose.pose.orientation:
+	z: -19.01030502020426
+
+robot_pose.pose.position:
+	x: -2.9870352338368003
+	x: -2.959386913942262
+robot_pose.pose.orientation:
+	z: -17.410501303471076
+
+robot_pose.pose.position:
+	x: -2.9867875326945343
+	x: -2.959558012601412
+robot_pose.pose.orientation:
+	z: -15.926845883854192
+
+robot_pose.pose.position:
+	x: -2.986514385207106
+	x: -2.9597256767663396
+robot_pose.pose.orientation:
+	z: -14.417539234236449
+
+robot_pose.pose.position:
+	x: -2.9862138056471
+	x: -2.9598890737779917
+robot_pose.pose.orientation:
+	z: -13.035932651371272
+
+robot_pose.pose.position:
+	x: -2.9858890476660354
+	x: -2.9600451824157705
+robot_pose.pose.orientation:
+	z: -11.598628502596771
+
+robot_pose.pose.position:
+	x: -2.985534776900916
+	x: -2.9601939788214975
+robot_pose.pose.orientation:
+	z: -10.194358832114254
+
+robot_pose.pose.position:
+	x: -2.9775055521190765
+	x: -2.966227715285535
+robot_pose.pose.orientation:
+	z: -8.654761726499759
+
+robot_pose.pose.position:
+	x: -2.9760435480103067
+	x: -2.966688056435899
+robot_pose.pose.orientation:
+	z: -7.570437113275983
+
+robot_pose.pose.position:
+	x: -2.9745152215144537
+	x: -2.9671032425558064
+robot_pose.pose.orientation:
+	z: -6.303879031582013
+
+robot_pose.pose.position:
+	x: -2.972898980853535
+	x: -2.9674612144507138
+robot_pose.pose.orientation:
+	z: -4.785141389700824
+
+robot_pose.pose.position:
+	x: -2.971207878735201
+	x: -2.9677334609795234
+robot_pose.pose.orientation:
+	z: -2.829520844391358
+
+robot_pose.pose.position:
+	x: -2.9694466951896974
+	x: -2.9678892485031985
+robot_pose.pose.orientation:
+	z: -0.6078638978523111
+
+robot_pose.pose.position:
+	x: -2.967609196130492
+	x: -2.9679067010314433
+robot_pose.pose.orientation:
+	z: 1.7228165834189746
+
+robot_pose.pose.position:
+	x: -2.965723251241704
+	x: -2.9677706567712305
+robot_pose.pose.orientation:
+	z: 4.077736975130274
+
+robot_pose.pose.position:
+	x: -2.9637928971174468
+	x: -2.9674751939574513
+robot_pose.pose.orientation:
+	z: 6.236026520021704
+
+robot_pose.pose.position:
+	x: -2.9618281528237462
+	x: -2.9670204213233258
+robot_pose.pose.orientation:
+	z: 8.397221450734703
+
+robot_pose.pose.position:
+	x: -2.959837256298959
+	x: -2.9663955901108268
+robot_pose.pose.orientation:
+	z: 10.59835484759696
+
+robot_pose.pose.position:
+	x: -2.9578652294322656
+	x: -2.9655937988936554
+robot_pose.pose.orientation:
+	z: 13.155188377626589
+
+robot_pose.pose.position:
+	x: -2.9559164671701708
+	x: -2.964585385335865
+robot_pose.pose.orientation:
+	z: 15.739582293855761
+
+robot_pose.pose.position:
+	x: -2.953996395664012
+	x: -2.963359858095799
+robot_pose.pose.orientation:
+	z: 18.061955671907484
+
+robot_pose.pose.position:
+	x: -2.952170810581108
+	x: -2.9619599482297008
+robot_pose.pose.orientation:
+	z: 20.47900343975913
+
+robot_pose.pose.position:
+	x: -2.950414413360391
+	x: -2.960337752630681
+robot_pose.pose.orientation:
+	z: 23.0651525894964
+
+robot_pose.pose.position:
+	x: -2.9487944847881757
+	x: -2.958514587137212
+robot_pose.pose.orientation:
+	z: 25.702374326145986
+
+robot_pose.pose.position:
+	x: -2.9472848685376807
+	x: -2.956404618879207
+robot_pose.pose.orientation:
+	z: 28.407099746570463
+
+robot_pose.pose.position:
+	x: -2.9460654092968297
+	x: -2.9542538579174265
+robot_pose.pose.orientation:
+	z: 30.92013804119879
+
+robot_pose.pose.position:
+	x: -2.945012456934307
+	x: -2.951853897246882
+robot_pose.pose.orientation:
+	z: 33.53457963554097
+
+robot_pose.pose.position:
+	x: -2.944228661193809
+	x: -2.9492901297146163
+robot_pose.pose.orientation:
+	z: 36.540085470856496
+
+robot_pose.pose.position:
+	x: -2.943822447092132
+	x: -2.9465712216025084
+robot_pose.pose.orientation:
+	z: 40.45694022714488
+
+robot_pose.pose.position:
+	x: -2.943842341136545
+	x: -2.943764253299395
+robot_pose.pose.orientation:
+	z: 42.384452313925706
+
+robot_pose.pose.position:
+	x: -2.8371294988420965
+	x: -2.790283213582788
+robot_pose.pose.orientation:
+	z: 43.289643260953575
+
+robot_pose.pose.position:
+	x: -2.840290798550049
+	x: -2.7677839359192884
+robot_pose.pose.orientation:
+	z: 44.36053923063024
+
+robot_pose.pose.position:
+	x: -2.8445719695384364
+	x: -2.74474641934483
+robot_pose.pose.orientation:
+	z: 44.65229412155899
+
+robot_pose.pose.position:
+	x: -2.8402549005113125
+	x: -2.7242800533555633
+robot_pose.pose.orientation:
+	z: 44.79402422171448
+
+robot_pose.pose.position:
+	x: -2.844182467824009
+	x: -2.705539931829279
+robot_pose.pose.orientation:
+	z: 45.16189789353583
+
+robot_pose.pose.position:
+	x: -2.8544747571034756
+	x: -2.685910128099485
+robot_pose.pose.orientation:
+	z: 45.4896822939228
+
+robot_pose.pose.position:
+	x: -2.8643178393863327
+	x: -2.663327720348131
+robot_pose.pose.orientation:
+	z: 45.61005766818923
+
+robot_pose.pose.position:
+	x: -2.871219712491909
+	x: -2.6361360331046884
+robot_pose.pose.orientation:
+	z: 45.60593564209148
+
+robot_pose.pose.position:
+	x: -2.8781531491941754
+	x: -2.607920676882152
+robot_pose.pose.orientation:
+	z: 45.23416702952155
+
+robot_pose.pose.position:
+	x: -2.884622066833062
+	x: -2.5788146015585864
+robot_pose.pose.orientation:
+	z: 44.814147494956835
+
+robot_pose.pose.position:
+	x: -2.890882608964968
+	x: -2.5489349193269866
+robot_pose.pose.orientation:
+	z: 45.00037035647462
+
+robot_pose.pose.position:
+	x: -2.8976997193218694
+	x: -2.5181073957079376
+robot_pose.pose.orientation:
+	z: 45.19969759910754
+
+robot_pose.pose.position:
+	x: -2.9048270823230173
+	x: -2.4864323269054815
+robot_pose.pose.orientation:
+	z: 44.97327103925355
+
+robot_pose.pose.position:
+	x: -2.9118538185816982
+	x: -2.454020251968038
+robot_pose.pose.orientation:
+	z: 44.9966754858483
+
+robot_pose.pose.position:
+	x: -2.919302338770699
+	x: -2.420218111395265
+robot_pose.pose.orientation:
+	z: 45.105628355225086
+
+robot_pose.pose.position:
+	x: -2.926711232079236
+	x: -2.386671123741967
+robot_pose.pose.orientation:
+	z: 44.92959866894387
+
+robot_pose.pose.position:
+	x: -2.9342005481591946
+	x: -2.3516567104865063
+robot_pose.pose.orientation:
+	z: 44.85570222047628
+
+robot_pose.pose.position:
+	x: -2.941814384238545
+	x: -2.315788825886263
+robot_pose.pose.orientation:
+	z: 44.883741743818405
+
+robot_pose.pose.position:
+	x: -2.949569125602411
+	x: -2.2791484721884223
+robot_pose.pose.orientation:
+	z: 44.76112930489981
+
+robot_pose.pose.position:
+	x: -2.957071398252831
+	x: -2.241415028108345
+robot_pose.pose.orientation:
+	z: 44.29145230603779
+
+robot_pose.pose.position:
+	x: -2.9636476262478446
+	x: -2.2028885029710152
+robot_pose.pose.orientation:
+	z: 43.70227856810432
+
+robot_pose.pose.position:
+	x: -2.96920862968284
+	x: -2.1632257053613757
+robot_pose.pose.orientation:
+	z: 43.173015792325735
+
+robot_pose.pose.position:
+	x: -2.9738587187026324
+	x: -2.1225973819192707
+robot_pose.pose.orientation:
+	z: 42.756277139054525
+
+robot_pose.pose.position:
+	x: -2.9778428533899404
+	x: -2.0810738666832584
+robot_pose.pose.orientation:
+	z: 42.50470290986386
+
+robot_pose.pose.position:
+	x: -2.9819408856838456
+	x: -2.0386302373162883
+robot_pose.pose.orientation:
+	z: 42.56929684984036
+
+robot_pose.pose.position:
+	x: -2.986312052037171
+	x: -1.9954420870439307
+robot_pose.pose.orientation:
+	z: 42.70606401665634
+
+robot_pose.pose.position:
+	x: -2.9910132556943827
+	x: -1.9513750885928602
+robot_pose.pose.orientation:
+	z: 42.741872831455275
+
+robot_pose.pose.position:
+	x: -2.9958903467644333
+	x: -1.9062369723758805
+robot_pose.pose.orientation:
+	z: 42.745152800340364
+
+robot_pose.pose.position:
+	x: -3.000836743498891
+	x: -1.8605578243010277
+robot_pose.pose.orientation:
+	z: 42.75212247229315
+
+robot_pose.pose.position:
+	x: -3.005933355767512
+	x: -1.8137186916818853
+robot_pose.pose.orientation:
+	z: 42.76360025541823
+
+robot_pose.pose.position:
+	x: -2.9122786906369527
+	x: -2.2926838212189726
+robot_pose.pose.orientation:
+	z: 42.68507435563328
+
+robot_pose.pose.position:
+	x: -2.912163799332406
+	x: -2.2942427282056883
+robot_pose.pose.orientation:
+	z: 42.66928184214355
+
+robot_pose.pose.position:
+	x: -2.9120003960495033
+	x: -2.2960616442830255
+robot_pose.pose.orientation:
+	z: 42.66874231788427
+
+robot_pose.pose.position:
+	x: -2.911855676127083
+	x: -2.297663032492045
+robot_pose.pose.orientation:
+	z: 42.67084125545734
+
+robot_pose.pose.position:
+	x: -2.9117280399080303
+	x: -2.2990747375294265
+robot_pose.pose.orientation:
+	z: 42.66928481416449
+
+robot_pose.pose.position:
+	x: -2.9116173465443014
+	x: -2.300299228240324
+robot_pose.pose.orientation:
+	z: 42.67474253897591
+
+robot_pose.pose.position:
+	x: -2.9115194783403595
+	x: -2.301380842227672
+robot_pose.pose.orientation:
+	z: 42.679172491893006
+
+robot_pose.pose.position:
+	x: -2.9114341468867986
+	x: -2.3023237044851155
+robot_pose.pose.orientation:
+	z: 42.678336099109174
+
+robot_pose.pose.position:
+	x: -2.9113589656258325
+	x: -2.303154081958663
+robot_pose.pose.orientation:
+	z: 42.684604503501596
+
+robot_pose.pose.position:
+	x: -2.9112932955493265
+	x: -2.3038790465067325
+robot_pose.pose.orientation:
+	z: 42.683831087500664
+
+robot_pose.pose.position:
+	x: -2.9112355167715362
+	x: -2.304516800746461
+robot_pose.pose.orientation:
+	z: 42.68349489906939
+
+robot_pose.pose.position:
+	x: -2.911184614707492
+	x: -2.305078217399102
+robot_pose.pose.orientation:
+	z: 42.69077933549545
+
+robot_pose.pose.position:
+	x: -2.911139866816682
+	x: -2.305571486702393
+robot_pose.pose.orientation:
+	z: 42.68737973252906
+
+robot_pose.pose.position:
+	x: -2.9111004126165003
+	x: -2.3060067684831536
+robot_pose.pose.orientation:
+	z: 42.683997092885534
+
+robot_pose.pose.position:
+	x: -2.911066055887379
+	x: -2.3063859600297976
+robot_pose.pose.orientation:
+	z: 42.68716211195235
+
+robot_pose.pose.position:
+	x: -2.911035542790171
+	x: -2.3067223249151083
+robot_pose.pose.orientation:
+	z: 42.691562522213005
+
+robot_pose.pose.position:
+	x: -2.9110088926277955
+	x: -2.30701591202226
+robot_pose.pose.orientation:
+	z: 42.692741189099465
+
+robot_pose.pose.position:
+	x: -2.9109851640282067
+	x: -2.3072771281520748
+robot_pose.pose.orientation:
+	z: 42.69640334216332
+
+robot_pose.pose.position:
+	x: -2.9109643914073935
+	x: -2.307505959892522
+robot_pose.pose.orientation:
+	z: 42.693627039320354
+
+robot_pose.pose.position:
+	x: -2.9109463882047235
+	x: -2.3077043180023056
+robot_pose.pose.orientation:
+	z: 42.69917814642237
+
+robot_pose.pose.position:
+	x: -2.9109303277093086
+	x: -2.307880927575674
+robot_pose.pose.orientation:
+	z: 42.69597853401156
+
+robot_pose.pose.position:
+	x: -2.9109161923622273
+	x: -2.308036305506361
+robot_pose.pose.orientation:
+	z: 42.70244417468723
+
+robot_pose.pose.position:
+	x: -2.910903658624445
+	x: -2.308173828323647
+robot_pose.pose.orientation:
+	z: 42.7018057396826
+
+robot_pose.pose.position:
+	x: -2.910892591025954
+	x: -2.3082952901260634
+robot_pose.pose.orientation:
+	z: 42.69854391626288
+
+robot_pose.pose.position:
+	x: -2.9108828420008312
+	x: -2.30840234382231
+robot_pose.pose.orientation:
+	z: 42.704988874594626
+
+robot_pose.pose.position:
+	x: -2.910874368981083
+	x: -2.308495268783009
+robot_pose.pose.orientation:
+	z: 42.70760568146938
+
+robot_pose.pose.position:
+	x: -2.9108667800371824
+	x: -2.3085782427234656
+robot_pose.pose.orientation:
+	z: 42.71264951723916
+
+robot_pose.pose.position:
+	x: -2.9108601572308603
+	x: -2.308650761593189
+robot_pose.pose.orientation:
+	z: 42.71282611327245
+
+robot_pose.pose.position:
+	x: -2.910854485592647
+	x: -2.308712867247286
+robot_pose.pose.orientation:
+	z: 42.71312102240284
+
+robot_pose.pose.position:
+	x: -2.9108492609777636
+	x: -2.308769828228438
+robot_pose.pose.orientation:
+	z: 42.70955236555026
+
+robot_pose.pose.position:
+	x: -2.910846053167413
+	x: -2.30881965421928
+robot_pose.pose.orientation:
+	z: 41.50970278630469
+
+robot_pose.pose.position:
+	x: -2.910847781093725
+	x: -2.3088638234960994
+robot_pose.pose.orientation:
+	z: 38.98574006085093
+
+robot_pose.pose.position:
+	x: -2.910856703607067
+	x: -2.308902270679023
+robot_pose.pose.orientation:
+	z: 34.8531649857949
+
+robot_pose.pose.position:
+	x: -2.9108741532548503
+	x: -2.3089340534775658
+robot_pose.pose.orientation:
+	z: 29.04462008042203
+
+robot_pose.pose.position:
+	x: -2.910899305602902
+	x: -2.3089573426210173
+robot_pose.pose.orientation:
+	z: 22.718021289981294
+
+robot_pose.pose.position:
+	x: -0.9462047101402311
+	x: -2.1027393041711964
+robot_pose.pose.orientation:
+	z: -0.7824421191931054
+
+robot_pose.pose.position:
+	x: -0.945442926550024
+	x: -2.102658779171231
+robot_pose.pose.orientation:
+	z: -3.255324170349627
+
+robot_pose.pose.position:
+	x: -0.945334278443819
+	x: -2.1026469172599946
+robot_pose.pose.orientation:
+	z: -3.75211490319364
+
+robot_pose.pose.position:
+	x: -0.9453181270941518
+	x: -2.102645143213123
+robot_pose.pose.orientation:
+	z: -3.923205447910473
+
+robot_pose.pose.position:
+	x: -0.9453162773890648
+	x: -2.1026448609574837
+robot_pose.pose.orientation:
+	z: -3.9573445821806446
+
+robot_pose.pose.position:
+	x: -0.9453150041535956
+	x: -2.102644832905952
+robot_pose.pose.orientation:
+	z: -3.979774768024973
+
+robot_pose.pose.position:
+	x: -0.9453144737602746
+	x: -2.1026448931507327
+robot_pose.pose.orientation:
+	z: -4.07930396171832
+
+robot_pose.pose.position:
+	x: -0.9453141705158404
+	x: -2.1026449020367495
+robot_pose.pose.orientation:
+	z: -5.212923960015436
+
+robot_pose.pose.position:
+	x: -0.9453138977724381
+	x: -2.102644783907905
+robot_pose.pose.orientation:
+	z: -6.696685640133617
+
+robot_pose.pose.position:
+	x: -0.9454667210276583
+	x: -2.10231500560709
+robot_pose.pose.orientation:
+	z: -6.968213557368931
+
+robot_pose.pose.position:
+	x: -0.9455243583999955
+	x: -2.1022577292172646
+robot_pose.pose.orientation:
+	z: -7.015928940243945
+
+robot_pose.pose.position:
+	x: -0.9454951324857638
+	x: -2.102258863666811
+robot_pose.pose.orientation:
+	z: -6.997302742537149
+
+robot_pose.pose.position:
+	x: -0.9454893164406415
+	x: -2.1022594065662394
+robot_pose.pose.orientation:
+	z: -7.012395942743389
+
+robot_pose.pose.position:
+	x: -0.9454882521889751
+	x: -2.10225953506928
+robot_pose.pose.orientation:
+	z: -6.989870096145179
+
+robot_pose.pose.position:
+	x: -0.9454879577513385
+	x: -2.1022595811919396
+robot_pose.pose.orientation:
+	z: -7.009985914246436
+
+robot_pose.pose.position:
+	x: -0.9454877633987749
+	x: -2.102259617569248
+robot_pose.pose.orientation:
+	z: -7.011045787727897
+
+robot_pose.pose.position:
+	x: -0.9454876083377578
+	x: -2.102259651026625
+robot_pose.pose.orientation:
+	z: -6.992040952123989
+
+robot_pose.pose.position:
+	x: -0.9454874680152866
+	x: -2.1022596788915933
+robot_pose.pose.orientation:
+	z: -7.009056130878885
+
+robot_pose.pose.position:
+	x: -0.9454873247240331
+	x: -2.1022597073599956
+robot_pose.pose.orientation:
+	z: -7.009344232826019
+
+robot_pose.pose.position:
+	x: -0.9454871994786499
+	x: -2.1022597348675305
+robot_pose.pose.orientation:
+	z: -6.988075607093077
+
+robot_pose.pose.position:
+	x: -0.9454870862662181
+	x: -2.102259758994687
+robot_pose.pose.orientation:
+	z: -6.991385894237244
+
+robot_pose.pose.position:
+	x: -0.945486973273262
+	x: -2.1022597821078484
+robot_pose.pose.orientation:
+	z: -6.991093390460985
+
+robot_pose.pose.position:
+	x: -0.9454868680506882
+	x: -2.1022598037068065
+robot_pose.pose.orientation:
+	z: -6.9906318264580625
+
+robot_pose.pose.position:
+	x: -0.9454867682839837
+	x: -2.102259822868858
+robot_pose.pose.orientation:
+	z: -7.0069203852312985
+
+robot_pose.pose.position:
+	x: -0.9454866697334874
+	x: -2.1022598433689788
+robot_pose.pose.orientation:
+	z: -6.988745067012617
+
+robot_pose.pose.position:
+	x: -0.9454865874198474
+	x: -2.102259861058375
+robot_pose.pose.orientation:
+	z: -6.981868638545699
+
+robot_pose.pose.position:
+	x: -0.9454865069163187
+	x: -2.1022598777902672
+robot_pose.pose.orientation:
+	z: -6.983325432128661
+
+robot_pose.pose.position:
+	x: -0.9454864283523606
+	x: -2.1022598932522176
+robot_pose.pose.orientation:
+	z: -6.990323089755919
+
+robot_pose.pose.position:
+	x: -0.9454863534219117
+	x: -2.1022599086311446
+robot_pose.pose.orientation:
+	z: -6.983957252846597
+
+robot_pose.pose.position:
+	x: -0.9454862864504902
+	x: -2.1022599219093268
+robot_pose.pose.orientation:
+	z: -6.994220182729922
+
+robot_pose.pose.position:
+	x: -0.9454862218414822
+	x: -2.1022599353257676
+robot_pose.pose.orientation:
+	z: -6.982548504895841
+
+robot_pose.pose.position:
+	x: -0.9454861630451838
+	x: -2.102259947476727
+robot_pose.pose.orientation:
+	z: -6.983948525416473
+
+robot_pose.pose.position:
+	x: -0.9454861071958921
+	x: -2.1022599590492073
+robot_pose.pose.orientation:
+	z: -6.980127497486207
+
+robot_pose.pose.position:
+	x: -0.945486054954096
+	x: -2.102259969948541
+robot_pose.pose.orientation:
+	z: -6.977044942035095
+
+robot_pose.pose.position:
+	x: -0.9454860050237881
+	x: -2.102259979164023
+robot_pose.pose.orientation:
+	z: -7.004006104414356
+
+robot_pose.pose.position:
+	x: -0.9454859549323966
+	x: -2.1022599893621137
+robot_pose.pose.orientation:
+	z: -6.986408472529559
+
+robot_pose.pose.position:
+	x: -0.9454859131968096
+	x: -2.1022599975517737
+robot_pose.pose.orientation:
+	z: -7.005372653703628
+
+robot_pose.pose.position:
+	x: -0.9454858692933306
+	x: -2.1022600070508335
+robot_pose.pose.orientation:
+	z: -6.97787106136833
+
+robot_pose.pose.position:
+	x: -0.945485834735763
+	x: -2.102260014093799
+robot_pose.pose.orientation:
+	z: -6.994050989124537
+
+robot_pose.pose.position:
+	x: -0.9454857959113243
+	x: -2.102260021675866
+robot_pose.pose.orientation:
+	z: -6.9977779679410235
+
+robot_pose.pose.position:
+	x: -0.9454857631536456
+	x: -2.1022600288678523
+robot_pose.pose.orientation:
+	z: -6.975122117604103
+
+robot_pose.pose.position:
+	x: -0.9454857335569068
+	x: -2.102260035213933
+robot_pose.pose.orientation:
+	z: -6.9753466290894695
+
+robot_pose.pose.position:
+	x: -0.9454857033550484
+	x: -2.102260041406625
+robot_pose.pose.orientation:
+	z: -6.974765792070058
+
+robot_pose.pose.position:
+	x: -0.9454856754366068
+	x: -2.102260047164188
+robot_pose.pose.orientation:
+	z: -6.971799517839631
+
+robot_pose.pose.position:
+	x: -0.9454856492636429
+	x: -2.102260052450372
+robot_pose.pose.orientation:
+	z: -6.975402079713731
+
+robot_pose.pose.position:
+	x: -0.9454856237120379
+	x: -2.1022600574252093
+robot_pose.pose.orientation:
+	z: -6.983429870845238
+
+robot_pose.pose.position:
+	x: -0.9454856006960021
+	x: -2.1022600622624785
+robot_pose.pose.orientation:
+	z: -6.9694773998253625
+
+robot_pose.pose.position:
+	x: -0.9454855796975375
+	x: -2.102260066679192
+robot_pose.pose.orientation:
+	z: -6.968668023429906
+
+robot_pose.pose.position:
+	x: -0.9454855591487982
+	x: -2.102260070851615
+robot_pose.pose.orientation:
+	z: -6.969621742850137
+
+robot_pose.pose.position:
+	x: -0.9454855400004015
+	x: -2.1022600745508195
+robot_pose.pose.orientation:
+	z: -6.981894028820834
+
+robot_pose.pose.position:
+	x: -0.9454855208511741
+	x: -2.1022600783472245
+robot_pose.pose.orientation:
+	z: -6.980337034032129
+
+robot_pose.pose.position:
+	x: -0.9454855039564608
+	x: -2.10226008188073
+robot_pose.pose.orientation:
+	z: -6.9732475373001055
+
+robot_pose.pose.position:
+	x: -0.945485487835935
+	x: -2.1022600847188198
+robot_pose.pose.orientation:
+	z: -7.014073844884016
+
+robot_pose.pose.position:
+	x: -0.9454854719806519
+	x: -2.102260088016236
+robot_pose.pose.orientation:
+	z: -6.98513301248545
+
+robot_pose.pose.position:
+	x: -0.9454854589546208
+	x: -2.102260090896218
+robot_pose.pose.orientation:
+	z: -6.97909446054207
+
+robot_pose.pose.position:
+	x: -0.9454854462509996
+	x: -2.102260093565883
+robot_pose.pose.orientation:
+	z: -6.975148531703845
+
+robot_pose.pose.position:
+	x: -0.9454854340188629
+	x: -2.102260096099539
+robot_pose.pose.orientation:
+	z: -6.975106783883308
+
+robot_pose.pose.position:
+	x: -0.9454854225538588
+	x: -2.1022600984477644
+robot_pose.pose.orientation:
+	z: -6.974259968626933
+
+robot_pose.pose.position:
+	x: -0.9454854116407326
+	x: -2.1022601006957036
+robot_pose.pose.orientation:
+	z: -6.970052757865563
+
+robot_pose.pose.position:
+	x: -0.9454854016786116
+	x: -2.102260102737185
+robot_pose.pose.orientation:
+	z: -6.972501401801244
+
+robot_pose.pose.position:
+	x: -0.9454853915056108
+	x: -2.1022601046290075
+robot_pose.pose.orientation:
+	z: -6.995732487985726
+
+robot_pose.pose.position:
+	x: -0.945485382579107
+	x: -2.102260106448849
+robot_pose.pose.orientation:
+	z: -6.981110318175849
+
+robot_pose.pose.position:
+	x: -0.945485374304395
+	x: -2.1022601081954786
+robot_pose.pose.orientation:
+	z: -6.979532886070778
+
+robot_pose.pose.position:
+	x: -0.945485366626948
+	x: -2.1022601097828213
+robot_pose.pose.orientation:
+	z: -6.97836118392174
+
+robot_pose.pose.position:
+	x: -0.9454853591304766
+	x: -2.102260111413824
+robot_pose.pose.orientation:
+	z: -6.960906462081227
+
+robot_pose.pose.position:
+	x: -0.9454853525471884
+	x: -2.1022601128658938
+robot_pose.pose.orientation:
+	z: -6.951103873244629
+
+robot_pose.pose.position:
+	x: -0.9454853463304161
+	x: -2.102260114166495
+robot_pose.pose.orientation:
+	z: -6.949764454689055
+
+robot_pose.pose.position:
+	x: -0.9454853402277547
+	x: -2.102260115392402
+robot_pose.pose.orientation:
+	z: -6.9517174323269435
+
+robot_pose.pose.position:
+	x: -0.9454853343864434
+	x: -2.1022601166022286
+robot_pose.pose.orientation:
+	z: -6.943820561096619
+
+robot_pose.pose.position:
+	x: -0.9454853290810419
+	x: -2.1022601176801836
+robot_pose.pose.orientation:
+	z: -6.946793377292579
+
+robot_pose.pose.position:
+	x: -0.9454853238344891
+	x: -2.102260118650518
+robot_pose.pose.orientation:
+	z: -6.967879508496494
+
+robot_pose.pose.position:
+	x: -0.9454853188134081
+	x: -2.102260119683309
+robot_pose.pose.orientation:
+	z: -6.949330178966998
+
+robot_pose.pose.position:
+	x: -0.9454853145336677
+	x: -2.1022601205219664
+robot_pose.pose.orientation:
+	z: -6.966307025742759
+
+robot_pose.pose.position:
+	x: -0.9454853100575815
+	x: -2.102260121409059
+robot_pose.pose.orientation:
+	z: -6.963516970563609
+
+robot_pose.pose.position:
+	x: -0.9454853061585269
+	x: -2.102260122216661
+robot_pose.pose.orientation:
+	z: -6.959458448852677
+
+robot_pose.pose.position:
+	x: -0.9454853025264095
+	x: -2.1022601229518045
+robot_pose.pose.orientation:
+	z: -6.962705799251761
+
+robot_pose.pose.position:
+	x: -0.9454852990082349
+	x: -2.1022601236635765
+robot_pose.pose.orientation:
+	z: -6.961290265357102
+
+robot_pose.pose.position:
+	x: -0.945485295757704
+	x: -2.102260124326495
+robot_pose.pose.orientation:
+	z: -6.959608525261726
+
+robot_pose.pose.position:
+	x: -0.9454852926814147
+	x: -2.102260124956244
+robot_pose.pose.orientation:
+	z: -6.959054855931753
+
+robot_pose.pose.position:
+	x: -0.9454852899297227
+	x: -2.102260125550782
+robot_pose.pose.orientation:
+	z: -6.9448258935226725
+
+robot_pose.pose.position:
+	x: -0.9454852872216796
+	x: -2.102260126085932
+robot_pose.pose.orientation:
+	z: -6.959311092933278
+
+robot_pose.pose.position:
+	x: -0.9454852845913982
+	x: -2.102260126615136
+robot_pose.pose.orientation:
+	z: -6.953252555305627
+
+robot_pose.pose.position:
+	x: -0.9454852823383623
+	x: -2.1022601270715593
+robot_pose.pose.orientation:
+	z: -6.957495844394451
+
+robot_pose.pose.position:
+	x: -0.945485280042853
+	x: -2.1022601275345343
+robot_pose.pose.orientation:
+	z: -6.956662831312034
+
+robot_pose.pose.position:
+	x: -0.9454852779570506
+	x: -2.1022601279582647
+robot_pose.pose.orientation:
+	z: -6.954638658390083
+
+robot_pose.pose.position:
+	x: -0.9454852760025017
+	x: -2.1022601283855757
+robot_pose.pose.orientation:
+	z: -6.934277009571912
+
+robot_pose.pose.position:
+	x: -0.9454852742777995
+	x: -2.1022601287293394
+robot_pose.pose.orientation:
+	z: -6.950690418086742
+
+robot_pose.pose.position:
+	x: -0.945485272479426
+	x: -2.1022601291045837
+robot_pose.pose.orientation:
+	z: -6.932603955182358
+
+robot_pose.pose.position:
+	x: -0.9454852709038838
+	x: -2.102260129420437
+robot_pose.pose.orientation:
+	z: -6.945668384493136
+
+robot_pose.pose.position:
+	x: -0.9454852693258216
+	x: -2.102260129736404
+robot_pose.pose.orientation:
+	z: -6.940190481974577
+
+robot_pose.pose.position:
+	x: -0.9454852679177914
+	x: -2.1022601300315293
+robot_pose.pose.orientation:
+	z: -6.932906794335466
+
+robot_pose.pose.position:
+	x: -0.9454852666105097
+	x: -2.1022601303044413
+robot_pose.pose.orientation:
+	z: -6.927836364247676
+
+robot_pose.pose.position:
+	x: -0.9454852653615428
+	x: -2.1022601305569277
+robot_pose.pose.orientation:
+	z: -6.929151165359346
+
+robot_pose.pose.position:
+	x: -0.945485264163049
+	x: -2.102260130801371
+robot_pose.pose.orientation:
+	z: -6.924554762947172
+
+robot_pose.pose.position:
+	x: -0.9454852629873159
+	x: -2.102260131003845
+robot_pose.pose.orientation:
+	z: -6.967390253921278
+
+robot_pose.pose.position:
+	x: -0.9454852618970209
+	x: -2.1022601312266542
+robot_pose.pose.orientation:
+	z: -6.939350926153938
+
+robot_pose.pose.position:
+	x: -0.9454852610287213
+	x: -2.1022601314133604
+robot_pose.pose.orientation:
+	z: -6.938435938353098
+
+robot_pose.pose.position:
+	x: -0.9454852600079474
+	x: -2.1022601316352447
+robot_pose.pose.orientation:
+	z: -6.918799221666167
+
+robot_pose.pose.position:
+	x: -0.9454852592380034
+	x: -2.102260131795276
+robot_pose.pose.orientation:
+	z: -6.924287559972926
+
+robot_pose.pose.position:
+	x: -0.9454852584306547
+	x: -2.1022601319591754
+robot_pose.pose.orientation:
+	z: -6.919238789713172
+
+robot_pose.pose.position:
+	x: -0.945485257671446
+	x: -2.1022601321027237
+robot_pose.pose.orientation:
+	z: -6.936747704499175
+
+robot_pose.pose.position:
+	x: -0.9454852569029644
+	x: -2.1022601322580923
+robot_pose.pose.orientation:
+	z: -6.926116695664926
+
+robot_pose.pose.position:
+	x: -0.945485256262835
+	x: -2.102260132385705
+robot_pose.pose.orientation:
+	z: -6.933244819656509
+
+robot_pose.pose.position:
+	x: -0.9454852556337271
+	x: -2.1022601325192323
+robot_pose.pose.orientation:
+	z: -6.9158081332406995
+
+robot_pose.pose.position:
+	x: -0.945485255045132
+	x: -2.1022601326343975
+robot_pose.pose.orientation:
+	z: -6.9335663134603776
+
+robot_pose.pose.position:
+	x: -0.9454852544633977
+	x: -2.1022601327514976
+robot_pose.pose.orientation:
+	z: -6.925172487033678
+
+robot_pose.pose.position:
+	x: -0.9454852539693521
+	x: -2.1022601328500725
+robot_pose.pose.orientation:
+	z: -6.933172337505389
+
+robot_pose.pose.position:
+	x: -0.9454852534639061
+	x: -2.1022601329501738
+robot_pose.pose.orientation:
+	z: -6.932487523037301
+
+robot_pose.pose.position:
+	x: -0.9454852530029011
+	x: -2.1022601330425923
+robot_pose.pose.orientation:
+	z: -6.933945968098471
+
+robot_pose.pose.position:
+	x: -0.945485252572617
+	x: -2.102260133130095
+robot_pose.pose.orientation:
+	z: -6.932995058454101
+
+robot_pose.pose.position:
+	x: -0.9454852521691532
+	x: -2.10226013321216
+robot_pose.pose.orientation:
+	z: -6.933072239496346
+
+robot_pose.pose.position:
+	x: -0.9454852517926706
+	x: -2.102260133293099
+robot_pose.pose.orientation:
+	z: -6.913994858870321
+
+robot_pose.pose.position:
+	x: -0.945485251390397
+	x: -2.1022601333408204
+robot_pose.pose.orientation:
+	z: -7.053017007996913
+
+robot_pose.pose.position:
+	x: -0.945485250995228
+	x: -2.102260133428552
+robot_pose.pose.orientation:
+	z: -6.943141554296217
+
+robot_pose.pose.position:
+	x: -0.9454852507772238
+	x: -2.1022601334896667
+robot_pose.pose.orientation:
+	z: -6.931683878529257
+
+robot_pose.pose.position:
+	x: -0.9454852504982304
+	x: -2.102260133555615
+robot_pose.pose.orientation:
+	z: -6.905067145374879
+
+robot_pose.pose.position:
+	x: -0.9454852502491561
+	x: -2.1022601336087168
+robot_pose.pose.orientation:
+	z: -6.908221171181687
+
+robot_pose.pose.position:
+	x: -0.9454852499827144
+	x: -2.1022601336628965
+robot_pose.pose.orientation:
+	z: -6.9050292561927815
+
+robot_pose.pose.position:
+	x: -0.9454852497410661
+	x: -2.102260133708536
+robot_pose.pose.orientation:
+	z: -6.9222060916151795
+
+robot_pose.pose.position:
+	x: -0.9454852494976711
+	x: -2.1022601337583064
+robot_pose.pose.orientation:
+	z: -6.906576238324323
+
+robot_pose.pose.position:
+	x: -0.9454852493014617
+	x: -2.1022601338001556
+robot_pose.pose.orientation:
+	z: -6.900199826034663
+
+robot_pose.pose.position:
+	x: -0.9454852490972157
+	x: -2.1022601338420133
+robot_pose.pose.orientation:
+	z: -6.898974459871952
+
+robot_pose.pose.position:
+	x: -0.9454852489078724
+	x: -2.102260133877624
+robot_pose.pose.orientation:
+	z: -6.917081891958304
+
+robot_pose.pose.position:
+	x: -0.945485248720745
+	x: -2.1022601339146494
+robot_pose.pose.orientation:
+	z: -6.909088373864466
+
+robot_pose.pose.position:
+	x: -0.9454852485568339
+	x: -2.1022601339471034
+robot_pose.pose.orientation:
+	z: -6.916395523747456
+
+robot_pose.pose.position:
+	x: -0.945485248395801
+	x: -2.102260133979397
+robot_pose.pose.orientation:
+	z: -6.913079511294964
+
+robot_pose.pose.position:
+	x: -0.9454852482502178
+	x: -2.1022601340088847
+robot_pose.pose.orientation:
+	z: -6.91184958136284
+
+robot_pose.pose.position:
+	x: -0.9454852481138535
+	x: -2.102260134036739
+robot_pose.pose.orientation:
+	z: -6.908525072647845
+
+robot_pose.pose.position:
+	x: -0.9454852479849861
+	x: -2.102260134063943
+robot_pose.pose.orientation:
+	z: -6.899211527852378
+
+robot_pose.pose.position:
+	x: -0.9454852478656565
+	x: -2.1022601340855243
+robot_pose.pose.orientation:
+	z: -6.932689598239087
+
+robot_pose.pose.position:
+	x: -0.9454852477428357
+	x: -2.1022601341101153
+robot_pose.pose.orientation:
+	z: -6.914774375905667
+
+robot_pose.pose.position:
+	x: -0.9454852476411434
+	x: -2.102260134132731
+robot_pose.pose.orientation:
+	z: -6.896628016035014
+
+robot_pose.pose.position:
+	x: -0.9454852475487753
+	x: -2.102260134152641
+robot_pose.pose.orientation:
+	z: -6.890878325456758
+
+robot_pose.pose.position:
+	x: -0.9454852474579378
+	x: -2.1022601341715017
+robot_pose.pose.orientation:
+	z: -6.88543166699603
+
+robot_pose.pose.position:
+	x: -0.9454852473646314
+	x: -2.1022601341888865
+robot_pose.pose.orientation:
+	z: -6.909492267058492
+
+robot_pose.pose.position:
+	x: -0.9454852472770845
+	x: -2.102260134206005
+robot_pose.pose.orientation:
+	z: -6.900597476185154
+
+robot_pose.pose.position:
+	x: -0.9454852472028713
+	x: -2.102260134221986
+robot_pose.pose.orientation:
+	z: -6.885556086448024
+
+robot_pose.pose.position:
+	x: -0.94548524713199
+	x: -2.1022601342357228
+robot_pose.pose.orientation:
+	z: -6.903813453089151
+
+robot_pose.pose.position:
+	x: -0.9454852470580686
+	x: -2.1022601342497627
+robot_pose.pose.orientation:
+	z: -6.908833639709151
+
+robot_pose.pose.position:
+	x: -0.9454852469929905
+	x: -2.1022601342627523
+robot_pose.pose.orientation:
+	z: -6.905731638010586
+
+robot_pose.pose.position:
+	x: -0.9454852469320695
+	x: -2.1022601342750336
+robot_pose.pose.orientation:
+	z: -6.905672751766144
+
+robot_pose.pose.position:
+	x: -0.9454852468760575
+	x: -2.102260134286457
+robot_pose.pose.orientation:
+	z: -6.902581758522954
+
+robot_pose.pose.position:
+	x: -0.945485246823271
+	x: -2.102260134297291
+robot_pose.pose.orientation:
+	z: -6.89892794535371
+
+robot_pose.pose.position:
+	x: -0.9454852467742717
+	x: -2.1022601343075458
+robot_pose.pose.orientation:
+	z: -6.89028775688161
+
+robot_pose.pose.position:
+	x: -0.9454852467277103
+	x: -2.102260134316693
+robot_pose.pose.orientation:
+	z: -6.9002719098728225
+
+robot_pose.pose.position:
+	x: -0.9454852466826353
+	x: -2.1022601343262024
+robot_pose.pose.orientation:
+	z: -6.8801272770627175
+
+robot_pose.pose.position:
+	x: -0.9454852466440289
+	x: -2.102260134333879
+robot_pose.pose.orientation:
+	z: -6.892588967868997
+
+robot_pose.pose.position:
+	x: -0.9454852466025474
+	x: -2.10226013434189
+robot_pose.pose.orientation:
+	z: -6.897406880805912
+
+robot_pose.pose.position:
+	x: -0.9454852465662524
+	x: -2.1022601343496214
+robot_pose.pose.orientation:
+	z: -6.8765976436787986
+
+robot_pose.pose.position:
+	x: -0.9454852465345669
+	x: -2.102260134356405
+robot_pose.pose.orientation:
+	z: -6.870669165413101
+
+robot_pose.pose.position:
+	x: -0.945485246502607
+	x: -2.102260134362547
+robot_pose.pose.orientation:
+	z: -6.885195131068575
+
+robot_pose.pose.position:
+	x: -0.9454852464704219
+	x: -2.102260134368664
+robot_pose.pose.orientation:
+	z: -6.888615723511346
+
+robot_pose.pose.position:
+	x: -0.9454852464418734
+	x: -2.102260134374736
+robot_pose.pose.orientation:
+	z: -6.867560484722652
+
+robot_pose.pose.position:
+	x: -0.945485246416999
+	x: -2.1022601343796126
+robot_pose.pose.orientation:
+	z: -6.884114485869776
+
+robot_pose.pose.position:
+	x: -0.9454852463911505
+	x: -2.102260134384951
+robot_pose.pose.orientation:
+	z: -6.866693330049127
+
+robot_pose.pose.position:
+	x: -0.9454852463680926
+	x: -2.1022601343897094
+robot_pose.pose.orientation:
+	z: -6.867539149658021
+
+robot_pose.pose.position:
+	x: -0.9454852463462873
+	x: -2.1022601343938687
+robot_pose.pose.orientation:
+	z: -6.8788284203916685
+
+robot_pose.pose.position:
+	x: -0.9454852463247245
+	x: -2.10226013439798
+robot_pose.pose.orientation:
+	z: -6.884397013914876
+
+robot_pose.pose.position:
+	x: -0.9454852463054799
+	x: -2.1022601344020604
+robot_pose.pose.orientation:
+	z: -6.8636410104645265
+
+robot_pose.pose.position:
+	x: -0.9454852462877275
+	x: -2.1022601344055625
+robot_pose.pose.orientation:
+	z: -6.879471424517551
+
+robot_pose.pose.position:
+	x: -0.9454852462701048
+	x: -2.1022601344091676
+robot_pose.pose.orientation:
+	z: -6.863222040162887
+
+robot_pose.pose.position:
+	x: -0.9454852462550518
+	x: -2.102260134412141
+robot_pose.pose.orientation:
+	z: -6.874650068400348
+
+robot_pose.pose.position:
+	x: -0.9454852462390522
+	x: -2.10226013441522
+robot_pose.pose.orientation:
+	z: -6.876766971219833
+
+robot_pose.pose.position:
+	x: -0.945485246224881
+	x: -2.1022601344182648
+robot_pose.pose.orientation:
+	z: -6.856183697201926
+
+robot_pose.pose.position:
+	x: -0.9454852462130465
+	x: -2.1022601344207947
+robot_pose.pose.orientation:
+	z: -6.852564273759427
+
+robot_pose.pose.position:
+	x: -0.9454852461998444
+	x: -2.102260134423228
+robot_pose.pose.orientation:
+	z: -6.875959671422581
+
+robot_pose.pose.position:
+	x: -0.9454852461875034
+	x: -2.102260134425546
+robot_pose.pose.orientation:
+	z: -6.8773143388493825
+
+robot_pose.pose.position:
+	x: -0.9454852461767369
+	x: -2.1022601344278073
+robot_pose.pose.orientation:
+	z: -6.860254917608925
+
+robot_pose.pose.position:
+	x: -0.9454852461668835
+	x: -2.1022601344298635
+robot_pose.pose.orientation:
+	z: -6.858676050410835
+
+robot_pose.pose.position:
+	x: -0.9454852461572474
+	x: -2.1022601344318104
+robot_pose.pose.orientation:
+	z: -6.858123041589981
+
+robot_pose.pose.position:
+	x: -0.9454852461481571
+	x: -2.1022601344335956
+robot_pose.pose.orientation:
+	z: -6.8619522833191535
+
+robot_pose.pose.position:
+	x: -0.9454852461394546
+	x: -2.1022601344352783
+robot_pose.pose.orientation:
+	z: -6.867006055821832
+
+robot_pose.pose.position:
+	x: -0.9454852461313716
+	x: -2.102260134436889
+robot_pose.pose.orientation:
+	z: -6.862860627596058
+
+robot_pose.pose.position:
+	x: -0.9454852461241149
+	x: -2.1022601344382963
+robot_pose.pose.orientation:
+	z: -6.8708398741302945
+
+robot_pose.pose.position:
+	x: -0.9454852461165538
+	x: -2.1022601344397924
+robot_pose.pose.orientation:
+	z: -6.867403291168702
+
+robot_pose.pose.position:
+	x: -0.9454852461101159
+	x: -2.102260134441176
+robot_pose.pose.orientation:
+	z: -6.8501418715299
+
+robot_pose.pose.position:
+	x: -0.9454852461044262
+	x: -2.1022601344423753
+robot_pose.pose.orientation:
+	z: -6.847520102193695
+
+robot_pose.pose.position:
+	x: -0.9454852460984217
+	x: -2.10226013444352
+robot_pose.pose.orientation:
+	z: -6.860495383081186
+
+robot_pose.pose.position:
+	x: -0.9454852460924362
+	x: -2.1022601344445535
+robot_pose.pose.orientation:
+	z: -6.890471006216734
+
+robot_pose.pose.position:
+	x: -0.9454852460867986
+	x: -2.102260134445546
+robot_pose.pose.orientation:
+	z: -6.907203616155436
+
+robot_pose.pose.position:
+	x: -0.9454852460824296
+	x: -2.102260134446623
+robot_pose.pose.orientation:
+	z: -6.839254939240988
+
+robot_pose.pose.position:
+	x: -0.9454852460785003
+	x: -2.1022601344475507
+robot_pose.pose.orientation:
+	z: -6.838073219074466
+
+robot_pose.pose.position:
+	x: -0.9454852460744312
+	x: -2.102260134448387
+robot_pose.pose.orientation:
+	z: -6.834245510469245
+
+robot_pose.pose.position:
+	x: -0.9454852460703321
+	x: -2.1022601344491516
+robot_pose.pose.orientation:
+	z: -6.853788543360554
+
+robot_pose.pose.position:
+	x: -0.9454852460663603
+	x: -2.102260134449909
+robot_pose.pose.orientation:
+	z: -6.851045861774491
+
+robot_pose.pose.position:
+	x: -0.9454852460626078
+	x: -2.1022601344505674
+robot_pose.pose.orientation:
+	z: -6.8840934469338
+
+robot_pose.pose.position:
+	x: -0.9454852460591924
+	x: -2.10226013445124
+robot_pose.pose.orientation:
+	z: -6.86860052403318
+
+robot_pose.pose.position:
+	x: -0.9454852460564084
+	x: -2.1022601344518947
+robot_pose.pose.orientation:
+	z: -6.834677115793382
+
+robot_pose.pose.position:
+	x: -0.9454852460537715
+	x: -2.102260134452486
+robot_pose.pose.orientation:
+	z: -6.8271756553255925
+
+robot_pose.pose.position:
+	x: -0.9454852460511013
+	x: -2.102260134453027
+robot_pose.pose.orientation:
+	z: -6.836638107958031
+
+robot_pose.pose.position:
+	x: -0.9451528241488764
+	x: -2.1021100484125608
+robot_pose.pose.orientation:
+	z: -6.903600499351866
+
+robot_pose.pose.position:
+	x: -0.9428132091597684
+	x: -2.102666651288142
+robot_pose.pose.orientation:
+	z: -7.352927999824595
+
+robot_pose.pose.position:
+	x: -0.9398508400263835
+	x: -2.10405472778682
+robot_pose.pose.orientation:
+	z: -8.049361112771203
+
+robot_pose.pose.position:
+	x: -0.9360188964586544
+	x: -2.105419274935209
+robot_pose.pose.orientation:
+	z: -9.196171923555912
+
+robot_pose.pose.position:
+	x: -0.9334180532766718
+	x: -2.1059290164195095
+robot_pose.pose.orientation:
+	z: -10.808241936165063
+
+robot_pose.pose.position:
+	x: -0.9338530145050076
+	x: -2.106241904831173
+robot_pose.pose.orientation:
+	z: -13.06410587915032
+
+robot_pose.pose.position:
+	x: -0.9349912218324905
+	x: -2.1055739298505904
+robot_pose.pose.orientation:
+	z: -15.654185807975335
+
+robot_pose.pose.position:
+	x: -0.9371237217650547
+	x: -2.104211472132319
+robot_pose.pose.orientation:
+	z: -18.117425561774013
+
+robot_pose.pose.position:
+	x: -0.9389217087991829
+	x: -2.1022117060025
+robot_pose.pose.orientation:
+	z: -20.56663379458418
+
+robot_pose.pose.position:
+	x: -0.9408895948051861
+	x: -2.100325774898307
+robot_pose.pose.orientation:
+	z: -22.768826081299427
+
+robot_pose.pose.position:
+	x: -0.9425040717450848
+	x: -2.09983558245871
+robot_pose.pose.orientation:
+	z: -25.030146344995742
+
+robot_pose.pose.position:
+	x: -0.9438036260768651
+	x: -2.0984876586750048
+robot_pose.pose.orientation:
+	z: -27.281968798859207
+
+robot_pose.pose.position:
+	x: -0.9454251030275191
+	x: -2.0983106488741776
+robot_pose.pose.orientation:
+	z: -29.503643374061188
+
+robot_pose.pose.position:
+	x: -0.9466421919840255
+	x: -2.0983768190100394
+robot_pose.pose.orientation:
+	z: -31.797325243544933
+
+robot_pose.pose.position:
+	x: -0.9478030391870115
+	x: -2.0983826167371182
+robot_pose.pose.orientation:
+	z: -33.90522913312927
+
+robot_pose.pose.position:
+	x: -0.9481997519048212
+	x: -2.097097962127432
+robot_pose.pose.orientation:
+	z: -35.66467900140124
+
+robot_pose.pose.position:
+	x: -0.9467120110428988
+	x: -2.0957901004686574
+robot_pose.pose.orientation:
+	z: -36.85405560730019
+
+robot_pose.pose.position:
+	x: -0.9454444518306704
+	x: -2.097198096406378
+robot_pose.pose.orientation:
+	z: -38.297215241232635
+
+robot_pose.pose.position:
+	x: -0.9453201121839068
+	x: -2.102098760587077
+robot_pose.pose.orientation:
+	z: -39.932774828932764
+
+robot_pose.pose.position:
+	x: -0.9452618784011978
+	x: -2.1125580984431647
+robot_pose.pose.orientation:
+	z: -41.343986931845535
+
+robot_pose.pose.position:
+	x: -0.9469000172204736
+	x: -2.1257315739298677
+robot_pose.pose.orientation:
+	z: -42.89923753892729
+
+robot_pose.pose.position:
+	x: -0.9513050530324842
+	x: -2.1417490907599825
+robot_pose.pose.orientation:
+	z: -44.699186698637114
+
+robot_pose.pose.position:
+	x: -0.9570422156710944
+	x: -2.158000893040543
+robot_pose.pose.orientation:
+	z: -46.51793690892909
+
+robot_pose.pose.position:
+	x: -0.9656409497153358
+	x: -2.175604496511004
+robot_pose.pose.orientation:
+	z: -48.41203150146901
+
+robot_pose.pose.position:
+	x: -0.9760181855480305
+	x: -2.1921475263921253
+robot_pose.pose.orientation:
+	z: -50.141818665006504
+
+robot_pose.pose.position:
+	x: -0.9869485037089144
+	x: -2.2057766077173824
+robot_pose.pose.orientation:
+	z: -51.50864960798516
+
+robot_pose.pose.position:
+	x: -0.998535623527781
+	x: -2.2170666538074832
+robot_pose.pose.orientation:
+	z: -52.656777276628176
+
+robot_pose.pose.position:
+	x: -1.0105266943538915
+	x: -2.2265516845650035
+robot_pose.pose.orientation:
+	z: -53.734178243390595
+
+robot_pose.pose.position:
+	x: -1.0233309034018003
+	x: -2.232864185806393
+robot_pose.pose.orientation:
+	z: -54.36081505905264
+
+robot_pose.pose.position:
+	x: -1.0377171012470732
+	x: -2.238557630055777
+robot_pose.pose.orientation:
+	z: -54.930091941750085
+
+robot_pose.pose.position:
+	x: -1.0564787371936508
+	x: -2.2458868258638067
+robot_pose.pose.orientation:
+	z: -55.232741384569884
+
+robot_pose.pose.position:
+	x: -1.0774753610745538
+	x: -2.253897200809979
+robot_pose.pose.orientation:
+	z: -55.38452352236435
+
+robot_pose.pose.position:
+	x: -1.099496443280929
+	x: -2.262799831434426
+robot_pose.pose.orientation:
+	z: -55.486894038822335
+
+robot_pose.pose.position:
+	x: -1.1226459960687225
+	x: -2.271704846838409
+robot_pose.pose.orientation:
+	z: -55.59010313502013
+
+robot_pose.pose.position:
+	x: -1.1464067337268873
+	x: -2.2809755726216494
+robot_pose.pose.orientation:
+	z: -55.64398089588143
+
+robot_pose.pose.position:
+	x: -1.1705057769532923
+	x: -2.28943532495378
+robot_pose.pose.orientation:
+	z: -55.66957067634823
+
+robot_pose.pose.position:
+	x: -1.1941424033797985
+	x: -2.297187379638181
+robot_pose.pose.orientation:
+	z: -55.66500122961316
+
+robot_pose.pose.position:
+	x: -1.21540365241118
+	x: -2.3038207190690505
+robot_pose.pose.orientation:
+	z: -55.6333754556658
+
+robot_pose.pose.position:
+	x: -1.2335323125906599
+	x: -2.3099067555832127
+robot_pose.pose.orientation:
+	z: -55.61345535963956
+
+robot_pose.pose.position:
+	x: -1.247944175392423
+	x: -2.3139090302083383
+robot_pose.pose.orientation:
+	z: -55.578248641065464
+
+robot_pose.pose.position:
+	x: -1.262735079647331
+	x: -2.3180455537905087
+robot_pose.pose.orientation:
+	z: -55.587155336051794
+
+robot_pose.pose.position:
+	x: -1.2783951970915015
+	x: -2.3232615239443932
+robot_pose.pose.orientation:
+	z: -55.60785758115791
+
+robot_pose.pose.position:
+	x: -1.2950638497320204
+	x: -2.3280388787314465
+robot_pose.pose.orientation:
+	z: -55.63783425040132
+
+robot_pose.pose.position:
+	x: -1.312116398040815
+	x: -2.332353799520703
+robot_pose.pose.orientation:
+	z: -55.62126537616144
+
+robot_pose.pose.position:
+	x: -1.329671005981695
+	x: -2.3368529242299734
+robot_pose.pose.orientation:
+	z: -55.60610117577902
+
+robot_pose.pose.position:
+	x: -1.346693142015517
+	x: -2.340657807415227
+robot_pose.pose.orientation:
+	z: -55.54601616266913
+
+robot_pose.pose.position:
+	x: -1.362933661035339
+	x: -2.3447825503287034
+robot_pose.pose.orientation:
+	z: -55.493461085221895
+
+robot_pose.pose.position:
+	x: -1.379758892026943
+	x: -2.3490590512763516
+robot_pose.pose.orientation:
+	z: -55.413359850603584
+
+robot_pose.pose.position:
+	x: -1.3978860415550929
+	x: -2.35388265379839
+robot_pose.pose.orientation:
+	z: -55.37206354620246
+
+robot_pose.pose.position:
+	x: -1.4166439936492614
+	x: -2.3586422465292562
+robot_pose.pose.orientation:
+	z: -55.281462800837225
+
+robot_pose.pose.position:
+	x: -1.4372885748220527
+	x: -2.3645054183700775
+robot_pose.pose.orientation:
+	z: -55.5999027010525
+
+robot_pose.pose.position:
+	x: -1.4532746339294276
+	x: -2.369432047456066
+robot_pose.pose.orientation:
+	z: -55.12702514627833
+
+robot_pose.pose.position:
+	x: -1.4717029283825382
+	x: -2.3754917767020407
+robot_pose.pose.orientation:
+	z: -54.905803799114096
+
+robot_pose.pose.position:
+	x: -1.487714951155527
+	x: -2.381006445076295
+robot_pose.pose.orientation:
+	z: -54.633105460376164
+
+robot_pose.pose.position:
+	x: -1.502924418270547
+	x: -2.3861313056398123
+robot_pose.pose.orientation:
+	z: -54.29549409538279
+
+robot_pose.pose.position:
+	x: -1.5170492257432895
+	x: -2.3914973385363836
+robot_pose.pose.orientation:
+	z: -53.99228309673365
+
+robot_pose.pose.position:
+	x: -1.5296433600766335
+	x: -2.3977974951014462
+robot_pose.pose.orientation:
+	z: -53.747346412869405
+
+robot_pose.pose.position:
+	x: -1.543279825904191
+	x: -2.4051463014179033
+robot_pose.pose.orientation:
+	z: -53.45466300762306
+
+robot_pose.pose.position:
+	x: -1.5559742469298283
+	x: -2.413217750179525
+robot_pose.pose.orientation:
+	z: -53.12848802723704
+
+robot_pose.pose.position:
+	x: -1.5688822598472922
+	x: -2.422752785470606
+robot_pose.pose.orientation:
+	z: -52.80601921329758
+
+robot_pose.pose.position:
+	x: -1.5832534730590258
+	x: -2.433215933687665
+robot_pose.pose.orientation:
+	z: -52.465670230464006
+
+robot_pose.pose.position:
+	x: -1.5977052806344598
+	x: -2.445719115439952
+robot_pose.pose.orientation:
+	z: -52.11717987246634
+
+robot_pose.pose.position:
+	x: -1.611598604090158
+	x: -2.458141780821984
+robot_pose.pose.orientation:
+	z: -51.7062011486307
+
+robot_pose.pose.position:
+	x: -1.6239913630712657
+	x: -2.47058828360325
+robot_pose.pose.orientation:
+	z: -51.31399445245082
+
+robot_pose.pose.position:
+	x: -1.6369069337193363
+	x: -2.484041054303298
+robot_pose.pose.orientation:
+	z: -50.84994557657786
+
+robot_pose.pose.position:
+	x: -1.6490408656423319
+	x: -2.4967963665827417
+robot_pose.pose.orientation:
+	z: -50.387200112225656
+
+robot_pose.pose.position:
+	x: -1.6612253692055827
+	x: -2.512015095481073
+robot_pose.pose.orientation:
+	z: -49.99743000475027
+
+robot_pose.pose.position:
+	x: -1.660625859666242
+	x: -2.511644752993633
+robot_pose.pose.orientation:
+	z: -49.986186788526865
+
+robot_pose.pose.position:
+	x: -1.6606911323342493
+	x: -2.5117600598536987
+robot_pose.pose.orientation:
+	z: -50.02841329827819
+
+robot_pose.pose.position:
+	x: -1.6607182974042933
+	x: -2.5118067190856674
+robot_pose.pose.orientation:
+	z: -50.0691253091126
+
+robot_pose.pose.position:
+	x: -1.6607242287141866
+	x: -2.511816805244311
+robot_pose.pose.orientation:
+	z: -50.10245565387022
+
+robot_pose.pose.position:
+	x: -1.660722813410974
+	x: -2.5118148415437314
+robot_pose.pose.orientation:
+	z: -50.1180605754379
+
+robot_pose.pose.position:
+	x: -1.6607271992412627
+	x: -2.511821728743478
+robot_pose.pose.orientation:
+	z: -50.11929583155718
+
+robot_pose.pose.position:
+	x: -1.6607260885667696
+	x: -2.5118199246582558
+robot_pose.pose.orientation:
+	z: -50.1077090680866
+
+robot_pose.pose.position:
+	x: -1.6606876740442393
+	x: -2.5117619300951435
+robot_pose.pose.orientation:
+	z: -50.09809663564531
+
+robot_pose.pose.position:
+	x: -1.6606447689324637
+	x: -2.5116970226132684
+robot_pose.pose.orientation:
+	z: -50.0908727769812
+
+robot_pose.pose.position:
+	x: -1.6607317249147002
+	x: -2.511828771928554
+robot_pose.pose.orientation:
+	z: -50.08592450118808
+
+robot_pose.pose.position:
+	x: -1.6607340758801994
+	x: -2.5118319746300335
+robot_pose.pose.orientation:
+	z: -50.08047737042937
+
+robot_pose.pose.position:
+	x: -1.6607351687673682
+	x: -2.511833553645541
+robot_pose.pose.orientation:
+	z: -50.07537125997505
+
+robot_pose.pose.position:
+	x: -1.6607361056385481
+	x: -2.51183493266423
+robot_pose.pose.orientation:
+	z: -50.071321106708304
+
+robot_pose.pose.position:
+	x: -1.6607369732249788
+	x: -2.511836230784716
+robot_pose.pose.orientation:
+	z: -50.07220201305088
+
+robot_pose.pose.position:
+	x: -1.6607378041076577
+	x: -2.511837480301094
+robot_pose.pose.orientation:
+	z: -50.07223368335714
+
+robot_pose.pose.position:
+	x: -1.6607385613299324
+	x: -2.5118386209356998
+robot_pose.pose.orientation:
+	z: -50.07148504850715
+
+robot_pose.pose.position:
+	x: -1.6607392845034985
+	x: -2.511839711986387
+robot_pose.pose.orientation:
+	z: -50.06977774420868
+
+robot_pose.pose.position:
+	x: -1.6607384630742297
+	x: -2.5118384040576647
+robot_pose.pose.orientation:
+	z: -50.060303675679634
+
+robot_pose.pose.position:
+	x: -1.6607402791744765
+	x: -2.511841209781723
+robot_pose.pose.orientation:
+	z: -49.9816148754035
+
+robot_pose.pose.position:
+	x: -1.660741264715687
+	x: -2.5118425182622883
+robot_pose.pose.orientation:
+	z: -49.82686923669988
+
+robot_pose.pose.position:
+	x: -1.6607419683016453
+	x: -2.511843298586191
+robot_pose.pose.orientation:
+	z: -49.560711982366776
+
+robot_pose.pose.position:
+	x: -1.660742693246204
+	x: -2.5118439665883963
+robot_pose.pose.orientation:
+	z: -49.24799500007883
+
+robot_pose.pose.position:
+	x: -1.6607433954821327
+	x: -2.511844570123015
+robot_pose.pose.orientation:
+	z: -48.858655965499196
+
+robot_pose.pose.position:
+	x: -1.6607440991838867
+	x: -2.5118451246125924
+robot_pose.pose.orientation:
+	z: -48.35944205786502
+
+robot_pose.pose.position:
+	x: -1.660744805538422
+	x: -2.5118456204824
+robot_pose.pose.orientation:
+	z: -47.77306065948963
+
+robot_pose.pose.position:
+	x: -1.6607455106194033
+	x: -2.5118460856430573
+robot_pose.pose.orientation:
+	z: -47.05480620163798
+
+robot_pose.pose.position:
+	x: -1.6607461941385862
+	x: -2.511846449142525
+robot_pose.pose.orientation:
+	z: -46.25259423585128
+
+robot_pose.pose.position:
+	x: -1.6607469079766928
+	x: -2.511846977276924
+robot_pose.pose.orientation:
+	z: -45.477536340376496
+
+robot_pose.pose.position:
+	x: -1.6607360908198427
+	x: -2.5117939914700056
+robot_pose.pose.orientation:
+	z: -29.223705854311213
+
+robot_pose.pose.position:
+	x: -1.6607648640135646
+	x: -2.5117544765611965
+robot_pose.pose.orientation:
+	z: -20.81429717628053
+
+robot_pose.pose.position:
+	x: -1.6608004199124486
+	x: -2.511728620324474
+robot_pose.pose.orientation:
+	z: -17.002779693209444
+
+robot_pose.pose.position:
+	x: -1.6608349966598444
+	x: -2.511710412444908
+robot_pose.pose.orientation:
+	z: -14.633966772881063
+
+robot_pose.pose.position:
+	x: -1.6608770792682142
+	x: -2.511685389937477
+robot_pose.pose.orientation:
+	z: -14.01995716556436
+
+robot_pose.pose.position:
+	x: -1.66099846310671
+	x: -2.511615588585583
+robot_pose.pose.orientation:
+	z: -13.958025058994311
+
+robot_pose.pose.position:
+	x: -1.660923833597525
+	x: -2.511672986862879
+robot_pose.pose.orientation:
+	z: -13.982288230529425
+
+robot_pose.pose.position:
+	x: -1.660943875404438
+	x: -2.511665112877684
+robot_pose.pose.orientation:
+	z: -13.955039174649947
+
+robot_pose.pose.position:
+	x: -1.6609636696865269
+	x: -2.511656991557854
+robot_pose.pose.orientation:
+	z: -13.940495467692601
+
+robot_pose.pose.position:
+	x: -1.6609811565942691
+	x: -2.511650154028903
+robot_pose.pose.orientation:
+	z: -13.247706013895607
+
+robot_pose.pose.position:
+	x: -1.6610621154130962
+	x: -2.511599339971094
+robot_pose.pose.orientation:
+	z: -12.412018112841297
+
+robot_pose.pose.position:
+	x: -1.6613606565879393
+	x: -2.5114600838142147
+robot_pose.pose.orientation:
+	z: -12.040140815927156
+
+robot_pose.pose.position:
+	x: -1.6617325576342084
+	x: -2.5112893232377655
+robot_pose.pose.orientation:
+	z: -11.92224739649486
+
+robot_pose.pose.position:
+	x: -1.6615700555566528
+	x: -2.511388183819464
+robot_pose.pose.orientation:
+	z: -11.90970246611646
+
+robot_pose.pose.position:
+	x: -1.6615806293732767
+	x: -2.5113853177478105
+robot_pose.pose.orientation:
+	z: -11.932705917238897
+
+robot_pose.pose.position:
+	x: -1.6615894308998083
+	x: -2.511382863022025
+robot_pose.pose.orientation:
+	z: -11.94033420639001
+
+robot_pose.pose.position:
+	x: -1.661597152267549
+	x: -2.5113807072021004
+robot_pose.pose.orientation:
+	z: -11.94999154602217
+
+robot_pose.pose.position:
+	x: -1.6616038076484025
+	x: -2.511378861798432
+robot_pose.pose.orientation:
+	z: -11.955519970957859
+
+robot_pose.pose.position:
+	x: -1.6616097971249992
+	x: -2.511377177081458
+robot_pose.pose.orientation:
+	z: -11.95387416429401
+
+robot_pose.pose.position:
+	x: -1.6616150821696907
+	x: -2.5113756941543373
+robot_pose.pose.orientation:
+	z: -11.944702146526453
+
+robot_pose.pose.position:
+	x: -1.6616197124077983
+	x: -2.51137440114478
+robot_pose.pose.orientation:
+	z: -11.94306570710907
+
+robot_pose.pose.position:
+	x: -1.66162375110404
+	x: -2.511373293942628
+robot_pose.pose.orientation:
+	z: -11.942659982065942
+
+robot_pose.pose.position:
+	x: -1.6616270709819276
+	x: -2.5113724164799396
+robot_pose.pose.orientation:
+	z: -11.943604920406635
+
+robot_pose.pose.position:
+	x: -1.6616301401814488
+	x: -2.5113715816913493
+robot_pose.pose.orientation:
+	z: -11.93500460958413
+
+robot_pose.pose.position:
+	x: -1.6616328718385545
+	x: -2.511370833008332
+robot_pose.pose.orientation:
+	z: -11.929883657688768
+
+robot_pose.pose.position:
+	x: -1.661635348773095
+	x: -2.511370141260219
+robot_pose.pose.orientation:
+	z: -11.93148684999662
+
+robot_pose.pose.position:
+	x: -1.6616375776901684
+	x: -2.511369511585867
+robot_pose.pose.orientation:
+	z: -11.932532990410525
+
+robot_pose.pose.position:
+	x: -1.6616398442668232
+	x: -2.5113688212832725
+robot_pose.pose.orientation:
+	z: -11.924007710350923
+
+robot_pose.pose.position:
+	x: -1.6616413168604909
+	x: -2.5113684490626182
+robot_pose.pose.orientation:
+	z: -11.920209831208139
+
+robot_pose.pose.position:
+	x: -1.6616428387568989
+	x: -2.511368023927927
+robot_pose.pose.orientation:
+	z: -11.91786294416824
+
+robot_pose.pose.position:
+	x: -1.6616441385231469
+	x: -2.5113676694874063
+robot_pose.pose.orientation:
+	z: -11.917325648154643
+
+robot_pose.pose.position:
+	x: -1.6616452795062604
+	x: -2.5113673580737776
+robot_pose.pose.orientation:
+	z: -11.912871542369384
+
+robot_pose.pose.position:
+	x: -1.661646331306943
+	x: -2.5113670640365693
+robot_pose.pose.orientation:
+	z: -11.908151353377582
+
+robot_pose.pose.position:
+	x: -1.661647239957564
+	x: -2.5113668140019234
+robot_pose.pose.orientation:
+	z: -11.907767732963325
+
+robot_pose.pose.position:
+	x: -1.6616480445479724
+	x: -2.511366592040169
+robot_pose.pose.orientation:
+	z: -11.900124248888202
+
+robot_pose.pose.position:
+	x: -1.661648553911305
+	x: -2.511366502933021
+robot_pose.pose.orientation:
+	z: -11.894403882129232
+
+robot_pose.pose.position:
+	x: -1.6616488644962377
+	x: -2.5113664758771104
+robot_pose.pose.orientation:
+	z: -11.890077887812888
+
+robot_pose.pose.position:
+	x: -1.661649465866118
+	x: -2.5113663028178217
+robot_pose.pose.orientation:
+	z: -11.884792439067509
+
+robot_pose.pose.position:
+	x: -1.6616500022015261
+	x: -2.511366148480012
+robot_pose.pose.orientation:
+	z: -11.880677641212618
+
+robot_pose.pose.position:
+	x: -1.661650468370331
+	x: -2.5113660167513117
+robot_pose.pose.orientation:
+	z: -11.876442612245185
+
+robot_pose.pose.position:
+	x: -1.661650856655783
+	x: -2.5113659112247495
+robot_pose.pose.orientation:
+	z: -11.872945613070057
+
+robot_pose.pose.position:
+	x: -1.6616512260476113
+	x: -2.5113658062718813
+robot_pose.pose.orientation:
+	z: -11.868979162387399
+
+robot_pose.pose.position:
+	x: -1.661651542359014
+	x: -2.511365718333759
+robot_pose.pose.orientation:
+	z: -11.872447300294077
+
+robot_pose.pose.position:
+	x: -1.661651775562754
+	x: -2.5113656631015036
+robot_pose.pose.orientation:
+	z: -11.87265731110257
+
+robot_pose.pose.position:
+	x: -1.6616519681689808
+	x: -2.5113656190624787
+robot_pose.pose.orientation:
+	z: -11.872662404111093
+
+robot_pose.pose.position:
+	x: -1.6616521674480893
+	x: -2.5113655674196864
+robot_pose.pose.orientation:
+	z: -11.867376729601533
+
+robot_pose.pose.position:
+	x: -1.6616523368868374
+	x: -2.51136552453987
+robot_pose.pose.orientation:
+	z: -11.863576246403428
+
+robot_pose.pose.position:
+	x: -1.6616525055748925
+	x: -2.5113654779171384
+robot_pose.pose.orientation:
+	z: -11.871748247303206
+
+robot_pose.pose.position:
+	x: -1.6616550962271783
+	x: -2.511364235802468
+robot_pose.pose.orientation:
+	z: -11.944569499041203
+
+robot_pose.pose.position:
+	x: -1.6616528837721982
+	x: -2.511365316919034
+robot_pose.pose.orientation:
+	z: -12.33005642540427
+
+robot_pose.pose.position:
+	x: -1.661652886767169
+	x: -2.5113652072224775
+robot_pose.pose.orientation:
+	z: -14.278738150829462
+
+robot_pose.pose.position:
+	x: -1.6616528709445684
+	x: -2.511364929941865
+robot_pose.pose.orientation:
+	z: -17.385764374570673
+
+robot_pose.pose.position:
+	x: -1.6616527058412809
+	x: -2.5113644874019707
+robot_pose.pose.orientation:
+	z: -21.59526874392702
+
+robot_pose.pose.position:
+	x: -1.661652342561032
+	x: -2.511363870005065
+robot_pose.pose.orientation:
+	z: -26.73774440198222
+
+robot_pose.pose.position:
+	x: -1.6616518130122717
+	x: -2.511363174244172
+robot_pose.pose.orientation:
+	z: -28.3421912921336
+
+robot_pose.pose.position:
+	x: -1.6616512812889477
+	x: -2.511362526294671
+robot_pose.pose.orientation:
+	z: -28.70301553570409
+
+robot_pose.pose.position:
+	x: -1.6616507960646714
+	x: -2.511361946816454
+robot_pose.pose.orientation:
+	z: -28.783948192444775
+
+robot_pose.pose.position:
+	x: -1.661650365625581
+	x: -2.511361443362667
+robot_pose.pose.orientation:
+	z: -28.805532428511306
+
+robot_pose.pose.position:
+	x: -1.6616499801389288
+	x: -2.5113610001645457
+robot_pose.pose.orientation:
+	z: -28.811224281538085
+
+robot_pose.pose.position:
+	x: -1.6616496439939612
+	x: -2.5113606134098476
+robot_pose.pose.orientation:
+	z: -28.81373058899076
+
+robot_pose.pose.position:
+	x: -1.6616493487408266
+	x: -2.511360266671476
+robot_pose.pose.orientation:
+	z: -28.810704937513872
+
+robot_pose.pose.position:
+	x: -1.661649089297955
+	x: -2.5113599611606774
+robot_pose.pose.orientation:
+	z: -28.784474070984455
+
+robot_pose.pose.position:
+	x: -1.66175451759464
+	x: -2.5112604381797707
+robot_pose.pose.orientation:
+	z: -28.463787861493746
+
+robot_pose.pose.position:
+	x: -1.6618097342758447
+	x: -2.511113538664316
+robot_pose.pose.orientation:
+	z: -23.961097682135886
+
+robot_pose.pose.position:
+	x: -1.6618175897530607
+	x: -2.5111118593516366
+robot_pose.pose.orientation:
+	z: -17.038760830036914
+
+robot_pose.pose.position:
+	x: -1.6618189232118399
+	x: -2.511112512801787
+robot_pose.pose.orientation:
+	z: -10.22259231500336
+
+robot_pose.pose.position:
+	x: -1.6618192073854035
+	x: -2.511112735189817
+robot_pose.pose.orientation:
+	z: -5.494815317986549
+
+robot_pose.pose.position:
+	x: -1.6618193201661582
+	x: -2.5111128787283095
+robot_pose.pose.orientation:
+	z: -3.802610858136703
+
+robot_pose.pose.position:
+	x: -1.6618196610712577
+	x: -2.511112810990719
+robot_pose.pose.orientation:
+	z: -3.518957375954976
+
+robot_pose.pose.position:
+	x: -1.6618195031704999
+	x: -2.5111131252252115
+robot_pose.pose.orientation:
+	z: -3.506587802589862
+
+robot_pose.pose.position:
+	x: -1.6618195639289182
+	x: -2.511113229988835
+robot_pose.pose.orientation:
+	z: -3.4619878352641207
+
+robot_pose.pose.position:
+	x: -1.6618196265888034
+	x: -2.5111133211108387
+robot_pose.pose.orientation:
+	z: -3.419614496023377
+
+robot_pose.pose.position:
+	x: -1.6618196814487647
+	x: -2.5111134012989074
+robot_pose.pose.orientation:
+	z: -3.4091698614216694
+
+robot_pose.pose.position:
+	x: -1.6618197301999615
+	x: -2.5111134720540202
+robot_pose.pose.orientation:
+	z: -3.394673584895931
+
+robot_pose.pose.position:
+	x: -1.661819773553133
+	x: -2.511113534579122
+robot_pose.pose.orientation:
+	z: -3.4000168013743446
+
+robot_pose.pose.position:
+	x: -1.661819992078763
+	x: -2.5111134933953356
+robot_pose.pose.orientation:
+	z: -3.326271258946551
+
+robot_pose.pose.position:
+	x: -1.662839404363546
+	x: -2.5108425053245327
+robot_pose.pose.orientation:
+	z: -2.8295380873892855
+
+robot_pose.pose.position:
+	x: -1.6641149073991688
+	x: -2.51068640402587
+robot_pose.pose.orientation:
+	z: -0.887506661184256
+
+robot_pose.pose.position:
+	x: -1.6656072346429338
+	x: -2.510692450196696
+robot_pose.pose.orientation:
+	z: 1.953601168195518
+
+robot_pose.pose.position:
+	x: -1.667106082868898
+	x: -2.5108742624058373
+robot_pose.pose.orientation:
+	z: 5.892915947716753
+
+robot_pose.pose.position:
+	x: -1.6683989035915603
+	x: -2.5112751499810564
+robot_pose.pose.orientation:
+	z: 7.470426107564072
+
+robot_pose.pose.position:
+	x: -1.6689648724811397
+	x: -2.511697541197814
+robot_pose.pose.orientation:
+	z: 7.814076779418283
+
+robot_pose.pose.position:
+	x: -1.6689846861984394
+	x: -2.511707608002567
+robot_pose.pose.orientation:
+	z: 7.855709242112546
+
+robot_pose.pose.position:
+	x: -1.668984568795672
+	x: -2.5117031215315073
+robot_pose.pose.orientation:
+	z: 7.8671633891688835
+
+robot_pose.pose.position:
+	x: -1.6689838531020598
+	x: -2.5116986789886346
+robot_pose.pose.orientation:
+	z: 7.868209023867503
+
+robot_pose.pose.position:
+	x: -1.6689832130361104
+	x: -2.5116947837677857
+robot_pose.pose.orientation:
+	z: 7.87551354780714
+
+robot_pose.pose.position:
+	x: -1.6689826044158707
+	x: -2.511691316390817
+robot_pose.pose.orientation:
+	z: 7.873582535535896
+
+robot_pose.pose.position:
+	x: -1.6689820757520346
+	x: -2.511688276811927
+robot_pose.pose.orientation:
+	z: 7.876828846478556
+
+robot_pose.pose.position:
+	x: -1.668981345374697
+	x: -2.5116854337256105
+robot_pose.pose.orientation:
+	z: 7.878924304928265
+
+robot_pose.pose.position:
+	x: -1.6689811606712626
+	x: -2.5116832096579484
+robot_pose.pose.orientation:
+	z: 7.883124812639274
+
+robot_pose.pose.position:
+	x: -1.6689807681441586
+	x: -2.511681111651125
+robot_pose.pose.orientation:
+	z: 7.886655934544683
+
+robot_pose.pose.position:
+	x: -1.66898043465483
+	x: -2.511679262220491
+robot_pose.pose.orientation:
+	z: 7.890552664130913
+
+robot_pose.pose.position:
+	x: -1.66898015130421
+	x: -2.511677641380744
+robot_pose.pose.orientation:
+	z: 7.890486629051582
+
+robot_pose.pose.position:
+	x: -1.6689798850499475
+	x: -2.511676207031452
+robot_pose.pose.orientation:
+	z: 7.891761353901648
+
+robot_pose.pose.position:
+	x: -1.668979650011944
+	x: -2.511674940465822
+robot_pose.pose.orientation:
+	z: 7.891504840073785
+
+robot_pose.pose.position:
+	x: -1.6689794684867703
+	x: -2.5116738278646524
+robot_pose.pose.orientation:
+	z: 7.896955976964067
+
+robot_pose.pose.position:
+	x: -1.6689790818251966
+	x: -2.511672739677406
+robot_pose.pose.orientation:
+	z: 7.898740363684687
+
+robot_pose.pose.position:
+	x: -1.6689791781638383
+	x: -2.511671997469945
+robot_pose.pose.orientation:
+	z: 7.905438003284315
+
+robot_pose.pose.position:
+	x: -1.6689790493159693
+	x: -2.511671232967653
+robot_pose.pose.orientation:
+	z: 7.903980648542884
+
+robot_pose.pose.position:
+	x: -1.6689789390541716
+	x: -2.5116705673907296
+robot_pose.pose.orientation:
+	z: 7.908723034749576
+
+robot_pose.pose.position:
+	x: -1.6689788231288245
+	x: -2.511669970112639
+robot_pose.pose.orientation:
+	z: 7.914139740849841
+
+robot_pose.pose.position:
+	x: -1.6689787223940509
+	x: -2.5116694459450426
+robot_pose.pose.orientation:
+	z: 7.91569045991989
+
+robot_pose.pose.position:
+	x: -1.6689786264376307
+	x: -2.5116689808037638
+robot_pose.pose.orientation:
+	z: 7.9154952318694765
+
+robot_pose.pose.position:
+	x: -1.668978540892361
+	x: -2.511668570710669
+robot_pose.pose.orientation:
+	z: 7.916936880250508
+
+robot_pose.pose.position:
+	x: -1.6689784685465587
+	x: -2.5116682091583975
+robot_pose.pose.orientation:
+	z: 7.920519036308345
+
+robot_pose.pose.position:
+	x: -1.6689784208645675
+	x: -2.5116678942164565
+robot_pose.pose.orientation:
+	z: 7.921395425578991
+
+robot_pose.pose.position:
+	x: -1.6689783923192194
+	x: -2.511667621219149
+robot_pose.pose.orientation:
+	z: 7.925292711346021
+
+robot_pose.pose.position:
+	x: -1.6689783566617358
+	x: -2.5116673799406946
+robot_pose.pose.orientation:
+	z: 7.9262086836154175
+
+robot_pose.pose.position:
+	x: -1.6689783080677496
+	x: -2.511667159541436
+robot_pose.pose.orientation:
+	z: 7.927456689390368
+
+robot_pose.pose.position:
+	x: -1.6689782717242987
+	x: -2.511666968615533
+robot_pose.pose.orientation:
+	z: 7.927460876064752
+
+robot_pose.pose.position:
+	x: -1.6689782309004124
+	x: -2.5116667971908737
+robot_pose.pose.orientation:
+	z: 7.927003487430304
+
+robot_pose.pose.position:
+	x: -1.6689782040181818
+	x: -2.511666647952277
+robot_pose.pose.orientation:
+	z: 7.928183568874292
+
+robot_pose.pose.position:
+	x: -1.6689781902264955
+	x: -2.511666519956122
+robot_pose.pose.orientation:
+	z: 7.932118371894694
+
+robot_pose.pose.position:
+	x: -1.6689781807449968
+	x: -2.5116664070706123
+robot_pose.pose.orientation:
+	z: 7.9354140728415725
+
+robot_pose.pose.position:
+	x: -1.6689781762406097
+	x: -2.5116663097963707
+robot_pose.pose.orientation:
+	z: 7.941705017885322
+
+robot_pose.pose.position:
+	x: -1.6689781646095097
+	x: -2.51166622074952
+robot_pose.pose.orientation:
+	z: 7.944216041821389
+
+robot_pose.pose.position:
+	x: -1.6689781563642876
+	x: -2.5116661430025653
+robot_pose.pose.orientation:
+	z: 7.945354754124035
+
+robot_pose.pose.position:
+	x: -1.6689781433587774
+	x: -2.5116660730097453
+robot_pose.pose.orientation:
+	z: 7.950235682799528
+
+robot_pose.pose.position:
+	x: -1.668978124559913
+	x: -2.5116660088961384
+robot_pose.pose.orientation:
+	z: 7.955384717071782
+
+robot_pose.pose.position:
+	x: -1.668978107119144
+	x: -2.5116659515659254
+robot_pose.pose.orientation:
+	z: 7.958619776479393
+
+robot_pose.pose.position:
+	x: -1.6689781004258628
+	x: -2.511665903552006
+robot_pose.pose.orientation:
+	z: 7.960823813148944
+
+robot_pose.pose.position:
+	x: -1.668978091598411
+	x: -2.511665860687555
+robot_pose.pose.orientation:
+	z: 7.966731492673623
+
+robot_pose.pose.position:
+	x: -1.6689780763694684
+	x: -2.511665820296573
+robot_pose.pose.orientation:
+	z: 7.970731930444257
+
+robot_pose.pose.position:
+	x: -1.6689780641827545
+	x: -2.5116657849630677
+robot_pose.pose.orientation:
+	z: 7.974091359399498
+
+robot_pose.pose.position:
+	x: -1.6689780543737822
+	x: -2.5116657540437317
+robot_pose.pose.orientation:
+	z: 7.977107891206085
+
+robot_pose.pose.position:
+	x: -1.6689780449791434
+	x: -2.5116657264574815
+robot_pose.pose.orientation:
+	z: 7.97810752175428
+
+robot_pose.pose.position:
+	x: -1.6689780372250544
+	x: -2.5116657022965247
+robot_pose.pose.orientation:
+	z: 7.982068820856495
+
+robot_pose.pose.position:
+	x: -1.6689780297561978
+	x: -2.5116656807541404
+robot_pose.pose.orientation:
+	z: 7.981946763111214
+
+robot_pose.pose.position:
+	x: -1.6689780255120181
+	x: -2.5116656623340083
+robot_pose.pose.orientation:
+	z: 7.982372996610469
+
+robot_pose.pose.position:
+	x: -1.668978022494674
+	x: -2.5116656464904135
+robot_pose.pose.orientation:
+	z: 7.9818135462649655
+
+robot_pose.pose.position:
+	x: -1.6689780166229826
+	x: -2.5116656315238237
+robot_pose.pose.orientation:
+	z: 7.981799214623925
+
+robot_pose.pose.position:
+	x: -1.6689780112752448
+	x: -2.511665618298086
+robot_pose.pose.orientation:
+	z: 7.98024829500898
+
+robot_pose.pose.position:
+	x: -1.6689780076775307
+	x: -2.511665606928424
+robot_pose.pose.orientation:
+	z: 7.9845404721655715
+
+robot_pose.pose.position:
+	x: -1.6689780059534665
+	x: -2.511665597315689
+robot_pose.pose.orientation:
+	z: 7.985834600778666
+
+robot_pose.pose.position:
+	x: -1.6689780038832387
+	x: -2.5116655886879538
+robot_pose.pose.orientation:
+	z: 7.9861929155826195
+
+robot_pose.pose.position:
+	x: -1.6689780007290267
+	x: -2.5116655806285775
+robot_pose.pose.orientation:
+	z: 7.9897712340597575
+
+robot_pose.pose.position:
+	x: -1.668977999481712
+	x: -2.511665573966487
+robot_pose.pose.orientation:
+	z: 7.992583363496224
+
+robot_pose.pose.position:
+	x: -1.6689779975930927
+	x: -2.511665567836084
+robot_pose.pose.orientation:
+	z: 7.993709733741202
+
+robot_pose.pose.position:
+	x: -1.6689779961107427
+	x: -2.511665562454817
+robot_pose.pose.orientation:
+	z: 7.997330532166326
+
+robot_pose.pose.position:
+	x: -1.6689779943833138
+	x: -2.5116655575600917
+robot_pose.pose.orientation:
+	z: 7.99886335849186
+
+robot_pose.pose.position:
+	x: -1.6689779925752966
+	x: -2.511665553143768
+robot_pose.pose.orientation:
+	z: 7.9990922398137725
+
+robot_pose.pose.position:
+	x: -1.668977989975395
+	x: -2.511665548958331
+robot_pose.pose.orientation:
+	z: 7.995181479755331
+
+robot_pose.pose.position:
+	x: -1.66897799053484
+	x: -2.5116655461299926
+robot_pose.pose.orientation:
+	z: 7.9986102587335735
+

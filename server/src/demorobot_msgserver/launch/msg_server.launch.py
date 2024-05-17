@@ -6,6 +6,13 @@ from launch.actions import DeclareLaunchArgument, ExecuteProcess, IncludeLaunchD
 import os
 from ament_index_python.packages import get_package_share_directory
 
+import os, sys
+import signal
+
+def signal_handler(sig, frame):
+    print("Keyboard Interrupt (SIGINT) received. Terminating nodes...")
+    sys.exit(0)
+
 def generate_launch_description():
 
     package_name = 'demorobot_msgserver'
@@ -14,6 +21,8 @@ def generate_launch_description():
     config = os.path.join(
         package_dir, 'config', 'mqtt_params.yaml'
     )
+
+    signal.signal(signal.SIGINT, signal_handler)
 
     return LaunchDescription([
         # Node(
@@ -27,30 +36,26 @@ def generate_launch_description():
         #     ]
         # ),
 
-        # Node(
-        #     package=package_name,
-        #     executable="msg_sender",
-        #     emulate_tty=True,
-        #     parameters=[
-        #         {"use_sim_time": True},
-        #         {"is_stamped": True},
-        #         config
-        #     ]
-        # ),
+        Node(
+            package=package_name,
+            executable="msg_sender",
+            parameters=[
+                config
+            ]
+        ),
+        Node(
+            package=package_name,
+            executable="msg_receiver",
+            parameters=[
+                config
+            ]
+        ),
         
         # Node(
         #     package=package_name,
         #     executable="video_stream",
         #     output="screen",
-        #     emulate_tty=True,
-        #     parameters=[
-        #         {"use_sim_time": True},
-        #         {"is_stamped": True}
-        #     ]
         # )
-        ExecuteProcess(
-            cmd=["ros2", "run", "demorobot_msgserver", "ns_action_server"], output="screen"
-        ),
 
         ExecuteProcess(
             cmd=["ros2", "run", "demorobot_msgserver", "video_stream"], output="screen"

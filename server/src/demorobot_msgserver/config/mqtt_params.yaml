@@ -13,7 +13,7 @@ MsgSender:
     # ~mqtt_password: vision!@123
 
 MsgReceiver:
-  ros_parameters:
+  ros__parameters:
     ~broker_ip_address: 192.168.10.165
     # ~broker_ip_address: 192.168.10.237
     ~broker_ip_route: 55008

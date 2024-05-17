@@ -1,0 +1,2808 @@
+demorobot Odometry: 
+robot_pose.pose.position:
+	x: -0.010350114808018666
+	x: 0.00992551042802436
+robot_pose.pose.orientation:
+	z: 0.029174818876010814
+	w: 0.9995743243719059
+
+robot_pose.pose.position:
+	x: -0.010350114808018666
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029221242573668524
+	w: 0.9995729683131946
+
+robot_pose.pose.position:
+	x: -0.010350114808018666
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.02919192779450047
+	w: 0.9995738248631967
+
+robot_pose.pose.position:
+	x: -0.010350114808018666
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029191071460536754
+	w: 0.9995738498715269
+
+robot_pose.pose.position:
+	x: -0.010350114808018666
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029238154972494147
+	w: 0.9995724737575582
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029295848593611944
+	w: 0.9995707845146237
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029247706137208566
+	w: 0.9995721943340118
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029301417178697123
+	w: 0.9995706212926228
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.02928465062568978
+	w: 0.9995711126466847
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029330507874469842
+	w: 0.9995697681041708
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029306332168169275
+	w: 0.9995704772025077
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029308014871401014
+	w: 0.9995704278660398
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029299428302071377
+	w: 0.9995706795925797
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029324193171020505
+	w: 0.9995699533773855
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029326986286719123
+	w: 0.999569871432377
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029335221398561803
+	w: 0.9995696297834871
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.029342957792500093
+	w: 0.9995694027069794
+
+robot_pose.pose.position:
+	x: -0.010350114808018665
+	x: 0.009925510428024358
+robot_pose.pose.orientation:
+	z: 0.02935346201371838
+	w: 0.9995690942940408
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02936074146891296
+	w: 0.9995688804981854
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029367020758486132
+	w: 0.99956869603433
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02940420740062589
+	w: 0.9995676028099055
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02940406947235251
+	w: 0.9995676068673219
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029443303095683954
+	w: 0.9995664519694605
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029456700238381567
+	w: 0.999566057252379
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02945947829969982
+	w: 0.9995659753804695
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02945047078380286
+	w: 0.9995662408117895
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.02949206466703494
+	w: 0.9995650144546254
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029458683200798887
+	w: 0.9995659988135226
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029452098397707845
+	w: 0.9995661928556666
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029442199814321723
+	w: 0.9995664844671882
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029455941258339204
+	w: 0.999566079618844
+
+robot_pose.pose.position:
+	x: -0.010350114808018663
+	x: 0.009925510428024356
+robot_pose.pose.orientation:
+	z: 0.029430670997746947
+	w: 0.9995668239815797
+
+robot_pose.pose.position:
+	x: -0.009753361516828074
+	x: 0.009963190112403089
+robot_pose.pose.orientation:
+	z: 0.027067727754271957
+	w: 0.9996336019333387
+
+robot_pose.pose.position:
+	x: -0.008705811295566123
+	x: 0.009766121979004524
+robot_pose.pose.orientation:
+	z: 0.02298107576088593
+	w: 0.9997359002040851
+
+robot_pose.pose.position:
+	x: -0.0059660867407800655
+	x: 0.009272192942626477
+robot_pose.pose.orientation:
+	z: 0.006986725352890271
+	w: 0.9999755925365595
+
+robot_pose.pose.position:
+	x: -0.0035740515164888955
+	x: 0.009835210355792833
+robot_pose.pose.orientation:
+	z: -0.02010583737886989
+	w: 0.9997978572207956
+
+robot_pose.pose.position:
+	x: -0.0023134829880981913
+	x: 0.009623132872984714
+robot_pose.pose.orientation:
+	z: -0.05875896896214503
+	w: 0.9982721991353388
+
+robot_pose.pose.position:
+	x: -0.0027267599165423243
+	x: 0.009665184104902696
+robot_pose.pose.orientation:
+	z: -0.10523831495324357
+	w: 0.9944470307994298
+
+robot_pose.pose.position:
+	x: -0.003369634190044208
+	x: 0.009799435476883334
+robot_pose.pose.orientation:
+	z: -0.15144696116518866
+	w: 0.9884653853088786
+
+robot_pose.pose.position:
+	x: -0.005756236483606883
+	x: 0.009194301536529958
+robot_pose.pose.orientation:
+	z: -0.19980015992984465
+	w: 0.9798366680687187
+
+robot_pose.pose.position:
+	x: -0.008439537638712344
+	x: 0.008714314017280327
+robot_pose.pose.orientation:
+	z: -0.24882493782428536
+	w: 0.9685484759766754
+
+robot_pose.pose.position:
+	x: -0.009185933005511791
+	x: 0.008547642444192472
+robot_pose.pose.orientation:
+	z: -0.2983067861968589
+	w: 0.9544700421222772
+
+robot_pose.pose.position:
+	x: -0.00897214818255179
+	x: 0.0038784562847111693
+robot_pose.pose.orientation:
+	z: -0.335166236067877
+	w: 0.9421590068561103
+
+robot_pose.pose.position:
+	x: -0.00885400674763123
+	x: 0.002349090486865022
+robot_pose.pose.orientation:
+	z: -0.3763466736831325
+	w: 0.9264789156843461
+
+robot_pose.pose.position:
+	x: -0.009260142735101364
+	x: 0.001697463046815355
+robot_pose.pose.orientation:
+	z: -0.4191673281850954
+	w: 0.9079089992847128
+
+robot_pose.pose.position:
+	x: -0.010183634098819878
+	x: 0.0016750928193429754
+robot_pose.pose.orientation:
+	z: -0.4597352823426418
+	w: 0.8880560062120696
+
+robot_pose.pose.position:
+	x: -0.010682132832498092
+	x: 0.001741163828571228
+robot_pose.pose.orientation:
+	z: -0.4947092239918618
+	w: 0.8690585617191571
+
+robot_pose.pose.position:
+	x: -0.011464584114648011
+	x: 0.002437869816300546
+robot_pose.pose.orientation:
+	z: -0.5265940001529407
+	w: 0.8501169090207092
+
+robot_pose.pose.position:
+	x: -0.011860308161776049
+	x: 0.0027297907623434876
+robot_pose.pose.orientation:
+	z: -0.5518792428491119
+	w: 0.8339240380947721
+
+robot_pose.pose.position:
+	x: -0.011789077801978689
+	x: 0.0031083119983147172
+robot_pose.pose.orientation:
+	z: -0.5704722094473296
+	w: 0.8213169048840296
+
+robot_pose.pose.position:
+	x: -0.011447671338181127
+	x: 0.0030219913062802003
+robot_pose.pose.orientation:
+	z: -0.5835058742485932
+	w: 0.8121089180137014
+
+robot_pose.pose.position:
+	x: -0.010836483112490292
+	x: 0.002211771722531482
+robot_pose.pose.orientation:
+	z: -0.5870142223686299
+	w: 0.8095766194357101
+
+robot_pose.pose.position:
+	x: -0.010188277631761096
+	x: 0.0012849621173714038
+robot_pose.pose.orientation:
+	z: -0.5896402349666582
+	w: 0.8076660159425207
+
+robot_pose.pose.position:
+	x: -0.009899879385219823
+	x: 0.00058667286030104
+robot_pose.pose.orientation:
+	z: -0.5919634509876581
+	w: 0.805964808595749
+
+robot_pose.pose.position:
+	x: -0.009090306619951966
+	x: -0.0009793262174871216
+robot_pose.pose.orientation:
+	z: -0.5960101994579724
+	w: 0.8029768627688272
+
+robot_pose.pose.position:
+	x: -0.008572213958930678
+	x: -0.002436019066404866
+robot_pose.pose.orientation:
+	z: -0.6010491215946293
+	w: 0.7992120828855909
+
+robot_pose.pose.position:
+	x: -0.008324442300528598
+	x: -0.0023256030342958026
+robot_pose.pose.orientation:
+	z: -0.6015977089504942
+	w: 0.7987992216981163
+
+robot_pose.pose.position:
+	x: -0.008287722901061797
+	x: -0.002310691597944747
+robot_pose.pose.orientation:
+	z: -0.6015446861766798
+	w: 0.7988391518526116
+
+robot_pose.pose.position:
+	x: -0.008281877918710493
+	x: -0.002309869453137897
+robot_pose.pose.orientation:
+	z: -0.6015299442941433
+	w: 0.7988502526240352
+
+robot_pose.pose.position:
+	x: -0.00828058969557505
+	x: -0.0023111933034622766
+robot_pose.pose.orientation:
+	z: -0.6014504366745717
+	w: 0.7989101152344781
+
+robot_pose.pose.position:
+	x: -0.008280051039979317
+	x: -0.002312935883667246
+robot_pose.pose.orientation:
+	z: -0.6014216979010504
+	w: 0.7989317500849604
+
+robot_pose.pose.position:
+	x: -0.008279679963354923
+	x: -0.0023147619411877972
+robot_pose.pose.orientation:
+	z: -0.6013555343651632
+	w: 0.7989815525332166
+
+robot_pose.pose.position:
+	x: -0.008279407355507178
+	x: -0.00231663286912326
+robot_pose.pose.orientation:
+	z: -0.6012987472096393
+	w: 0.7990242903717748
+
+robot_pose.pose.position:
+	x: -0.008279208689592516
+	x: -0.002318483644500422
+robot_pose.pose.orientation:
+	z: -0.6012089136228992
+	w: 0.7990918859432709
+
+robot_pose.pose.position:
+	x: -0.008279070528751297
+	x: -0.0023202862354500847
+robot_pose.pose.orientation:
+	z: -0.6010267408756043
+	w: 0.7992289138616353
+
+robot_pose.pose.position:
+	x: -0.008279008620734035
+	x: -0.002322037583748988
+robot_pose.pose.orientation:
+	z: -0.6010351347096796
+	w: 0.7992226015601144
+
+robot_pose.pose.position:
+	x: -0.008278975551903387
+	x: -0.0023236766325704624
+robot_pose.pose.orientation:
+	z: -0.6009144854962082
+	w: 0.7993133184933349
+
+robot_pose.pose.position:
+	x: -0.008279001494437645
+	x: -0.002325236514312007
+robot_pose.pose.orientation:
+	z: -0.6008705071032763
+	w: 0.7993463790456873
+
+robot_pose.pose.position:
+	x: -0.008279051850645052
+	x: -0.0023266812398033128
+robot_pose.pose.orientation:
+	z: -0.6007183379774083
+	w: 0.7994607422617199
+
+robot_pose.pose.position:
+	x: -0.008279144762583488
+	x: -0.0023280247105579837
+robot_pose.pose.orientation:
+	z: -0.6007177391692224
+	w: 0.7994611922084887
+
+robot_pose.pose.position:
+	x: -0.008279250482439588
+	x: -0.002329251357739212
+robot_pose.pose.orientation:
+	z: -0.6006385712243215
+	w: 0.7995206731270966
+
+robot_pose.pose.position:
+	x: -0.008279379729065062
+	x: -0.0023303769820790226
+robot_pose.pose.orientation:
+	z: -0.6005958060983578
+	w: 0.7995527985674641
+
+robot_pose.pose.position:
+	x: -0.00827952300675601
+	x: -0.0023314017863039663
+robot_pose.pose.orientation:
+	z: -0.6004392446212082
+	w: 0.7996703780425488
+
+robot_pose.pose.position:
+	x: -0.008284857334272646
+	x: -0.0023335465925723277
+robot_pose.pose.orientation:
+	z: -0.5994579078121784
+	w: 0.8004062823100814
+
+robot_pose.pose.position:
+	x: -0.00828484618932758
+	x: -0.0023343207533439362
+robot_pose.pose.orientation:
+	z: -0.5993555367417062
+	w: 0.8004829420899994
+
+robot_pose.pose.position:
+	x: -0.008284850385973578
+	x: -0.002334439230433179
+robot_pose.pose.orientation:
+	z: -0.5993010909381562
+	w: 0.8005237050833259
+
+robot_pose.pose.position:
+	x: -0.008284857473517418
+	x: -0.0023344377629486916
+robot_pose.pose.orientation:
+	z: -0.5992536172936259
+	w: 0.8005592433795918
+
+robot_pose.pose.position:
+	x: -0.008284864210512385
+	x: -0.0023344205022420026
+robot_pose.pose.orientation:
+	z: -0.5992563385203492
+	w: 0.8005572064151223
+
+robot_pose.pose.position:
+	x: -0.008284869975302315
+	x: -0.002334403966930578
+robot_pose.pose.orientation:
+	z: -0.5993455204700626
+	w: 0.8004904415996918
+
+robot_pose.pose.position:
+	x: -0.008284875205555606
+	x: -0.0023343885765509434
+robot_pose.pose.orientation:
+	z: -0.5993268871765559
+	w: 0.8005043924347073
+
+robot_pose.pose.position:
+	x: -0.008284880445490582
+	x: -0.0023343728935888604
+robot_pose.pose.orientation:
+	z: -0.5993076549535226
+	w: 0.800518790981267
+
+robot_pose.pose.position:
+	x: -0.008284886498027054
+	x: -0.002334354054226017
+robot_pose.pose.orientation:
+	z: -0.5989985323614974
+	w: 0.8007501222158959
+
+robot_pose.pose.position:
+	x: -0.00828489167389109
+	x: -0.0023343388285832867
+robot_pose.pose.orientation:
+	z: -0.599260230229623
+	w: 0.8005542932650721
+
+robot_pose.pose.position:
+	x: -0.008284894752449532
+	x: -0.0023343299285523557
+robot_pose.pose.orientation:
+	z: -0.5992390064607176
+	w: 0.8005701800191987
+
+robot_pose.pose.position:
+	x: -0.008284898803711646
+	x: -0.002334317797959587
+robot_pose.pose.orientation:
+	z: -0.5992218446150055
+	w: 0.8005830256358113
+
+robot_pose.pose.position:
+	x: -0.00828490267659273
+	x: -0.002334306272087515
+robot_pose.pose.orientation:
+	z: -0.599228784239475
+	w: 0.8005778314060917
+
+robot_pose.pose.position:
+	x: -0.008284906054470862
+	x: -0.0023342962335778684
+robot_pose.pose.orientation:
+	z: -0.5992275135961224
+	w: 0.8005787824751597
+
+robot_pose.pose.position:
+	x: -0.008284909267078545
+	x: -0.0023342866783405765
+robot_pose.pose.orientation:
+	z: -0.5992350798653742
+	w: 0.8005731191207576
+
+robot_pose.pose.position:
+	x: -0.008284912446133401
+	x: -0.0023342771016223005
+robot_pose.pose.orientation:
+	z: -0.5991447617489714
+	w: 0.8006407149706842
+
+robot_pose.pose.position:
+	x: -0.008284915368976515
+	x: -0.0023342683907495295
+robot_pose.pose.orientation:
+	z: -0.5992103978730997
+	w: 0.8005915931864146
+
+robot_pose.pose.position:
+	x: -0.008284917884482794
+	x: -0.0023342609742526455
+robot_pose.pose.orientation:
+	z: -0.5991998177304412
+	w: 0.8005995118858156
+
+robot_pose.pose.position:
+	x: -0.008284920368935415
+	x: -0.0023342535463599955
+robot_pose.pose.orientation:
+	z: -0.5991930994583365
+	w: 0.800604540058019
+
+robot_pose.pose.position:
+	x: -0.00828492278098713
+	x: -0.0023342463429762016
+robot_pose.pose.orientation:
+	z: -0.5991661361865493
+	w: 0.8006247193581281
+
+robot_pose.pose.position:
+	x: -0.008284925162683093
+	x: -0.002334239110034164
+robot_pose.pose.orientation:
+	z: -0.5990810977520843
+	w: 0.8006883528041092
+
+robot_pose.pose.position:
+	x: -0.008284927450767898
+	x: -0.002334232217864225
+robot_pose.pose.orientation:
+	z: -0.5990300766515709
+	w: 0.8007265246429727
+
+robot_pose.pose.position:
+	x: -0.008284929348434753
+	x: -0.002334226614467837
+robot_pose.pose.orientation:
+	z: -0.5991234910716153
+	w: 0.8006566320503191
+
+robot_pose.pose.position:
+	x: -0.008284930980061873
+	x: -0.002334221794446854
+robot_pose.pose.orientation:
+	z: -0.5990934929381073
+	w: 0.8006790784822705
+
+robot_pose.pose.position:
+	x: -0.008284932784214645
+	x: -0.0023342164140239914
+robot_pose.pose.orientation:
+	z: -0.5990982880557034
+	w: 0.8006754906007336
+
+robot_pose.pose.position:
+	x: -0.008284934345866038
+	x: -0.0023342117724805063
+robot_pose.pose.orientation:
+	z: -0.5991016069295086
+	w: 0.8006730072723075
+
+robot_pose.pose.position:
+	x: -0.008284935864513105
+	x: -0.0023342072420351845
+robot_pose.pose.orientation:
+	z: -0.5990629979724335
+	w: 0.8007018948774133
+
+robot_pose.pose.position:
+	x: -0.008284937370304949
+	x: -0.002334202675091409
+robot_pose.pose.orientation:
+	z: -0.5989551003082026
+	w: 0.8007826095856421
+
+robot_pose.pose.position:
+	x: -0.008284938825612284
+	x: -0.002334198285372444
+robot_pose.pose.orientation:
+	z: -0.5989557817050016
+	w: 0.8007820999261599
+
+robot_pose.pose.position:
+	x: -0.008284940077671091
+	x: -0.002334194570664387
+robot_pose.pose.orientation:
+	z: -0.5989665827507841
+	w: 0.8007740210245635
+
+robot_pose.pose.position:
+	x: -0.008284941196160071
+	x: -0.0023341912295092105
+robot_pose.pose.orientation:
+	z: -0.5989376908134232
+	w: 0.8007956309340633
+
+robot_pose.pose.position:
+	x: -0.008284942393685841
+	x: -0.0023341876590192677
+robot_pose.pose.orientation:
+	z: -0.5989210940752482
+	w: 0.8008080438355423
+
+robot_pose.pose.position:
+	x: -0.008284943414568596
+	x: -0.0023341845958107566
+robot_pose.pose.orientation:
+	z: -0.598894874611349
+	w: 0.8008276525971468
+
+robot_pose.pose.position:
+	x: -0.008284944418573637
+	x: -0.002334181612210391
+robot_pose.pose.orientation:
+	z: -0.5988933649686611
+	w: 0.8008287815735109
+
+robot_pose.pose.position:
+	x: -0.00828494529307588
+	x: -0.0023341790121964496
+robot_pose.pose.orientation:
+	z: -0.5989045718563453
+	w: 0.8008204004703975
+
+robot_pose.pose.position:
+	x: -0.008284946148590515
+	x: -0.0023341764692680128
+robot_pose.pose.orientation:
+	z: -0.5988989361796095
+	w: 0.8008246151579833
+
+robot_pose.pose.position:
+	x: -0.00828494692488198
+	x: -0.0023341741710784705
+robot_pose.pose.orientation:
+	z: -0.598950248153204
+	w: 0.8007862387911118
+
+robot_pose.pose.position:
+	x: -0.008284947663076497
+	x: -0.0023341719959928757
+robot_pose.pose.orientation:
+	z: -0.5989541965978258
+	w: 0.8007832855260236
+
+robot_pose.pose.position:
+	x: -0.008284948339718047
+	x: -0.002334169990943558
+robot_pose.pose.orientation:
+	z: -0.598985283316775
+	w: 0.8007600329498986
+
+robot_pose.pose.position:
+	x: -0.008284949007226807
+	x: -0.002334168000064718
+robot_pose.pose.orientation:
+	z: -0.5989505905632784
+	w: 0.8007859826844499
+
+robot_pose.pose.position:
+	x: -0.008284949649261951
+	x: -0.002334166089582864
+robot_pose.pose.orientation:
+	z: -0.5989651530041499
+	w: 0.8007750904509426
+
+robot_pose.pose.position:
+	x: -0.008284950223717981
+	x: -0.0023341643796984586
+robot_pose.pose.orientation:
+	z: -0.5989589967143669
+	w: 0.8007796952064401
+
+robot_pose.pose.position:
+	x: -0.008284950776303427
+	x: -0.0023341627339963475
+robot_pose.pose.orientation:
+	z: -0.5989517748086685
+	w: 0.80078509692273
+
+robot_pose.pose.position:
+	x: -0.008284951315207852
+	x: -0.0023341611042302516
+robot_pose.pose.orientation:
+	z: -0.5988528384106837
+	w: 0.800859087435154
+
+robot_pose.pose.position:
+	x: -0.008284951847953699
+	x: -0.0023341595145308686
+robot_pose.pose.orientation:
+	z: -0.598898748201556
+	w: 0.8008247557378638
+
+robot_pose.pose.position:
+	x: -0.00828495226731901
+	x: -0.0023341582810644883
+robot_pose.pose.orientation:
+	z: -0.59892504898646
+	w: 0.800805085958229
+
+robot_pose.pose.position:
+	x: -0.00828495267928693
+	x: -0.0023341570535952627
+robot_pose.pose.orientation:
+	z: -0.5988992947815519
+	w: 0.8008243469763889
+
+robot_pose.pose.position:
+	x: -0.00828495308977193
+	x: -0.002334155830173415
+robot_pose.pose.orientation:
+	z: -0.5988738741567613
+	w: 0.8008433572506372
+
+robot_pose.pose.position:
+	x: -0.008284953465372126
+	x: -0.002334154710874175
+robot_pose.pose.orientation:
+	z: -0.5989008763948123
+	w: 0.8008231641589333
+
+robot_pose.pose.position:
+	x: -0.00828495381302747
+	x: -0.0023341536788405604
+robot_pose.pose.orientation:
+	z: -0.598870669100184
+	w: 0.8008457539947988
+
+robot_pose.pose.position:
+	x: -0.008284954148590911
+	x: -0.0023341526780841786
+robot_pose.pose.orientation:
+	z: -0.5988711622205377
+	w: 0.8008453852402612
+
+robot_pose.pose.position:
+	x: -0.008284954461935107
+	x: -0.0023341517420542315
+robot_pose.pose.orientation:
+	z: -0.5988253883731932
+	w: 0.8008796128256072
+
+robot_pose.pose.position:
+	x: -0.008284954759994414
+	x: -0.002334150852231093
+robot_pose.pose.orientation:
+	z: -0.5988673862397216
+	w: 0.8008482089000413
+
+robot_pose.pose.position:
+	x: -0.008284955034558856
+	x: -0.0023341500375908815
+robot_pose.pose.orientation:
+	z: -0.5988575720274183
+	w: 0.8008555477896282
+
+robot_pose.pose.position:
+	x: -0.008284955294654096
+	x: -0.002334149262699867
+robot_pose.pose.orientation:
+	z: -0.598829005980993
+	w: 0.8008769078927273
+
+robot_pose.pose.position:
+	x: -0.00828495553777354
+	x: -0.002334148536936625
+robot_pose.pose.orientation:
+	z: -0.5988349262418613
+	w: 0.8008724811809335
+
+robot_pose.pose.position:
+	x: -0.008284955669162297
+	x: -0.002334148140865684
+robot_pose.pose.orientation:
+	z: -0.5987802406568478
+	w: 0.800913368223385
+
+robot_pose.pose.position:
+	x: -0.008284956084899951
+	x: -0.002334146903384374
+robot_pose.pose.orientation:
+	z: -0.5988094915636871
+	w: 0.8008914987769807
+
+robot_pose.pose.position:
+	x: -0.008284956195689384
+	x: -0.002334146573666234
+robot_pose.pose.orientation:
+	z: -0.5988039922526918
+	w: 0.8008956104650832
+
+robot_pose.pose.position:
+	x: -0.008284956391355708
+	x: -0.0023341459920064025
+robot_pose.pose.orientation:
+	z: -0.5988092026051419
+	w: 0.8008917148250405
+
+robot_pose.pose.position:
+	x: -0.008284956569292462
+	x: -0.002334145458392162
+robot_pose.pose.orientation:
+	z: -0.5987773122595309
+	w: 0.8009155575485172
+
+robot_pose.pose.position:
+	x: -0.008284956737979405
+	x: -0.002334144959296049
+robot_pose.pose.orientation:
+	z: -0.5988016003010005
+	w: 0.800897398845171
+
+robot_pose.pose.position:
+	x: -0.008284956885113125
+	x: -0.0023341445225538078
+robot_pose.pose.orientation:
+	z: -0.5988038399070634
+	w: 0.8008957243690067
+
+robot_pose.pose.position:
+	x: -0.008284957040875672
+	x: -0.0023341440531180024
+robot_pose.pose.orientation:
+	z: -0.5986805573848327
+	w: 0.8009878839341991
+
+robot_pose.pose.position:
+	x: -0.008284957182079937
+	x: -0.002334143633996873
+robot_pose.pose.orientation:
+	z: -0.5987615111953696
+	w: 0.8009273704344466
+
+robot_pose.pose.position:
+	x: -0.008284957298845168
+	x: -0.002334143290164751
+robot_pose.pose.orientation:
+	z: -0.598789478025941
+	w: 0.8009064620824464
+
+robot_pose.pose.position:
+	x: -0.008284957418504107
+	x: -0.0023341429360434307
+robot_pose.pose.orientation:
+	z: -0.598811265905727
+	w: 0.8008901721362179
+
+robot_pose.pose.position:
+	x: -0.008284957532921619
+	x: -0.0023341425960146027
+robot_pose.pose.orientation:
+	z: -0.5987852941104297
+	w: 0.8009095901268046
+
+robot_pose.pose.position:
+	x: -0.008284957639311597
+	x: -0.0023341422792950593
+robot_pose.pose.orientation:
+	z: -0.5987755754018773
+	w: 0.800916856048211
+
+robot_pose.pose.position:
+	x: -0.008284957739332521
+	x: -0.002334141981219238
+robot_pose.pose.orientation:
+	z: -0.5987449609126286
+	w: 0.8009397429156171
+
+robot_pose.pose.position:
+	x: -0.008284957834145134
+	x: -0.002334141697633475
+robot_pose.pose.orientation:
+	z: -0.5986963226772443
+	w: 0.800976100275623
+
+robot_pose.pose.position:
+	x: -0.00828495792389833
+	x: -0.0023341414298497635
+robot_pose.pose.orientation:
+	z: -0.5986661051851851
+	w: 0.8009986857057887
+
+robot_pose.pose.position:
+	x: -0.008284958005565559
+	x: -0.0023341411860241614
+robot_pose.pose.orientation:
+	z: -0.5986342205681758
+	w: 0.8010225152670384
+
+robot_pose.pose.position:
+	x: -0.0082849580760188
+	x: -0.002334140975196122
+robot_pose.pose.orientation:
+	z: -0.5986404448301083
+	w: 0.8010178636045578
+
+robot_pose.pose.position:
+	x: -0.008284958169497907
+	x: -0.0023341406940208093
+robot_pose.pose.orientation:
+	z: -0.5985279937781278
+	w: 0.8011018915618221
+
+robot_pose.pose.position:
+	x: -0.008284958237540947
+	x: -0.0023341404923279147
+robot_pose.pose.orientation:
+	z: -0.5986012312525281
+	w: 0.8010471683633601
+
+robot_pose.pose.position:
+	x: -0.00828495829881055
+	x: -0.002334140307511173
+robot_pose.pose.orientation:
+	z: -0.5984490461106946
+	w: 0.801160869744148
+
+robot_pose.pose.position:
+	x: -0.008284958363248936
+	x: -0.0023341401176023495
+robot_pose.pose.orientation:
+	z: -0.5985102139789159
+	w: 0.8011151750921414
+
+robot_pose.pose.position:
+	x: -0.008284958411439376
+	x: -0.0023341399750084835
+robot_pose.pose.orientation:
+	z: -0.5985390592965524
+	w: 0.8010936240517696
+
+robot_pose.pose.position:
+	x: -0.008284958466212963
+	x: -0.0023341398132307595
+robot_pose.pose.orientation:
+	z: -0.5985854487958789
+	w: 0.8010589619309156
+
+robot_pose.pose.position:
+	x: -0.00828495851580481
+	x: -0.002334139666138713
+robot_pose.pose.orientation:
+	z: -0.5985801625462597
+	w: 0.8010629120150884
+
+robot_pose.pose.position:
+	x: -0.00828495856548402
+	x: -0.0023341395183279334
+robot_pose.pose.orientation:
+	z: -0.5985247245593805
+	w: 0.8011043340858403
+
+robot_pose.pose.position:
+	x: -0.008284958609411516
+	x: -0.002334139387035812
+robot_pose.pose.orientation:
+	z: -0.5984538330717137
+	w: 0.8011572939702749
+
+robot_pose.pose.position:
+	x: -0.00828495865100768
+	x: -0.0023341392634628234
+robot_pose.pose.orientation:
+	z: -0.598467143472436
+	w: 0.8011473511058641
+
+robot_pose.pose.position:
+	x: -0.008284958686557866
+	x: -0.0023341391573608607
+robot_pose.pose.orientation:
+	z: -0.598451666374572
+	w: 0.8011589124596304
+
+robot_pose.pose.position:
+	x: -0.008284958726118244
+	x: -0.0023341390403788147
+robot_pose.pose.orientation:
+	z: -0.5984742069884369
+	w: 0.8011420745220923
+
+robot_pose.pose.position:
+	x: -0.008284958758598584
+	x: -0.0023341389436406447
+robot_pose.pose.orientation:
+	z: -0.5984295856088336
+	w: 0.8011754059305862
+
+robot_pose.pose.position:
+	x: -0.008284958792578952
+	x: -0.0023341388427559314
+robot_pose.pose.orientation:
+	z: -0.598433868850199
+	w: 0.8011722065904326
+
+robot_pose.pose.position:
+	x: -0.008284958821491363
+	x: -0.002334138757009663
+robot_pose.pose.orientation:
+	z: -0.5984211561882731
+	w: 0.8011817021289805
+
+robot_pose.pose.position:
+	x: -0.008284958850169033
+	x: -0.0023341386716440246
+robot_pose.pose.orientation:
+	z: -0.5984000157125658
+	w: 0.8011974920050617
+
+robot_pose.pose.position:
+	x: -0.008284958877279145
+	x: -0.002334138591446341
+robot_pose.pose.orientation:
+	z: -0.5984300102077689
+	w: 0.8011750887806796
+
+robot_pose.pose.position:
+	x: -0.00828495890136945
+	x: -0.002334138520001966
+robot_pose.pose.orientation:
+	z: -0.598381848350557
+	w: 0.8012110605605561
+
+robot_pose.pose.position:
+	x: -0.008284958925124602
+	x: -0.002334138448923048
+robot_pose.pose.orientation:
+	z: -0.5983700986666469
+	w: 0.8012198356391754
+
+robot_pose.pose.position:
+	x: -0.00828495894809598
+	x: -0.002334138380569753
+robot_pose.pose.orientation:
+	z: -0.598400348463505
+	w: 0.8011972434792545
+
+robot_pose.pose.position:
+	x: -0.008284958969793324
+	x: -0.0023341383169096647
+robot_pose.pose.orientation:
+	z: -0.598404733926386
+	w: 0.8011939680342651
+
+robot_pose.pose.position:
+	x: -0.008284958987112127
+	x: -0.0023341382652907095
+robot_pose.pose.orientation:
+	z: -0.5983404581924886
+	w: 0.8012419709987756
+
+robot_pose.pose.position:
+	x: -0.008284959006691
+	x: -0.0023341382068103834
+robot_pose.pose.orientation:
+	z: -0.598370348871272
+	w: 0.801219648780328
+
+robot_pose.pose.position:
+	x: -0.008284959023300162
+	x: -0.0023341381577109046
+robot_pose.pose.orientation:
+	z: -0.5983521910441347
+	w: 0.8012332091673955
+
+robot_pose.pose.position:
+	x: -0.008284959040262285
+	x: -0.002334138107439417
+robot_pose.pose.orientation:
+	z: -0.5983565869933232
+	w: 0.8012299263018711
+
+robot_pose.pose.position:
+	x: -0.008284959054807103
+	x: -0.0023341380644138683
+robot_pose.pose.orientation:
+	z: -0.598398684783518
+	w: 0.8011984860503394
+
+robot_pose.pose.position:
+	x: -0.00828495906874373
+	x: -0.0023341380233780065
+robot_pose.pose.orientation:
+	z: -0.5984196849586643
+	w: 0.8011828010223216
+
+robot_pose.pose.position:
+	x: -0.008284959081541235
+	x: -0.002334137985577734
+robot_pose.pose.orientation:
+	z: -0.5984139476438126
+	w: 0.8011870863071548
+
+robot_pose.pose.position:
+	x: -0.008284959093941759
+	x: -0.0023341379488438846
+robot_pose.pose.orientation:
+	z: -0.5984152193256497
+	w: 0.8011861364748111
+
+robot_pose.pose.position:
+	x: -0.008284959105603942
+	x: -0.0023341379139322042
+robot_pose.pose.orientation:
+	z: -0.5983389894046309
+	w: 0.8012430678378721
+
+robot_pose.pose.position:
+	x: -0.008284959117567525
+	x: -0.0023341378782089496
+robot_pose.pose.orientation:
+	z: -0.5983225836465028
+	w: 0.8012553187958091
+
+robot_pose.pose.position:
+	x: -0.00828495912775467
+	x: -0.002334137848251425
+robot_pose.pose.orientation:
+	z: -0.5983450807595898
+	w: 0.8012385190009277
+
+robot_pose.pose.position:
+	x: -0.008284959136599428
+	x: -0.0023341378219724606
+robot_pose.pose.orientation:
+	z: -0.5983208847285088
+	w: 0.8012565874285805
+
+robot_pose.pose.position:
+	x: -0.008284959145928724
+	x: -0.0023341377941703987
+robot_pose.pose.orientation:
+	z: -0.5982816329419478
+	w: 0.8012858963468136
+
+robot_pose.pose.position:
+	x: -0.00828495915490825
+	x: -0.0023341377674480127
+robot_pose.pose.orientation:
+	z: -0.5982607256781511
+	w: 0.8013015063701379
+
+robot_pose.pose.position:
+	x: -0.008284959162824075
+	x: -0.002334137744032329
+robot_pose.pose.orientation:
+	z: -0.598231236220703
+	w: 0.8013235226859683
+
+robot_pose.pose.position:
+	x: -0.008284959169958715
+	x: -0.0023341377228306287
+robot_pose.pose.orientation:
+	z: -0.5982350248154329
+	w: 0.801320694281683
+
+robot_pose.pose.position:
+	x: -0.008284959177019392
+	x: -0.002334137701815192
+robot_pose.pose.orientation:
+	z: -0.5982264067453117
+	w: 0.8013271281272043
+
+robot_pose.pose.position:
+	x: -0.008284959184047284
+	x: -0.002334137681080034
+robot_pose.pose.orientation:
+	z: -0.5982798437721641
+	w: 0.8012872322307119
+
+robot_pose.pose.position:
+	x: -0.008284959189991045
+	x: -0.002334137663497817
+robot_pose.pose.orientation:
+	z: -0.5982086147141286
+	w: 0.8013404103636627
+
+robot_pose.pose.position:
+	x: -0.00828495919604054
+	x: -0.0023341376454573334
+robot_pose.pose.orientation:
+	z: -0.5982160774690121
+	w: 0.8013348392885392
+
+robot_pose.pose.position:
+	x: -0.008284959201606563
+	x: -0.002334137628921843
+robot_pose.pose.orientation:
+	z: -0.59816232822693
+	w: 0.8013749616066991
+
+robot_pose.pose.position:
+	x: -0.008284959206612786
+	x: -0.0023341376141732535
+robot_pose.pose.orientation:
+	z: -0.5982186858709132
+	w: 0.8013328920460445
+
+robot_pose.pose.position:
+	x: -0.008284959211367618
+	x: -0.002334137600072237
+robot_pose.pose.orientation:
+	z: -0.5981368686671437
+	w: 0.8013939645025187
+
+robot_pose.pose.position:
+	x: -0.008284959216008456
+	x: -0.002334137586183546
+robot_pose.pose.orientation:
+	z: -0.5981457220105256
+	w: 0.8013873565514413
+
+robot_pose.pose.position:
+	x: -0.008284959220481202
+	x: -0.002334137572965172
+robot_pose.pose.orientation:
+	z: -0.5982063616547133
+	w: 0.801342092290072
+
+robot_pose.pose.position:
+	x: -0.008284959224450984
+	x: -0.002334137561328453
+robot_pose.pose.orientation:
+	z: -0.5981823605459341
+	w: 0.8013600086925314
+
+robot_pose.pose.position:
+	x: -0.008284959228008253
+	x: -0.0023341375507477907
+robot_pose.pose.orientation:
+	z: -0.5982041715586934
+	w: 0.801343727204361
+
+robot_pose.pose.position:
+	x: -0.008284959231708305
+	x: -0.002334137539805573
+robot_pose.pose.orientation:
+	z: -0.5981302988605837
+	w: 0.8013988679708431
+
+robot_pose.pose.position:
+	x: -0.008284959234964258
+	x: -0.0023341375301204124
+robot_pose.pose.orientation:
+	z: -0.5980958890537987
+	w: 0.8014245488484528
+
+robot_pose.pose.position:
+	x: -0.008284959238000683
+	x: -0.0023341375210997497
+robot_pose.pose.orientation:
+	z: -0.5981031840552278
+	w: 0.8014191046032022
+
+robot_pose.pose.position:
+	x: -0.008284959240906338
+	x: -0.0023341375124783814
+robot_pose.pose.orientation:
+	z: -0.5980793318477966
+	w: 0.8014369050751863
+
+robot_pose.pose.position:
+	x: -0.008284959243761707
+	x: -0.002334137504027961
+robot_pose.pose.orientation:
+	z: -0.598058585285556
+	w: 0.8014523869614709
+
+robot_pose.pose.position:
+	x: -0.008284959246228749
+	x: -0.0023341374966964726
+robot_pose.pose.orientation:
+	z: -0.5980044854530384
+	w: 0.8014927544139415
+
+robot_pose.pose.position:
+	x: -0.008284959248721585
+	x: -0.0023341374893082077
+robot_pose.pose.orientation:
+	z: -0.5980039274129372
+	w: 0.8014931707748373
+
+robot_pose.pose.position:
+	x: -0.008284959250851993
+	x: -0.0023341374830129972
+robot_pose.pose.orientation:
+	z: -0.5979972255807388
+	w: 0.801498171050776
+
+robot_pose.pose.position:
+	x: -0.008284959252960977
+	x: -0.0023341374767716747
+robot_pose.pose.orientation:
+	z: -0.5980046947390396
+	w: 0.8014925982628087
+
+robot_pose.pose.position:
+	x: -0.008284959254938312
+	x: -0.002334137470952938
+robot_pose.pose.orientation:
+	z: -0.5979903410777085
+	w: 0.801503307527652
+
+robot_pose.pose.position:
+	x: -0.008284959256760465
+	x: -0.002334137465538851
+robot_pose.pose.orientation:
+	z: -0.5979943515372113
+	w: 0.8015003153646231
+
+robot_pose.pose.position:
+	x: -0.008284959258595449
+	x: -0.0023341374601038504
+robot_pose.pose.orientation:
+	z: -0.5979993393443447
+	w: 0.8014965939688872
+
+robot_pose.pose.position:
+	x: -0.008284959260283449
+	x: -0.002334137455126431
+robot_pose.pose.orientation:
+	z: -0.5979985764671883
+	w: 0.8014971631535674
+
+robot_pose.pose.position:
+	x: -0.008284959261791918
+	x: -0.002334137450688298
+robot_pose.pose.orientation:
+	z: -0.5980687103072122
+	w: 0.801444831383588
+
+robot_pose.pose.position:
+	x: -0.00828495926319507
+	x: -0.0023341374465602684
+robot_pose.pose.orientation:
+	z: -0.5979923919215813
+	w: 0.8015017774178083
+
+robot_pose.pose.position:
+	x: -0.008284959264580847
+	x: -0.0023341374424307253
+robot_pose.pose.orientation:
+	z: -0.5979151847461852
+	w: 0.8015593751244727
+
+robot_pose.pose.position:
+	x: -0.008284959265892441
+	x: -0.0023341374385078494
+robot_pose.pose.orientation:
+	z: -0.5979298443771389
+	w: 0.8015484397109949
+
+robot_pose.pose.position:
+	x: -0.008284959267142272
+	x: -0.002334137434829909
+robot_pose.pose.orientation:
+	z: -0.5979905033188531
+	w: 0.8015031864817911
+
+robot_pose.pose.position:
+	x: -0.00828495926822496
+	x: -0.002334137431650346
+robot_pose.pose.orientation:
+	z: -0.5979648775963031
+	w: 0.8015223048432515
+
+robot_pose.pose.position:
+	x: -0.008284959269289594
+	x: -0.002334137428497713
+robot_pose.pose.orientation:
+	z: -0.5979087062859757
+	w: 0.8015642076262081
+
+robot_pose.pose.position:
+	x: -0.008284959270273198
+	x: -0.002334137425573353
+robot_pose.pose.orientation:
+	z: -0.5979671812244584
+	w: 0.8015205862474624
+
+robot_pose.pose.position:
+	x: -0.008284959271203967
+	x: -0.002334137422859014
+robot_pose.pose.orientation:
+	z: -0.5980603882163937
+	w: 0.8014510415779971
+
+robot_pose.pose.position:
+	x: -0.008284959272041948
+	x: -0.002334137420392288
+robot_pose.pose.orientation:
+	z: -0.5979639186384185
+	w: 0.8015230202599217
+
+robot_pose.pose.position:
+	x: -0.008284959272892248
+	x: -0.0023341374178667247
+robot_pose.pose.orientation:
+	z: -0.5980072191813757
+	w: 0.8014907147353351
+
+robot_pose.pose.position:
+	x: -0.00828495927367412
+	x: -0.002334137415544502
+robot_pose.pose.orientation:
+	z: -0.5979474735028126
+	w: 0.8015352886377513
+
+robot_pose.pose.position:
+	x: -0.008284959274441575
+	x: -0.002334137413276025
+robot_pose.pose.orientation:
+	z: -0.5980008118837578
+	w: 0.8014954953001087
+
+robot_pose.pose.position:
+	x: -0.008284959275079216
+	x: -0.0023341374114008414
+robot_pose.pose.orientation:
+	z: -0.5980131478248932
+	w: 0.80148629122934
+
+robot_pose.pose.position:
+	x: -0.008284959275722663
+	x: -0.002334137409501376
+robot_pose.pose.orientation:
+	z: -0.5979609640094641
+	w: 0.8015252245069224
+
+robot_pose.pose.position:
+	x: -0.008284959276335026
+	x: -0.002334137407682477
+robot_pose.pose.orientation:
+	z: -0.5979809414332136
+	w: 0.8015103203843651
+
+robot_pose.pose.position:
+	x: -0.008284959276895123
+	x: -0.002334137406028483
+robot_pose.pose.orientation:
+	z: -0.5979901965061755
+	w: 0.8015034153904185
+
+robot_pose.pose.position:
+	x: -0.008284959277415538
+	x: -0.0023341374044867406
+robot_pose.pose.orientation:
+	z: -0.5979266010147265
+	w: 0.8015508591468018
+
+robot_pose.pose.position:
+	x: -0.008284959277944651
+	x: -0.0023341374029163166
+robot_pose.pose.orientation:
+	z: -0.5979951230827165
+	w: 0.8014997397187891
+
+robot_pose.pose.position:
+	x: -0.00828495927839946
+	x: -0.00233413740158463
+robot_pose.pose.orientation:
+	z: -0.5979811483050923
+	w: 0.8015101660439019
+
+robot_pose.pose.position:
+	x: -0.008284959278822956
+	x: -0.0023341374003334726
+robot_pose.pose.orientation:
+	z: -0.5979355005675295
+	w: 0.8015442203403739
+
+robot_pose.pose.position:
+	x: -0.008284959279222114
+	x: -0.0023341373991461996
+robot_pose.pose.orientation:
+	z: -0.5979300477799596
+	w: 0.8015482879788686
+
+robot_pose.pose.position:
+	x: -0.00828495927962333
+	x: -0.0023341373979575654
+robot_pose.pose.orientation:
+	z: -0.5979228259858081
+	w: 0.8015536751616482
+
+robot_pose.pose.position:
+	x: -0.008284959279989712
+	x: -0.002334137396874427
+robot_pose.pose.orientation:
+	z: -0.597861647345762
+	w: 0.8015993080292746
+
+robot_pose.pose.position:
+	x: -0.008284959280323245
+	x: -0.0023341373958814383
+robot_pose.pose.orientation:
+	z: -0.5978730615333929
+	w: 0.8015907947903891
+
+robot_pose.pose.position:
+	x: -0.008284959280656465
+	x: -0.0023341373948981446
+robot_pose.pose.orientation:
+	z: -0.5978670363765791
+	w: 0.8015952886677206
+
+robot_pose.pose.position:
+	x: -0.008284959280949132
+	x: -0.0023341373940336707
+robot_pose.pose.orientation:
+	z: -0.5978690236657942
+	w: 0.8015938064511914
+
+robot_pose.pose.position:
+	x: -0.008284959281225973
+	x: -0.002334137393218147
+robot_pose.pose.orientation:
+	z: -0.5979201470011765
+	w: 0.8015556735561739
+
+robot_pose.pose.position:
+	x: -0.008284959281487408
+	x: -0.002334137392448041
+robot_pose.pose.orientation:
+	z: -0.5978935136851374
+	w: 0.8015755399793836
+
+robot_pose.pose.position:
+	x: -0.008284959281747844
+	x: -0.002334137391675738
+robot_pose.pose.orientation:
+	z: -0.5978408288814265
+	w: 0.8016148347693978
+
+robot_pose.pose.position:
+	x: -0.008284959281979342
+	x: -0.0023341373909927503
+robot_pose.pose.orientation:
+	z: -0.5978850085125411
+	w: 0.8015818838995543
+
+robot_pose.pose.position:
+	x: -0.00828495928218183
+	x: -0.0023341373903918946
+robot_pose.pose.orientation:
+	z: -0.5977940804405838
+	w: 0.8016496974303657
+
+robot_pose.pose.position:
+	x: -0.008284959282400566
+	x: -0.002334137389741588
+robot_pose.pose.orientation:
+	z: -0.5978016621974817
+	w: 0.8016440436215616
+
+robot_pose.pose.position:
+	x: -0.008284959282600072
+	x: -0.002334137389152785
+robot_pose.pose.orientation:
+	z: -0.597833572485272
+	w: 0.8016202465067216
+
+robot_pose.pose.position:
+	x: -0.008284959282776214
+	x: -0.0023341373886357885
+robot_pose.pose.orientation:
+	z: -0.5977625302128745
+	w: 0.8016732236226318
+
+robot_pose.pose.position:
+	x: -0.008284959282936545
+	x: -0.002334137388159869
+robot_pose.pose.orientation:
+	z: -0.597724640687594
+	w: 0.8017014743125316
+
+robot_pose.pose.position:
+	x: -0.00828495928309609
+	x: -0.0023341373876866064
+robot_pose.pose.orientation:
+	z: -0.5977699991294062
+	w: 0.8016676544184814
+
+robot_pose.pose.position:
+	x: -0.008284959283244415
+	x: -0.002334137387251359
+robot_pose.pose.orientation:
+	z: -0.5977644448221139
+	w: 0.8016717960028966
+
+robot_pose.pose.position:
+	x: -0.008284959283386172
+	x: -0.002334137386832138
+robot_pose.pose.orientation:
+	z: -0.5977725008445245
+	w: 0.8016657889882061
+
+robot_pose.pose.position:
+	x: -0.00828495928352037
+	x: -0.002334137386436314
+robot_pose.pose.orientation:
+	z: -0.5977691524031533
+	w: 0.8016682857860947
+
+robot_pose.pose.position:
+	x: -0.00828495928364358
+	x: -0.0023341373860729245
+robot_pose.pose.orientation:
+	z: -0.5977826300679038
+	w: 0.8016582359017461
+
+robot_pose.pose.position:
+	x: -0.008284959283758582
+	x: -0.0023341373857338546
+robot_pose.pose.orientation:
+	z: -0.5977065482977861
+	w: 0.80171496313961
+
+robot_pose.pose.position:
+	x: -0.008284959283868812
+	x: -0.0023341373854057117
+robot_pose.pose.orientation:
+	z: -0.59770825785714
+	w: 0.801713688600477
+
+robot_pose.pose.position:
+	x: -0.008284959283973006
+	x: -0.0023341373850985876
+robot_pose.pose.orientation:
+	z: -0.597713766638372
+	w: 0.8017095815636545
+
+robot_pose.pose.position:
+	x: -0.008284959284066203
+	x: -0.0023341373848231825
+robot_pose.pose.orientation:
+	z: -0.597716395455285
+	w: 0.8017076216451615
+
+robot_pose.pose.position:
+	x: -0.008284959284161696
+	x: -0.00233413738454256
+robot_pose.pose.orientation:
+	z: -0.5977108257295879
+	w: 0.8017117741468277
+
+robot_pose.pose.position:
+	x: -0.008284959284239063
+	x: -0.002334137384314343
+robot_pose.pose.orientation:
+	z: -0.5976642077902263
+	w: 0.8017465277296068
+
+robot_pose.pose.position:
+	x: -0.008284959284318164
+	x: -0.0023341373840796093
+robot_pose.pose.orientation:
+	z: -0.5976364201750183
+	w: 0.8017672413365297
+
+robot_pose.pose.position:
+	x: -0.008284959284397554
+	x: -0.0023341373838447975
+robot_pose.pose.orientation:
+	z: -0.5976015358594802
+	w: 0.8017932428864629
+
+robot_pose.pose.position:
+	x: -0.008284959284464988
+	x: -0.0023341373836459215
+robot_pose.pose.orientation:
+	z: -0.5976713656248048
+	w: 0.8017411918519473
+
+robot_pose.pose.position:
+	x: -0.008284959284527896
+	x: -0.0023341373834618287
+robot_pose.pose.orientation:
+	z: -0.5976970513466228
+	w: 0.8017220433613838
+
+robot_pose.pose.position:
+	x: -0.00828495928458982
+	x: -0.0023341373832793987
+robot_pose.pose.orientation:
+	z: -0.5976404106064973
+	w: 0.8017642668578447
+
+robot_pose.pose.position:
+	x: -0.008284959284649692
+	x: -0.0023341373831024495
+robot_pose.pose.orientation:
+	z: -0.5976559951761259
+	w: 0.8017526497804884
+
+robot_pose.pose.position:
+	x: -0.008284959284702255
+	x: -0.0023341373829477677
+robot_pose.pose.orientation:
+	z: -0.5976188337241103
+	w: 0.801780349957664
+
+robot_pose.pose.position:
+	x: -0.008284959284752313
+	x: -0.0023341373827997568
+robot_pose.pose.orientation:
+	z: -0.5976406560693754
+	w: 0.8017640838881264
+
+robot_pose.pose.position:
+	x: -0.008284959284801304
+	x: -0.0023341373826549607
+robot_pose.pose.orientation:
+	z: -0.5975595835449201
+	w: 0.8018245095490794
+
+robot_pose.pose.position:
+	x: -0.008284959284846235
+	x: -0.002334137382522825
+robot_pose.pose.orientation:
+	z: -0.5976712331553075
+	w: 0.8017412906035302
+
+robot_pose.pose.position:
+	x: -0.008284959284884437
+	x: -0.0023341373824107042
+robot_pose.pose.orientation:
+	z: -0.5976081278687687
+	w: 0.8017883296139857
+
+robot_pose.pose.position:
+	x: -0.008284959284926455
+	x: -0.0023341373822859802
+robot_pose.pose.orientation:
+	z: -0.5975134607910604
+	w: 0.801858880460577
+
+robot_pose.pose.position:
+	x: -0.008284959284965428
+	x: -0.002334137382170176
+robot_pose.pose.orientation:
+	z: -0.5975732783919773
+	w: 0.8018143032846599
+
+robot_pose.pose.position:
+	x: -0.008284959285000108
+	x: -0.0023341373820685374
+robot_pose.pose.orientation:
+	z: -0.5975540521032925
+	w: 0.8018286318253643
+
+robot_pose.pose.position:
+	x: -0.0082849592850318
+	x: -0.0023341373819752344
+robot_pose.pose.orientation:
+	z: -0.5975828380093541
+	w: 0.8018071786387835
+
+robot_pose.pose.position:
+	x: -0.008284959285062479
+	x: -0.002334137381885008
+robot_pose.pose.orientation:
+	z: -0.597545869507509
+	w: 0.8018347297507854
+
+robot_pose.pose.position:
+	x: -0.008284959285091702
+	x: -0.002334137381798542
+robot_pose.pose.orientation:
+	z: -0.5975575926360536
+	w: 0.8018259932697395
+
+robot_pose.pose.position:
+	x: -0.008284959285119074
+	x: -0.0023341373817181367
+robot_pose.pose.orientation:
+	z: -0.5975378998720526
+	w: 0.8018406688466835
+
+robot_pose.pose.position:
+	x: -0.008284959285143534
+	x: -0.0023341373816457693
+robot_pose.pose.orientation:
+	z: -0.5974963225771405
+	w: 0.8018716508935789
+
+robot_pose.pose.position:
+	x: -0.00828495928516848
+	x: -0.0023341373815720175
+robot_pose.pose.orientation:
+	z: -0.5974846503689987
+	w: 0.8018803480404264
+
+robot_pose.pose.position:
+	x: -0.008284959285190938
+	x: -0.002334137381505761
+robot_pose.pose.orientation:
+	z: -0.5974584376971009
+	w: 0.8018998785537627
+
+robot_pose.pose.position:
+	x: -0.008284959285211847
+	x: -0.0023341373814440686
+robot_pose.pose.orientation:
+	z: -0.5974223169250596
+	w: 0.8019267892020403
+
+robot_pose.pose.position:
+	x: -0.008284959285231085
+	x: -0.0023341373813872005
+robot_pose.pose.orientation:
+	z: -0.5974410373966236
+	w: 0.8019128424177071
+
+robot_pose.pose.position:
+	x: -0.008284959285249905
+	x: -0.0023341373813318485
+robot_pose.pose.orientation:
+	z: -0.5974169291945114
+	w: 0.8019308029448676
+
+robot_pose.pose.position:
+	x: -0.00828495928526719
+	x: -0.0023341373812809916
+robot_pose.pose.orientation:
+	z: -0.5974120207597299
+	w: 0.8019344595737086
+
+robot_pose.pose.position:
+	x: -0.008284959285283278
+	x: -0.0023341373812334914
+robot_pose.pose.orientation:
+	z: -0.5974231603372342
+	w: 0.8019261608731014
+
+robot_pose.pose.position:
+	x: -0.008284959285299227
+	x: -0.002334137381186598
+robot_pose.pose.orientation:
+	z: -0.5973843315214885
+	w: 0.8019550863063494
+
+robot_pose.pose.position:
+	x: -0.008284959285313434
+	x: -0.0023341373811446857
+robot_pose.pose.orientation:
+	z: -0.5974173509553655
+	w: 0.8019304887441764
+
+robot_pose.pose.position:
+	x: -0.00828495928532684
+	x: -0.002334137381105421
+robot_pose.pose.orientation:
+	z: -0.5973962103321058
+	w: 0.8019462375252087
+
+robot_pose.pose.position:
+	x: -0.008284959285339222
+	x: -0.0023341373810689243
+robot_pose.pose.orientation:
+	z: -0.5973307009422267
+	w: 0.801995033470824
+
+robot_pose.pose.position:
+	x: -0.008284959285351187
+	x: -0.002334137381033395
+robot_pose.pose.orientation:
+	z: -0.5973281316823518
+	w: 0.8019969470645577
+
+robot_pose.pose.position:
+	x: -0.00828495928536268
+	x: -0.0023341373809995917
+robot_pose.pose.orientation:
+	z: -0.5973373416650142
+	w: 0.8019900873780013
+
+robot_pose.pose.position:
+	x: -0.008284959285373246
+	x: -0.0023341373809685514
+robot_pose.pose.orientation:
+	z: -0.5973326058698927
+	w: 0.8019936146657799
+
+robot_pose.pose.position:
+	x: -0.00828495928538302
+	x: -0.002334137380939769
+robot_pose.pose.orientation:
+	z: -0.5972473851664717
+	w: 0.8020570808314157
+
+robot_pose.pose.position:
+	x: -0.008284959285392223
+	x: -0.002334137380912524
+robot_pose.pose.orientation:
+	z: -0.5972134299683587
+	w: 0.8020823642653093
+
+robot_pose.pose.position:
+	x: -0.008284959285400774
+	x: -0.0023341373808874293
+robot_pose.pose.orientation:
+	z: -0.5972397489639786
+	w: 0.8020627670310123
+
+robot_pose.pose.position:
+	x: -0.008284959285408289
+	x: -0.0023341373808652885
+robot_pose.pose.orientation:
+	z: -0.5972495662046126
+	w: 0.8020554567287739
+
+robot_pose.pose.position:
+	x: -0.0082849592854164
+	x: -0.0023341373808414144
+robot_pose.pose.orientation:
+	z: -0.5972171805781873
+	w: 0.8020795716275542
+
+robot_pose.pose.position:
+	x: -0.008284959285423832
+	x: -0.002334137380819446
+robot_pose.pose.orientation:
+	z: -0.5971319888944076
+	w: 0.8021429971264532
+
+robot_pose.pose.position:
+	x: -0.008284959285430809
+	x: -0.0023341373807988603
+robot_pose.pose.orientation:
+	z: -0.5971657014609744
+	w: 0.8021178996872108
+
+robot_pose.pose.position:
+	x: -0.008284959285436877
+	x: -0.0023341373807810642
+robot_pose.pose.orientation:
+	z: -0.5972031561428738
+	w: 0.8020900138344763
+
+robot_pose.pose.position:
+	x: -0.00828495928544297
+	x: -0.0023341373807632343
+robot_pose.pose.orientation:
+	z: -0.5971480241311203
+	w: 0.8021310599124678
+
+robot_pose.pose.position:
+	x: -0.008284959285448522
+	x: -0.002334137380746831
+robot_pose.pose.orientation:
+	z: -0.5970564926937529
+	w: 0.8021991925527192
+
+robot_pose.pose.position:
+	x: -0.008284959285453716
+	x: -0.0023341373807314668
+robot_pose.pose.orientation:
+	z: -0.5970046935165614
+	w: 0.8022377427665671
+
+robot_pose.pose.position:
+	x: -0.008284959285458478
+	x: -0.0023341373807174172
+robot_pose.pose.orientation:
+	z: -0.5969953979950059
+	w: 0.8022446601709384
+
+robot_pose.pose.position:
+	x: -0.00828495928546313
+	x: -0.0023341373807037043
+robot_pose.pose.orientation:
+	z: -0.5970203418408165
+	w: 0.8022260974490137
+
+robot_pose.pose.position:
+	x: -0.00828495928546764
+	x: -0.00233413738069056
+robot_pose.pose.orientation:
+	z: -0.597067728197426
+	w: 0.8021908301303154
+
+robot_pose.pose.position:
+	x: -0.008284959285471386
+	x: -0.0023341373806795925
+robot_pose.pose.orientation:
+	z: -0.597015074688219
+	w: 0.8022300172612716
+
+robot_pose.pose.position:
+	x: -0.008284959285475355
+	x: -0.0023341373806679048
+robot_pose.pose.orientation:
+	z: -0.5970301265419767
+	w: 0.8022188155368031
+
+robot_pose.pose.position:
+	x: -0.008284959285478974
+	x: -0.002334137380657281
+robot_pose.pose.orientation:
+	z: -0.5969447067286429
+	w: 0.8022823799066352
+
+robot_pose.pose.position:
+	x: -0.008284959285482344
+	x: -0.0023341373806473422
+robot_pose.pose.orientation:
+	z: -0.596934984964699
+	w: 0.8022896133723748
+
+robot_pose.pose.position:
+	x: -0.008284959285485567
+	x: -0.0023341373806378186
+robot_pose.pose.orientation:
+	z: -0.5968838478183692
+	w: 0.8023276588860301
+
+robot_pose.pose.position:
+	x: -0.008284959285488582
+	x: -0.0023341373806289403
+robot_pose.pose.orientation:
+	z: -0.5968636741070896
+	w: 0.8023426665280776
+
+robot_pose.pose.position:
+	x: -0.00828495928549138
+	x: -0.002334137380620704
+robot_pose.pose.orientation:
+	z: -0.5968363543173659
+	w: 0.8023629890299999
+
+robot_pose.pose.position:
+	x: -0.008284959285494033
+	x: -0.0023341373806129466
+robot_pose.pose.orientation:
+	z: -0.5968526787447028
+	w: 0.8023508458743424
+
+robot_pose.pose.position:
+	x: -0.008284959285496342
+	x: -0.002334137380606195
+robot_pose.pose.orientation:
+	z: -0.5968735237540029
+	w: 0.8023353392699837
+
+robot_pose.pose.position:
+	x: -0.008284959285498689
+	x: -0.0023341373805993043
+robot_pose.pose.orientation:
+	z: -0.596824180943945
+	w: 0.8023720440298187
+
+robot_pose.pose.position:
+	x: -0.008284959285500914
+	x: -0.0023341373805927644
+robot_pose.pose.orientation:
+	z: -0.5967831399370624
+	w: 0.8024025697160126
+
+robot_pose.pose.position:
+	x: -0.008284959285502894
+	x: -0.0023341373805869617
+robot_pose.pose.orientation:
+	z: -0.5967743737045165
+	w: 0.8024090894858944
+
+robot_pose.pose.position:
+	x: -0.008284959285504729
+	x: -0.0023341373805815676
+robot_pose.pose.orientation:
+	z: -0.5967719782881338
+	w: 0.8024108710193719
+
+robot_pose.pose.position:
+	x: -0.008284959285506596
+	x: -0.0023341373805761245
+robot_pose.pose.orientation:
+	z: -0.5968575970340557
+	w: 0.8023471872342626
+
+robot_pose.pose.position:
+	x: -0.008284959285508155
+	x: -0.0023341373805715756
+robot_pose.pose.orientation:
+	z: -0.5967971763982498
+	w: 0.802392129973292
+
+robot_pose.pose.position:
+	x: -0.008284959285509836
+	x: -0.0023341373805666364
+robot_pose.pose.orientation:
+	z: -0.5968349237663725
+	w: 0.8023640531409594
+
+robot_pose.pose.position:
+	x: -0.008284959285511304
+	x: -0.00233413738056235
+robot_pose.pose.orientation:
+	z: -0.5968074172309955
+	w: 0.8023845130223218
+
+robot_pose.pose.position:
+	x: -0.008284959285512697
+	x: -0.002334137380558267
+robot_pose.pose.orientation:
+	z: -0.5968156124745173
+	w: 0.8023784173983414
+
+robot_pose.pose.position:
+	x: -0.00828495928551401
+	x: -0.002334137380554433
+robot_pose.pose.orientation:
+	z: -0.5968889006323678
+	w: 0.8023238998695498
+
+robot_pose.pose.position:
+	x: -0.008284959285515207
+	x: -0.002334137380550939
+robot_pose.pose.orientation:
+	z: -0.5968033737744781
+	w: 0.8023875204982942
+
+robot_pose.pose.position:
+	x: -0.008284959285516424
+	x: -0.0023341373805473497
+robot_pose.pose.orientation:
+	z: -0.5968393197892364
+	w: 0.8023607831602448
+
+robot_pose.pose.position:
+	x: -0.008284959285517474
+	x: -0.00233413738054428
+robot_pose.pose.orientation:
+	z: -0.5967850023823896
+	w: 0.802401184527697
+
+robot_pose.pose.position:
+	x: -0.008284959285518475
+	x: -0.0023341373805413376
+robot_pose.pose.orientation:
+	z: -0.5968349821308996
+	w: 0.8023640097267628
+
+robot_pose.pose.position:
+	x: -0.008284959285519419
+	x: -0.002334137380538584
+robot_pose.pose.orientation:
+	z: -0.5967858257293632
+	w: 0.8024005721636308
+
+robot_pose.pose.position:
+	x: -0.008284959285520331
+	x: -0.002334137380535903
+robot_pose.pose.orientation:
+	z: -0.5968030232013001
+	w: 0.8023877812490594
+
+robot_pose.pose.position:
+	x: -0.008284959285521176
+	x: -0.0023341373805334346
+robot_pose.pose.orientation:
+	z: -0.596767179786209
+	w: 0.8024144397566725
+
+robot_pose.pose.position:
+	x: -0.008284959285521943
+	x: -0.0023341373805311795
+robot_pose.pose.orientation:
+	z: -0.5967845427489021
+	w: 0.8024015263793955
+
+robot_pose.pose.position:
+	x: -0.00828495928552272
+	x: -0.00233413738052891
+robot_pose.pose.orientation:
+	z: -0.5967421429997438
+	w: 0.8024330593688631
+
+robot_pose.pose.position:
+	x: -0.008284959285523384
+	x: -0.002334137380526955
+robot_pose.pose.orientation:
+	z: -0.5967532873500996
+	w: 0.8024247715747872
+
+robot_pose.pose.position:
+	x: -0.008284959285524047
+	x: -0.0023341373805250173
+robot_pose.pose.orientation:
+	z: -0.5967295315588438
+	w: 0.8024424379141241
+
+robot_pose.pose.position:
+	x: -0.008284959285524649
+	x: -0.002334137380523249
+robot_pose.pose.orientation:
+	z: -0.5966944246144319
+	w: 0.8024685437037716
+
+robot_pose.pose.position:
+	x: -0.008284959285525207
+	x: -0.0023341373805216134
+robot_pose.pose.orientation:
+	z: -0.5967240336650605
+	w: 0.802446526347083
+
+robot_pose.pose.position:
+	x: -0.008284959285525752
+	x: -0.0023341373805200174
+robot_pose.pose.orientation:
+	z: -0.5967025124741719
+	w: 0.8024625297214885
+
+robot_pose.pose.position:
+	x: -0.008284959285526288
+	x: -0.002334137380518445
+robot_pose.pose.orientation:
+	z: -0.5967155521522952
+	w: 0.8024528333924564
+
+robot_pose.pose.position:
+	x: -0.008284959285526751
+	x: -0.002334137380517094
+robot_pose.pose.orientation:
+	z: -0.5966651605847424
+	w: 0.8024903028351081
+
+robot_pose.pose.position:
+	x: -0.00828495928552719
+	x: -0.0023341373805158064
+robot_pose.pose.orientation:
+	z: -0.5967291748609957
+	w: 0.8024427031693385
+
+robot_pose.pose.position:
+	x: -0.008284959285527606
+	x: -0.0023341373805145977
+robot_pose.pose.orientation:
+	z: -0.5966944199511554
+	w: 0.8024685471712609
+
+robot_pose.pose.position:
+	x: -0.008284959285527995
+	x: -0.002334137380513453
+robot_pose.pose.orientation:
+	z: -0.5966772536891133
+	w: 0.802481311265264
+
+robot_pose.pose.position:
+	x: -0.008284959285528358
+	x: -0.002334137380512387
+robot_pose.pose.orientation:
+	z: -0.5967168523054909
+	w: 0.802451866578069
+
+robot_pose.pose.position:
+	x: -0.008284959285528718
+	x: -0.0023341373805113343
+robot_pose.pose.orientation:
+	z: -0.5966857793786892
+	w: 0.8024749720005269
+
+robot_pose.pose.position:
+	x: -0.008284959285529057
+	x: -0.0023341373805103485
+robot_pose.pose.orientation:
+	z: -0.5967287473301878
+	w: 0.8024430210985357
+
+robot_pose.pose.position:
+	x: -0.008284959285529345
+	x: -0.0023341373805095076
+robot_pose.pose.orientation:
+	z: -0.5966995690463893
+	w: 0.8024647184143694
+
+robot_pose.pose.position:
+	x: -0.00828495928552963
+	x: -0.0023341373805086706
+robot_pose.pose.orientation:
+	z: -0.5967004342233503
+	w: 0.8024640750822838
+
+robot_pose.pose.position:
+	x: -0.008284959285529902
+	x: -0.0023341373805078718
+robot_pose.pose.orientation:
+	z: -0.5966581359424914
+	w: 0.8024955257281073
+
+robot_pose.pose.position:
+	x: -0.008284959285530146
+	x: -0.00233413738050716
+robot_pose.pose.orientation:
+	z: -0.5966949060364527
+	w: 0.8024681857308418
+
+robot_pose.pose.position:
+	x: -0.008284959285530377
+	x: -0.002334137380506486
+robot_pose.pose.orientation:
+	z: -0.596626470191932
+	w: 0.8025190683506004
+
+robot_pose.pose.position:
+	x: -0.008284959285530618
+	x: -0.002334137380505777
+robot_pose.pose.orientation:
+	z: -0.5965679356823808
+	w: 0.8025625820555446
+
+robot_pose.pose.position:
+	x: -0.008284959285530833
+	x: -0.002334137380505139
+robot_pose.pose.orientation:
+	z: -0.596539861246402
+	w: 0.8025834498319309
+
+robot_pose.pose.position:
+	x: -0.008284959285531024
+	x: -0.0023341373805045775
+robot_pose.pose.orientation:
+	z: -0.5965463269527835
+	w: 0.8025786439964264
+
+robot_pose.pose.position:
+	x: -0.0082849592855312
+	x: -0.0023341373805040645
+robot_pose.pose.orientation:
+	z: -0.5965416870061298
+	w: 0.802582092787947
+
+robot_pose.pose.position:
+	x: -0.008284959285531374
+	x: -0.002334137380503553
+robot_pose.pose.orientation:
+	z: -0.5965267186074763
+	w: 0.8025932182540523
+
+robot_pose.pose.position:
+	x: -0.008284959285531544
+	x: -0.0023341373805030566
+robot_pose.pose.orientation:
+	z: -0.5965606808219199
+	w: 0.8025679747518507
+
+robot_pose.pose.position:
+	x: -0.008284959285531685
+	x: -0.002334137380502651
+robot_pose.pose.orientation:
+	z: -0.5965171062301006
+	w: 0.802600362555903
+
+robot_pose.pose.position:
+	x: -0.00828495928553183
+	x: -0.0023341373805022213
+robot_pose.pose.orientation:
+	z: -0.5964854061585617
+	w: 0.8026239220455965
+
+robot_pose.pose.position:
+	x: -0.008284959285531973
+	x: -0.002334137380501806
+robot_pose.pose.orientation:
+	z: -0.5965086267535755
+	w: 0.8026066646923408
+
+robot_pose.pose.position:
+	x: -0.008284959285532096
+	x: -0.002334137380501446
+robot_pose.pose.orientation:
+	z: -0.5964921006985229
+	w: 0.8026189468261158
+
+robot_pose.pose.position:
+	x: -0.00828495928553221
+	x: -0.0023341373805011102
+robot_pose.pose.orientation:
+	z: -0.5964856757494222
+	w: 0.8026237216938925
+
+robot_pose.pose.position:
+	x: -0.008284959285532321
+	x: -0.002334137380500784
+robot_pose.pose.orientation:
+	z: -0.5964537789702248
+	w: 0.8026474254317011
+
+robot_pose.pose.position:
+	x: -0.008284959285532427
+	x: -0.00233413738050048
+robot_pose.pose.orientation:
+	z: -0.5964631287165856
+	w: 0.8026404774752031
+
+robot_pose.pose.position:
+	x: -0.008284959285532526
+	x: -0.002334137380500188
+robot_pose.pose.orientation:
+	z: -0.596395423311158
+	w: 0.8026907867002739
+
+robot_pose.pose.position:
+	x: -0.008284959285532616
+	x: -0.00233413738049992
+robot_pose.pose.orientation:
+	z: -0.596420537441122
+	w: 0.8026721264118015
+
+robot_pose.pose.position:
+	x: -0.008284959285532705
+	x: -0.0023341373804996604
+robot_pose.pose.orientation:
+	z: -0.5963933895094942
+	w: 0.802692297801204
+
+robot_pose.pose.position:
+	x: -0.008284959285532786
+	x: -0.002334137380499426
+robot_pose.pose.orientation:
+	z: -0.5964089019700811
+	w: 0.8026807719453869
+
+robot_pose.pose.position:
+	x: -0.008284959285532858
+	x: -0.002334137380499217
+robot_pose.pose.orientation:
+	z: -0.5963362421540372
+	w: 0.8027347546316912
+
+robot_pose.pose.position:
+	x: -0.008284959285532932
+	x: -0.0023341373804989973
+robot_pose.pose.orientation:
+	z: -0.5963164431340511
+	w: 0.8027494625647245
+
+robot_pose.pose.position:
+	x: -0.008284959285533
+	x: -0.002334137380498802
+robot_pose.pose.orientation:
+	z: -0.5963071373307701
+	w: 0.802756375227492
+
+robot_pose.pose.position:
+	x: -0.008284959285533064
+	x: -0.0023341373804986144
+robot_pose.pose.orientation:
+	z: -0.596340075030685
+	w: 0.8027319072469943
+
+robot_pose.pose.position:
+	x: -0.008284959285533121
+	x: -0.0023341373804984474
+robot_pose.pose.orientation:
+	z: -0.5962793298566642
+	w: 0.8027770305543672
+
+robot_pose.pose.position:
+	x: -0.00828495928553318
+	x: -0.0023341373804982722
+robot_pose.pose.orientation:
+	z: -0.5962509294461625
+	w: 0.8027981247702235
+
+robot_pose.pose.position:
+	x: -0.008284959285533229
+	x: -0.0023341373804981282
+robot_pose.pose.orientation:
+	z: -0.5963252128241823
+	w: 0.8027429479915682
+
+robot_pose.pose.position:
+	x: -0.008284959285533276
+	x: -0.0023341373804979994
+robot_pose.pose.orientation:
+	z: -0.5962771787707477
+	w: 0.8027786283136826
+
+robot_pose.pose.position:
+	x: -0.008284959285533322
+	x: -0.00233413738049786
+robot_pose.pose.orientation:
+	z: -0.5962563103942949
+	w: 0.8027941282265224
+
+robot_pose.pose.position:
+	x: -0.008284959285533366
+	x: -0.002334137380497733
+robot_pose.pose.orientation:
+	z: -0.5962918003654943
+	w: 0.8027677676743614
+
+robot_pose.pose.position:
+	x: -0.008284959285533406
+	x: -0.002334137380497614
+robot_pose.pose.orientation:
+	z: -0.5962797340284007
+	w: 0.802776730347249
+
+robot_pose.pose.position:
+	x: -0.008284959285533442
+	x: -0.002334137380497512
+robot_pose.pose.orientation:
+	z: -0.5962677305188627
+	w: 0.8027856460736482
+
+robot_pose.pose.position:
+	x: -0.00828495928553348
+	x: -0.0023341373804973975
+robot_pose.pose.orientation:
+	z: -0.5962469644106321
+	w: 0.8028010696499516
+
+robot_pose.pose.position:
+	x: -0.008284959285533513
+	x: -0.0023341373804973025
+robot_pose.pose.orientation:
+	z: -0.5962149247468725
+	w: 0.8028248647800348
+
+robot_pose.pose.position:
+	x: -0.008284959285533544
+	x: -0.0023341373804972114
+robot_pose.pose.orientation:
+	z: -0.5962091798597845
+	w: 0.8028291311673507
+
+robot_pose.pose.position:
+	x: -0.008284959285533574
+	x: -0.002334137380497128
+robot_pose.pose.orientation:
+	z: -0.5962086130174582
+	w: 0.8028295521241098
+
+robot_pose.pose.position:
+	x: -0.008284959285533602
+	x: -0.002334137380497045
+robot_pose.pose.orientation:
+	z: -0.5962209822264275
+	w: 0.802820366179729
+
+robot_pose.pose.position:
+	x: -0.008284959285533628
+	x: -0.00233413738049697
+robot_pose.pose.orientation:
+	z: -0.5961824884026216
+	w: 0.8028489524948376
+
+robot_pose.pose.position:
+	x: -0.008284959285533652
+	x: -0.0023341373804969
+robot_pose.pose.orientation:
+	z: -0.5961828578938608
+	w: 0.8028486781165605
+
+robot_pose.pose.position:
+	x: -0.008284959285533676
+	x: -0.0023341373804968294
+robot_pose.pose.orientation:
+	z: -0.5961602136351707
+	w: 0.8028654928930921
+
+robot_pose.pose.position:
+	x: -0.008284959285533697
+	x: -0.002334137380496768
+robot_pose.pose.orientation:
+	z: -0.5961456189500443
+	w: 0.802876329833349
+
+robot_pose.pose.position:
+	x: -0.008284959285533716
+	x: -0.00233413738049671
+robot_pose.pose.orientation:
+	z: -0.5961127958580139
+	w: 0.8029007003449068
+
+robot_pose.pose.position:
+	x: -0.008284959285533735
+	x: -0.0023341373804966563
+robot_pose.pose.orientation:
+	z: -0.596142654051014
+	w: 0.8028785312991082
+
+robot_pose.pose.position:
+	x: -0.008284959285533753
+	x: -0.0023341373804966056
+robot_pose.pose.orientation:
+	z: -0.5960999940520452
+	w: 0.8029102048742136
+
+robot_pose.pose.position:
+	x: -0.008284959285533768
+	x: -0.002334137380496558
+robot_pose.pose.orientation:
+	z: -0.5960532787367481
+	w: 0.8029448853484108
+
+robot_pose.pose.position:
+	x: -0.008284959285533784
+	x: -0.0023341373804965115
+robot_pose.pose.orientation:
+	z: -0.5961031022726425
+	w: 0.8029078972465843
+
+robot_pose.pose.position:
+	x: -0.0082849592855338
+	x: -0.0023341373804964655
+robot_pose.pose.orientation:
+	z: -0.5961728087097434
+	w: 0.8028561403857702
+
+robot_pose.pose.position:
+	x: -0.008284959285533813
+	x: -0.002334137380496425
+robot_pose.pose.orientation:
+	z: -0.5961272238845722
+	w: 0.8028899880703914
+
+robot_pose.pose.position:
+	x: -0.008284959285533825
+	x: -0.002334137380496388
+robot_pose.pose.orientation:
+	z: -0.596066428212749
+	w: 0.8029351238784462
+
+robot_pose.pose.position:
+	x: -0.008284959285533838
+	x: -0.002334137380496353
+robot_pose.pose.orientation:
+	z: -0.5960468872586794
+	w: 0.8029496299203576
+
+robot_pose.pose.position:
+	x: -0.008284959285533848
+	x: -0.0023341373804963202
+robot_pose.pose.orientation:
+	z: -0.5959934658889182
+	w: 0.8029892830030266
+
+robot_pose.pose.position:
+	x: -0.00828495928553386
+	x: -0.002334137380496288
+robot_pose.pose.orientation:
+	z: -0.5959673510909844
+	w: 0.8030086652294577
+
+robot_pose.pose.position:
+	x: -0.008284959285533872
+	x: -0.002334137380496258
+robot_pose.pose.orientation:
+	z: -0.5959836593975483
+	w: 0.8029965614690434
+
+robot_pose.pose.position:
+	x: -0.008284959285533881
+	x: -0.0023341373804962318
+robot_pose.pose.orientation:
+	z: -0.5959790167139116
+	w: 0.8030000072457777
+
+robot_pose.pose.position:
+	x: -0.00828495928553389
+	x: -0.0023341373804962057
+robot_pose.pose.orientation:
+	z: -0.5959581032200465
+	w: 0.803015528620938
+
+robot_pose.pose.position:
+	x: -0.008284959285533898
+	x: -0.0023341373804961815
+robot_pose.pose.orientation:
+	z: -0.595946392601082
+	w: 0.8030242195262588
+
