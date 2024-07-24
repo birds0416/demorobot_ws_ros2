@@ -5,8 +5,9 @@ from rclpy.qos import qos_profile_system_default
 from rclpy.qos import qos_profile_services_default
 
 from std_msgs.msg import String
-from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, PoseWithCovariance
+from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, PoseWithCovariance, Transform
 from nav_msgs.msg import Odometry
+from tf2_msgs.msg import TFMessage
 from demorobot_msg.msg import BatteryStat, Detect
 from demorobot_action_interfaces.action import RobotNamespace
 from tf2_ros import transform_listener
@@ -42,11 +43,18 @@ class MsgReceiver(Node):
 
             # 토픽 구독 변수 생성
             self.sub_battery_stat = self.create_subscription(BatteryStat, '/battery_stat', self.battery_callback, 10)
-            self.sub_battery_stat = self.create_subscription(Detect, '/detect_data', self.detect_data_callback, 10)
+            self.sub_detect_data = self.create_subscription(Detect, '/pose_detect/detect_data', self.detect_data_callback, 10)
             self.sub_robot_pose = self.create_subscription(Odometry, '/odom', self.robot_pose_callback, 10)
+            self.sub_robot_tf = self.create_subscription(TFMessage, '/tf', self.robot_tf_callback, 10)
+            # unused variable resolve
+            self.sub_battery_stat
+            self.sub_detect_data
+            self.sub_robot_pose
+            self.sub_robot_tf
             
             self.detect_data = Detect()
             self.robot_pose = PoseStamped()
+            self.robot_tf = Transform()
             
             self.battery_mode = None
             self.battery_vol = None
@@ -65,10 +73,19 @@ class MsgReceiver(Node):
         Dictionary ={
             'pos_x':str(self.robot_pose.pose.position.x),
             'pos_y':str(self.robot_pose.pose.position.y),
+            'ori_x':str(self.robot_pose.pose.orientation.x),
+            'ori_y':str(self.robot_pose.pose.orientation.y),
             'ori_z':str(self.robot_pose.pose.orientation.z),
+            'ori_w':str(self.robot_pose.pose.orientation.w),
             'x':self.detect_data.box_mid_x,
             'y':self.detect_data.box_mid_y,
             'dist':self.detect_data.distance,
+            'tf_pos_x':self.robot_tf.translation.x,
+            'tf_pos_y':self.robot_tf.translation.y,
+            'tf_ori_x':self.robot_tf.rotation.x,
+            'tf_ori_y':self.robot_tf.rotation.y,
+            'tf_ori_z':self.robot_tf.rotation.z,
+            'tf_ori_w':self.robot_tf.rotation.w
         }
         self.mqttclient.publish(self.MQTT_PUB_TOPIC, json.dumps(Dictionary).encode(),qos=0, retain=False)
     
@@ -86,14 +103,24 @@ class MsgReceiver(Node):
     def robot_pose_callback(self, data):
         if data != None:
             self.robot_pose.pose.position.x = data.pose.pose.position.x
-            self.robot_pose.pose.position.y = data.pose.pose.position.y
+            self.robot_pose.pose.position.y = data.pose.pose.position.y * -1
             # self.robot_pose.pose.position.z = data.pose.pose.position.z
 
-            # self.robot_pose.pose.orientation.x = data.pose.pose.orientation.x
-            # self.robot_pose.pose.orientation.y = data.pose.pose.orientation.y
-            self.robot_pose.pose.orientation.z = data.pose.pose.orientation.z
+            self.robot_pose.pose.orientation.x = data.pose.pose.orientation.x
+            self.robot_pose.pose.orientation.y = data.pose.pose.orientation.y
+            self.robot_pose.pose.orientation.z = data.pose.pose.orientation.z * -1
             self.robot_pose.pose.orientation.w = data.pose.pose.orientation.w
     
+    def robot_tf_callback(self, data):
+        for d in data.transforms:
+            if d.header.frame_id == "map" and d.child_frame_id == "odom":
+                self.robot_tf.translation.x = d.transform.translation.x
+                self.robot_tf.translation.y = d.transform.translation.y * -1
+                self.robot_tf.rotation.x = d.transform.rotation.x
+                self.robot_tf.rotation.y = d.transform.rotation.y
+                self.robot_tf.rotation.z = d.transform.rotation.z * -1
+                self.robot_tf.rotation.w = d.transform.rotation.w
+
 def main(args=None):
     rclpy.init(args=args)
     msg_sender = MsgReceiver()

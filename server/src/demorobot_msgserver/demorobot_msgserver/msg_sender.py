@@ -73,8 +73,8 @@ class MsgSender(Node):
         if msg_dict is not None:
             if msg_topic == self.MQTT_SUB_TOPIC_1:
                 self.pub_msg_topic_1(msg_dict)
-            if msg_topic == self.MQTT_SUB_TOPIC_2:
-                self.pub_msg_topic_2(msg_dict)
+            # if msg_topic == self.MQTT_SUB_TOPIC_2:
+            #     self.pub_msg_topic_2(msg_dict)
             # if msg_topic == self.MQTT_SUB_TOPIC_3:
             #     self.pub_msg_topic_3(msg_dict)
     
@@ -86,8 +86,8 @@ class MsgSender(Node):
 
         pose_msg.pose.position.x = float(msg_dict['pos_x'])
         pose_msg.pose.position.y = float(msg_dict['pos_y'])
-        pose_msg.pose.orientation.z = float(msg_dict['ori_z'])
-        pose_msg.pose.orientation.w = float(msg_dict['ori_w'])
+        # pose_msg.pose.orientation.z = float(msg_dict['ori_z']) * 0.0174533
+        # pose_msg.pose.orientation.w = float(msg_dict['ori_w'])
 
         self.pub_server_pose.publish(pose_msg)
         self.get_logger().info("Pose published to topic {}:\npose_x: {},\npose_y: {}".format('/server_msg/pose_from_server', 

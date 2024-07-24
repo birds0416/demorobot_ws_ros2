@@ -1,6 +1,7 @@
 MsgSender:
   ros__parameters:
-    ~broker_ip_address: 192.168.10.165
+    # ~broker_ip_address: 192.168.10.165
+    ~broker_ip_address: 192.168.0.6
     # ~broker_ip_address: 192.168.10.237
     ~broker_ip_route: 55008
     ~mqtt_sub_topic_1: irbt/pos/to/230999/1
@@ -14,7 +15,8 @@ MsgSender:
 
 MsgReceiver:
   ros__parameters:
-    ~broker_ip_address: 192.168.10.165
+    # ~broker_ip_address: 192.168.10.165
+    ~broker_ip_address: 192.168.0.6
     # ~broker_ip_address: 192.168.10.237
     ~broker_ip_route: 55008
     ~mqtt_pub_topic: irbt/pos/cur/230999/1
