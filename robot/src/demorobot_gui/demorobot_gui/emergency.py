@@ -4,7 +4,7 @@ from std_msgs.msg import Int8, String
 from sensor_msgs.msg import Image
 from demorobot_msg.msg import BatteryStat
 
-from scripts.emer_gui import *
+from .src.emer_gui import *
 
 import numpy as np
 import time

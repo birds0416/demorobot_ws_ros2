@@ -9,7 +9,7 @@ from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, Pose
 from demorobot_msg.msg import BatteryStat
 from std_srvs.srv import SetBool
 
-from scripts.main_gui import *
+from .src.main_gui import *
 import json
 
 class ROS2Worker(QThread):
@@ -86,7 +86,7 @@ class NormalMode(Node):
         self.is_nav = True
         
         self.current_location = num
-        self.get_logger().info("Pose: {}".format(pose_msg))
+        # self.get_logger().info("Pose: {}".format(pose_msg))
         self.pub_location.publish(pose_msg)
 
         self.gui.navigationTab.backBTN.clicked.connect(self.init_navigation_btns)
@@ -97,6 +97,7 @@ class NormalMode(Node):
         
         if self.is_nav:
             self.cancel_navigation()
+            self.is_nav = False
         
         self.gui.navigationWindow.location_btn1.clicked.connect(lambda: self.init_navigation_Tab(1))
         self.gui.navigationWindow.location_btn2.clicked.connect(lambda: self.init_navigation_Tab(2))

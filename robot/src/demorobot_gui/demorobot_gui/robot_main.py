@@ -5,11 +5,12 @@ from rclpy.qos import QosProfile
 from std_msgs.msg import Int8, String
 from sensor_msgs.msg import Image
 from demorobot_msg.msg import BatteryStat
-from scripts.main_gui import *
-from scripts.emer_gui import *
+from .src.main_gui import *
+from .src.emer_gui import *
+from .src.parent_gui import *
 
-from normal import *
-from emergency import *
+import normal as ROS_Normal
+import emergency as ROS_Emergency
 
 import sys
 from PyQt5.QtGui import *
@@ -60,6 +61,15 @@ class RobotMain(Node):
         self.robot_battery = 0
         self.robot_battery_mode = False
         #endregion battery status
+        
+        #region gui mode
+        self.sub_gui_mode = self.create_subscription(Int8, self.NAMESPACE + '/server_msg/drive_mode', self.gui_mode_callback, 10)
+        
+        #endregion gui mode
+        
+        # main, emer gui 통합
+        self.app = QApplication(sys.argv)
+        self.gui = ParentGUI()
     
     def _callback(self, msg):
         self.robot_mode = msg.data
@@ -67,6 +77,9 @@ class RobotMain(Node):
     def bat_stat_callback(self, msg):
         self.robot_battery = msg.vol
         self.robot_battery_mode = msg.mode
+        
+    def gui_mode_callback(self, msg):
+        pass
 
 def main(args=None):
     rclpy.init(args=args)
@@ -75,13 +88,13 @@ def main(args=None):
     robot_thread.start()
 
     '''서버로 디바이스 ID 전송'''
-    ns_action_thread  = LaunchThread("demorobot_datahandler", "datahandler.launch.py", robot_main.NAMESPACE)
-    ns_action_thread.start()
+    # ns_action_thread  = LaunchThread("demorobot_datahandler", "datahandler.launch.py", robot_main.NAMESPACE)
+    # ns_action_thread.start()
 
-    # normal_mode = NormalMode()
-    # emergency_mode = EmergencyMode()
+    normal_mode = ROS_Normal.NormalMode()
+    emergency_mode = ROS_Emergency.EmergencyMode()
     
-    sys.exit(app.exec_())
+    sys.exit(robot_main.app.exec_())
 
 if __name__ == '__main__':
     main()

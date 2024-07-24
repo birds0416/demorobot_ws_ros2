@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(demorobot_action_interfaces)
+project(demorobot_ekf)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
@@ -20,10 +20,10 @@ find_package(ament_cmake REQUIRED)
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
-find_package(rosidl_default_generators REQUIRED)
-rosidl_generate_interfaces(${PROJECT_NAME}
-  "action/RobotNamespace.action"
-  "action/Wander.action"
+
+install(
+  DIRECTORY config launch
+  DESTINATION share/${PROJECT_NAME}
 )
 
 if(BUILD_TESTING)

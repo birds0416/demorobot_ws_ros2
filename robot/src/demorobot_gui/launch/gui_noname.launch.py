@@ -24,10 +24,6 @@ def generate_launch_description():
                 Node(
                     package='demorobot_nav',
                     executable='robot_navigator',
-                    parameters=[
-                        {"use_sim_time": True},
-                        {"is_stamped": True},
-                    ]
                 ),
                 # Node(
                 #     package='demorobot_batterystatus',
@@ -47,4 +43,17 @@ def generate_launch_description():
                 )
             ]
         )
+        # TimerAction(
+        #     period=5.0,
+        #     actions=[
+        #         Node(
+        #             package='demorobot_nav',
+        #             executable='robot_navigator',
+        #         ),
+        #         Node(
+        #             package='demorobot_nav',
+        #             executable='test_navigator'
+        #         )
+        #     ]
+        # )
     })

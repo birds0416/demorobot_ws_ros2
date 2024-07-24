@@ -27,10 +27,6 @@ def generate_launch_description():
                 Node(
                     package='demorobot_nav',
                     executable='robot_navigator',
-                    parameters=[
-                        {"use_sim_time": True},
-                        {"is_stamped": True},
-                    ]
                 ),
                 IncludeLaunchDescription(
                     PythonLaunchDescriptionSource(

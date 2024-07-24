@@ -8,6 +8,13 @@ from ament_index_python.packages import get_package_share_directory
 from launch_ros.actions import Node, PushRosNamespace
 from launch.actions import GroupAction
 
+import os, sys
+import signal
+
+def signal_handler(sig, frame):
+    print("Keyboard Interrupt (SIGINT) received. Terminating nodes...")
+    sys.exit(0)
+
 def generate_launch_description():
     package_name = 'demorobot_depth'
     package_dir = get_package_share_directory(package_name)
@@ -16,6 +23,8 @@ def generate_launch_description():
     astra_camera_launch = os.path.join(library_ws, 'install', 'astra_camera', 'share', 'astra_camera', 'launch', 'astro_pro_plus.launch.xml')
 
     posedetect_dir = get_package_share_directory('demorobot_posedetect')
+    
+    signal.signal(signal.SIGINT, signal_handler)
 
     return LaunchDescription({
 
