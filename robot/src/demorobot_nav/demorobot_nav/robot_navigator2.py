@@ -536,10 +536,6 @@ def main(args=None):
     # navigation_teb.start()
     time.sleep(5)
     
-    ''' demorobot_ekf robot_localization 시작 '''
-    # robot_localization = LaunchThread("demorobot_ekf", "robot_localization.launch.py", navigator.NAMESPACE)
-    # robot_localization.start()
-    
     ''' wanderer 시작'''
     # wanderer_server = RunThread("demorobot_wander", "wanderer_server")
     # wanderer_server.start()
@@ -557,8 +553,8 @@ def main(args=None):
     initial_pose.pose.orientation.z = navigator.initial_pose.pose.orientation.z
     initial_pose.pose.orientation.w = navigator.initial_pose.pose.orientation.w
     navigator.waitUntilNav2Active()
-    navigator.get_logger().info("Initial pose goToPose")
-    navigator.goToPose(initial_pose)
+    # navigator.get_logger().info("Initial pose goToPose")
+    # navigator.goToPose(initial_pose)
 
     # Go to our demos first goal pose
     new_goal_pose = PoseStamped()
@@ -568,65 +564,65 @@ def main(args=None):
     try:
         while rclpy.ok():
             rclpy.spin_once(navigator)
-            new_goal_pose.pose.position.x = round(navigator.robot_current_pose.pose.pose.position.x, 2)
-            new_goal_pose.pose.position.y = round(navigator.robot_current_pose.pose.pose.position.y, 2)
+            # new_goal_pose.pose.position.x = round(navigator.robot_current_pose.pose.pose.position.x, 2)
+            # new_goal_pose.pose.position.y = round(navigator.robot_current_pose.pose.pose.position.y, 2)
 
-            if navigator.is_pose_server:
-                new_goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
-                new_goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
-                new_goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
-                new_goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
-                navigator.is_pose_server = False
+            # if navigator.is_pose_server:
+            #     new_goal_pose.pose.position.x = navigator.pose_msg_server.pose.position.x
+            #     new_goal_pose.pose.position.y = navigator.pose_msg_server.pose.position.y
+            #     new_goal_pose.pose.orientation.z = navigator.pose_msg_server.pose.orientation.z
+            #     new_goal_pose.pose.orientation.w = navigator.pose_msg_server.pose.orientation.w
+            #     navigator.is_pose_server = False
             
-            if navigator.is_pose_ui:
-                new_goal_pose.pose.position.x = navigator.pose_msg_ui.pose.position.x
-                new_goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
-                new_goal_pose.pose.orientation.z = navigator.pose_msg_ui.pose.orientation.z
-                new_goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
-                navigator.is_pose_ui = False
+            # if navigator.is_pose_ui:
+            #     new_goal_pose.pose.position.x = navigator.pose_msg_ui.pose.position.x
+            #     new_goal_pose.pose.position.y = navigator.pose_msg_ui.pose.position.y
+            #     new_goal_pose.pose.orientation.z = navigator.pose_msg_ui.pose.orientation.z
+            #     new_goal_pose.pose.orientation.w = navigator.pose_msg_ui.pose.orientation.w
+            #     navigator.is_pose_ui = False
 
-            '''TODO
-            메시지 받으면 지금 네비게이션 동작중인지 확인하고, cancelNav를 호출
-            goToPose 다음에 while not navigator.isNavComplete(): 이 구문이 있으니, 아까 예상대로 완료가 되어야지만 다음 로직 수행.
-            '''
-            if prev_goal_pose == None or (prev_goal_pose.pose.position.x != new_goal_pose.pose.position.x or
-                                          prev_goal_pose.pose.position.y != new_goal_pose.pose.position.y):
+            # '''TODO
+            # 메시지 받으면 지금 네비게이션 동작중인지 확인하고, cancelNav를 호출
+            # goToPose 다음에 while not navigator.isNavComplete(): 이 구문이 있으니, 아까 예상대로 완료가 되어야지만 다음 로직 수행.
+            # '''
+            # if prev_goal_pose == None or (prev_goal_pose.pose.position.x != new_goal_pose.pose.position.x or
+            #                               prev_goal_pose.pose.position.y != new_goal_pose.pose.position.y):
 
-                navigator.get_logger().info("Received pose, goToPose ({}, {})".format(new_goal_pose.pose.position.x, new_goal_pose.pose.position.y))
-                navigator.goToPose(new_goal_pose)
-                prev_goal_pose = PoseStamped()
-                prev_goal_pose.pose.position.x = round(new_goal_pose.pose.position.x, 2)
-                prev_goal_pose.pose.position.y = round(new_goal_pose.pose.position.y, 2)
+            #     navigator.get_logger().info("Received pose, goToPose ({}, {})".format(new_goal_pose.pose.position.x, new_goal_pose.pose.position.y))
+            #     navigator.goToPose(new_goal_pose)
+            #     prev_goal_pose = PoseStamped()
+            #     prev_goal_pose.pose.position.x = round(new_goal_pose.pose.position.x, 2)
+            #     prev_goal_pose.pose.position.y = round(new_goal_pose.pose.position.y, 2)
 
-            i = 0
-            while not navigator.isNavComplete():
-                # Do something with the feedback
-                i = i + 1
-                feedback = navigator.getFeedback()
+            # i = 0
+            # while not navigator.isNavComplete():
+            #     # Do something with the feedback
+            #     i = i + 1
+            #     feedback = navigator.getFeedback()
 
-                if navigator.is_pose_mqtt_received:
-                    navigator.cancelNav()
-                    navigator.status = GoalStatus.STATUS_CANCELED
+            #     if navigator.is_pose_mqtt_received:
+            #         navigator.cancelNav()
+            #         navigator.status = GoalStatus.STATUS_CANCELED
 
-            # Do something depending on the return code
-            result = navigator.getResult()
-            nav_result = Int8()
-            if result == NavigationResult.SUCCEEDED:
-                navigator.info('Goal succeeded')
-                nav_result.data = 1
-                if navigator.nav_cnt != 0:
-                    navigator.pub_navigation_result.publish(nav_result)
-                    navigator.nav_cnt += 1
-            elif result == NavigationResult.CANCELED:
-                navigator.info('Goal canceled')
-                nav_result.data = 2
-                navigator.pub_navigation_result.publish(nav_result)
-            elif result == NavigationResult.FAILED:
-                navigator.info('Goal failed')
-                nav_result.data = 3
-                navigator.pub_navigation_result.publish(nav_result)
-            else:
-                navigator.info('Goal invalid return status!')
+            # # Do something depending on the return code
+            # result = navigator.getResult()
+            # nav_result = Int8()
+            # if result == NavigationResult.SUCCEEDED:
+            #     navigator.info('Goal succeeded')
+            #     nav_result.data = 1
+            #     if navigator.nav_cnt != 0:
+            #         navigator.pub_navigation_result.publish(nav_result)
+            #         navigator.nav_cnt += 1
+            # elif result == NavigationResult.CANCELED:
+            #     navigator.info('Goal canceled')
+            #     nav_result.data = 2
+            #     navigator.pub_navigation_result.publish(nav_result)
+            # elif result == NavigationResult.FAILED:
+            #     navigator.info('Goal failed')
+            #     nav_result.data = 3
+            #     navigator.pub_navigation_result.publish(nav_result)
+            # else:
+            #     navigator.info('Goal invalid return status!')
 
             # navigator.lifecycleShutdown()
             time.sleep(0.5)
