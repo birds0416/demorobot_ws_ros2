@@ -2,12 +2,11 @@ from typing import List
 from ultralytics import YOLO
 import cv2
 import configparser
-import time
+import time, datetime
 import logging
 from cv_bridge import CvBridge
 import numpy as np
 import torch
-import datetime
 import math
 
 #ros message setting
@@ -17,8 +16,9 @@ from rclpy.node import Node
 from rclpy.parameter import Parameter
 from rclpy.qos import QoSProfile
 from sensor_msgs.msg import Image
-from std_msgs.msg import String, Float64MultiArray
-from demorobot_msg.msg import Detect
+from geometry_msgs.msg import Twist
+from std_msgs.msg import String, Float64MultiArray, Bool
+from demorobot_msg.msg import Detect, DetectArray
 
 bridge = CvBridge()
 
@@ -38,9 +38,14 @@ class DetectPublisher(Node):
         if self.NAMESPACE == "/":
             self.NAMESPACE = ""
             
-        self.detect_pub = self.create_publisher(Detect, self.NAMESPACE + '/pose_detect/detect_points', 10)
+        self.detect_pub = self.create_publisher(DetectArray, self.NAMESPACE + '/pose_detect/detect_data', 10)
         self._infer_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/detect_img', 10)
         self._depth_pub = self.create_publisher(Image, self.NAMESPACE + '/pose_detect/depth_frame', 10)
+        
+class RobotControlPublisher(Node):
+    def __init__(self):
+        super().__init__('robot_controller')
+        self.pub_control = self.create_publisher(Twist, '/cmd_vel', 10)
 
 class ImageSubscriber(Node):
     def __init__(self):
@@ -114,9 +119,13 @@ class ImageSubscriber(Node):
         self.img_values = np.zeros((h, w), dtype=np.uint16)
         self.img_values = cv_img.astype(np.uint16)
 
-class EmptyNode(Node):
+class WanderPublisher(Node):
     def __init__(self):
-        super().__init__('empty_node')
+        super().__init__('wander_pub')
+        self.NAMESPACE = self.get_namespace()
+        if self.NAMESPACE == "/":
+            self.NAMESPACE = ""
+        self.pub_wander_stop = self.create_publisher(Bool, self.NAMESPACE + '/wander/stop', 10)
 
 def non_zero_cnt(nums_x, nums_y):
     res = sum(1 for num in nums_x if num != 0)
@@ -131,11 +140,11 @@ def main(args=None):
     evt_msg = String()  
 
     detect_node = DetectPublisher()
-    detect_msg = Detect()
 
     img_node = ImageSubscriber()
-
-    empty_node = EmptyNode()
+    robot_controller = RobotControlPublisher()
+    
+    wander_publisher = WanderPublisher()
 
     # Image saving publisher
     img_saver_node = rclpy.create_node('img_saver_node')
@@ -153,7 +162,7 @@ def main(args=None):
     properties.read('./cornersdev/demorobot_ws/src/demorobot_posedetect/demorobot_posedetect/config.ini')
 
     default = properties["DEFAULT"] #기본 세팅 목록
-    timeset = properties["TIMESET"] #시간 관련 세팅 목록    
+    timeset = properties["TIMESET"] #시간 관련 세팅 목록
 
     event_count = timeset.getint("event_count") # 이벤트 반복 횟수
     fall_time = timeset.getfloat("fall_time") # 넘어짐 이벤트 판단 기준 시간 
@@ -221,7 +230,7 @@ def main(args=None):
         #감지된 keypoint X,Y 값 저장
         upper_body = [] # 상체(코,눈,귀,어깨) y좌표 리스트
         lower_body = [] # 하체(발목,무릎,골반) y좌표 리스트
-        gap = 200 # 하체 - gap 만큼의 높이 보다 상체의 높이가 낮아졌을 경우 넘어졌다고 판단
+        gap = 250 # 하체 - gap 만큼의 높이 보다 상체의 높이가 낮아졌을 경우 넘어졌다고 판단
 
         #상체 윗 부분 부터 y좌표 저장
         for kp in keypoints[0:7]:
@@ -247,8 +256,8 @@ def main(args=None):
         return False  
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
-    # distance_f = open("./src/demorobot_posedetect/logs/{}_keypoint_distance.txt".format(now), 'w+')
-    # distance_f = open("./src/demorobot_posedetect/distances/{}_distance.txt".format(now), 'w+')
+    # rotate_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
+    detect_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
 
     while True: # 프레임 단위로 반복.
 
@@ -262,9 +271,6 @@ def main(args=None):
 
         w = img_node.img_w
         h = img_node.img_h
-
-        empty_node.get_logger().info("camera img width: {}".format(w))
-        empty_node.get_logger().info("camera img height: {}".format(h))
 
         # Depth 이미지 처리
         depth_pix = img_node.img_values
@@ -280,25 +286,41 @@ def main(args=None):
         fps = 1 / term
         prev_time = curr_time
         fps_string = f'term = {term:.3f},  FPS = {fps:.2f}'
-        empty_node.get_logger().info(fps_string)
 
         if tf:
             #입력 프레임 감지
             results = model.predict(frame)[0].cpu()
             #감지결과 프레임 저장
             annotated_frame = frame
-            # empty_node.get_logger().info("annotated frame: {}".format(annotated_frame.shape))
 
             try:
                 people_fall_count = 0 # 해당 프레임에 넘어져 있는 사람이 있는지 카운트
                 #감지 된 각 객체들을 분석
-
+                
+                # 감지된 정보 저장
+                detect_data = []
+                detect_array_msg = DetectArray()
+                twist_msg = Twist()
+                
                 if results != None:
-                    for result in results:
+                    prev_idx = None
+                    for idx, result in enumerate(results):
+                        detect_msg = Detect()
+                        prev_idx = idx
+                        temp_data = {
+                            "id" : idx,
+                            "data" : {
+                                "isFall": False,
+                                "box_mid_x" : None,
+                                "box_mid_y" : None,
+                                "detect_key" : [],
+                                "depth_val" : None
+                            }
+                        }
                         #감지 정확도 낮을 시 건너뛰는 로직 필요
                         score = float(result.boxes.conf[0])
                         if score < 0.6:
-                            continue  
+                            continue
 
                         #감지된 box 값 저장
                         pred_box_xywh = result.boxes.xywh.numpy()
@@ -315,25 +337,38 @@ def main(args=None):
                         detect_msg.box = [box_x, box_y, box_xx, box_yy]
 
                         keypoint_datas = result.keypoints.xy.numpy()[0]
-                        detect_msg.data = []
+                        detect_msg.keypnt_data = []
                         for data in keypoint_datas:
-                            detect_msg.data.append(data[0])
-                            detect_msg.data.append(data[1]) 
+                            detect_msg.keypnt_data.append(data[0])
+                            detect_msg.keypnt_data.append(data[1])
+                            temp_data["data"]["detect_key"].append([data[0], data[1]])
 
                         # 디텍션 박스의 가로세로 비율과 머리, 발 위치를 같이 사용해 넘어짐 감지
+                        box_mid_x = int((box_x + box_xx) / 2)
+                        box_mid_y = int((box_y + box_yy) / 2)
+                        
+                        detect_msg.box_mid_x = box_mid_x
+                        detect_msg.box_mid_y = box_mid_y
+                        
+                        temp_data["data"]["box_mid_x"] = box_mid_x
+                        temp_data["data"]["box_mid_y"] = box_mid_y
+                        
                         # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
                         keypoint_comp_result = keypoint_comp(result.keypoints.xy.numpy())
                         # detect_msg.box = pred_box_xyxy[0]
-                        if box_rate > 0.5 and keypoint_comp_result:
+                        if box_rate > 0.6 and keypoint_comp_result:
                             people_fall_count += 1
                             detect_msg.fall = True
+                            temp_data["data"]["isFall"] = True
                             cv2.putText(annotated_frame, "FALL", (box_x-5,box_y-5),0,1,red_color,2)
                             cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),red_color,2)
                         else:
                             detect_msg.fall = False
+                            temp_data["data"]["isFall"] = False
                             cv2.putText(annotated_frame, "Person", (box_x-5,box_y-5),0,1,green_color,2)
                             cv2.rectangle(annotated_frame,(box_x,box_y),(box_xx,box_yy),green_color,2) 
                         
+                        '''
                         #region 계산 1
                         # 좌표 비율 계산 (yolo: 640x384)
                         # box_x_mod = int(box_x * (480 / 384))
@@ -346,11 +381,8 @@ def main(args=None):
                         #endregion 계산 1
 
                         #region 계산 2
-                        box_mid_x = int((box_x + box_xx) / 2)
-                        box_mid_y = int((box_y + box_yy) / 2)
 
                         # distance = float(depth_pix[240][box_mid_x]) / 1000
-                        # empty_node.get_logger().info("This is Distance: {}m".format(distance))
                         
                         # box_dist = round(distance, 2)
 
@@ -432,12 +464,12 @@ def main(args=None):
                         #         cv2.putText(annotated_frame, "idx: " + str(box_idx), (box_mid_x + 10, box_mid_y - 30), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 255), 1)
                         #         cv2.putText(annotated_frame, dist_text, (box_mid_x, box_mid_y), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
                         #endregion 계산 4
+                        '''
 
                         #region 계산 5
                         temp_depths = []
-                        now2 = datetime.datetime.now().strftime("%H-%M-%S")
+                        # now2 = datetime.datetime.now().strftime("%H-%M-%S")
                         # distance_f.write(now2 + ":\n")
-                        empty_node.get_logger().info("Time: {}".format(now2))
                         for idx, data in enumerate(keypoint_datas):
                             depth_val = depth_pix[int(data[1])][int(data[0])]
                             # distance_f.write(str(idx) + "\t- Keypoint: [" + str(data[0]) + ", " + str(data[1]) + "]")
@@ -447,17 +479,7 @@ def main(args=None):
                                 temp_depths.append(dist)
                                 
                         temp_depths.sort()
-                        # empty_node.get_logger().info("Sorted depths: {}".format(temp_depths))
                         dist_data_size = len(temp_depths)
-                        # for d in temp_depths:
-                        #     distance_f.write(str(d) + " ")
-                        # distance_f.write("\n")
-
-                        #region depth avg
-                        # sum = 0
-                        # if dist_data_size < 4:
-                        #     distance_f.write("Number of Depth points: " + str(dist_data_size) + " - Not enough keypoints!\n")
-                        #endregion depth avg
 
                         #region gemini created code
                         # Calculate the median and interquartile range (IQR)
@@ -471,20 +493,108 @@ def main(args=None):
                         lower_bound = q1 - 1.5 * iqr
                         filtered_data = [x for x in temp_depths if lower_bound <= x <= upper_bound]
                         dist_avg = round(sum(filtered_data) / len(filtered_data), 3)
+                        
+                        # temp_data에 감지된 사람까지의 거리를 계산한 값을 보냄
+                        temp_data["data"]["depth_val"] = dist_avg
+                        detect_msg.distance = dist_avg
+                        
                         # distance_f.write(": " + str(dist_avg) + "m\n")
-                        empty_node.get_logger().info("dist_avg: {}m\n".format(dist_avg))
                         cv2.putText(annotated_frame, str(dist_avg)+'m', (box_mid_x, box_mid_y - 15), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
                         #endregion gemini created code
 
-                    
-                        # distance_f.write("\n")
+                        stop_twist_msg = Twist()
+                        
+                        wander_stop_msg = Bool()
+                        wander_stop_msg.data = True
+                        
+                        robot_controller.pub_control.publish(stop_twist_msg)
+                        wander_publisher.pub_wander_stop.publish(wander_stop_msg)
+                        
+                        '''
+                        TODO
+                        1. 로봇이 자율주행으로 돌아다닐 때 3D 상에 로봇이 잘 표현되는지
+                        2. (다양한 위치에 쓰러진 사람이 있을 때) 사람 한 명이 멀리 서있을 때, 자율적으로 주행 중 사람 감지 시
+                            3D상에 사람 표현 및 사람 감지 후 중앙정렬하여 1m까지 접근
+                        3. 화면에 두 명 이상의 사람이 감지될 때 더 가까운 사람에게 접근
+                        4. 쓰러져있는 사람한테만 접근 및 감지
+                        '''
                         #endregion 계산 5
+                        detect_data.append(temp_data)
+                        detect_array_msg.data.append(detect_msg)
+                        
+                    detect_node.detect_pub.publish(detect_array_msg)
                     
-                        detect_node.detect_pub.publish(detect_msg)
-                
+                    #region 넘어진 사람 감지 및 접근 & 이동 명령 전송
+                    # 회전 상수 값
+                    Kp = 0.1
+                    Ki = 0.01
+                    Kd = 0
+                    integral = 0.0
+                    
+                    max_angular_z = 1.0
+                    
+                    # 넘어진 사람만 추려냄
+                    detect_fall_obj = [obj for obj in detect_data if obj["data"]["isFall"]]
+                    detect_normal_obj = [obj for obj in detect_data if not obj["data"]["isFall"]]
+                    # 여러명의 넘어진 사람일 때, 가장 가까운 사람 데이터 추출
+                    if detect_fall_obj:
+                        min_depth_data = min(detect_fall_obj, key=lambda x: x["data"]["depth_val"] if x["data"]["depth_val"] is not None else math.inf)
+                        
+                        center_x = 320
+                        tolerance_x = 100
+                        max_angular_z = 1.0
+                        tmp_box_mid_x = min_depth_data["data"]["box_mid_x"]
+                        is_in_range = (center_x - tolerance_x <= tmp_box_mid_x <= center_x + tolerance_x)
+                        if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.0:
+                            # 중앙정렬 코드
+                            if is_in_range:
+                                twist_msg.angular.z = 0.0
+                            else:
+                                error_x = tmp_box_mid_x - center_x
+                                integral += error_x * term
+                                rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
+                                twist_msg.angular.z = Kp * error_x + Ki * integral
+                                twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
+                                
+                                # 값이 0보다 클 때 반시계 방향 회전 / 0보다 작을 때 시계 방향 회전
+                                twist_msg.angular.z = -twist_msg.angular.z * 0.8
+                            # 중앙정렬 후 delay
+                            # delay 후 직진
+                            twist_msg.linear.x = 0.5
+                            detect_node.get_logger().info("twist_msg: {}".format(twist_msg))
+                            robot_controller.pub_control.publish(twist_msg)
+                            
+                        elif min_depth_data["data"]["depth_val"] < 1.0:
+                            # 정지
+                            twist_msg.linear.x = 0.0
+                            robot_controller.pub_control.publish(twist_msg)
+                            # 정지 후 delay
+                            # 중앙정렬 코드
+                            # if is_in_range:
+                            #     twist_msg.angular.z = 0.0
+                            # else:
+                            #     error_x = tmp_box_mid_x - center_x
+                            #     integral += error_x * term
+                            #     rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
+                            #     twist_msg.angular.z = Kp * error_x + Ki * integral
+                            #     twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
+                            #     twist_msg.angular.z = -twist_msg.angular.z
+                            # robot_controller.pub_control.publish(twist_msg)
+                    #endregion 넘어진 사람 감지 및 접근
+                    if detect_normal_obj:
+                        twist_msg.linear.x = 0.0
+                        twist_msg.angular.z = 0.0
+                        robot_controller.pub_control.publish(twist_msg)
+                    
                 cvtColor_img_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
                 detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(cvtColor_img_frame, encoding=img_node.img_encoding))
                 detect_node._depth_pub.publish(bridge.cv2_to_imgmsg(depth_frame, encoding=img_node.img_encoding))
+                
+                # 감지 없을 때 정지명령
+                if results == None:
+                    twist_msg.linear.x = 0.0
+                    twist_msg.angular.z = 0.0
+                    robot_controller.pub_control.publish(twist_msg)
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   
@@ -504,7 +614,7 @@ def main(args=None):
                             fall_timer = time.time()
 
                         elif (time.time() - fall_timer) >= fall_time and delay_timer == 0 and (event_timer == 0 or (time.time() - event_timer) >= event_time): #첫 이벤트 발생 조건
-                            print("--------------------넘어짐 감지 이벤트 발생--------------------")
+                            detect_node.get_logger().info("--------------------넘어짐 감지 이벤트 발생--------------------")
                             logger.info("넘어짐 감지 이벤트 발생")
                             evt_msg.data = "EVT-001" #event on
                             event_node.event_pub.publish(evt_msg)
@@ -520,6 +630,7 @@ def main(args=None):
                             event_count -= 1
 
                             if event_count == 0: # event_count 만큼 이벤트 발생 시 한 번의 이벤트 발생 주기 종료 후 다음 주기 까지 이벤트 발생 X
+                                detect_node.get_logger().info("이벤트 사이클 종료, 다음 사이클 대기 시작")
                                 logger.info("이벤트 사이클 종료, 다음 사이클 대기 시작")
                                 # msg.data = "event cycle finish"
                                 # minimal_publisher.event_pub.publish(msg)
@@ -528,7 +639,7 @@ def main(args=None):
                                 event_timer = time.time()
 
                         elif not delay_timer == 0 and (time.time() - delay_timer) >= delay: # 첫 이벤트 발생 이후 재발생 조건
-                            print("--------------------넘어짐 감지 이벤트 재발생--------------------")
+                            detect_node.get_logger().info("--------------------넘어짐 감지 이벤트 재발생--------------------")
                             logger.info("넘어짐 감지 이벤트 재발생")
                             evt_msg.data = "EVT-002" #event re on
                             event_node.event_pub.publish(evt_msg)
@@ -543,6 +654,7 @@ def main(args=None):
                             event_count -= 1
 
                             if event_count == 0: # event_count 만큼 이벤트 발생 시 한 번의 이벤트 발생 주기 종료 후 다음 주기 까지 이벤트 발생 X
+                                detect_node.get_logger().info("이벤트 사이클 종료, 다음 사이클 대기 시작")
                                 logger.info("이벤트 사이클 종료, 다음 사이클 대기 시작")
                                 # msg.data = "event cycle finish"
                                 # minimal_publisher.event_pub.publish(msg)
@@ -560,35 +672,14 @@ def main(args=None):
                 if not event_timer == 0 and (time.time() - event_timer) >= event_time: #event_timer 가 event_time 만큼 되었을 경우 fall_timer 초기화
                     fall_timer = 0
                     event_timer = 0 
-                
-                #region test
-                # now2 = datetime.datetime.now().strftime("%H-%M-%S")
-                # idx1 = [200, 120]
-                # idx2 = [320, 120]
-                # idx3 = [440, 120]
-                # idx4 = [200, 240]
-                # idx5 = [320, 240]
-                # idx6 = [440, 240]
-                # idx7 = [200, 360]
-                # idx8 = [320, 360]
-                # idx9 = [440, 360]
-                # idx_list = [idx1, idx2, idx3, idx4, idx5, idx6, idx7, idx8, idx9]
 
-                # for i in range(9):
-                #     dist = str(depth_pix[idx_list[i][1]][idx_list[i][0]] / 1000)
-                #     distance_f.write(now2 + " - idx " + str(i) + ": " + dist + "m\n")
-                #     cv2.putText(frame, str(i), (idx_list[i][0], idx_list[i][1]), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
-                # distance_f.write("\n")
-                # distance_f.flush()
-                #endregion test
-
-                if mode == 0:
-                    continue
-                elif mode == 1:
-                    # cv2.imshow("YOLOv8 Inference", annotated_frame)
-                    # cv2.imshow("Depth Frame", depth_frame)
-                    pass
-                    # out.write(annotated_frame)
+                # if mode == 0:
+                #     continue
+                # elif mode == 1:
+                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
+                #     cv2.imshow("Depth Frame", depth_frame)
+                #     pass
+                #     out.write(annotated_frame)
 
             except IndexError:
                 print('array error')
@@ -604,12 +695,14 @@ def main(args=None):
                 break   
 
         else:
+            wander_stop_msg = Bool()
+            wander_stop_msg.data = True
+            wander_publisher.pub_wander_stop.publish(wander_stop_msg)
             break
 
     end_time = time.time()
     fps = total_frames / (start_time - end_time)
     PRINT_STRING = f'total_frames = {total_frames},  avg FPS = {fps:.2f}'
-    empty_node.get_logger().info(PRINT_STRING)
 
     if cam_mode == 0:
         cap.release()
@@ -619,7 +712,6 @@ def main(args=None):
         img_node.destroy_node()
     detect_node.destroy_node()
     event_node.destroy_node()
-    empty_node.destroy_node()
     img_node.destroy_node()
     rclpy.shutdown()    
 
