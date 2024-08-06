@@ -8,12 +8,14 @@ from std_msgs.msg import String
 from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, PoseWithCovariance, Transform
 from nav_msgs.msg import Odometry
 from tf2_msgs.msg import TFMessage
-from demorobot_msg.msg import BatteryStat, Detect
+from demorobot_msg.msg import BatteryStat, Detect, DetectArray
 from demorobot_action_interfaces.action import RobotNamespace
 from tf2_ros import transform_listener
 
 import paho.mqtt.client as mqtt
 import json
+
+import random
 
 class MsgReceiver(Node):
     def __init__(self):
@@ -43,7 +45,7 @@ class MsgReceiver(Node):
 
             # 토픽 구독 변수 생성
             self.sub_battery_stat = self.create_subscription(BatteryStat, '/battery_stat', self.battery_callback, 10)
-            self.sub_detect_data = self.create_subscription(Detect, '/pose_detect/detect_data', self.detect_data_callback, 10)
+            self.sub_detect_data = self.create_subscription(DetectArray, '/pose_detect/detect_data', self.detect_data_callback, 10)
             self.sub_robot_pose = self.create_subscription(Odometry, '/odom', self.robot_pose_callback, 10)
             self.sub_robot_tf = self.create_subscription(TFMessage, '/tf', self.robot_tf_callback, 10)
             # unused variable resolve
@@ -52,14 +54,14 @@ class MsgReceiver(Node):
             self.sub_robot_pose
             self.sub_robot_tf
             
-            self.detect_data = Detect()
+            self.detect_data_arr = []
             self.robot_pose = PoseStamped()
             self.robot_tf = Transform()
             
             self.battery_mode = None
             self.battery_vol = None
 
-            timer_period = 0.5  # seconds
+            timer_period = 0.05  # seconds
             self.mqtt_timer = self.create_timer(timer_period, self.mqtt_timer_callback)
 
         except TimeoutError:
@@ -71,33 +73,51 @@ class MsgReceiver(Node):
 
     def publish_mqtt(self):
         Dictionary ={
+            # robot info start
             'pos_x':str(self.robot_pose.pose.position.x),
             'pos_y':str(self.robot_pose.pose.position.y),
             'ori_x':str(self.robot_pose.pose.orientation.x),
             'ori_y':str(self.robot_pose.pose.orientation.y),
             'ori_z':str(self.robot_pose.pose.orientation.z),
             'ori_w':str(self.robot_pose.pose.orientation.w),
-            'x':self.detect_data.box_mid_x,
-            'y':self.detect_data.box_mid_y,
-            'dist':self.detect_data.distance,
             'tf_pos_x':self.robot_tf.translation.x,
             'tf_pos_y':self.robot_tf.translation.y,
             'tf_ori_x':self.robot_tf.rotation.x,
             'tf_ori_y':self.robot_tf.rotation.y,
             'tf_ori_z':self.robot_tf.rotation.z,
-            'tf_ori_w':self.robot_tf.rotation.w
+            'tf_ori_w':self.robot_tf.rotation.w,
+            # robot info end
+            # detect info - multiple object info start
+            'detect_data_arr':self.detect_data_arr
+            # detect info - multiple object info end
         }
-        self.mqttclient.publish(self.MQTT_PUB_TOPIC, json.dumps(Dictionary).encode(),qos=0, retain=False)
+        self.mqttclient.publish(self.MQTT_PUB_TOPIC, json.dumps(Dictionary).encode(), qos=0, retain=False)
+        # if self.detect_data_arr != None:
+        #     self.detect_data_arr.clear()
     
     '''배터리 정보 callback'''
     def battery_callback(self, data):
         self.battery_mode = data.mode
         self.battery_vol = data.vol
 
-    def detect_data_callback(self, data):
-        self.detect_data.box_mid_x = data.box_mid_x
-        self.detect_data.box_mid_y = data.box_mid_y
-        self.detect_data.distance = data.distance
+    def detect_data_callback(self, msg):
+        # self.detect_data.box_mid_x = data.box_mid_x
+        # self.detect_data.box_mid_y = data.box_mid_y
+        # self.detect_data.distance = data.distance
+        if msg.data != []:
+            self.detect_data_arr.clear()
+            for item in msg.data:
+                temp_data = {
+                    "id" : item.id,
+                    "data" : {
+                        "isFall": item.fall,
+                        "box_mid_x" : item.box_mid_x,
+                        "box_mid_y" : item.box_mid_y,
+                        # "detect_key" : item.keypnt_data,
+                        "depth_val" : item.distance
+                    }
+                }
+                self.detect_data_arr.append(temp_data)
 
     '''로봇 좌표 callback'''
     def robot_pose_callback(self, data):

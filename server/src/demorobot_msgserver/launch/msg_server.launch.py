@@ -3,10 +3,9 @@ from launch_ros.actions import Node
 from launch.conditions import IfCondition
 from launch.substitutions import LaunchConfiguration
 from launch.actions import DeclareLaunchArgument, ExecuteProcess, IncludeLaunchDescription
-import os
+import os, sys
 from ament_index_python.packages import get_package_share_directory
 
-import os, sys
 import signal
 
 def signal_handler(sig, frame):

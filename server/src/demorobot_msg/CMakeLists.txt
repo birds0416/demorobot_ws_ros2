@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BatteryStat.msg"
   "msg/MapInfo.msg"
   "msg/Detect.msg"
+  "msg/DetectArray.msg"
   DEPENDENCIES std_msgs
 )
 
