@@ -526,75 +526,68 @@ def main(args=None):
                     
                     #region 넘어진 사람 감지 및 접근 & 이동 명령 전송
                     # 회전 상수 값
-                    Kp = 0.1
-                    Ki = 0.01
-                    Kd = 0
-                    integral = 0.0
+                    # Kp = 0.1
+                    # Ki = 0.01
+                    # Kd = 0
+                    # integral = 0.0
                     
-                    max_angular_z = 1.0
+                    # max_angular_z = 1.0
                     
-                    # 넘어진 사람만 추려냄
-                    detect_fall_obj = [obj for obj in detect_data if obj["data"]["isFall"]]
-                    detect_normal_obj = [obj for obj in detect_data if not obj["data"]["isFall"]]
-                    # 여러명의 넘어진 사람일 때, 가장 가까운 사람 데이터 추출
-                    if detect_fall_obj:
-                        min_depth_data = min(detect_fall_obj, key=lambda x: x["data"]["depth_val"] if x["data"]["depth_val"] is not None else math.inf)
+                    # # 넘어진 사람만 추려냄
+                    # detect_fall_obj = [obj for obj in detect_data if obj["data"]["isFall"]]
+                    # detect_normal_obj = [obj for obj in detect_data if not obj["data"]["isFall"]]
+                    # # 여러명의 넘어진 사람일 때, 가장 가까운 사람 데이터 추출
+                    # if detect_fall_obj:
+                    #     min_depth_data = min(detect_fall_obj, key=lambda x: x["data"]["depth_val"] if x["data"]["depth_val"] is not None else math.inf)
                         
-                        center_x = 320
-                        tolerance_x = 80
-                        # max_angular_z = 1.0
-                        tmp_box_mid_x = min_depth_data["data"]["box_mid_x"]
-                        is_in_range = (center_x - tolerance_x <= tmp_box_mid_x <= center_x + tolerance_x)
-                        if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.0:
-                            # 중앙정렬 코드
-                            if is_in_range:
-                                twist_msg.angular.z = 0.0
-                            else:
-                                error_x = tmp_box_mid_x - center_x
-                                integral += error_x * term
-                                rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
-                                twist_msg.angular.z = Kp * error_x + Ki * integral
-                                twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
+                    #     center_x = 320
+                    #     tolerance_x = 80
+                    #     # max_angular_z = 1.0
+                    #     tmp_box_mid_x = min_depth_data["data"]["box_mid_x"]
+                    #     is_in_range = (center_x - tolerance_x <= tmp_box_mid_x <= center_x + tolerance_x)
+                    #     if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.0:
+                    #         # 중앙정렬 코드
+                    #         if is_in_range:
+                    #             twist_msg.angular.z = 0.0
+                    #         else:
+                    #             error_x = tmp_box_mid_x - center_x
+                    #             integral += error_x * term
+                    #             rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
+                    #             twist_msg.angular.z = Kp * error_x + Ki * integral
+                    #             twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
                                 
-                                # 값이 0보다 클 때 반시계 방향 회전 / 0보다 작을 때 시계 방향 회전
-                                twist_msg.angular.z = -twist_msg.angular.z
-                            # 중앙정렬 후 delay
-                            # delay 후 직진
-                            twist_msg.linear.x = 0.5
-                            # detect_node.get_logger().info("twist_msg: {}".format(twist_msg))
-                            # robot_controller.pub_control.publish(twist_msg)
+                    #             # 값이 0보다 클 때 반시계 방향 회전 / 0보다 작을 때 시계 방향 회전
+                    #             twist_msg.angular.z = -twist_msg.angular.z
+                    #         # 중앙정렬 후 delay
                             
-                        elif min_depth_data["data"]["depth_val"] < 1.0:
-                            # 정지
-                            twist_msg.linear.x = 0.0
-                            # 정지 후 delay
-                            # 중앙정렬 코드
-                            if is_in_range:
-                                twist_msg.angular.z = 0.0
-                            else:
-                                error_x = tmp_box_mid_x - center_x
-                                integral += error_x * term
-                                rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
-                                twist_msg.angular.z = Kp * error_x + Ki * integral
-                                twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
-                                twist_msg.angular.z = -twist_msg.angular.z
-                            # robot_controller.pub_control.publish(twist_msg)
-                        robot_controller.pub_control.publish(twist_msg)
-                    #endregion 넘어진 사람 감지 및 접근
-                    if detect_normal_obj:
-                        twist_msg.linear.x = 0.0
-                        twist_msg.angular.z = 0.0
-                        robot_controller.pub_control.publish(twist_msg)
+                    #     elif min_depth_data["data"]["depth_val"] < 1.0:
+                    #         # 정지 후 delay
+                    #         # 중앙정렬 코드
+                    #         if is_in_range:
+                    #             twist_msg.angular.z = 0.0
+                    #         else:
+                    #             error_x = tmp_box_mid_x - center_x
+                    #             integral += error_x * term
+                    #             rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
+                    #             twist_msg.angular.z = Kp * error_x + Ki * integral
+                    #             twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
+                    #             twist_msg.angular.z = -twist_msg.angular.z
+                    #         # robot_controller.pub_control.publish(twist_msg)
+                    #     robot_controller.pub_control.publish(twist_msg)
+                    # #endregion 넘어진 사람 감지 및 접근
+                    # if detect_normal_obj:
+                    #     twist_msg.angular.z = 0.0
+                    #     robot_controller.pub_control.publish(twist_msg)
                     
                 cvtColor_img_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
                 detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(cvtColor_img_frame, encoding=img_node.img_encoding))
                 detect_node._depth_pub.publish(bridge.cv2_to_imgmsg(depth_frame, encoding=img_node.img_encoding))
                 
                 # 감지 없을 때 정지명령
-                if results == None:
-                    twist_msg.linear.x = 0.0
-                    twist_msg.angular.z = 0.0
-                    robot_controller.pub_control.publish(twist_msg)
+                # if results == None:
+                #     twist_msg.linear.x = 0.0
+                #     twist_msg.angular.z = 0.0
+                #     robot_controller.pub_control.publish(twist_msg)
 
                 if len(fall_queue) >= fall_queue_num:
                     fall_queue.pop(0)   

@@ -524,8 +524,8 @@ def main(args=None):
     laser_bringup  = LaunchThread("yahboomcar_nav", "laser_bringup_launch.py", navigator.NAMESPACE)
     laser_bringup.start()
     time.sleep(1)
-    # display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
-    # display_nav.start()
+    display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
+    display_nav.start()
     # ros2 run yahboomcar_laser laser_Avoidance_a1_X3
     # laser_avoid = RunThread("yahboomcar_laser", "laser_Avoidance_a1_X3")
     # laser_avoid.start()

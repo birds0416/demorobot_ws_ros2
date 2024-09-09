@@ -30,7 +30,7 @@ def generate_launch_description():
                 ),
                 IncludeLaunchDescription(
                     PythonLaunchDescriptionSource(
-                        camera_launch_dir + '/launch/camera_noname.launch.py'
+                        camera_launch_dir + '/launch/camera_noname2.launch.py'
                     )
                 ),
                 # Node(

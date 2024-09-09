@@ -25,6 +25,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BatteryStat.msg"
   "msg/Detect.msg"
   "msg/DetectArray.msg"
+  "msg/CustomPose.msg"
 )
 
 if(BUILD_TESTING)
