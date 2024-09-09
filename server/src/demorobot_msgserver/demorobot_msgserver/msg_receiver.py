@@ -8,14 +8,16 @@ from std_msgs.msg import String
 from geometry_msgs.msg import PoseStamped, Pose, PoseWithCovarianceStamped, PoseWithCovariance, Transform
 from nav_msgs.msg import Odometry
 from tf2_msgs.msg import TFMessage
-from demorobot_msg.msg import BatteryStat, Detect, DetectArray
+from demorobot_msg.msg import BatteryStat, Detect, DetectArray, CustomPose
 from demorobot_action_interfaces.action import RobotNamespace
-from tf2_ros import transform_listener
+from tf2_ros import TransformException
+from tf2_ros.buffer import Buffer
+from tf2_ros.transform_listener import TransformListener 
 
+from datetime import datetime as dt
 import paho.mqtt.client as mqtt
 import json
-
-import random
+import math
 
 class MsgReceiver(Node):
     def __init__(self):
@@ -48,6 +50,8 @@ class MsgReceiver(Node):
             self.sub_detect_data = self.create_subscription(DetectArray, '/pose_detect/detect_data', self.detect_data_callback, 10)
             self.sub_robot_pose = self.create_subscription(Odometry, '/odom', self.robot_pose_callback, 10)
             self.sub_robot_tf = self.create_subscription(TFMessage, '/tf', self.robot_tf_callback, 10)
+            self.sub_map_base = self.create_subscription(CustomPose, '/map_base_info', self.robot_map_base_callback, 10)
+
             # unused variable resolve
             self.sub_battery_stat
             self.sub_detect_data
@@ -57,12 +61,28 @@ class MsgReceiver(Node):
             self.detect_data_arr = []
             self.robot_pose = PoseStamped()
             self.robot_tf = Transform()
+
+            # self.declare_parameter('map', 'base_footprint')
+            # self.target_frame = self.get_parameter('map').get_parameter_value().string_value
+        
+            # self.tf_buffer = Buffer()
+            # self.tf_listener = TransformListener(self.tf_buffer, self)
+
+            self.cur_x = 0.0
+            self.cur_y = 0.0
+            self.cur_yaw = 0.0
+
+            # self.pose_timer_period = 0.05
+            # self.pose_timer = self.create_timer(self.pose_timer_period, self.pose_timer_callback)
             
             self.battery_mode = None
             self.battery_vol = None
 
-            timer_period = 0.05  # seconds
-            self.mqtt_timer = self.create_timer(timer_period, self.mqtt_timer_callback)
+            mqtt_timer_period = 0.05  # seconds
+            self.mqtt_timer = self.create_timer(mqtt_timer_period, self.mqtt_timer_callback)
+
+            now = dt.now().strftime("%Y-%m-%d %H-%M-%S")
+            self.mqtt_msg_log = open("/root/demorobot_ws/src/demorobot_msgserver/mqtt_msg_log/{}_log.txt".format(now), 'w+')
 
         except TimeoutError:
             self.get_logger().error("Cannot connect to mqtt broker {}".format(self.broker_address))
@@ -72,16 +92,18 @@ class MsgReceiver(Node):
         self.publish_mqtt()
 
     def publish_mqtt(self):
-        Dictionary ={
+        now2 = dt.now().strftime("%H-%M-%S")
+        Dictionary = {
             # robot info start
-            'pos_x':str(self.robot_pose.pose.position.x),
-            'pos_y':str(self.robot_pose.pose.position.y),
-            'ori_x':str(self.robot_pose.pose.orientation.x),
-            'ori_y':str(self.robot_pose.pose.orientation.y),
-            'ori_z':str(self.robot_pose.pose.orientation.z),
-            'ori_w':str(self.robot_pose.pose.orientation.w),
-            'tf_pos_x':self.robot_tf.translation.x,
-            'tf_pos_y':self.robot_tf.translation.y,
+            'pos_x':self.cur_x,
+            'pos_y':self.cur_y,
+            'robot_yaw':self.cur_yaw,
+            'ori_x':self.robot_pose.pose.orientation.x,
+            'ori_y':self.robot_pose.pose.orientation.y,
+            'ori_z':self.robot_pose.pose.orientation.z,
+            'ori_w':self.robot_pose.pose.orientation.w,
+            # 'tf_pos_x':self.robot_tf.translation.x,
+            # 'tf_pos_y':self.robot_tf.translation.y,
             'tf_ori_x':self.robot_tf.rotation.x,
             'tf_ori_y':self.robot_tf.rotation.y,
             'tf_ori_z':self.robot_tf.rotation.z,
@@ -91,9 +113,12 @@ class MsgReceiver(Node):
             'detect_data_arr':self.detect_data_arr
             # detect info - multiple object info end
         }
+
+        self.mqtt_msg_log.write(now2 + ":\n")
+        self.mqtt_msg_log.write(json.dumps(Dictionary))
+        self.mqtt_msg_log.write("\n\n")
+
         self.mqttclient.publish(self.MQTT_PUB_TOPIC, json.dumps(Dictionary).encode(), qos=0, retain=False)
-        # if self.detect_data_arr != None:
-        #     self.detect_data_arr.clear()
     
     '''배터리 정보 callback'''
     def battery_callback(self, data):
@@ -140,6 +165,12 @@ class MsgReceiver(Node):
                 self.robot_tf.rotation.y = d.transform.rotation.y
                 self.robot_tf.rotation.z = d.transform.rotation.z * -1
                 self.robot_tf.rotation.w = d.transform.rotation.w
+
+    ''' map frame -> base_footprint '''
+    def robot_map_base_callback(self, data):
+        self.cur_x = data.cur_x
+        self.cur_y = data.cur_y * -1
+        self.cur_yaw = data.cur_yaw
 
 def main(args=None):
     rclpy.init(args=args)

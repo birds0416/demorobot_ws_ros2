@@ -1,0 +1,309 @@
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-47:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-48:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-49:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-50:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-51:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-52:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-52:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+16-16-52:
+{"pos_x": "0.0", "pos_y": "0.0", "robot_yaw": "0.0", "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": "1.0", "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+

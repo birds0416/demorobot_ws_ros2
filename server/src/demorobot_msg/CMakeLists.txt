@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MapInfo.msg"
   "msg/Detect.msg"
   "msg/DetectArray.msg"
+  "msg/CustomPose.msg"
   DEPENDENCIES std_msgs
 )
 

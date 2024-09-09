@@ -1,0 +1,1146 @@
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-58:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-12-59:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-00:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-01:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-02:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-03:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-04:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-05:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-06:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-07:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-08:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-09:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-10:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-11:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-12:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-13:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-14:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-15:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-16:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
+10-13-17:
+{"pos_x": -1.2, "pos_y": -6.15, "ori_x": "0.0", "ori_y": "0.0", "ori_z": "0.0", "ori_w": -1.5708, "tf_pos_x": 0.0, "tf_pos_y": 0.0, "tf_ori_x": 0.0, "tf_ori_y": 0.0, "tf_ori_z": 0.0, "tf_ori_w": 1.0, "detect_data_arr": []}
+
