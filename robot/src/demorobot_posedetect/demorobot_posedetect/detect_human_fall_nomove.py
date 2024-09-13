@@ -8,6 +8,7 @@ from cv_bridge import CvBridge
 import numpy as np
 import torch
 import math
+from queue import Queue
 
 #ros message setting
 import rclpy
@@ -136,6 +137,10 @@ def non_zero_cnt(nums_x, nums_y):
 
 def main(args=None):
     rclpy.init(args=args)
+    
+    now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    detect_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/logs/{}_detect_log.txt".format(now), 'w+')
+    
     event_node = EventPublisher()
     evt_msg = String()  
 
@@ -257,9 +262,15 @@ def main(args=None):
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
     # rotate_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
-    # detect_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
+
+    ''' 오감지 Queue '''
+    detect_queue = Queue()
 
     while True: # 프레임 단위로 반복.
+        
+        now2 = datetime.datetime.now().strftime("%H-%M-%S")
+        event_node.get_logger().info("Logging.......")
+        detect_log.write(now2 + " Frame: {\n")
 
         if cam_mode == 0:
             ret, frame = cap.read()
@@ -302,11 +313,11 @@ def main(args=None):
                 detect_array_msg = DetectArray()
                 twist_msg = Twist()
                 
+                
                 if results != None:
-                    prev_idx = None
                     for idx, result in enumerate(results):
                         detect_msg = Detect()
-                        prev_idx = idx
+                        detect_log.write("\tidx: {}\n".format(idx))
                         temp_data = {
                             "id" : idx,
                             "data" : {
@@ -319,7 +330,7 @@ def main(args=None):
                         }
                         #감지 정확도 낮을 시 건너뛰는 로직 필요
                         score = float(result.boxes.conf[0])
-                        if score < 0.6:
+                        if score < 0.65:
                             continue
 
                         #감지된 box 값 저장
@@ -356,7 +367,7 @@ def main(args=None):
                         # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
                         keypoint_comp_result = keypoint_comp(result.keypoints.xy.numpy())
                         # detect_msg.box = pred_box_xyxy[0]
-                        if box_rate > 0.6 and keypoint_comp_result:
+                        if box_rate > 0.65 and keypoint_comp_result:
                             people_fall_count += 1
                             detect_msg.fall = True
                             temp_data["data"]["isFall"] = True
@@ -519,65 +530,11 @@ def main(args=None):
                         4. 쓰러져있는 사람한테만 접근 및 감지
                         '''
                         #endregion 계산 5
+                        detect_log.write("\ttemp_data (per iter {}): {}\n".format(idx, temp_data))
                         detect_data.append(temp_data)
                         detect_array_msg.data.append(detect_msg)
-                        
+                    
                     detect_node.detect_pub.publish(detect_array_msg)
-                    
-                    #region 넘어진 사람 감지 및 접근 & 이동 명령 전송
-                    # 회전 상수 값
-                    # Kp = 0.1
-                    # Ki = 0.01
-                    # Kd = 0
-                    # integral = 0.0
-                    
-                    # max_angular_z = 1.0
-                    
-                    # # 넘어진 사람만 추려냄
-                    # detect_fall_obj = [obj for obj in detect_data if obj["data"]["isFall"]]
-                    # detect_normal_obj = [obj for obj in detect_data if not obj["data"]["isFall"]]
-                    # # 여러명의 넘어진 사람일 때, 가장 가까운 사람 데이터 추출
-                    # if detect_fall_obj:
-                    #     min_depth_data = min(detect_fall_obj, key=lambda x: x["data"]["depth_val"] if x["data"]["depth_val"] is not None else math.inf)
-                        
-                    #     center_x = 320
-                    #     tolerance_x = 80
-                    #     # max_angular_z = 1.0
-                    #     tmp_box_mid_x = min_depth_data["data"]["box_mid_x"]
-                    #     is_in_range = (center_x - tolerance_x <= tmp_box_mid_x <= center_x + tolerance_x)
-                    #     if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.0:
-                    #         # 중앙정렬 코드
-                    #         if is_in_range:
-                    #             twist_msg.angular.z = 0.0
-                    #         else:
-                    #             error_x = tmp_box_mid_x - center_x
-                    #             integral += error_x * term
-                    #             rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
-                    #             twist_msg.angular.z = Kp * error_x + Ki * integral
-                    #             twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
-                                
-                    #             # 값이 0보다 클 때 반시계 방향 회전 / 0보다 작을 때 시계 방향 회전
-                    #             twist_msg.angular.z = -twist_msg.angular.z
-                    #         # 중앙정렬 후 delay
-                            
-                    #     elif min_depth_data["data"]["depth_val"] < 1.0:
-                    #         # 정지 후 delay
-                    #         # 중앙정렬 코드
-                    #         if is_in_range:
-                    #             twist_msg.angular.z = 0.0
-                    #         else:
-                    #             error_x = tmp_box_mid_x - center_x
-                    #             integral += error_x * term
-                    #             rotate_speed = min(0.5, max(0.1, min_depth_data["data"]["depth_val"] * 0.2))
-                    #             twist_msg.angular.z = Kp * error_x + Ki * integral
-                    #             twist_msg.angular.z = min(max(error_x * rotate_speed, -max_angular_z), max_angular_z)
-                    #             twist_msg.angular.z = -twist_msg.angular.z
-                    #         # robot_controller.pub_control.publish(twist_msg)
-                    #     robot_controller.pub_control.publish(twist_msg)
-                    # #endregion 넘어진 사람 감지 및 접근
-                    # if detect_normal_obj:
-                    #     twist_msg.angular.z = 0.0
-                    #     robot_controller.pub_control.publish(twist_msg)
                     
                 cvtColor_img_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
                 detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(cvtColor_img_frame, encoding=img_node.img_encoding))
@@ -666,11 +623,11 @@ def main(args=None):
                     fall_timer = 0
                     event_timer = 0 
 
-                # if mode == 0:
-                #     continue
-                # elif mode == 1:
-                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
-                #     cv2.imshow("Depth Frame", depth_frame)
+                if mode == 0:
+                    continue
+                elif mode == 1:
+                    cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    # cv2.imshow("Depth Frame", depth_frame)
                 #     pass
                 #     out.write(annotated_frame)
 
@@ -692,7 +649,8 @@ def main(args=None):
             wander_stop_msg.data = True
             wander_publisher.pub_wander_stop.publish(wander_stop_msg)
             break
-
+        detect_log.write("} Frame End\n\n")
+        
     end_time = time.time()
     fps = total_frames / (start_time - end_time)
     PRINT_STRING = f'total_frames = {total_frames},  avg FPS = {fps:.2f}'

@@ -180,7 +180,8 @@ class RobotLogger(Node):
                         "depth_val" : item.distance
                     }
                 }
-                self.detect_data_arr.append(temp_data)
+                if item.fall:
+                    self.detect_data_arr.append(temp_data)
         
 def main(args=None):
     rclpy.init(args=args)

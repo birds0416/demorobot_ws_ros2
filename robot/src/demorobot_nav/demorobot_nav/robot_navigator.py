@@ -523,7 +523,7 @@ def main(args=None):
     ''' yahboomcar_nav navigation 시작 '''
     laser_bringup  = LaunchThread("yahboomcar_nav", "laser_bringup_launch.py", navigator.NAMESPACE)
     laser_bringup.start()
-    time.sleep(1)
+    # time.sleep(1)
     # display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
     # display_nav.start()
     # ros2 run yahboomcar_laser laser_Avoidance_a1_X3
@@ -552,10 +552,12 @@ def main(args=None):
     initial_pose = PoseStamped()
     initial_pose.header.frame_id = 'map'
     initial_pose.header.stamp = navigator.get_clock().now().to_msg()
-    initial_pose.pose.position.x = navigator.initial_pose.pose.position.x
-    initial_pose.pose.position.y = navigator.initial_pose.pose.position.y
-    initial_pose.pose.orientation.z = navigator.initial_pose.pose.orientation.z
-    initial_pose.pose.orientation.w = navigator.initial_pose.pose.orientation.w
+    # initial_pose.pose.position.x = navigator.initial_pose.pose.position.x
+    initial_pose.pose.position.x = 0.0
+    # initial_pose.pose.position.y = navigator.initial_pose.pose.position.y
+    initial_pose.pose.position.y = 0.0
+    # initial_pose.pose.orientation.z = navigator.initial_pose.pose.orientation.z
+    # initial_pose.pose.orientation.w = navigator.initial_pose.pose.orientation.w
     navigator.waitUntilNav2Active()
     navigator.get_logger().info("Initial pose goToPose")
     navigator.goToPose(initial_pose)

@@ -523,9 +523,9 @@ def main(args=None):
     ''' yahboomcar_nav navigation 시작 '''
     laser_bringup  = LaunchThread("yahboomcar_nav", "laser_bringup_launch.py", navigator.NAMESPACE)
     laser_bringup.start()
-    time.sleep(1)
-    display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
-    display_nav.start()
+    # time.sleep(1)
+    # display_nav  = LaunchThread("yahboomcar_nav", "display_nav_launch.py", navigator.NAMESPACE)
+    # display_nav.start()
     # ros2 run yahboomcar_laser laser_Avoidance_a1_X3
     # laser_avoid = RunThread("yahboomcar_laser", "laser_Avoidance_a1_X3")
     # laser_avoid.start()
@@ -535,6 +535,10 @@ def main(args=None):
     # navigation_teb  = LaunchThread("yahboomcar_nav", "navigation_teb_launch.py", navigator.NAMESPACE)
     # navigation_teb.start()
     time.sleep(5)
+    
+    ''' demorobot_ekf robot_localization 시작 '''
+    # robot_localization = LaunchThread("demorobot_ekf", "robot_localization.launch.py", navigator.NAMESPACE)
+    # robot_localization.start()
     
     ''' wanderer 시작'''
     # wanderer_server = RunThread("demorobot_wander", "wanderer_server")
@@ -548,13 +552,15 @@ def main(args=None):
     initial_pose = PoseStamped()
     initial_pose.header.frame_id = 'map'
     initial_pose.header.stamp = navigator.get_clock().now().to_msg()
-    initial_pose.pose.position.x = navigator.initial_pose.pose.position.x
-    initial_pose.pose.position.y = navigator.initial_pose.pose.position.y
-    initial_pose.pose.orientation.z = navigator.initial_pose.pose.orientation.z
-    initial_pose.pose.orientation.w = navigator.initial_pose.pose.orientation.w
+    # initial_pose.pose.position.x = navigator.initial_pose.pose.position.x
+    initial_pose.pose.position.x = 0.0
+    # initial_pose.pose.position.y = navigator.initial_pose.pose.position.y
+    initial_pose.pose.position.y = 0.0
+    # initial_pose.pose.orientation.z = navigator.initial_pose.pose.orientation.z
+    # initial_pose.pose.orientation.w = navigator.initial_pose.pose.orientation.w
     navigator.waitUntilNav2Active()
-    # navigator.get_logger().info("Initial pose goToPose")
-    # navigator.goToPose(initial_pose)
+    navigator.get_logger().info("Initial pose goToPose")
+    navigator.goToPose(initial_pose)
 
     # Go to our demos first goal pose
     new_goal_pose = PoseStamped()

@@ -1,0 +1,7880 @@
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.570282606513118
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00029006993132897624
+	pose.pose.orientation.w: 0.9999999579297166
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.570282606513118
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00029006993132897624
+	pose.pose.orientation.w: 0.9999999579297166
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5702367723610724
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00031298700630943613
+	pose.pose.orientation.w: 0.9999999510195657
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5702367723610724
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00031298700630943613
+	pose.pose.orientation.w: 0.9999999510195657
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5702367723610724
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00038250924184704587
+	pose.pose.orientation.w: 0.9999999268433373
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5700977278815613
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00038250924184704587
+	pose.pose.orientation.w: 0.9999999268433373
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-27 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5700977278815613
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00037335285385715563
+	pose.pose.orientation.w: 0.9999999303038208
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5701160406588497
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00037335285385715563
+	pose.pose.orientation.w: 0.9999999303038208
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700612068583646
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004007697520447072
+	pose.pose.orientation.w: 0.9999999196917997
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700612068583646
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004007697520447072
+	pose.pose.orientation.w: 0.9999999196917997
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5701073547732673
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00037769579634181903
+	pose.pose.orientation.w: 0.9999999286729402
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5701073547732673
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00037769579634181903
+	pose.pose.orientation.w: 0.9999999286729402
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700248807513122
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00041893280404539684
+	pose.pose.orientation.w: 0.999999912247649
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700248807513122
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00041893280404539684
+	pose.pose.orientation.w: 0.999999912247649
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569954041961747
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004543521954495684
+	pose.pose.orientation.w: 0.9999998967820359
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569954041961747
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004543521954495684
+	pose.pose.orientation.w: 0.9999998967820359
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700320997086417
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00041532332569445724
+	pose.pose.orientation.w: 0.9999999137532638
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700320997086417
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00041532332569445724
+	pose.pose.orientation.w: 0.9999999137532638
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5698677507462928
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004974977982871116
+	pose.pose.orientation.w: 0.9999998762479627
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5698677507462928
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0004974977982871116
+	pose.pose.orientation.w: 0.9999998762479627
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5697943588977554
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0005341937176712234
+	pose.pose.orientation.w: 0.9999998573185258
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5697943588977554
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0005341937176712234
+	pose.pose.orientation.w: 0.9999998573185258
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5697436823572117
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000559531984153605
+	pose.pose.orientation.w: 0.9999998434619671
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5697436823572117
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000559531984153605
+	pose.pose.orientation.w: 0.9999998434619671
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56964728357257
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006077313682609467
+	pose.pose.orientation.w: 0.9999998153312749
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56964728357257
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006077313682609467
+	pose.pose.orientation.w: 0.9999998153312749
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-28 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5695615977199626
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006505742860820674
+	pose.pose.orientation.w: 0.9999997883765267
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5695615977199626
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006505742860820674
+	pose.pose.orientation.w: 0.9999997883765267
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5695183971271098
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006721745777838192
+	pose.pose.orientation.w: 0.999999774090643
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5695183971271098
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006721745777838192
+	pose.pose.orientation.w: 0.999999774090643
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5694682908845472
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006972276931918104
+	pose.pose.orientation.w: 0.9999997569367424
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5694682908845472
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0006972276931918104
+	pose.pose.orientation.w: 0.9999997569367424
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5694172063366127
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007227699607205209
+	pose.pose.orientation.w: 0.9999997388017579
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5694172063366127
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007227699607205209
+	pose.pose.orientation.w: 0.9999997388017579
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569394454862247
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007341456948849825
+	pose.pose.orientation.w: 0.999999730515013
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569394454862247
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007341456948849825
+	pose.pose.orientation.w: 0.999999730515013
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569353718251853
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007545139944394805
+	pose.pose.orientation.w: 0.9999997153542756
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.569353718251853
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007545139944394805
+	pose.pose.orientation.w: 0.9999997153542756
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5692883493500713
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007871984356178177
+	pose.pose.orientation.w: 0.9999996901592635
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5692883493500713
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0007871984356178177
+	pose.pose.orientation.w: 0.9999996901592635
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5691106336650793
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0008760562473573425
+	pose.pose.orientation.w: 0.9999996162626521
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5691106336650793
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0008760562473573425
+	pose.pose.orientation.w: 0.9999996162626521
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5691208366540952
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000870954754795546
+	pose.pose.orientation.w: 0.9999996207188356
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5691208366540952
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000870954754795546
+	pose.pose.orientation.w: 0.9999996207188356
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5690972623181612
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000882741918231252
+	pose.pose.orientation.w: 0.999999610383277
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5690972623181612
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.000882741918231252
+	pose.pose.orientation.w: 0.999999610383277
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-29 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689920383808624
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009353538651360859
+	pose.pose.orientation.w: 0.9999995625564778
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689920383808624
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009353538651360859
+	pose.pose.orientation.w: 0.9999995625564778
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689676619844777
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009475420579272635
+	pose.pose.orientation.w: 0.9999995510819235
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689676619844777
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009475420579272635
+	pose.pose.orientation.w: 0.9999995510819235
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689098165417494
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009764647659070087
+	pose.pose.orientation.w: 0.9999995232581669
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689098165417494
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009764647659070087
+	pose.pose.orientation.w: 0.9999995232581669
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689958571810065
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009334444658976542
+	pose.pose.orientation.w: 0.9999995643406197
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5689958571810065
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0009334444658976542
+	pose.pose.orientation.w: 0.9999995643406197
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5688303936159613
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010161762090884032
+	pose.pose.orientation.w: 0.9999994836928228
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5688303936159613
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010161762090884032
+	pose.pose.orientation.w: 0.9999994836928228
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5687616792488521
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010505333742977943
+	pose.pose.orientation.w: 0.9999994481896625
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5687616792488521
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010505333742977943
+	pose.pose.orientation.w: 0.9999994481896625
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686689167461285
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010969145989192816
+	pose.pose.orientation.w: 0.9999993983890003
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686689167461285
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010969145989192816
+	pose.pose.orientation.w: 0.9999993983890003
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686746686259834
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001094038660717538
+	pose.pose.orientation.w: 0.9999994015395254
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686746686259834
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001094038660717538
+	pose.pose.orientation.w: 0.9999994015395254
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686837537185951
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010894961171188965
+	pose.pose.orientation.w: 0.9999994064989293
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5686837537185951
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0010894961171188965
+	pose.pose.orientation.w: 0.9999994064989293
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5685369255665704
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0011629101465579358
+	pose.pose.orientation.w: 0.9999993238197669
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.568499200288038
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001181772772861666
+	pose.pose.orientation.w: 0.9999993017063129
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-30 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.568460496623139
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001201124591575411
+	pose.pose.orientation.w: 0.9999992786495976
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.568460496623139
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001201124591575411
+	pose.pose.orientation.w: 0.9999992786495976
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5684326638898225
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012150409480782536
+	pose.pose.orientation.w: 0.9999992618374748
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5684326638898225
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012150409480782536
+	pose.pose.orientation.w: 0.9999992618374748
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5682856007543633
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012885724581786387
+	pose.pose.orientation.w: 0.9999991697901653
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5682856007543633
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012885724581786387
+	pose.pose.orientation.w: 0.9999991697901653
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5683700227797464
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012463614793956949
+	pose.pose.orientation.w: 0.9999992232912297
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5683700227797464
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012463614793956949
+	pose.pose.orientation.w: 0.9999992232912297
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5683000962184894
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012813247320988491
+	pose.pose.orientation.w: 0.9999991791031285
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5683000962184894
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012813247320988491
+	pose.pose.orientation.w: 0.9999991791031285
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5682814308162645
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012906574254943166
+	pose.pose.orientation.w: 0.9999991671013582
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5682814308162645
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0012906574254943166
+	pose.pose.orientation.w: 0.9999991671013582
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56816001339224
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0013513660845267039
+	pose.pose.orientation.w: 0.999999086904436
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56816001339224
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0013513660845267039
+	pose.pose.orientation.w: 0.999999086904436
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5681126670229029
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001375039247198317
+	pose.pose.orientation.w: 0.9999990546330875
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5681126670229029
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001375039247198317
+	pose.pose.orientation.w: 0.9999990546330875
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5680572755746223
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014027349446250805
+	pose.pose.orientation.w: 0.9999990161668536
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5680572755746223
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014027349446250805
+	pose.pose.orientation.w: 0.9999990161668536
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5679890675377044
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014368389287089767
+	pose.pose.orientation.w: 0.9999989677464137
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5679890675377044
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014368389287089767
+	pose.pose.orientation.w: 0.9999989677464137
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-31 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5680278594513328
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001417442991647327
+	pose.pose.orientation.w: 0.9999989954271782
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5680278594513328
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001417442991647327
+	pose.pose.orientation.w: 0.9999989954271782
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5679413950730476
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014606751360219808
+	pose.pose.orientation.w: 0.9999989332135045
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5679413950730476
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014606751360219808
+	pose.pose.orientation.w: 0.9999989332135045
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678830226263298
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014898613276191199
+	pose.pose.orientation.w: 0.9999988901559963
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678830226263298
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0014898613276191199
+	pose.pose.orientation.w: 0.9999988901559963
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56784637932467
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015081829578638553
+	pose.pose.orientation.w: 0.9999988626914361
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.56784637932467
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015081829578638553
+	pose.pose.orientation.w: 0.9999988626914361
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678287835109428
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015169808546632159
+	pose.pose.orientation.w: 0.9999988493838813
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678287835109428
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015169808546632159
+	pose.pose.orientation.w: 0.9999988493838813
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678358792924842
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015134329679649748
+	pose.pose.orientation.w: 0.99999885475967
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5678358792924842
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015134329679649748
+	pose.pose.orientation.w: 0.99999885475967
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.567716996187725
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015728744495612141
+	pose.pose.orientation.w: 0.9999987630322179
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.567716996187725
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0015728744495612141
+	pose.pose.orientation.w: 0.9999987630322179
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5676510376510195
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0016058536762582189
+	pose.pose.orientation.w: 0.999998710616154
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5676510376510195
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0016058536762582189
+	pose.pose.orientation.w: 0.999998710616154
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5674669225761064
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001697911088082562
+	pose.pose.orientation.w: 0.9999985585479296
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5674669225761064
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001697911088082562
+	pose.pose.orientation.w: 0.9999985585479296
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5674636145140632
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0016995651167178898
+	pose.pose.orientation.w: 0.9999985557381641
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5674636145140632
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0016995651167178898
+	pose.pose.orientation.w: 0.9999985557381641
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-32 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000485
+
+	cur_yaw : -1.5673812054379026
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017407695938335467
+	pose.pose.orientation.w: 0.9999984848594627
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000485
+
+	cur_yaw : -1.5673812054379026
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017407695938335467
+	pose.pose.orientation.w: 0.9999984848594627
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5673460540029671
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017583452844017091
+	pose.pose.orientation.w: 0.9999984541097355
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5673460540029671
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017583452844017091
+	pose.pose.orientation.w: 0.9999984541097355
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5672652497498964
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017987473470339995
+	pose.pose.orientation.w: 0.9999983822526822
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5672652497498964
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0017987473470339995
+	pose.pose.orientation.w: 0.9999983822526822
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5672616100046106
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0018005672167297757
+	pose.pose.orientation.w: 0.9999983789775352
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5672616100046106
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0018005672167297757
+	pose.pose.orientation.w: 0.9999983789775352
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5671923245195525
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0018352099020145622
+	pose.pose.orientation.w: 0.9999983160008898
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5671923245195525
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0018352099020145622
+	pose.pose.orientation.w: 0.9999983160008898
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.567104129948683
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001879307111391112
+	pose.pose.orientation.w: 0.9999982341008313
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.567104129948683
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001879307111391112
+	pose.pose.orientation.w: 0.9999982341008313
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5669781770100046
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0019422834657516566
+	pose.pose.orientation.w: 0.9999981137656904
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5669781770100046
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0019422834657516566
+	pose.pose.orientation.w: 0.9999981137656904
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5669143175003073
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0019742131593780436
+	pose.pose.orientation.w: 0.9999980512393019
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5669143175003073
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0019742131593780436
+	pose.pose.orientation.w: 0.9999980512393019
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5668795972160718
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001991573267366503
+	pose.pose.orientation.w: 0.9999980168159939
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5668795972160718
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.001991573267366503
+	pose.pose.orientation.w: 0.9999980168159939
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5668273751023607
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020176842717571815
+	pose.pose.orientation.w: 0.999997964473018
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5668273751023607
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020176842717571815
+	pose.pose.orientation.w: 0.999997964473018
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-33 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5667842789163045
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002039232320453461
+	pose.pose.orientation.w: 0.99999792076361
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5667842789163045
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002039232320453461
+	pose.pose.orientation.w: 0.99999792076361
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.570311936842198
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0002754047673752183
+	pose.pose.orientation.w: 0.9999999620761063
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.570311936842198
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0002754047673752183
+	pose.pose.orientation.w: 0.9999999620761063
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666762863620842
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002093228482293696
+	pose.pose.orientation.w: 0.9999978091948607
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666762863620842
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002093228482293696
+	pose.pose.orientation.w: 0.9999978091948607
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666719725504907
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020953853833601144
+	pose.pose.orientation.w: 0.9999978046776379
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666719725504907
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020953853833601144
+	pose.pose.orientation.w: 0.9999978046776379
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666908591363002
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00208594211109304
+	pose.pose.orientation.w: 0.999997824420388
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666908591363002
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00208594211109304
+	pose.pose.orientation.w: 0.999997824420388
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666131755690154
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00212478380864881
+	pose.pose.orientation.w: 0.9999977426443354
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5666131755690154
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.00212478380864881
+	pose.pose.orientation.w: 0.9999977426443354
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000485
+
+	cur_yaw : -1.5664373159967018
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0022127133879896468
+	pose.pose.orientation.w: 0.9999975519467348
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000485
+
+	cur_yaw : -1.5664373159967018
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0022127133879896468
+	pose.pose.orientation.w: 0.9999975519467348
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.566664531509992
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020991058954271283
+	pose.pose.orientation.w: 0.9999977968747931
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.566664531509992
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0020991058954271283
+	pose.pose.orientation.w: 0.9999977968747931
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5664695065896632
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002196618130625119
+	pose.pose.orientation.w: 0.9999975874314838
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5664695065896632
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002196618130625119
+	pose.pose.orientation.w: 0.9999975874314838
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5665960014125757
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002133370867405952
+	pose.pose.orientation.w: 0.9999977243617818
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5665960014125757
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002133370867405952
+	pose.pose.orientation.w: 0.9999977243617818
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-34 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5664064927344843
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002228124981106278
+	pose.pose.orientation.w: 0.9999975177264534
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5664064927344843
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002228124981106278
+	pose.pose.orientation.w: 0.9999975177264534
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5662958248635037
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002283458775803267
+	pose.pose.orientation.w: 0.9999973929046111
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5662958248635037
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002283458775803267
+	pose.pose.orientation.w: 0.9999973929046111
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5702383865632872
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003121799052413572
+	pose.pose.orientation.w: 0.9999999512718521
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.8000000000004865
+
+	cur_yaw : -1.5702383865632872
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003121799052413572
+	pose.pose.orientation.w: 0.9999999512718521
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.566186110034132
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002338316044007292
+	pose.pose.orientation.w: 0.9999972661353022
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.566186110034132
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002338316044007292
+	pose.pose.orientation.w: 0.9999972661353022
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5659963281183338
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024332067318174125
+	pose.pose.orientation.w: 0.9999970397481186
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5659963281183338
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024332067318174125
+	pose.pose.orientation.w: 0.9999970397481186
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5661082536200317
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002377244142851342
+	pose.pose.orientation.w: 0.9999971743511505
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5661082536200317
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002377244142851342
+	pose.pose.orientation.w: 0.9999971743511505
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5660907104394093
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0023860157082854615
+	pose.pose.orientation.w: 0.9999971534604685
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5660907104394093
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0023860157082854615
+	pose.pose.orientation.w: 0.9999971534604685
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5660032641708432
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002429738715814461
+	pose.pose.orientation.w: 0.9999970481805298
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5660032641708432
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002429738715814461
+	pose.pose.orientation.w: 0.9999970481805298
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658758521686633
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024934445238823247
+	pose.pose.orientation.w: 0.9999968913623714
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658758521686633
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024934445238823247
+	pose.pose.orientation.w: 0.9999968913623714
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5659585470777035
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024520971957767597
+	pose.pose.orientation.w: 0.999996993605152
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5659585470777035
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0024520971957767597
+	pose.pose.orientation.w: 0.999996993605152
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-35 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5661340949788989
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002364323499728612
+	pose.pose.orientation.w: 0.9999972049832883
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5661340949788989
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002364323499728612
+	pose.pose.orientation.w: 0.9999972049832883
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658248339361238
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025189535600394397
+	pose.pose.orientation.w: 0.9999968274314486
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658248339361238
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025189535600394397
+	pose.pose.orientation.w: 0.9999968274314486
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5657785134139923
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025421137469502425
+	pose.pose.orientation.w: 0.9999967688236285
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5657785134139923
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025421137469502425
+	pose.pose.orientation.w: 0.9999967688236285
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5655647406065287
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0026489997905878027
+	pose.pose.orientation.w: 0.9999964913938996
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5655647406065287
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0026489997905878027
+	pose.pose.orientation.w: 0.9999964913938996
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658368600416537
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025129405263058955
+	pose.pose.orientation.w: 0.9999968425599709
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5658368600416537
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0025129405263058955
+	pose.pose.orientation.w: 0.9999968425599709
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.565613088693282
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002624825831256846
+	pose.pose.orientation.w: 0.9999965551387443
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.565613088693282
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002624825831256846
+	pose.pose.orientation.w: 0.9999965551387443
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5656883481986106
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002587196206372206
+	pose.pose.orientation.w: 0.9999966532022944
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5656883481986106
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002587196206372206
+	pose.pose.orientation.w: 0.9999966532022944
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5653669999662958
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002747869750698738
+	pose.pose.orientation.w: 0.9999962245987898
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5653669999662958
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002747869750698738
+	pose.pose.orientation.w: 0.9999962245987898
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5653663910226867
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0027481742213538306
+	pose.pose.orientation.w: 0.9999962237620945
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5653663910226867
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0027481742213538306
+	pose.pose.orientation.w: 0.9999962237620945
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5652889101879484
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002786914490357952
+	pose.pose.orientation.w: 0.9999961165462711
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5652889101879484
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.002786914490357952
+	pose.pose.orientation.w: 0.9999961165462711
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-36 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.565168567982282
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0028470853544379144
+	pose.pose.orientation.w: 0.9999959470442791
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.565168567982282
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0028470853544379144
+	pose.pose.orientation.w: 0.9999959470442791
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-37 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-38 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-39 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-40 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-41 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-42 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-43 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-44 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-45 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-46 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+
+13-24-47 Robot Odom Topic Log: {
+	cur_pose x : -1.2000000000000735
+	cur_pose y : 6.800000000000486
+
+	cur_yaw : -1.5700756874798318
+
+	pose.pose.orientation.x: 0.0
+	pose.pose.orientation.y: 0.0
+	pose.pose.orientation.z: 0.0003935294418822418
+	pose.pose.orientation.w: 0.9999999225672862
+
+	tf.rotation.x: 0.0
+	tf.rotation.y: -0.0
+	tf.rotation.z: -0.7071302636675104
+	tf.rotation.w: 0.7070832979257233
+
+	detect_data_arr: []
+
+} Robot Odom Topic Log End
+

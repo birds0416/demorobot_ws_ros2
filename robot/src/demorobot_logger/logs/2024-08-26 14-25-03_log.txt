@@ -1,0 +1,4590 @@
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-03 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-04 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-05 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-06 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-07 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-08 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-09 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-10 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-11 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-12 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-13 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-14 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-15 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-16 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-17 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-25-18 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+

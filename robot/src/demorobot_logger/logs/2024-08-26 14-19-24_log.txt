@@ -1,0 +1,1215 @@
+14-19-24 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-24 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-24 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: 0.0
+	tf y: 0.0
+	pose y : 0.0
+
+	tf_pose x : 0.0
+	tf_pose y : 0.0
+
+	pose.pose.orientation.z: 0.0
+	pose.pose.orientation.w: 1.0
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740383598
+	tf y: 0.0
+	pose y : -0.5908066931375018
+
+	tf_pose x : -0.08349626740383598
+	tf_pose y : -0.5908066931375018
+
+	pose.pose.orientation.z: -0.035912030453969686
+	pose.pose.orientation.w: 0.9993549549928059
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740495567
+	tf y: 0.0
+	pose y : -0.5908066931376666
+
+	tf_pose x : -0.08349626740495567
+	tf_pose y : -0.5908066931376666
+
+	pose.pose.orientation.z: -0.035868317337339056
+	pose.pose.orientation.w: 0.9993565248755761
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740495567
+	tf y: 0.0
+	pose y : -0.5908066931376666
+
+	tf_pose x : -0.08349626740495567
+	tf_pose y : -0.5908066931376666
+
+	pose.pose.orientation.z: -0.035868317337339056
+	pose.pose.orientation.w: 0.9993565248755761
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740628197
+	tf y: 0.0
+	pose y : -0.5908066931378039
+
+	tf_pose x : -0.08349626740628197
+	tf_pose y : -0.5908066931378039
+
+	pose.pose.orientation.z: -0.03586463870300686
+	pose.pose.orientation.w: 0.9993566569001794
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740628197
+	tf y: 0.0
+	pose y : -0.5908066931378039
+
+	tf_pose x : -0.08349626740628197
+	tf_pose y : -0.5908066931378039
+
+	pose.pose.orientation.z: -0.03586463870300686
+	pose.pose.orientation.w: 0.9993566569001794
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740752339
+	tf y: 0.0
+	pose y : -0.590806693137923
+
+	tf_pose x : -0.08349626740752339
+	tf_pose y : -0.590806693137923
+
+	pose.pose.orientation.z: -0.03585084287618114
+	pose.pose.orientation.w: 0.9993571519056975
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740752339
+	tf y: 0.0
+	pose y : -0.590806693137923
+
+	tf_pose x : -0.08349626740752339
+	tf_pose y : -0.590806693137923
+
+	pose.pose.orientation.z: -0.03585084287618114
+	pose.pose.orientation.w: 0.9993571519056975
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-25 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740861275
+	tf y: 0.0
+	pose y : -0.5908066931380286
+
+	tf_pose x : -0.08349626740861275
+	tf_pose y : -0.5908066931380286
+
+	pose.pose.orientation.z: -0.0358802618909066
+	pose.pose.orientation.w: 0.999356096097202
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626740861275
+	tf y: 0.0
+	pose y : -0.5908066931380286
+
+	tf_pose x : -0.08349626740861275
+	tf_pose y : -0.5908066931380286
+
+	pose.pose.orientation.z: -0.0358802618909066
+	pose.pose.orientation.w: 0.999356096097202
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.0834962674096622
+	tf y: 0.0
+	pose y : -0.5908066931381185
+
+	tf_pose x : -0.0834962674096622
+	tf_pose y : -0.5908066931381185
+
+	pose.pose.orientation.z: -0.03588102080719676
+	pose.pose.orientation.w: 0.9993560688492533
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.0834962674096622
+	tf y: 0.0
+	pose y : -0.5908066931381185
+
+	tf_pose x : -0.0834962674096622
+	tf_pose y : -0.5908066931381185
+
+	pose.pose.orientation.z: -0.03588102080719676
+	pose.pose.orientation.w: 0.9993560688492533
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.0834962674104447
+	tf y: 0.0
+	pose y : -0.5908066931382017
+
+	tf_pose x : -0.0834962674104447
+	tf_pose y : -0.5908066931382017
+
+	pose.pose.orientation.z: -0.03581523658638182
+	pose.pose.orientation.w: 0.9993584286072047
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.0834962674104447
+	tf y: 0.0
+	pose y : -0.5908066931382017
+
+	tf_pose x : -0.0834962674104447
+	tf_pose y : -0.5908066931382017
+
+	pose.pose.orientation.z: -0.03581523658638182
+	pose.pose.orientation.w: 0.9993584286072047
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741091225
+	tf y: 0.0
+	pose y : -0.5908066931382873
+
+	tf_pose x : -0.08349626741091225
+	tf_pose y : -0.5908066931382873
+
+	pose.pose.orientation.z: -0.03578815092362592
+	pose.pose.orientation.w: 0.9993593989418761
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741091225
+	tf y: 0.0
+	pose y : -0.5908066931382873
+
+	tf_pose x : -0.08349626741091225
+	tf_pose y : -0.5908066931382873
+
+	pose.pose.orientation.z: -0.03578815092362592
+	pose.pose.orientation.w: 0.9993593989418761
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741122165
+	tf y: 0.0
+	pose y : -0.59080669313836
+
+	tf_pose x : -0.08349626741122165
+	tf_pose y : -0.59080669313836
+
+	pose.pose.orientation.z: -0.03578758900449029
+	pose.pose.orientation.w: 0.9993594190646555
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741122165
+	tf y: 0.0
+	pose y : -0.59080669313836
+
+	tf_pose x : -0.08349626741122165
+	tf_pose y : -0.59080669313836
+
+	pose.pose.orientation.z: -0.03578758900449029
+	pose.pose.orientation.w: 0.9993594190646555
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741179905
+	tf y: 0.0
+	pose y : -0.5908066931384174
+
+	tf_pose x : -0.08349626741179905
+	tf_pose y : -0.5908066931384174
+
+	pose.pose.orientation.z: -0.035760024511047844
+	pose.pose.orientation.w: 0.9993604057831035
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741179905
+	tf y: 0.0
+	pose y : -0.5908066931384174
+
+	tf_pose x : -0.08349626741179905
+	tf_pose y : -0.5908066931384174
+
+	pose.pose.orientation.z: -0.035760024511047844
+	pose.pose.orientation.w: 0.9993604057831035
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741225566
+	tf y: 0.0
+	pose y : -0.5908066931384695
+
+	tf_pose x : -0.08349626741225566
+	tf_pose y : -0.5908066931384695
+
+	pose.pose.orientation.z: -0.03575990524633697
+	pose.pose.orientation.w: 0.999360410050735
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741225566
+	tf y: 0.0
+	pose y : -0.5908066931384695
+
+	tf_pose x : -0.08349626741225566
+	tf_pose y : -0.5908066931384695
+
+	pose.pose.orientation.z: -0.03575990524633697
+	pose.pose.orientation.w: 0.999360410050735
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741270545
+	tf y: 0.0
+	pose y : -0.5908066931385134
+
+	tf_pose x : -0.08349626741270545
+	tf_pose y : -0.5908066931385134
+
+	pose.pose.orientation.z: -0.03579703309931971
+	pose.pose.orientation.w: 0.9993590808219467
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741270545
+	tf y: 0.0
+	pose y : -0.5908066931385134
+
+	tf_pose x : -0.08349626741270545
+	tf_pose y : -0.5908066931385134
+
+	pose.pose.orientation.z: -0.03579703309931971
+	pose.pose.orientation.w: 0.9993590808219467
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741312542
+	tf y: 0.0
+	pose y : -0.5908066931385513
+
+	tf_pose x : -0.08349626741312542
+	tf_pose y : -0.5908066931385513
+
+	pose.pose.orientation.z: -0.03583882762487377
+	pose.pose.orientation.w: 0.9993575828673511
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741312542
+	tf y: 0.0
+	pose y : -0.5908066931385513
+
+	tf_pose x : -0.08349626741312542
+	tf_pose y : -0.5908066931385513
+
+	pose.pose.orientation.z: -0.03583882762487377
+	pose.pose.orientation.w: 0.9993575828673511
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741348509
+	tf y: 0.0
+	pose y : -0.5908066931385845
+
+	tf_pose x : -0.08349626741348509
+	tf_pose y : -0.5908066931385845
+
+	pose.pose.orientation.z: -0.03585879167690116
+	pose.pose.orientation.w: 0.9993568667195281
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741348509
+	tf y: 0.0
+	pose y : -0.5908066931385845
+
+	tf_pose x : -0.08349626741348509
+	tf_pose y : -0.5908066931385845
+
+	pose.pose.orientation.z: -0.03585879167690116
+	pose.pose.orientation.w: 0.9993568667195281
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-26 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741379725
+	tf y: 0.0
+	pose y : -0.5908066931386133
+
+	tf_pose x : -0.08349626741379725
+	tf_pose y : -0.5908066931386133
+
+	pose.pose.orientation.z: -0.035923683448221465
+	pose.pose.orientation.w: 0.9993545361719793
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741379725
+	tf y: 0.0
+	pose y : -0.5908066931386133
+
+	tf_pose x : -0.08349626741379725
+	tf_pose y : -0.5908066931386133
+
+	pose.pose.orientation.z: -0.035923683448221465
+	pose.pose.orientation.w: 0.9993545361719793
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741424025
+	tf y: 0.0
+	pose y : -0.5908066931386335
+
+	tf_pose x : -0.08349626741424025
+	tf_pose y : -0.5908066931386335
+
+	pose.pose.orientation.z: -0.03594749433031942
+	pose.pose.orientation.w: 0.9993536799608893
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741424025
+	tf y: 0.0
+	pose y : -0.5908066931386335
+
+	tf_pose x : -0.08349626741424025
+	tf_pose y : -0.5908066931386335
+
+	pose.pose.orientation.z: -0.03594749433031942
+	pose.pose.orientation.w: 0.9993536799608893
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.083496267414376
+	tf y: 0.0
+	pose y : -0.5908066931386584
+
+	tf_pose x : -0.083496267414376
+	tf_pose y : -0.5908066931386584
+
+	pose.pose.orientation.z: -0.035916457956227846
+	pose.pose.orientation.w: 0.9993547958797608
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.083496267414376
+	tf y: 0.0
+	pose y : -0.5908066931386584
+
+	tf_pose x : -0.083496267414376
+	tf_pose y : -0.5908066931386584
+
+	pose.pose.orientation.z: -0.035916457956227846
+	pose.pose.orientation.w: 0.9993547958797608
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.083496267414598
+	tf y: 0.0
+	pose y : -0.5908066931386778
+
+	tf_pose x : -0.083496267414598
+	tf_pose y : -0.5908066931386778
+
+	pose.pose.orientation.z: -0.03582878566826776
+	pose.pose.orientation.w: 0.9993579429401346
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.083496267414598
+	tf y: 0.0
+	pose y : -0.5908066931386778
+
+	tf_pose x : -0.083496267414598
+	tf_pose y : -0.5908066931386778
+
+	pose.pose.orientation.z: -0.03582878566826776
+	pose.pose.orientation.w: 0.9993579429401346
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741478981
+	tf y: 0.0
+	pose y : -0.5908066931386955
+
+	tf_pose x : -0.08349626741478981
+	tf_pose y : -0.5908066931386955
+
+	pose.pose.orientation.z: -0.03580404573957409
+	pose.pose.orientation.w: 0.9993588296046013
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741478981
+	tf y: 0.0
+	pose y : -0.5908066931386955
+
+	tf_pose x : -0.08349626741478981
+	tf_pose y : -0.5908066931386955
+
+	pose.pose.orientation.z: -0.03580404573957409
+	pose.pose.orientation.w: 0.9993588296046013
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741497532
+	tf y: 0.0
+	pose y : -0.5908066931387109
+
+	tf_pose x : -0.08349626741497532
+	tf_pose y : -0.5908066931387109
+
+	pose.pose.orientation.z: -0.035817708215113486
+	pose.pose.orientation.w: 0.999358340025347
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741497532
+	tf y: 0.0
+	pose y : -0.5908066931387109
+
+	tf_pose x : -0.08349626741497532
+	tf_pose y : -0.5908066931387109
+
+	pose.pose.orientation.z: -0.035817708215113486
+	pose.pose.orientation.w: 0.999358340025347
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741512993
+	tf y: 0.0
+	pose y : -0.5908066931387246
+
+	tf_pose x : -0.08349626741512993
+	tf_pose y : -0.5908066931387246
+
+	pose.pose.orientation.z: -0.03582181885394122
+	pose.pose.orientation.w: 0.9993581926886853
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: 0.0
+	pose x: -0.08349626741512993
+	tf y: 0.0
+	pose y : -0.5908066931387246
+
+	tf_pose x : -0.08349626741512993
+	tf_pose y : -0.5908066931387246
+
+	pose.pose.orientation.z: -0.03582181885394122
+	pose.pose.orientation.w: 0.9993581926886853
+	tf.rotation.z: 0.0
+	tf.rotation.w: 1.0
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741528457
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387361
+
+	tf_pose x : -0.43593773195181695
+	tf_pose y : -0.319766068020412
+
+	pose.pose.orientation.z: -0.03583160780703127
+	pose.pose.orientation.w: 0.9993578417573773
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741528457
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387361
+
+	tf_pose x : -0.43593773195181695
+	tf_pose y : -0.319766068020412
+
+	pose.pose.orientation.z: -0.03583160780703127
+	pose.pose.orientation.w: 0.9993578417573773
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741541664
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387465
+
+	tf_pose x : -0.43593773195194907
+	tf_pose y : -0.31976606802042234
+
+	pose.pose.orientation.z: -0.035831861492335776
+	pose.pose.orientation.w: 0.9993578326615518
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741541664
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387465
+
+	tf_pose x : -0.43593773195194907
+	tf_pose y : -0.31976606802042234
+
+	pose.pose.orientation.z: -0.035831861492335776
+	pose.pose.orientation.w: 0.9993578326615518
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741553337
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387553
+
+	tf_pose x : -0.43593773195206575
+	tf_pose y : -0.3197660680204312
+
+	pose.pose.orientation.z: -0.03587410710318757
+	pose.pose.orientation.w: 0.9993563170559082
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741553337
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387553
+
+	tf_pose x : -0.43593773195206575
+	tf_pose y : -0.3197660680204312
+
+	pose.pose.orientation.z: -0.03587410710318757
+	pose.pose.orientation.w: 0.9993563170559082
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-27 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741563718
+	tf y: 0.2710406251183241
+	pose y : -0.590806693138763
+
+	tf_pose x : -0.43593773195216956
+	tf_pose y : -0.3197660680204389
+
+	pose.pose.orientation.z: -0.03588548699161063
+	pose.pose.orientation.w: 0.9993559084847474
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741563718
+	tf y: 0.2710406251183241
+	pose y : -0.590806693138763
+
+	tf_pose x : -0.43593773195216956
+	tf_pose y : -0.3197660680204389
+
+	pose.pose.orientation.z: -0.03588548699161063
+	pose.pose.orientation.w: 0.9993559084847474
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741570394
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387705
+
+	tf_pose x : -0.43593773195223634
+	tf_pose y : -0.31976606802044644
+
+	pose.pose.orientation.z: -0.03589353866917176
+	pose.pose.orientation.w: 0.9993556193276769
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741570394
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387705
+
+	tf_pose x : -0.43593773195223634
+	tf_pose y : -0.31976606802044644
+
+	pose.pose.orientation.z: -0.03589353866917176
+	pose.pose.orientation.w: 0.9993556193276769
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741574984
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387773
+
+	tf_pose x : -0.43593773195228225
+	tf_pose y : -0.3197660680204532
+
+	pose.pose.orientation.z: -0.03588556983746973
+	pose.pose.orientation.w: 0.999355905509864
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741574984
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387773
+
+	tf_pose x : -0.43593773195228225
+	tf_pose y : -0.3197660680204532
+
+	pose.pose.orientation.z: -0.03588556983746973
+	pose.pose.orientation.w: 0.999355905509864
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741581609
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387828
+
+	tf_pose x : -0.43593773195234853
+	tf_pose y : -0.31976606802045865
+
+	pose.pose.orientation.z: -0.03592486955740667
+	pose.pose.orientation.w: 0.999354493534343
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741581609
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387828
+
+	tf_pose x : -0.43593773195234853
+	tf_pose y : -0.31976606802045865
+
+	pose.pose.orientation.z: -0.03592486955740667
+	pose.pose.orientation.w: 0.999354493534343
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741586977
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387875
+
+	tf_pose x : -0.43593773195240215
+	tf_pose y : -0.3197660680204634
+
+	pose.pose.orientation.z: -0.035880327222146374
+	pose.pose.orientation.w: 0.9993560937515875
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741586977
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387875
+
+	tf_pose x : -0.43593773195240215
+	tf_pose y : -0.3197660680204634
+
+	pose.pose.orientation.z: -0.035880327222146374
+	pose.pose.orientation.w: 0.9993560937515875
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.0834962674159151
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387919
+
+	tf_pose x : -0.4359377319524475
+	tf_pose y : -0.31976606802046775
+
+	pose.pose.orientation.z: -0.03590537773347251
+	pose.pose.orientation.w: 0.9993551940375437
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.0834962674159151
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387919
+
+	tf_pose x : -0.4359377319524475
+	tf_pose y : -0.31976606802046775
+
+	pose.pose.orientation.z: -0.03590537773347251
+	pose.pose.orientation.w: 0.9993551940375437
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741597005
+	tf y: 0.2710406251183241
+	pose y : -0.590806693138795
+
+	tf_pose x : -0.43593773195250246
+	tf_pose y : -0.31976606802047086
+
+	pose.pose.orientation.z: -0.03590644058743341
+	pose.pose.orientation.w: 0.9993551558501818
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741597005
+	tf y: 0.2710406251183241
+	pose y : -0.590806693138795
+
+	tf_pose x : -0.43593773195250246
+	tf_pose y : -0.31976606802047086
+
+	pose.pose.orientation.z: -0.03590644058743341
+	pose.pose.orientation.w: 0.9993551558501818
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741601286
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387981
+
+	tf_pose x : -0.43593773195254526
+	tf_pose y : -0.31976606802047397
+
+	pose.pose.orientation.z: -0.03591675985418252
+	pose.pose.orientation.w: 0.9993547850296095
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741601286
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931387981
+
+	tf_pose x : -0.43593773195254526
+	tf_pose y : -0.31976606802047397
+
+	pose.pose.orientation.z: -0.03591675985418252
+	pose.pose.orientation.w: 0.9993547850296095
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741604896
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931388011
+
+	tf_pose x : -0.43593773195258134
+	tf_pose y : -0.31976606802047697
+
+	pose.pose.orientation.z: -0.03589350989936644
+	pose.pose.orientation.w: 0.9993556203609925
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741604896
+	tf y: 0.2710406251183241
+	pose y : -0.5908066931388011
+
+	tf_pose x : -0.43593773195258134
+	tf_pose y : -0.31976606802047697
+
+	pose.pose.orientation.z: -0.03589350989936644
+	pose.pose.orientation.w: 0.9993556203609925
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+
+14-19-28 Robot Odom Topic Log: {
+	tf x: -0.3524414645365324
+	pose x: -0.08349626741607258
+	tf y: 0.2710406251183241
+	pose y : -0.590806693138804
+
+	tf_pose x : -0.435937731952605
+	tf_pose y : -0.31976606802047985
+
+	pose.pose.orientation.z: -0.03589563002212022
+	pose.pose.orientation.w: 0.9993555442110256
+	tf.rotation.z: 0.15541259461624318
+	tf.rotation.w: 0.9878496471805045
+Robot Odom Topic Log End: }
+

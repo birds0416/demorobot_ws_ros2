@@ -8,6 +8,7 @@ from cv_bridge import CvBridge
 import numpy as np
 import torch
 import math
+from queue import Queue
 
 #ros message setting
 import rclpy
@@ -136,6 +137,10 @@ def non_zero_cnt(nums_x, nums_y):
 
 def main(args=None):
     rclpy.init(args=args)
+    
+    now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    detect_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/logs/{}_detect_log.txt".format(now), 'w+')
+    
     event_node = EventPublisher()
     evt_msg = String()  
 
@@ -257,9 +262,15 @@ def main(args=None):
 
     now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
     # rotate_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
-    # detect_log = open("./cornersdev/demorobot_ws/src/demorobot_posedetect/rotate_log/{}_log.txt".format(now), 'w+')
+    
+    ''' 오감지 Queue '''
+    detect_queue = Queue()
 
     while True: # 프레임 단위로 반복.
+        
+        now2 = datetime.datetime.now().strftime("%H-%M-%S")
+        event_node.get_logger().info("Logging.......")
+        detect_log.write(now2 + " Frame: {\n")
 
         if cam_mode == 0:
             ret, frame = cap.read()
@@ -303,10 +314,9 @@ def main(args=None):
                 twist_msg = Twist()
                 
                 if results != None:
-                    prev_idx = None
                     for idx, result in enumerate(results):
                         detect_msg = Detect()
-                        prev_idx = idx
+                        detect_log.write("\tidx: {}\n".format(idx))
                         temp_data = {
                             "id" : idx,
                             "data" : {
@@ -356,7 +366,7 @@ def main(args=None):
                         # (머리나 발이 감지 안될 경우 다른 상체, 하체 부위 사용할 수 있게, 앉아있을 경우에도 가능하게 고민)
                         keypoint_comp_result = keypoint_comp(result.keypoints.xy.numpy())
                         # detect_msg.box = pred_box_xyxy[0]
-                        if box_rate > 0.6 and keypoint_comp_result:
+                        if box_rate > 0.65 and keypoint_comp_result:
                             people_fall_count += 1
                             detect_msg.fall = True
                             temp_data["data"]["isFall"] = True
@@ -519,9 +529,12 @@ def main(args=None):
                         4. 쓰러져있는 사람한테만 접근 및 감지
                         '''
                         #endregion 계산 5
+                        
                         detect_data.append(temp_data)
+                        detect_log.write("\ttemp_data (per iter {}): {}\n".format(idx, temp_data))
                         detect_array_msg.data.append(detect_msg)
                         
+                    detect_queue.put(detect_data)
                     detect_node.detect_pub.publish(detect_array_msg)
                     
                     #region 넘어진 사람 감지 및 접근 & 이동 명령 전송
@@ -545,7 +558,7 @@ def main(args=None):
                         # max_angular_z = 1.0
                         tmp_box_mid_x = min_depth_data["data"]["box_mid_x"]
                         is_in_range = (center_x - tolerance_x <= tmp_box_mid_x <= center_x + tolerance_x)
-                        if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.0:
+                        if min_depth_data["data"]["depth_val"] < 8.0 and min_depth_data["data"]["depth_val"] >= 1.5:
                             # 중앙정렬 코드
                             if is_in_range:
                                 twist_msg.angular.z = 0.0
@@ -560,11 +573,11 @@ def main(args=None):
                                 twist_msg.angular.z = -twist_msg.angular.z
                             # 중앙정렬 후 delay
                             # delay 후 직진
-                            twist_msg.linear.x = 0.5
+                            twist_msg.linear.x = 0.7
                             # detect_node.get_logger().info("twist_msg: {}".format(twist_msg))
                             # robot_controller.pub_control.publish(twist_msg)
                             
-                        elif min_depth_data["data"]["depth_val"] < 1.0:
+                        elif min_depth_data["data"]["depth_val"] < 1.5:
                             # 정지
                             twist_msg.linear.x = 0.0
                             # 정지 후 delay
@@ -581,10 +594,10 @@ def main(args=None):
                             # robot_controller.pub_control.publish(twist_msg)
                         robot_controller.pub_control.publish(twist_msg)
                     #endregion 넘어진 사람 감지 및 접근
-                    if detect_normal_obj:
-                        twist_msg.linear.x = 0.0
-                        twist_msg.angular.z = 0.0
-                        robot_controller.pub_control.publish(twist_msg)
+                    # if detect_normal_obj:
+                    #     twist_msg.linear.x = 0.0
+                    #     twist_msg.angular.z = 0.0
+                    #     robot_controller.pub_control.publish(twist_msg)
                     
                 cvtColor_img_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
                 detect_node._infer_pub.publish(bridge.cv2_to_imgmsg(cvtColor_img_frame, encoding=img_node.img_encoding))
@@ -673,12 +686,12 @@ def main(args=None):
                     fall_timer = 0
                     event_timer = 0 
 
-                # if mode == 0:
-                #     continue
-                # elif mode == 1:
-                #     cv2.imshow("YOLOv8 Inference", annotated_frame)
-                #     cv2.imshow("Depth Frame", depth_frame)
-                #     pass
+                if mode == 0:
+                    continue
+                elif mode == 1:
+                    cv2.imshow("YOLOv8 Inference", annotated_frame)
+                    # cv2.imshow("Depth Frame", depth_frame)
+                    pass
                 #     out.write(annotated_frame)
 
             except IndexError:
@@ -699,6 +712,7 @@ def main(args=None):
             wander_stop_msg.data = True
             wander_publisher.pub_wander_stop.publish(wander_stop_msg)
             break
+        detect_log.write("} Frame End\n\n")
 
     end_time = time.time()
     fps = total_frames / (start_time - end_time)
